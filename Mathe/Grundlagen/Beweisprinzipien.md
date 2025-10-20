@@ -17,7 +17,8 @@ $$
 2.Induktionsschrit
 
 $$
- n \in \ A(n) \Rightarrow A(n + 1)
+q
+ n \in \mathbb{N},A(n) \Rightarrow A(n + 1)
 $$
 
 3 Induktionsannahme
