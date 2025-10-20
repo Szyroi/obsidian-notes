@@ -17,10 +17,16 @@ $$
 2.Induktionsschrit
 
 $$
-q
- n \in \mathbb{N},A(n) \Rightarrow A(n + 1)
+ n \in \mathbb, A(n) \Rightarrow A(n + 1)
 $$
 
 3 Induktionsannahme
-4 Induktionsbehauptung
 
+$$
+A(n)
+$$
+
+4 Induktionsbehauptung
+$$
+A(n+1)
+$$
