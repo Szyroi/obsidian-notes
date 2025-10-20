@@ -9,7 +9,8 @@ Vollständige Induktion
 1, Induktionsanfang
 
 $$
-\text{Zeige, dass die Aussage f n = 1}
+\text{Zeige, dass die Aussage fuer dm 
+n = 1}
 $$
 
 
