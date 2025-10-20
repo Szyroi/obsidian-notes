@@ -9,7 +9,9 @@ Vollständige Induktion
 1, Induktionsanfang
 
 $$
-\text{Zeige, dass die Aussage fuer n = 1} 
+\ Zeige, dass die Aussage fuer 
+
+n = 1 
 $$
 
 
