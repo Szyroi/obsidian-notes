@@ -15,6 +15,11 @@ $$
 
 
 2.Induktionsschrit
+
+$$
+ A(n) \implikati
+$$
+
 3 Induktionsannahme
 4 Induktionsbehauptung
 
