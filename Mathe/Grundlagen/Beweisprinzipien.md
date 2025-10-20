@@ -17,7 +17,7 @@ $$
 2.Induktionsschrit
 
 $$
- A(n) \implikati
+ A(n) \Rightarrow A()
 $$
 
 3 Induktionsannahme
