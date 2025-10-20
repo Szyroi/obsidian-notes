@@ -1,17 +1,15 @@
-Direkter Beweis 
+## Direkter Beweis 
 
-Beweis durch Wiederspruch
+## Beweis durch Wiederspruch
 
-Kontraposition
+## Kontraposition
 
-Vollständige Induktion
+## Vollständige Induktion
 
 1, Induktionsanfang
 
 $$
-\ Zeige, dass die Aussage fuer 
-
-n = 1 
+\text{Zeige, dass die Aussage fuer n = 1} 
 $$
 
 
