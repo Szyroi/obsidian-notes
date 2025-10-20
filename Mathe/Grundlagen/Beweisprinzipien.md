@@ -9,6 +9,7 @@ Vollständige Induktion
 1, Induktionsanfang
 
 $$
+\text{pen}
 n = 1
 $$
 
