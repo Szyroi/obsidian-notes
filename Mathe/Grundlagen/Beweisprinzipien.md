@@ -1,6 +1,6 @@
 Direkter Beweis 
 
-
+Beweis durch Wiederspruch
 
 Kontraposition
 
