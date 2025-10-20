@@ -17,7 +17,7 @@ $$
 2.Induktionsschrit
 
 $$
- A(n) \Rightarrow A()
+ n \in \ A(n) \Rightarrow A(n + 1)
 $$
 
 3 Induktionsannahme
