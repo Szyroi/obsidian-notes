@@ -5,4 +5,6 @@ Sequenz
 
 Iteration
 
-Auswah
+Auswahl
+
+Merfachauswahl
