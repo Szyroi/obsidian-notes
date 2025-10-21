@@ -1,1 +1,8 @@
 
+Anweisung
+
+Sequenz
+
+Iteration
+
+Auswah
