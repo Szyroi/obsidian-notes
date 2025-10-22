@@ -1,8 +1,12 @@
-
-> [!definition] Definition: Mengenlehre
-> {{description}}
+> [!definition] Definition: <% tp.file.title %>
+> <% tp.user.definition_description() %>
 >
 > $$
-> {{formula}}
+> <% tp.user.definition_formula() %>
 > $$
+
+
+
+
+
 
