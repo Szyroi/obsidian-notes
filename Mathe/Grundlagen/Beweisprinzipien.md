@@ -6,10 +6,10 @@
 
 ## Vollständige Induktion
 
-1. Induktionsanfang
+1. **Induktionsanfang**
 
 $$
-\text{Zeige, dass die Aussage fuer n = 1} 
+\text{Zeige, dass die Aussage fuer n = 1}
 $$
 
 
