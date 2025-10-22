@@ -1,8 +1,8 @@
-## Direkter Beweis 
+## **Direkter Beweis** 
 
-## Beweis durch Wiederspruch
+## **Beweis durch Wiederspruch**
 
-## Kontraposition
+## **Kontraposition**
 
 ## **Vollständige Induktion**
 
