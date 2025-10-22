@@ -1,0 +1,1 @@
+![[obsidian-notes/Programmierung 1/Übungen/Übung 1|Übung 1]]
