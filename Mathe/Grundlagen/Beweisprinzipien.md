@@ -4,7 +4,7 @@
 
 ## Kontraposition
 
-## Vollständige Induktion
+## **Vollständige Induktion**
 
 ### 1. **Induktionsanfang**
 
