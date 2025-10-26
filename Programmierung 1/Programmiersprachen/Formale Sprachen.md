@@ -11,7 +11,7 @@
 > Die Menge aller Wörter über einem Alphabet $\sum$ (Bezeichnung: $\sum^{*}$) ist induktiv definiert durch:
 > 1. $\epsilon \in \sum^{*}$ (leeres Wort)
 > 2.  $\text{a}\in \sum \implies \text{a} \in \sum^{*}$ (einzelne Symbole sind Wörter)
-> 3. $\text{}$
+> 3. $\text{x,y} \in \sum^{*} \implies \text{yx} \in \sum^{*}$ (zusammengesetzte Wörter)
 
 
 > [!definition] Definition: Formale Sprachen
