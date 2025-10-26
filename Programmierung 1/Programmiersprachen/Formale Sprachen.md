@@ -10,7 +10,7 @@
 > [!definition] Definition: Menge aller Wörter
 > Die Menge aller Wörter über einem Alphabet $\sum$ (Bezeichnung: $\sum^{*}$) ist induktiv definiert durch:
 > 1. $\epsilon \in \sum^{*}$ (leeres Wort)
-> 2.  $\text{a}\in \sum \rightarrow$
+> 2.  $\text{a}\in \sum \implies "\text{}$
 
 
 > [!definition] Definition: Formale Sprachen
