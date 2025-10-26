@@ -15,4 +15,4 @@
 
 
 > [!definition] Definition: Länge eines Wortes
-> Die Länge eines Wortes $\omega \in \sum^{*}$ (Anzahl der Symbole) bezeichnet man mit $\ \omega$
+> Die Länge eines Wortes $\omega \in \sum^{*}$ (Anzahl der Symbole) bezeichnet man mit $|\omega|$
