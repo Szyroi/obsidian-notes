@@ -19,6 +19,6 @@
 
 
 > [!definition] Definition: Formale Sprachen
-> Sei $\sum_{}^{}$
+> Sei $\sum$ ein Alphabet. $L $
 
 
