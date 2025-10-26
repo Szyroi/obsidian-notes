@@ -1,6 +1,6 @@
 
-> [!definition] Definition: Formale Sprachen
+> [!definition] Definition: Alphabet
 > 
 >
-> $\sum_{}^{}$
+> $\sum_{}^{} = {a_{1},\dots,a_{n}}$
 
