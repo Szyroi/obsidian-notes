@@ -8,8 +8,8 @@
 
 
 > [!definition] Definition: Menge aller Wörter
-> Die Menge aller Wörter über einem Alphabet $\sum$ (Bezeichnung: $\sum^*$) ist induktiv definiert durch:
-> 1. $\epsilon\in$
+> Die Menge aller Wörter über einem Alphabet $\sum$ (Bezeichnung: $\sum^{*}$) ist induktiv definiert durch:
+> 1. $\epsilon \in \sum^{*}$
 
 
 > [!definition] Definition: Formale Sprachen
