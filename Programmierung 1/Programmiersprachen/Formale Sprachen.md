@@ -7,13 +7,9 @@
 > Ein Wort $\omega$ ist eine endliche Sequenz von Symbolen aus dem gewählten Alphabet $\sum$
 
 
-
-> [!definition] Definition: Formale Sprachen
+> [!definition] Definition: Menge aller Wörter
 > {{description}}
->
-> $$
-> {{formula}}
-> $$
+
 
 
 > [!definition] Definition: Formale Sprachen
