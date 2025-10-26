@@ -1,6 +1,4 @@
 
 > [!definition] Definition: Alphabet
-> 
->
-> $\sum_{}^{} = {a_{1},\dots,a_{n}}$
+> Ein Alphabet ist eine endliche nicht leere Menge $\sum_{}^{} = {a_{1},\dots,a_{n}}$ von Symbolen
 
