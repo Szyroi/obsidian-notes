@@ -8,8 +8,7 @@
 
 
 > [!definition] Definition: Menge aller Wörter
-> {{description}}
-
+> Die Menge aller Wörter über einem Alphabet $\sum$ (Bezeichnung: $\sum_{}^{}$)
 
 
 > [!definition] Definition: Formale Sprachen
