@@ -1,1 +1,1 @@
-![[obsidian-notes/PDFS/Prog 1 Übungen/u03.pdf|u03]]
+![[u03.pdf|u03]]
