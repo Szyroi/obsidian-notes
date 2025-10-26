@@ -4,7 +4,7 @@
 
 
 > [!definition] Definition: Wort
-> Ein Wort $\omega$ $\sum$
+> Ein Wort $\omega$ ist eine endliche Sequenz von Symbolen aus dem gewählten Alphabet $\sum$
 
 
 
