@@ -16,3 +16,9 @@
 
 > [!definition] Definition: Länge eines Wortes
 > Die Länge eines Wortes $\omega \in \sum^{*}$ (Anzahl der Symbole) bezeichnet man mit $|\omega|$
+
+
+> [!definition] Definition: Formale Sprachen
+> Sei $\sum_{}^{}$
+
+
