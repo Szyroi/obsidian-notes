@@ -19,6 +19,6 @@
 
 
 > [!definition] Definition: Formale Sprachen
-> Sei $\sum$ ein Alphabet. $\text{L}\subseteq$
+> Sei $\sum$ ein Alphabet. $L \subseteq \sum^{*}$ heißt formale Sprache über $\sum$
 
 
