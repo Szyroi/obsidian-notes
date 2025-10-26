@@ -4,10 +4,8 @@
 
 
 > [!definition] Definition: Wort
-> Ein Alphabet ist eine endliche nichtleere Menge
-> $$
-> {{formula}}
-> $$
+> Ein Wort $\omega$ $\sum$
+
 
 
 > [!definition] Definition: Formale Sprachen
