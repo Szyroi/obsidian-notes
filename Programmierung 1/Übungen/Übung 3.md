@@ -8,4 +8,4 @@
 
 #### $Oktal:110001101011_{2} = 06153_{8}$
 
-#### $Hexadezimal: 1100 0110 1011 \rightarrow C_{6}B_{16}$
+#### $Hexadezimal: 1100 0110 1011 \rightarrow C6B_{16}$
