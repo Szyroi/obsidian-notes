@@ -68,32 +68,17 @@ public class ParityBit {
         int wert = 0x17;
         int nutzBits = (wert >> 1) & 0b1111;
 
-
         int summe = 0;
-
         for (int i = 0; i < 4; i++) {
-
             summe += (nutzBits >> i) & 1;
-
         }
-
         int parityBit = summe % 2;
-
-  
-
         int pruefBitImWert = wert & 1;
 
-  
-
         System.out.println(parityBit == pruefBitImWert);
-
         System.out.println(summe);
-
         System.out.println(parityBit);
 
-  
-
     }
-
 }
 ```
