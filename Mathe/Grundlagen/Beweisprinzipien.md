@@ -14,19 +14,19 @@ $$
 
 
 
-2. Induktionsschrit
+2. Induktionsvorausetzung (IV)
 
 $$
  n \in \mathbb, A(n) \Rightarrow A(n + 1)
 $$
 
-3. Induktionsannahme
+3. Induktionsbehauptung (IB)
 
 $$
 A(n)
 $$
 
-4. Induktionsbehauptung
+4. Induktionsschrit (IS)
 $$
 A(n+1)
 $$
