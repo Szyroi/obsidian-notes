@@ -9,3 +9,5 @@
 #### $Oktal:110001101011_{2} = 06153_{8}$
 
 #### $Hexadezimal: 1100 0110 1011 \rightarrow C6B_{16}$
+
+## Aufgabe 2
