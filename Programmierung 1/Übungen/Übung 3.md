@@ -16,7 +16,7 @@ Taschenrechner: 7.249.210.214.400
 Java: -694581248
 Warum?:  Weil der Positive Wertebereiche überschritten wird in Java und der Taschenrechner mit Gleitkommazahlen arbeitet.
 
-## **Aufgabe 3 BitExtraktion **In Zukunft für Praktomaten die den Code so schreiben das er automatisch ohne eingaben des Benutzers benutz wird.
+## **Aufgabe 3 BitExtraktion👾**In Zukunft für den Praktomaten den Code so schreiben das er automatisch ohne eingaben des Benutzers benutz wird.
 
 ```Java
 public class BitExtraktion {
