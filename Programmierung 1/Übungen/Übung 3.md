@@ -51,4 +51,4 @@ public class BitExtraktion {
 
 ## **Aufgabe 4**
 Das erster Einser komplement ist nicht gleich dem Zweiekomplement
-Bsp: 
+Bsp: f41e1e -> 1111 0100 
