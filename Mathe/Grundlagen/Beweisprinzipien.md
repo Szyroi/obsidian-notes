@@ -6,7 +6,7 @@
 
 ## **Vollständige Induktion**
 
-### 1. **Induktionsanfang (IA)**
+### **1. Induktionsanfang (IA)**
 
 $$
 \text{Zeige, dass die Aussage fuer n = 1}
@@ -26,7 +26,7 @@ $$
 A(n)
 $$
 
-### **4. Induktionsschrit (IS)**
+### **4. Induktionsschritt (IS)**
 $$
 A(n+1)
 $$
