@@ -14,4 +14,4 @@
 
 Taschenrechner: 7.249.210.214.400
 Java: -694581248
-Warum?:  Weil der Positive Wertebereiche überschritten wird in Java
+Warum?:  Weil der Positive Wertebereiche überschritten wird in Java und der Taschenrechner mit Gleitkommazahlen arbeite
