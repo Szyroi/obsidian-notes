@@ -17,3 +17,4 @@
 | 🗒️ **Strings**        | **Textliteral**                    | `String s = "Hallo";`  | Folge von Zeichen in doppelten Anführungszeichen |
 | ⚙️ **Boolean**         | **Wahrheitswerte**                 | `true`, `false`        | Nur diese zwei Werte erlaubt                     |
 | 💡 **Nullwert**        | **Null-Literal**                   | `null`                 | Referenziert kein Objekt                         |
+|                        |                                    |                        |                                                  |
