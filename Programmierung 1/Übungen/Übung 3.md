@@ -57,7 +57,7 @@ Zweierkomplment: 0000 1011 1110 0001 1110 0010
 Hex: 0be1e2
 $0001 \neq 0010$ der Rest bleibt gleich bildung des Zweierkomplements
 Beim vergleichen der RGB werte kommt ein Problem auf mit dem Zweierkomplement.
-Da der Komplement von f41e1e (244,30,30) eigentlich (11,225,225) beträgt und in Hex 0be1e1 ist bedeutet das dass Zweier Komplement nicht zur  
+Da der Komplement von f41e1e (244,30,30) eigentlich (11,225,225) beträgt und in Hex 0be1e1 ist bedeutet das dass Zweier Komplement nicht zur bildung der Komplementär Farbe geeignet ist sondern nur der Einser Komplement.
 
 ## **Aufgab 5 Prüfbit👾**
 
