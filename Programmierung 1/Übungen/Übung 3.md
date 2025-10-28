@@ -13,4 +13,5 @@
 ## **Aufgabe 2**
 
 Taschenrechner: 7.249.210.214.400
-Java: 
+Java: -694581248
+Warum?:  
