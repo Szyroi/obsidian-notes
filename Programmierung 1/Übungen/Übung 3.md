@@ -62,5 +62,38 @@ Da der Komplement von f41e1e (244,30,30) eigentlich (11,225,225) beträgt und in
 ## **Aufgab 5 Prüfbit👾**
 
 ```Java
-Placeholder
+public class ParityBit {
+    public static void main(String[] args) {
+
+        int wert = 0x17;
+        int nutzBits = (wert >> 1) & 0b1111;
+
+
+        int summe = 0;
+
+        for (int i = 0; i < 4; i++) {
+
+            summe += (nutzBits >> i) & 1;
+
+        }
+
+        int parityBit = summe % 2;
+
+  
+
+        int pruefBitImWert = wert & 1;
+
+  
+
+        System.out.println(parityBit == pruefBitImWert);
+
+        System.out.println(summe);
+
+        System.out.println(parityBit);
+
+  
+
+    }
+
+}
 ```
