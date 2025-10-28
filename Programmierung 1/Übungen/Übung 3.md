@@ -55,4 +55,6 @@ Bsp: f41e1e -> 1111 0100 0001 1110 0001 1110
 Einserkomplement: 0000 1011 1110 0001 1110 0001
 Zweierkomplment: 0000 1011 1110 0001 1110 0010
 Hex: 0ce1e2
-$0001 \neq 0010$
+$0001 \neq 0010$ der rest bleibt gleich bildung des Zweierkomplements
+
+## **Aufgab 5**
