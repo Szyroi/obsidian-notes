@@ -48,3 +48,5 @@ public class BitExtraktion {
     }
 }
 ```
+
+## **Aufgabe 4**
