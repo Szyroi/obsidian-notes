@@ -50,3 +50,5 @@ public class BitExtraktion {
 ```
 
 ## **Aufgabe 4**
+Das erster Einser komplement ist nicht gleich dem Zweiekomplement
+Bsp: 
