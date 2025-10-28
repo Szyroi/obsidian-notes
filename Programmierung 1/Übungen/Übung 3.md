@@ -54,8 +54,9 @@ Das erster Einser komplement ist nicht gleich dem Zweierkomplement
 Bsp: f41e1e -> 1111 0100 0001 1110 0001 1110
 Einserkomplement: 0000 1011 1110 0001 1110 0001
 Zweierkomplment: 0000 1011 1110 0001 1110 0010
-Hex: 0ce1e2
+Hex: 
 $0001 \neq 0010$ der rest bleibt gleich bildung des Zweierkomplements
+Beim vergleichen der RGB werte 
 
 ## **Aufgab 5 Prüfbit👾**
 
