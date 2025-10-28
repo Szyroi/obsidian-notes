@@ -10,4 +10,5 @@
 
 #### $Hexadezimal: 1100 0110 1011 \rightarrow C6B_{16}$
 
-## Aufgabe 2
+## **Aufgabe 2**
+
