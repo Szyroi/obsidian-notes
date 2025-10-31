@@ -4,3 +4,5 @@ In der Technischen Informatik wird die Boolsche Algebra benutz um Logik im einem
 ## **OR Gatter**
 
 ## **NOT Gatter**
+
+>
