@@ -1,8 +1,4 @@
 
-> [!example] : {{title}}
+> [!example] Beispiel: {{title}}
 > {{description}}
->
-> $$
-> {{formula}}
-> $$
 

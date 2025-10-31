@@ -1,0 +1,5 @@
+
+> [!info] Definition: {{title}}
+> {{description}}
+>
+
