@@ -1,8 +1,5 @@
 
-> [!definition] Definition: {{title}}
+> [!tip] Tip: {{title}}
 > {{description}}
->
-> $$
-> {{formula}}
-> $$
+
 

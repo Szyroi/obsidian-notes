@@ -1,0 +1,5 @@
+
+> [!danger] Vorsicht: {{title}}
+> {{description}}
+
+
