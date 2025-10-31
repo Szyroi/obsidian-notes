@@ -1,1 +1,1 @@
-In der Technischen Informatik wird die Boolsche Algebra benutz um Logik zu realisieren 
+In der Technischen Informatik wird die Boolsche Algebra benutz um Logik im einem Schaltkreis zu realisiere.  
