@@ -1,1 +1,1 @@
-In der Technischen Indormar
+In der Technischen Informatik wird die Boolsche Algebra benutz um Logik zu realisieren 
