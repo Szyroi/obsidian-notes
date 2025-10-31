@@ -1,0 +1,8 @@
+
+> [!example] : {{title}}
+> {{description}}
+>
+> $$
+> {{formula}}
+> $$
+
