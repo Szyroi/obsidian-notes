@@ -1,5 +1,5 @@
 
-> [!warning] Definition: {{title}}
+> [!warning] Achtung: {{title}}
 > {{description}}
 
 
