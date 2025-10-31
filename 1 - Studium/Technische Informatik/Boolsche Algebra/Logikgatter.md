@@ -8,12 +8,14 @@ In der Technischen Informatik wird die Boolsche Algebra benutz um Logik im einem
 |         1          |    0    |          0          |
 |         1          |    1    |          1          |
 
-
-
-
-
-
 ## **OR Gatter**
+
+|      $x_{1}$       | $x_{2}$ | $x_{1} \lor x_{2}$ |
+| :----------------: | :-----: | :----------------: |
+| <center>0</center> |    0    |         0          |
+|         0          |    1    |         1          |
+|         1          |    0    |         1          |
+|         1          |    1    |         1          |
 
 ## **NOT Gatter**
 
