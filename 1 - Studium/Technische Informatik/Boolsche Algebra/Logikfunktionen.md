@@ -1,1 +1,1 @@
-In der Technischen Informatik wird die Boolsche Algebra benutz um Logik im einem Schaltkreis zu realisiere.  
+In der Technischen Informatik wird die Boolsche Algebra benutz um Logik im einem Schaltkreis zu realisiere. Alle dinge diese Methodik implentieren nennt sich Digitaltechnik    
