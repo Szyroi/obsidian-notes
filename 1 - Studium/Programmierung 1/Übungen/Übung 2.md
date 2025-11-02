@@ -16,7 +16,8 @@ Diese Grammatik ist eine Typ 3 Grammatik da sie nur ein Terminal gefolgt von nur
 
 ## **Aufgabe 2**
 
-1. 0x3E4AF1
+1. 0x24
+2. 0x0F
 
 
 
