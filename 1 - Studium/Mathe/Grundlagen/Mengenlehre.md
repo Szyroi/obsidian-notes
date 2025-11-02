@@ -1,5 +1,3 @@
-# Mengenlehre
-
 ## Grundlagen der Mengenlehre
 
 Eine Menge ist eine Sammlung verschiedener Objekte, genannt Elemente, die aus einem Universum stammen.
@@ -8,9 +6,9 @@ Eine Menge ist eine Sammlung verschiedener Objekte, genannt Elemente, die aus ei
 > Eine Menge \( A \) ist eine Sammlung verschiedener Objekte, auch Elemente \( a, b, c, \ldots \) genannt, die aus einem Universum \( U \) stammen.  
 > Man schreibt \( a \in A \), wenn \( a \) ein Element der Menge \( A \) ist, andernfalls \( a \notin A \).
 
-Man unterscheidet zwischen aufzählender Darstellung und beschreibender Darstellung von Mengen:  
-- Aufzählend: \( A = \{a, b, c, d\} \)  
-- Beschreibend: \( A = \{x \in U \mid x \text{ hat die Eigenschaft } p\} \)
+**Beispiel:**  
+- \( A = \{1, 2, 3, 4\} \)  
+- \( B = \{ x \in \mathbb{N} \mid x \text{ gerade} \} = \{2, 4, 6, 8, \ldots\} \)
 
 ---
 
@@ -19,10 +17,13 @@ Man unterscheidet zwischen aufzählender Darstellung und beschreibender Darstell
 > [!definition] Definition (Leere Menge)  
 > Die Menge  
 > \[
-> \emptyset = \{\} := \{x \mid x \neq x\}
+> \emptyset = \{\} := \{ x \mid x \neq x \}
 > \]  
 > heißt leere Menge.  
-> Für alle Elemente \( x \) des Universums gilt: \( x \notin \emptyset \). 
+> Für alle \( x \) gilt: \( x \notin \emptyset \).
+
+**Beispiel:**  
+Es gibt keine natürliche Zahl, die gleichzeitig größer und kleiner als 0 ist, also ist diese Menge leer.
 
 ---
 
@@ -32,88 +33,96 @@ Man unterscheidet zwischen aufzählender Darstellung und beschreibender Darstell
 > Die Kardinalität \( |A| \) einer Menge \( A \) ist die Anzahl ihrer Elemente.
 
 > [!definition] Definition (Teilmenge)  
-> Eine Menge \( B \) ist eine Teilmenge der Menge \( A \), wenn alle Elemente von \( B \) auch in \( A \) enthalten sind, d.h.  
+> Eine Menge \( B \) ist Teilmenge von \( A \), falls  
 > \[
-> \forall x \in B : x \in A.
+> \forall x \in B : x \in A
 > \]  
-> Schreibweise: \( B \subseteq A \).
+> geschrieben als \( B \subseteq A \).
 
-**Satz:**  
-- Falls \( B \subseteq A \), so gilt \( |B| \leq |A| \).  
-- Falls \( B \subseteq A \) und \( A \subseteq C \), so gilt auch \( B \subseteq C \).
+**Beispiele:**  
+- \( \{1, 2\} \subseteq \{1, 2, 3\} \)  
+- \( \emptyset \subseteq A \) für jede Menge \( A \)
 
 ---
 
 ## Mengengleichheit
 
 > [!definition] Definition (Gleiche Mengen)  
-> Zwei Mengen \( A \) und \( B \) heißen gleich, wenn sie dieselben Elemente besitzen, also  
+> Zwei Mengen \( A \) und \( B \) sind gleich, wenn  
 > \[
-> \forall x (x \in A \iff x \in B)
+> \forall x : (x \in A \iff x \in B)
 > \]
-> oder äquivalent  
-> \[
-> A \subseteq B \text{ und } B \subseteq A.
-> \]
+
+**Beispiel:**  
+\( \{a, b, c\} = \{c, b, a\} \), da dieselben Elemente enthalten sind.
 
 ---
 
 ## Vereinigungsmenge
 
-> [!definition] Definition (Vereinigungsmenge)  
-> Für Mengen \( A \) und \( B \) ist die Vereinigungsmenge definiert als  
+> [!definition] Definition (Vereinigung)  
+> Für Mengen \( A \) und \( B \) gilt:  
 > \[
-> A \cup B := \{x \in U \mid x \in A \text{ oder } x \in B\}.
+> A \cup B = \{ x \in U \mid x \in A \text{ oder } x \in B \}
 > \]
 
-Für eine Familie von Mengen \( (A_i)_{i \in I} \) ist  
-\[
-\bigcup_{i \in I} A_i = \{x \in U \mid \exists i \in I : x \in A_i\}.
-\]
+**Beispiel:**  
+\( A = \{1, 2, 3\}, B = \{3, 4, 5\} \)  
+\( A \cup B = \{1, 2, 3, 4, 5\} \).
 
 ---
 
 ## Schnittmenge
 
 > [!definition] Definition (Schnittmenge)  
-> Für Mengen \( A \) und \( B \) ist die Schnittmenge definiert als  
+> Für Mengen \( A \) und \( B \) gilt:  
 > \[
-> A \cap B := \{x \in U \mid x \in A \text{ und } x \in B\}.
+> A \cap B = \{ x \in U \mid x \in A \text{ und } x \in B \}
 > \]
 
-Für eine Familie von Mengen \( (A_i)_{i \in I} \) ist  
-\[
-\bigcap_{i \in I} A_i = \{x \in U \mid \forall i \in I : x \in A_i\}.
-\]
+**Beispiel:**  
+\( A = \{1,2,3\}, B = \{3,4,5\} \)  
+\( A \cap B = \{3\} \).
 
 ---
 
 ## Komplement einer Menge
 
 > [!definition] Definition (Komplement)  
-> Für eine Menge \( A \) ist das Komplement definiert als  
+> Für Menge \( A \) ist das Komplement  
 > \[
-> \overline{A} := \{x \in U \mid x \notin A\}.
+> \overline{A} = \{ x \in U \mid x \notin A \}
 > \]
 
-Zusätzlich definiert man  
-\[
-A \setminus B := \{x \in A \mid x \notin B\} \quad \text{(gesprochen: } A \text{ ohne } B\text{)}.
-\]
+> [!definition] Definition (Differenz)  
+> Für Mengen \( A \) und \( B \) ist  
+> \[
+> A \setminus B = \{ x \in A \mid x \notin B \}
+> \]
 
-**Satz:**  
-- \( A \cap B = \overline{\overline{A} \cup \overline{B}} \) (De Morgan)
+**Beispiel:**  
+Sei \( U = \{1,2,3,4,5\} \), \( A = \{1,2,3\} \), \( B = \{2,3\} \)  
+Dann:  
+\[
+\overline{A} = \{4,5\} \quad \text{und} \quad A \setminus B = \{1\}
+\]
 
 ---
 
 ## Kartesisches Produkt
 
 > [!definition] Definition (Kartesisches Produkt)  
-> Für Mengen \( A_1, A_2, \ldots, A_n \) ist das kartesische Produkt definiert als  
+> Für Mengen \( A, B \) ist  
 > \[
-> A_1 \times A_2 \times \cdots \times A_n := \{ (a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ für } i=1,\ldots,n \}.
+> A \times B = \{ (a,b) \mid a \in A, b \in B \}
 > \]
+
+**Beispiel:**  
+\( A = \{1,2\} \), \( B = \{x,y\} \)  
+\[
+A \times B = \{ (1,x), (1,y), (2,x), (2,y) \}
+\]
 
 ---
 
-Diese Notiz fasst die grundlegenden Begriffe und Definitionen der Mengenlehre übersichtlich zusammen und verwendet Callouts, um die formell-mathematischen Definitionen hervorzuheben. Du kannst sie in Obsidian als eigenständige Wiki-Seite nutzen.
+Diese Notiz verwendet LaTeX so, dass sie mit dem Obsidian LaTeX Suite Plugin optimal dargestellt wird.
