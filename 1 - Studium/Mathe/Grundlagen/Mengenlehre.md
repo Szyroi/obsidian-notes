@@ -39,7 +39,9 @@
 > \emptyset = \{\}
 > $$  
 > - Universum: Eine Menge \(U\), die alle betrachteten Elemente enthält.
+
 ---
+
 > [!definition] Mengenoperationen
 > 
 > Seien \(A, B\) Mengen.  
@@ -65,6 +67,8 @@
 > A \times B = \{(a,b) \mid a \in A, b \in B\}
 > $$
 
+---
+
 > [!definition] Gesetze der Mengenlehre
 > 
 > Seien \(A, B, C\) Mengen.  
@@ -85,6 +89,8 @@
 > $$
 > (A \cup B)^c = A^c \cap B^c, \quad (A \cap B)^c = A^c \cup B^c
 > $$
+
+---
 
 > [!definition] Spezielle Mengen
 > 
@@ -108,3 +114,6 @@
 > $$
 > \mathbb{C}
 > $$
+
+
+---
