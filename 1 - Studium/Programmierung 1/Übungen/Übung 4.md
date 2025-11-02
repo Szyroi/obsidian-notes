@@ -164,38 +164,21 @@ public class DatumErweiterung {
 
             int maxTage;
             maxTage = switch (m) {
-
                 case 2 -> 28;
-
                 case 4, 6, 9, 11 -> 30;
-
                 default -> 31;
-
             };
 
             if (t > maxTage) {
-
                 t = 1;
-
                 m++;
-
                 if (m > 12) {
-
                     m = 1;
-
                     j++;
-
                 }
-
             }
-
-            System.out.println(j + " " + m + " " + t + " " + s + " " + m1);
-
+        System.out.println(j + " " + m + " " + t + " " + s + " " +m1);
         }
-
-  
-
     }
-
 }
 ```
