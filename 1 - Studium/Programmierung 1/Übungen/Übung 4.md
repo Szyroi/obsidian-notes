@@ -44,7 +44,6 @@ Scanner sc = new Scanner(System.in);
 
 ## **Aufgabe 3**
 
-
 ```Java
 import java.util.Scanner;
 
