@@ -7,7 +7,10 @@
 2. ba: S -> bB B -> aB
 3. bb: S -> bB B -> b
 
-### 2)
+### 3)
+Alle Wörter starten mit einem a oder b und enden mit a oder b
+
+### 4)
 
 
 
