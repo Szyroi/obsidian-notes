@@ -1,6 +1,6 @@
 %% Notiz: Einführung in die Programmierung - Bitoperationen, Fließkommazahlen, Zeichenketten
 %% Seiten 1-7
-
+$$
 \section*{Bitoperationen}
 
 \subsection*{Grundlagen}
@@ -89,5 +89,5 @@ Besonderheiten & Berechnungen exakt außer bei Überlauf \\
   \item \texttt{charAt(index)}: Zeichen an Position index.
   \item \texttt{substring(start, end)}: Teilstring.
   \item \texttt{equals(String)}: Vergleich auf inhaltliche Gleichheit.
-\end{itemize}
+\end{itemize}$$
 
