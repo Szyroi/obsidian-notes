@@ -21,6 +21,10 @@ Diese Grammatik ist eine Typ 3 Grammatik da sie nur ein Terminal gefolgt von nur
 
 ## **Aufgabe 3**
 
+1. 
+
+
+
 ## **Aufgabe 10 👾 Bestimmung von logischen Ausdrücken**
 
 
