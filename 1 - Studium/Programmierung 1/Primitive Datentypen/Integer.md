@@ -42,9 +42,9 @@ Sie enthalten **keine Brüche oder Dezimalzahlen**.
 ---
 
 ## Teilmengen
-- **Natürliche Zahlen:** $( \mathbb{N} = \{0, 1, 2, 3, \ldots\} )$
-- **Negative Zahlen:** \( \mathbb{Z}^- = \{-1, -2, -3, \ldots\} \)
-- **Nichtnegative Zahlen:** \( \mathbb{Z}_{\ge 0} = \{0, 1, 2, \ldots\} \)
+- **Natürliche Zahlen:** $\mathbb{N} = \{0, 1, 2, 3, \ldots\}$
+- **Negative Zahlen:**  $\mathbb{Z}^- = \{-1, -2, -3, \ldots\}$
+- **Nichtnegative Zahlen:**  $\mathbb{Z}_{\ge 0} = \{0, 1, 2, \ldots\}$
 
 ---
 ## Siehe auch
