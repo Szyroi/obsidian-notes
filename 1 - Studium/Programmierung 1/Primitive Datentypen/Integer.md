@@ -12,7 +12,7 @@ Sie enthalten **keine Brüche oder Dezimalzahlen**.
 ## Eigenschaften
 - **Abgeschlossenheit:**  
   Addition, Subtraktion und Multiplikation zweier Ganzzahlen ergeben wieder eine Ganzzahl.  
-  Division **nicht** abgeschlossen (z. B. \( 1 / 2 \notin \mathbb{Z} \)).
+  Division **nicht** abgeschlossen (z. B. $( \frac 1  2 \notin \mathbb{Z} )$).
   
 - **Neutral- und Inverselemente:**  
   - Additiv neutrales Element: \( 0 \)  
@@ -20,7 +20,7 @@ Sie enthalten **keine Brüche oder Dezimalzahlen**.
   
 - **Ordnung:**  
   Die Ganzzahlen sind geordnet:  
-  $( \ldots < -2 < -1 < 0 < 1 < 2 < \ldots )$$
+  $( \ldots < -2 < -1 < 0 < 1 < 2 < \ldots )$
 
 ---
 
