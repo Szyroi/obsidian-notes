@@ -45,7 +45,7 @@ mit
 | Typ 3 | Regulär (rechts- oder linkslinear) | $(A \to aB)\ oder \ (A \to a)$                                   |     reguläre Sprachen     |
 
 ## Beispiel einer regulären Grammatik:
-\[]
+
 $$\begin{cases}
 S \to aA \mid bB \\
 A \to bA \mid a \\
