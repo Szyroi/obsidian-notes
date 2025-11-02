@@ -100,4 +100,4 @@ Schritt 5: 0 10000000 11000000000000000000000
 ## **Aufgabe 8**
 
 
-## **Aufgabe 9 **
+## **Aufgabe 9 Geradengleichung👾**
