@@ -101,3 +101,25 @@ Schritt 5: 0 10000000 11000000000000000000000
 
 
 ## **Aufgabe 9 Geradengleichung👾**
+
+```Java
+public class Geradengleichung {
+    public static void main(String[] args) {
+        if (args.length != 4) {
+            return;
+        }
+
+        double x1 = Double.parseDouble(args[0]);
+        double y1 = Double.parseDouble(args[1]);
+        double x2 = Double.parseDouble(args[2]);
+        double y2 = Double.parseDouble(args[3]);
+  
+        double a = (y2 - y1) / (x2 - x1);
+        double b = y1 - a * x1;
+
+        System.out.println("a=" + a + "b=" + b);
+
+    }
+}
+
+```
