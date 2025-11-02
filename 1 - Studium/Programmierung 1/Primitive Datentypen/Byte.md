@@ -38,12 +38,12 @@ Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkomm
 
 ## Ganze Zahlen in Java
 
-| Datentyp | Größe   | Wertbereich / Besonderheit                    |
-|----------|---------|----------------------------------------------|
-| `byte`   | 1 Byte  | -128 bis 127                                 |
-| `short`  | 2 Bytes | Kurzinteger                                  |
-| `int`    | 4 Bytes | Standard ganzzahliger Typ                    |
-| `long`   | 8 Bytes | Für sehr große Zahlen                         |
+| Datentyp | Größe   | Wertbereich / Besonderheit |
+| -------- | ------- | -------------------------- |
+| `byte`   | 1 Byte  | -128 bis 127               |
+| `short`  | 2 Bytes | Kurzinteger                |
+| `int`    | 4 Bytes | Standard ganzzahliger Typ  |
+| `long`   | 8 Bytes | Für sehr große Zahlen      |
 
 - Speicherung im Zweierkomplement.
 - Zahlenkonstanten können als Dezimal-, Oktal-, Hex- oder Binärwerte angegeben werden.
@@ -66,8 +66,8 @@ Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkomm
 - Rundungsfehler sind normal bei Fließkommaarithmetik.
 
 ### Java-Typen
-- `float` (32 Bit), weniger genau.
-- `double` (64 Bit), Standardtyp für reelle Zahlen.
+´´ (32 Bit), weniger genau.
+`double` (64 Bit), Standardtyp für reelle Zahlen.
 
 ---
 
