@@ -2,7 +2,7 @@
 
 ## **Aufgabe 1**
 
-1. aa ba
+1. 
 
 ## **Aufgabe 10 👾 Bestimmung von logischen Ausdrücken**
 
