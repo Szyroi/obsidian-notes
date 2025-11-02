@@ -79,8 +79,9 @@ Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkomm
 - Kodierungsformate: UTF-8, UTF-16, UTF-32.
 
 ### Java-Typen
-- `char`: Unicode 16 Bit Zeichen (UTF-16).
-- `String`: Klasse für Zeichenketten, unveränderlich (immutable).
+- ```
+  ```: Unicode 16 Bit Zeichen (UTF-16).
+`String`: Klasse für Zeichenketten, unveränderlich (Immutable).
 - Unterstützung von Escape-Sequenzen (`\n`, `\t` etc.).
 - Verkettung mit `+` erzeugt neue Strings, ändert aber alte nicht.
 
@@ -92,11 +93,4 @@ Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkomm
 
 ---
 
-## Verlinkungen und Nutzung im Wiki
-
-Diese Notiz ist als Referenz im Obsidian-Wiki gedacht und kann mit weiteren Notizen zu verwandten Themen verlinkt werden, um ein vernetztes Wissensnetzwerk zu bilden.
-
----
-
-> **Hinweis:** Dieses Wiki-Format nutzt klare Überschriften und Abschnitte, sodass du jederzeit schnell zu relevanten Themen springen kannst.
 
