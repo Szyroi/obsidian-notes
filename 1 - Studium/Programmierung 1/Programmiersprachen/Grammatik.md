@@ -27,11 +27,11 @@
 ---
 ## Grammatiken in der Theoretischen Informatik
 
-Eine formale Grammatik \( G \) ist ein Tupel
-\ [G = (\Sigma, N, P, S)\]
+Eine formale Grammatik $(G)$ ist ein Tupel
+$G = (\Sigma, N, P, S)$
 mit
-- (\Sigma): Alphabet (Terminalsymbole)
-- \(N\): Menge der Nichtterminalsymbole
+- $(\Sigma)$: Alphabet (Terminalsymbole)
+- $(N):$ Menge der Nichtterminalsymbole
 - \(P\): Menge der Produktionsregeln
 - \(S \in N\): Startsymbol 
 
