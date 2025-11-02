@@ -3,8 +3,8 @@
 ## **Aufgabe 1**
 
 1. aa: S -> aA A -> a 
-2. S -> bB
-3. 
+2. ba: S -> bB B -> aB
+3. bb: S -> bB B -> b
 
 ## **Aufgabe 10 👾 Bestimmung von logischen Ausdrücken**
 
