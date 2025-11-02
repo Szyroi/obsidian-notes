@@ -35,7 +35,7 @@ mit
 - \(\Sigma\): Alphabet (Terminalsymbole)
 - \(N\): Menge der Nichtterminalsymbole
 - \(P\): Menge der Produktionsregeln
-- $\(S \in N\): Startsymbol $
+- \(S \in N\): Startsymbol 
 
 ## Chomsky-Hierarchie der Grammatiken
 
