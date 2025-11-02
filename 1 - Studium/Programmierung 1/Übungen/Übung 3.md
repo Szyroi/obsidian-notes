@@ -93,5 +93,5 @@ Wandeln Sie die Zahl 3,5 in eine 32 Bit IEEE-754 Fließkommadarstellung um. Gebe
 
 Schritt 1: 3,5 3 = 11,01
 Schritt 2: 1,101
-SChritt 3:
+Schritt 3: 1,10
 
