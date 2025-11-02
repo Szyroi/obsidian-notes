@@ -88,3 +88,93 @@ public class Caesar {
 
 
 ## **Aufgabe 5 👾**
+
+```Java
+  
+import java.util.Scanner;
+
+public class DatumErweiterung {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        int j, m, t, s, m1, m2;
+
+        j = sc.nextInt();
+        m = sc.nextInt();
+        t = sc.nextInt();
+        s = sc.nextInt();
+        m1 = sc.nextInt();
+        m2 = sc.nextInt();
+
+        m1 += m2;
+
+        if (m1 >= 60) {
+
+            s += m1 / 60;
+
+            m1 = m1 % 60;
+
+        }
+
+  
+
+        if (s >= 24) {
+
+            t += s / 24;
+
+            s = s % 24;
+
+        }
+
+  
+
+        int maxTage;
+
+        if (m == 2) {
+
+            maxTage = 28;
+
+        } else if (m == 4 || m == 6 || m == 9 || m == 11) {
+
+            maxTage = 30;
+
+        } else {
+
+            maxTage = 31;
+
+        }
+
+  
+
+        if (t > maxTage) {
+
+            t = 1;
+
+            m++;
+
+            if (m > 12) {
+
+                m = 1;
+
+                j++;
+
+            }
+
+        }
+
+  
+
+        System.out.println(j + " " + m + " " + t + " " + s + " " + m1);
+
+  
+
+        sc.close();
+
+  
+
+    }
+
+}
+
+```
