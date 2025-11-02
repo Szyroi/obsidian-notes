@@ -61,7 +61,7 @@
 5. **Alle Teile zusammensetzen:**  
    Vorzeichen (1 Bit) + Exponent (8 Bit) + Mantisse (23 Bit)
 
-![IEEE 754 Darstellung](link-zu-umwandlung-gleitkomma.png)  
+![IEEE 754 Darstellung](Von <a href="https://en.wikipedia.org/wiki/de:User:RokerHRO" class="extiw" title="w:de:User:RokerHRO">RokerHRO</a> in der <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">Wikipedia auf Deutsch</a> - Selbst gezeichnet (mit XFig; .fig-Datei gibt es auf Anfrage), Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=15287128">Link</a>)  
 *Bild 4: Aufbau und Zusammensetzung eines 32-Bit Gleitkommawertes*
 
 ---
