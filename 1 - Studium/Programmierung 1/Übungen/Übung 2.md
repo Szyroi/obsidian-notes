@@ -16,10 +16,10 @@ Diese Grammatik ist eine Typ 3 Grammatik da sie nur ein Terminal gefolgt von nur
 
 ## **Aufgabe 2**
 
-1. 0x24
-2. 0x0F
+1. 0x1
+2. 0XAf3L
 
-
+## **Aufgabe 3**
 
 ## **Aufgabe 10 👾 Bestimmung von logischen Ausdrücken**
 
