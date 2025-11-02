@@ -1,3 +1,4 @@
+# Einführung in die Programmierung: Bitoperationen, Fließkommazahlen und Zeichenketten
 
 ## Übersicht
 Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkommazahlen und Zeichenketten (Java) zusammen. Sie dient als Nachschlagewerk und Wissensbasis im Wiki-Stil.
@@ -79,9 +80,8 @@ Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkomm
 - Kodierungsformate: UTF-8, UTF-16, UTF-32.
 
 ### Java-Typen
-- ```
-  ```: Unicode 16 Bit Zeichen (UTF-16).
-`String`: Klasse für Zeichenketten, unveränderlich (Immutable).
+- `char`: Unicode 16 Bit Zeichen (UTF-16).
+- `String`: Klasse für Zeichenketten, unveränderlich (immutable).
 - Unterstützung von Escape-Sequenzen (`\n`, `\t` etc.).
 - Verkettung mit `+` erzeugt neue Strings, ändert aber alte nicht.
 
@@ -92,5 +92,13 @@ Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkomm
 - `equals(String)`: Vergleich auf Gleichheit (nicht `==` verwenden).
 
 ---
+
+
+
+
+
+
+---
+
 
 
