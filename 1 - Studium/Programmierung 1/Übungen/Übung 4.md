@@ -4,25 +4,16 @@
 
 ## **Aufgabe 2 👾**
 
-
 ```Java
 Scanner scanner = new Scanner(System.in);
-
-  
   int k = scanner.nextInt();
-
-   
   char b = scanner.next().charAt(0);
-
- 
   char verschluesselt = (char) ('A' + (b - 'A' + k) % 26);
 
-  // 4. Ausgabe
    System.out.println(verschluesselt);
 
   scanner.close();
 ```
-
 
 
 ```Java
