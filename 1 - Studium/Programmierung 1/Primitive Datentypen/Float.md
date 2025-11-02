@@ -1,6 +1,4 @@
-# Festkommadarstellung und Gleitkommadarstellung
-
-## Grundlagen
+## **<u>Grundlagen</u>**
 
 ### Festkommadarstellung
 - Komma ist an fester Position, z.B. 4 Stellen vor und 4 Stellen nach dem Komma.
@@ -13,6 +11,9 @@
 - Zahl = Vorzeichen × Mantisse × Basis^Exponent.
 - Vorteile: Großer Wertebereich, geeignet für wissenschaftliche Berechnung.
 - Nachteil: Komplexere Operationen, Rundungsfehler möglich.
+
+![IEEE 754 Darstellung](IEEE-754-single.svg)  
+*Bild 1: Aufbau und Zusammensetzung eines 32-Bit Gleitkommawertes*
 
 ---
 
@@ -51,9 +52,6 @@
 
 5. **Alle Teile zusammensetzen:**  
    Vorzeichen (1 Bit) + Exponent (8 Bit) + Mantisse (23 Bit)
-
-![IEEE 754 Darstellung](IEEE-754-single.svg)  
-*Bild 4: Aufbau und Zusammensetzung eines 32-Bit Gleitkommawertes*
 
 ---
 
