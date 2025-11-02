@@ -8,21 +8,15 @@
 - Vorteil: Einfache, schnelle Berechnungen.
 - Nachteil: Begrenzter Wertebereich und fixe Genauigkeit.
 
-![Festkommadarstellung Beispiel](link-zu-festkommadarstellung-bild.png)  
-*Bild 1: Festkommadarstellung mit fester Position des Dezimalpunkts*
-
 ### Gleitkommadarstellung
 - Komma „gleitet“ durch Exponenten, flexibel für große Wertebereiche.
 - Zahl = Vorzeichen × Mantisse × Basis^Exponent.
 - Vorteile: Großer Wertebereich, geeignet für wissenschaftliche Berechnung.
 - Nachteil: Komplexere Operationen, Rundungsfehler möglich.
 
-![Gleitkommadarstellung Beispiel](link-zu-gleitkommadarstellung-bild.png)  
-*Bild 2: Gleitkommadarstellung mit variabler Kommaposition*
-
 ---
 
-## Umwandlung in Festkommadarstellung (binär)
+## **<u>Umwandlung in Festkommadarstellung (binär)</u>**
 
 1. **Kommaposition bestimmen:**  
    Beispiel: 4 Bit Nachkommastellen.
@@ -37,12 +31,9 @@
 4. **Interpretation:**  
    Diese Binärzahl repräsentiert die Festkommazahl mit festem Komma.
 
-![Umwandlung Festkommadarstellung](link-zu-umwandlung-festkomma.png)  
-*Bild 3: Umwandlung einer Dezimalzahl in Festkommadarstellung*
-
 ---
 
-## Umwandlung in 32-Bit IEEE 754 Gleitkommadarstellung
+## <u>Umwandlung in 32-Bit IEEE 754 Gleitkommadarstellung</u>
 
 1. **Vorzeichen bestimmen:**  
    Positiv: 0, Negativ: 1.  
