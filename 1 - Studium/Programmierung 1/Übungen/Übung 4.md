@@ -131,3 +131,71 @@ public class DatumErweiterung {
 }
 
 ```
+
+
+
+```Java
+
+import java.util.Scanner;
+
+public class DatumErweiterung {
+    public static void main(String[] args) {
+
+        try (Scanner sc = new Scanner(System.in)) {
+            int j, m, t, s, m1, m2;
+
+            j = sc.nextInt();
+            m = sc.nextInt();
+            t = sc.nextInt();
+            s = sc.nextInt();
+            m1 = sc.nextInt();
+            m2 = sc.nextInt();
+            m1 += m2;
+
+            if (m1 >= 60) {
+                s += m1 / 60;
+                m1 = m1 % 60;
+            }
+
+            if (s >= 24) {
+                t += s / 24;
+                s = s % 24;
+            }
+
+            int maxTage;
+            maxTage = switch (m) {
+
+                case 2 -> 28;
+
+                case 4, 6, 9, 11 -> 30;
+
+                default -> 31;
+
+            };
+
+            if (t > maxTage) {
+
+                t = 1;
+
+                m++;
+
+                if (m > 12) {
+
+                    m = 1;
+
+                    j++;
+
+                }
+
+            }
+
+            System.out.println(j + " " + m + " " + t + " " + s + " " + m1);
+
+        }
+
+  
+
+    }
+
+}
+```
