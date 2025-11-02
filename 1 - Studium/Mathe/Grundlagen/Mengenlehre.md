@@ -11,9 +11,9 @@
 > 
 > - **Endlich:** $A = \{1,2,3\}$  
 > - **Unendlich:** $\mathbb{N} = \{1,2,3,\dots\}$ 
-> - **Leere Menge:** $ \emptyset $ oder $ \{\} $ 
-> - **Teilmenge:** `$ A \subseteq B $`  
-> - **Echte Teilmenge:** `$ A \subset B, \quad A \neq B $`
+> - **Leere Menge:** $\emptyset$ oder $\{\}$ 
+> - **Teilmenge:** $A \subseteq B$
+> - **Echte Teilmenge:** $A \subset B, \quad A \neq B$
 
 > [!definition] Mengenoperationen
 > 
@@ -59,14 +59,14 @@
 
 > [!definition] Spezielle Mengen
 > 
-> - **Natürliche Zahlen:** `$ \mathbb{N} = \{1, 2, 3, \dots\} $`  
-> - **Ganze Zahlen:** `$ \mathbb{Z} = \{\dots, -2, -1, 0, 1, 2, \dots\} $`  
+> - **Natürliche Zahlen:** $\mathbb{N} = \{1, 2, 3, \dots\}$
+> - **Ganze Zahlen:** $\mathbb{Z} = \{\dots, -2, -1, 0, 1, 2, \dots\}$ 
 > - **Rationale Zahlen:**  
 > $$
 > \mathbb{Q} = \left\{ \frac{p}{q} \mid p \in \mathbb{Z}, q \in \mathbb{N} \right\} 
 > $$  
-> - **Reelle Zahlen:** `$ \mathbb{R} $`  
-> - **Komplexe Zahlen:** `$ \mathbb{C} $`
+> - **Reelle Zahlen:** $\mathbb{R}$
+> - **Komplexe Zahlen:** $\mathbb{C}$
 
 
 
