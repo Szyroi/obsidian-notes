@@ -55,14 +55,14 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Inverse Relation  
 > 
-> Die **inverse** Relation \(R^{-1}\) ist  
+> Die **inverse** Relation $(R^{-1})$ ist  
 > $$
 > R^{-1}=\{(y,x)\mid (x,y)\in R\}.
 > $$
 
 > [!definition] Komposition (Verknüpfung)  
 > 
-> Für Relationen \(R\subseteq A\times B\) und \(S\subseteq B\times C\) ist die **Komposition** \(S\circ R\) definiert durch  
+> Für Relationen $R\subseteq A\times B$ und $S\subseteq B\times C$ ist die **Komposition** $S\circ R$ definiert durch  
 > $$
 > S\circ R = \{(x,z)\in A\times C \mid \exists y\in B:\ (x,y)\in R \land (y,z)\in S\}.
 > $$
@@ -76,7 +76,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Potenzen, transitive und reflexive Hülle  
 > 
-> - \(R^1=R,\ R^{n+1}=R\circ R^n\).  
+> - $R^1=R,\ R^{n+1}=R\circ R^n$.  
 > - **Transitive Hülle**:  
 > $$
 > R^+ = \bigcup_{n\ge 1} R^n
@@ -89,24 +89,24 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 ---
 
-## 4. Eigenschaften von Relationen (auf \(A\))
+## 4. Eigenschaften von Relationen (auf $A$)
 > [!definition] Reflexivität  
 > 
-> \(R\) ist **reflexiv**, falls  
+> $R$ ist **reflexiv**, falls  
 > $$
 > \forall x\in A:\ (x,x)\in R.
 > $$
 
 > [!definition] Irreflexivität  
 > 
-> \(R\) ist **irreflexiv**, falls  
+> $R$ ist **irreflexiv**, falls  
 > $$
 > \forall x\in A:\ (x,x)\notin R.
 > $$
 
 > [!definition] Symmetrie  
 > 
-> \(R\) ist **symmetrisch**, falls  
+> $R$ ist **symmetrisch**, falls  
 > $$
 > \forall x,y\in A:\ (x,y)\in R \implies (y,x)\in R.
 > $$
