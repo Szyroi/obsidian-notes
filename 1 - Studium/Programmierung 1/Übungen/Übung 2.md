@@ -4,6 +4,7 @@
 
 1. S -> aA B -> b
 2. S -> aA -> A -> a
+3. 
 
 ## **Aufgabe 10 👾 Bestimmung von logischen Ausdrücken**
 
