@@ -14,6 +14,8 @@ Alle Wörter starten mit einem a oder b und enden mit a oder b
 Diese Grammatik ist eine Typ 3 Grammatik da sie nur ein Terminal gefolgt von nur einem Nichtterminal enthält.
 
 
+## **Aufgabe 2**
+
 
 
 
