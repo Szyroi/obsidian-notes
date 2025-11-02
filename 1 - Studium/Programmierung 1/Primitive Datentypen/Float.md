@@ -49,7 +49,7 @@
    Beispiel: 13.625 → Vorzeichen = 0.
 
 2. **Zahl in binäre Normalform bringen:**  
-   \(13.625_{10} = 1.101101 \times 2^{3}\).
+   $(13.625_{10} = 1.101101 \times 2^{3}).$
 
 3. **Mantisse wählen:**  
    Bits rechts der führenden 1 ohne diese speichern: `10110100000000000000000` (23 Bit).
