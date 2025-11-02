@@ -1,4 +1,4 @@
-![[u03.pdf|u03]]
+![[u03.pdf]]
 
 
 ## **Aufgabe 1**
@@ -82,3 +82,13 @@ public class ParityBit {
     }
 }
 ```
+
+## **Aufgabe 6**
+
+1. 000.001 = 0,001
+2. 111.111 = 7,7
+
+## **Aufgabe 7**
+Wandeln Sie die Zahl 3,5 in eine 32 Bit IEEE-754 Fließkommadarstellung um. Geben Sie dabei jeden Zwischenschritt im Umwandlungsprozess an. Die Darstellung des Endresultats enthält also 32 Bit.
+
+

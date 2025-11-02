@@ -125,7 +125,7 @@ public class DatumErweiterung {
             }
         }
   
-        System.out.println(j + " " + m + " " + t + " " + s + " " + m1);
+        System.out.printf("%d %d %d %d %d", j, m, t, s, m1);
         sc.close();
     }
 }
