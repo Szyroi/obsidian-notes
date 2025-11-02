@@ -8,19 +8,19 @@
 ```Java
 Scanner scanner = new Scanner(System.in);
 
-        // 1. Schlüssel einlesen
-        int k = scanner.nextInt();
+  
+  int k = scanner.nextInt();
 
-        // 2. Buchstaben einlesen
-        char b = scanner.next().charAt(0);
+   // 2. Buchstaben einlesen
+  char b = scanner.next().charAt(0);
 
-        // 3. Verschlüsselung
-        char verschluesselt = (char) ('A' + (b - 'A' + k) % 26);
+  // 3. Verschlüsselung
+  char verschluesselt = (char) ('A' + (b - 'A' + k) % 26);
 
-        // 4. Ausgabe
-        System.out.println(verschluesselt);
+  // 4. Ausgabe
+   System.out.println(verschluesselt);
 
-        scanner.close();
+  scanner.close();
 ```
 
 
@@ -29,50 +29,24 @@ Scanner scanner = new Scanner(System.in);
 
 Scanner sc = new Scanner(System.in);
 
-  
-
         int start = 0x41; // 65 = 'A'
-
         int end = 0x5A; // 90 = 'Z'
-
         int b;
-
         int k;
 
-  
-
         System.out.println("Eingabe: ");
-
         k = sc.nextInt();
-
-  
-
         b = sc.next().charAt(0);
-
-  
 
         for (int i = 0; i < k; i = i + 1) {
 
-  
-
             b = b + 1;
-
             if (b > end) {
-
                 b = start;
-
             }
-
-  
-
         }
 
-  
-
         System.out.print("Ausgabe: \n" + (char) b);
-
-  
-
         sc.close();
 ```
 
