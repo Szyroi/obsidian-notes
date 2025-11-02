@@ -35,7 +35,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Adjazenzmatrix  
 > 
-> Für \(A=\{a_1,\dots,a_n\}\) kann \(R\subseteq A\times A\) durch eine \(n\times n\)-Matrix \(M\) dargestellt werden mit  
+> Für $(A=\{a_1,\dots,a_n\})$ kann $(R\subseteq A\times A\) durch eine \(n\times n\)-Matrix \(M\) dargestellt werden mit  
 > $$
 > M_{ij} =
 > \begin{cases}
