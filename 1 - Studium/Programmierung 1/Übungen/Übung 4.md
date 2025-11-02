@@ -44,6 +44,51 @@ Scanner sc = new Scanner(System.in);
 
 ## **Aufgabe 3**
 
+
+```Java
+import java.util.Scanner;
+
+public class Caesar {
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+  
+
+        char b;
+
+        int k = scanner.nextInt();
+
+        String t = scanner.next();
+
+  
+
+        for (int i = 0; i < t.length(); i++) {
+
+            b = t.charAt(i);
+
+            char verschluesselt = (char) ('A' + (b - 'A' + k) % 26);
+
+            System.out.println("Buchstabe " + b);
+
+            System.out.println("Buchstabe " + verschluesselt);
+
+        }
+
+  
+
+        scanner.close();
+
+  
+
+    }
+
+}
+
+```
+
+
+
 ## **Aufgabe 4**
 
 ## **Aufgabe 5 👾**
