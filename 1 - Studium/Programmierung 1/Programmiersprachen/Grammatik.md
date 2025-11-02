@@ -52,7 +52,7 @@ A \to bA \mid a \\
 B \to aB \mid b
 \end{cases}$$
 
-Mögliche Wörter sind z.B. \(aba\), \(bab\), \(abbbbbba\), \(baaaab\).
+Mögliche Wörter sind z.B. $(aba), (bab), (abbbbbba), (baaaab)$.
 
 ---
 
@@ -65,10 +65,6 @@ Mögliche Wörter sind z.B. \(aba\), \(bab\), \(abbbbbba\), \(baaaab\).
 - Äquivalenz: \(\leftrightarrow\) — `$\\leftrightarrow$`
 - Allquantor: \(\forall\) — `$\\forall$`
 - Existenzquantor: \(\exists\) — `$\\exists$`
-
-Zum Einfügen von Formeln in Obsidian:
-- Inline-Mathe: `$ ... $`
-- Block-Mathe: `$$ ... $$`
 
 ---
 
