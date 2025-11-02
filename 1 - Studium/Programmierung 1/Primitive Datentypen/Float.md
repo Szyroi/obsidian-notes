@@ -78,5 +78,4 @@
 
 ---
 
-*Hinweis:* Für Obsidian bitte die Bildlinks korrekt einfügen oder lokal speichern und verlinken.
 
