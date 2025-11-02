@@ -1,3 +1,6 @@
+### **Defitionen der Grammatik**
+
+---
 
 > [!definition] Definition: Alphabet
 > Ein Alphabet ist eine endliche nicht leere Menge $\sum = \{{a_{1},\dots,a_{n}\}}$ von Symbolen
@@ -22,3 +25,55 @@
 > Sei $\sum$ ein Alphabet. $L \subseteq \sum^{*}$ heißt formale Sprache über $\sum$
 
 
+# Grammatiken in der Theoretischen Informatik
+
+Eine formale Grammatik \( G \) ist ein Tupel
+\[
+G = (\Sigma, N, P, S)
+\]
+mit
+- \(\Sigma\): Alphabet (Terminalsymbole)
+- \(N\): Menge der Nichtterminalsymbole
+- \(P\): Menge der Produktionsregeln
+- \(S \in N\): Startsymbol
+
+## Chomsky-Hierarchie der Grammatiken
+
+| Typ  | Eigenschaften                                      | Produktionsregeln-Beispiel          | erzeugte Sprache       |
+|-------|--------------------------------------------------|------------------------------------|------------------------|
+| Typ 0 | Allgemeine Grammatiken                            | \( \alpha \to \beta \) (beliebig)  | rekursiv aufzählbar    |
+| Typ 1 | Kontextsensitiv                                   | \( \alpha A \beta \to \alpha \gamma \beta \), \(|\gamma| \geq 1\) | kontextsensitive Sprachen |
+| Typ 2 | Kontextfrei                                      | \( A \to \gamma \)                  | kontextfreie Sprachen  |
+| Typ 3 | Regulär (rechts- oder linkslinear)               | \( A \to aB \) oder \( A \to a \)  | reguläre Sprachen      |
+
+## Beispiel einer regulären Grammatik:
+
+\[
+\begin{cases}
+S \to aA \mid bB \\
+A \to bA \mid a \\
+B \to aB \mid b
+\end{cases}
+\]
+
+Mögliche Wörter sind z.B. \(aba\), \(bab\), \(abbbbbba\), \(baaaab\).
+
+---
+
+## Wichtige LaTeX-Mathe-Symbole in Obsidian
+
+- Konjunktion (UND): \(\land\) — `$\\land$`
+- Disjunktion (ODER): \(\lor\) — `$\\lor$`
+- Negation (NICHT): \(\neg\) — `$\\neg$`
+- Implikation: \(\to\) — `$\\to$`
+- Äquivalenz: \(\leftrightarrow\) — `$\\leftrightarrow$`
+- Allquantor: \(\forall\) — `$\\forall$`
+- Existenzquantor: \(\exists\) — `$\\exists$`
+
+Zum Einfügen von Formeln in Obsidian:
+- Inline-Mathe: `$ ... $`
+- Block-Mathe: `$$ ... $$`
+
+---
+
+Diese Notiz bietet einen schnellen Überblick zu Grammatiken und ihrer Notation mit LaTeX in Obsidian.
