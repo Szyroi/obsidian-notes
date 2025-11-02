@@ -86,6 +86,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > R^* = \bigcup_{n\ge 0} R^n \quad(\text{mit }R^0=\mathrm{Id}_A)
 > $$
 
+
+---
+
 ## 4. Eigenschaften von Relationen (auf \(A\))
 > [!definition] Reflexivität  
 > 
@@ -129,6 +132,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > \forall x,y\in A:\ (x,y)\in R \lor (y,x)\in R.
 > $$
 
+
+---
+
 ## 5. Wichtige Relationstypen
 
 > [!definition] Äquivalenzrelation  
@@ -162,6 +168,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$  
 > (für jedes \(x\) existiert genau ein \(y\) mit \((x,y)\in R\)).
 
+
+---
+
 ## 6. Beispiele
 
 > [!definition] Gleichheitsrelation  
@@ -188,6 +197,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > 
 > Die Relation \(\le\) auf \(\mathbb{R}\) ist eine totale Ordnung (reflexiv, antisymmetrisch, transitiv, total).
 
+
+---
+
 ## 7. Operationen auf Relationen
 
 > [!definition] Vereinigung und Schnitt  
@@ -212,6 +224,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > R^0=\mathrm{Id}_A,\quad R^{n+1}=R\circ R^n
 > $$
 
+
+---
+
 ## 8. Anwendungen und Bemerkungen
 
 > [!definition] Anwendungen  
@@ -222,6 +237,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > 
 > - Manche Autoren schreiben \(xRy\) anstelle von \((x,y)\in R\).  
 > - Achte bei Komposition auf die Reihenfolge: \(S\circ R\) bedeutet erst \(R\), dann \(S\).
+
+
+---
 
 ## 9. Kurze Zusammenfassung (Wichtige Formeln)
 > [!definition] Wichtige Formeln  
