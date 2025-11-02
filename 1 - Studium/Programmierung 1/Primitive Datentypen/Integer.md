@@ -1,9 +1,9 @@
 
 ## Definition
 **Integer** (dt. *Ganzzahlen*) sind die Menge aller positiven, negativen und neutralen ganzen Zahlen:
-\[
+$$
 \mathbb{Z} = \{ \ldots, -3, -2, -1, 0, 1, 2, 3, \ldots \}
-\]
+$$
 
 Sie enthalten **keine Brüche oder Dezimalzahlen**.
 
@@ -20,7 +20,7 @@ Sie enthalten **keine Brüche oder Dezimalzahlen**.
   
 - **Ordnung:**  
   Die Ganzzahlen sind geordnet:  
-  \( \ldots < -2 < -1 < 0 < 1 < 2 < \ldots \)
+  $( \ldots < -2 < -1 < 0 < 1 < 2 < \ldots )$$
 
 ---
 
@@ -43,7 +43,7 @@ Sie enthalten **keine Brüche oder Dezimalzahlen**.
 
 ## Teilmengen
 - **Natürliche Zahlen:** $\mathbb{N} = \{0, 1, 2, 3, \ldots\}$
-- **Negative Zahlen:**  $\mathbb{Z}\ = \{-1, -2, -3, \ldots\}$
+- **Negative Zahlen:**  $\mathbb{Z-} = \{-1, -2, -3, \ldots\}$
 - **Nichtnegative Zahlen:**  $\mathbb{Z}_{\ge 0} = \{0, 1, 2, \ldots\}$
 
 ---
