@@ -11,10 +11,10 @@ Scanner scanner = new Scanner(System.in);
   
   int k = scanner.nextInt();
 
-   // 2. Buchstaben einlesen
+   
   char b = scanner.next().charAt(0);
 
-  // 3. Verschlüsselung
+ 
   char verschluesselt = (char) ('A' + (b - 'A' + k) % 26);
 
   // 4. Ausgabe
