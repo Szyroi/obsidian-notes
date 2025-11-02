@@ -2,7 +2,7 @@
 
 ## **Aufgabe 1**
 
-1. 
+1. S -> aA A -> bA
 
 ## **Aufgabe 10 👾 Bestimmung von logischen Ausdrücken**
 
