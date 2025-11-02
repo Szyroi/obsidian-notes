@@ -1,7 +1,3 @@
-# Einführung in die Programmierung: Bitoperationen, Fließkommazahlen und Zeichenketten
-
-## Übersicht
-Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkommazahlen und Zeichenketten (Java) zusammen. Sie dient als Nachschlagewerk und Wissensbasis im Wiki-Stil.
 
 ---
 
@@ -66,7 +62,7 @@ Diese Notiz fasst wichtige Konzepte aus den Bereichen Bitoperationen, Fließkomm
 - Rundungsfehler sind normal bei Fließkommaarithmetik.
 
 ### Java-Typen
-´´ (32 Bit), weniger genau.
+`float` (32 Bit), weniger genau.
 `double` (64 Bit), Standardtyp für reelle Zahlen.
 
 ---
