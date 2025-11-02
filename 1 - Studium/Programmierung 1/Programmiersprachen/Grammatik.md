@@ -35,16 +35,16 @@ mit
 - \(\Sigma\): Alphabet (Terminalsymbole)
 - \(N\): Menge der Nichtterminalsymbole
 - \(P\): Menge der Produktionsregeln
-- \(S \in N\): Startsymbol
+- $\(S \in N\): Startsymbol $
 
 ## Chomsky-Hierarchie der Grammatiken
 
-| Typ   | Eigenschaften                      | Produktionsregeln-Beispiel                       | erzeugte Sprache      |          |                           |
-| ----- | ---------------------------------- | ------------------------------------------------ | --------------------- | -------- | ------------------------- |
-| Typ 0 | Allgemeine Grammatiken             | \( \alpha \to \beta \) (beliebig)                | rekursiv aufzählbar   |          |                           |
-| Typ 1 | Kontextsensitiv                    | \( \alpha A \beta \to \alpha \gamma \beta \), \( | \gamma                | \geq 1\) | kontextsensitive Sprachen |
-| Typ 2 | Kontextfrei                        | \( A \to \gamma \)                               | kontextfreie Sprachen |          |                           |
-| Typ 3 | Regulär (rechts- oder linkslinear) | \( A \to aB \) oder \( A \to a \)                | reguläre Sprachen     |          |                           |
+| Typ  | Eigenschaften                      | Produktionsregeln-Beispiel                       | erzeugte Sprache      |          |                           |
+| ---- | ---------------------------------- | ------------------------------------------------ | --------------------- | -------- | ------------------------- |
+| Typ0 | Allgemeine Grammatiken             | \( \alpha \to \beta \) (beliebig)                | rekursiv aufzählbar   |          |                           |
+| Typ1 | Kontextsensitiv                    | \( \alpha A \beta \to \alpha \gamma \beta \), \( | \gamma                | \geq 1\) | kontextsensitive Sprachen |
+| Typ2 | Kontextfrei                        | \( A \to \gamma \)                               | kontextfreie Sprachen |          |                           |
+| Typ3 | Regulär (rechts- oder linkslinear) | \( A \to aB \) oder \( A \to a \)                | reguläre Sprachen     |          |                           |
 
 ## Beispiel einer regulären Grammatik:
 
