@@ -32,8 +32,8 @@ $G = (\Sigma, N, P, S)$
 mit
 - $(\Sigma)$: Alphabet (Terminalsymbole)
 - $(N):$ Menge der Nichtterminalsymbole
-- \(P\): Menge der Produktionsregeln
-- \(S \in N\): Startsymbol 
+- $(P)$: Menge der Produktionsregeln
+- $(S \in N)$: Startsymbol 
 
 ## Chomsky-Hierarchie der Grammatiken
 
@@ -45,14 +45,12 @@ mit
 | Typ 3 | Regulär (rechts- oder linkslinear) | $(A \to aB)\ oder \ (A \to a)$                                   |     reguläre Sprachen     |
 
 ## Beispiel einer regulären Grammatik:
-
-\[
-\begin{cases}
+\[]
+$$\begin{cases}
 S \to aA \mid bB \\
 A \to bA \mid a \\
 B \to aB \mid b
-\end{cases}
-\]
+\end{cases}$$
 
 Mögliche Wörter sind z.B. \(aba\), \(bab\), \(abbbbbba\), \(baaaab\).
 
