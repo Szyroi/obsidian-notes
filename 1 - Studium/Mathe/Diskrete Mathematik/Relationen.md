@@ -113,21 +113,21 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Antisymmetrie  
 > 
-> \(R\) ist **antisymmetrisch**, falls  
+> $R$ ist **antisymmetrisch**, falls  
 > $$
 > \forall x,y\in A:\ ((x,y)\in R \land (y,x)\in R) \implies x=y.
 > $$
 
 > [!definition] Transitivität  
 > 
-> \(R\) ist **transitiv**, falls  
+> $R$ ist **transitiv**, falls  
 > $$
 > \forall x,y,z\in A:\ ((x,y)\in R \land (y,z)\in R) \implies (x,z)\in R.
 > $$
 
 > [!definition] Totalität / Vergleichbar  
 > 
-> \(R\) ist **total** (linear), falls  
+> $R$ ist **total** (linear), falls  
 > $$
 > \forall x,y\in A:\ (x,y)\in R \lor (y,x)\in R.
 > $$
@@ -139,7 +139,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Äquivalenzrelation  
 > 
-> Eine Relation \(R\subseteq A\times A\) heißt **Äquivalenzrelation**, wenn sie reflexiv, symmetrisch und transitiv ist. Für \(x\in A\) definiert man die Äquivalenzklasse:  
+> Eine Relation $R\subseteq A\times A$ heißt **Äquivalenzrelation**, wenn sie reflexiv, symmetrisch und transitiv ist. Für $x\in A$ definiert man die Äquivalenzklasse:  
 > $$
 > [x]_R = \{y\in A \mid (x,y)\in R\}.
 > $$  
@@ -150,7 +150,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Partielle Ordnung  
 > 
-> Eine Relation \(R\subseteq A\times A\) ist **partiell geordnet**, falls sie reflexiv, antisymmetrisch und transitiv ist. Man schreibt \((A,R)\) oder \((A,\le)\).
+> Eine Relation $R\subseteq A\times A$ ist **partiell geordnet**, falls sie reflexiv, antisymmetrisch und transitiv ist. Man schreibt $(A,R)$ oder $(A,\le)$.
 
 > [!definition] Totale (lineare) Ordnung  
 > 
