@@ -91,7 +91,7 @@ public class ParityBit {
 ## **Aufgabe 7**
 Wandeln Sie die Zahl 3,5 in eine 32 Bit IEEE-754 Fließkommadarstellung um. Geben Sie dabei jeden Zwischenschritt im Umwandlungsprozess an. Die Darstellung des Endresultats enthält also 32 Bit.
 
-Schritt 1: 3,5 3 = 11,01
+Schritt 1: 3,5 3 = 11,1
 Schritt 2: 1,101
 Schritt 3: 11,01 = 1,101 $\cdot \ 2^{1}$ 
 Schritt 4: $1 + 127 = 128_{10} = 1000 \ 0000_{2}$ (Exponent in Excess-127 Code)
