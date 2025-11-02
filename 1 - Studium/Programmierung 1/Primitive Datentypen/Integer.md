@@ -47,25 +47,9 @@ Sie enthalten **keine Brüche oder Dezimalzahlen**.
 - **Nichtnegative Zahlen:** \( \mathbb{Z}_{\ge 0} = \{0, 1, 2, \ldots\} \)
 
 ---
-
-## Rechenregeln
-- **Vorzeichenregeln:**
-  - \( (+) \times (+) = + \)
-  - \( (-) \times (-) = + \)
-  - \( (+) \times (-) = - \)
-- **Kommutativgesetz:** \( a + b = b + a \)
-- **Assoziativgesetz:** \( (a + b) + c = a + (b + c) \)
-- **Distributivgesetz:** \( a \times (b + c) = a \times b + a \times c \)
-
----
-
 ## Siehe auch
 - [[Natürliche Zahlen]]
 - [[Rationale Zahlen]]
-- [[Datentypen in der Informatik]]
 - [[Vorzeichenregeln]]
 
 ---
-
-> 💡 **Merksatz:**  
-> Ganzzahlen sind die Grundlage vieler Rechenoperationen und bilden die Brücke zwischen natürlichen und rationalen Zahlen.
