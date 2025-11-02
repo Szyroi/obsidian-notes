@@ -94,5 +94,5 @@ Wandeln Sie die Zahl 3,5 in eine 32 Bit IEEE-754 Fließkommadarstellung um. Gebe
 Schritt 1: 3,5 3 = 11,01
 Schritt 2: 1,101
 Schritt 3: 11,01 = 1,101 $\cdot \ 2^{1}$ 
-Schritt 4: 
+Schritt 4: $1 + 127 = 128_{10} = 10$
 
