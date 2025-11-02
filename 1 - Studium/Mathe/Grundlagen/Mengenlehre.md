@@ -1,110 +1,119 @@
+# Mengenlehre
 
+## Grundlagen der Mengenlehre
 
-> [!definition] Definition: Menge
-> 
-> Eine **Menge** \(A\) ist eine wohlbestimmte Sammlung von **unterscheidbaren Objekten** \(x\), die als **Elemente** von \(A\) bezeichnet werden.  
-> 
-> - Notation:  
-> $$
-> A = \{x_1, x_2, \dots, x_n\}
-> $$  
-> - Element:  
-> $$
-> x \in A
-> $$  
-> - Nicht-Element:  
-> $$
-> x \notin A
-> $$
+Eine Menge ist eine Sammlung verschiedener Objekte, genannt Elemente, die aus einem Universum stammen.
 
-> [!definition] Definition: Teilmenge
-> 
-> Sei \(A\) und \(B\) Mengen.  
-> 
-> - Teilmenge:  
-> $$
-> A \subseteq B \iff \forall x (x \in A \implies x \in B)
-> $$  
-> - Echte Teilmenge:  
-> $$
-> A \subset B \iff (A \subseteq B) \wedge (A \neq B)
-> $$
+> [!definition] Definition (Menge)  
+> Eine Menge \( A \) ist eine Sammlung verschiedener Objekte, auch Elemente \( a, b, c, \ldots \) genannt, die aus einem Universum \( U \) stammen.  
+> Man schreibt \( a \in A \), wenn \( a \) ein Element der Menge \( A \) ist, andernfalls \( a \notin A \).
 
-> [!definition] Arten von Mengen
-> 
-> - Endlich: Eine Menge \(A\) heißt endlich, wenn sie eine **endliche Anzahl von Elementen** besitzt.  
-> - Unendlich: Eine Menge \(A\) heißt unendlich, wenn sie nicht endlich ist.  
-> - Leere Menge:  
-> $$
-> \emptyset = \{\}
-> $$  
-> - Universum: Eine Menge \(U\), die alle betrachteten Elemente enthält.
+Man unterscheidet zwischen aufzählender Darstellung und beschreibender Darstellung von Mengen:  
+- Aufzählend: \( A = \{a, b, c, d\} \)  
+- Beschreibend: \( A = \{x \in U \mid x \text{ hat die Eigenschaft } p\} \)
 
-> [!definition] Mengenoperationen
-> 
-> Seien \(A, B\) Mengen.  
-> 
-> - Vereinigung:  
-> $$
-> A \cup B = \{x \mid x \in A \lor x \in B\}
-> $$  
-> - Schnitt:  
-> $$
-> A \cap B = \{x \mid x \in A \land x \in B\}
-> $$  
-> - Differenz:  
-> $$
-> A \setminus B = \{x \mid x \in A \land x \notin B\}
-> $$  
-> - Komplement:  
-> $$
-> A^c = \{x \in U \mid x \notin A\}
-> $$  
-> - Kartesisches Produkt:  
-> $$
-> A \times B = \{(a,b) \mid a \in A, b \in B\}
-> $$
+---
 
-> [!definition] Gesetze der Mengenlehre
-> 
-> Seien \(A, B, C\) Mengen.  
-> 
-> - Kommutativgesetze:  
-> $$
-> A \cup B = B \cup A, \quad A \cap B = B \cap A
-> $$  
-> - Assoziativgesetze:  
-> $$
-> (A \cup B) \cup C = A \cup (B \cup C), \quad (A \cap B) \cap C = A \cap (B \cap C)
-> $$  
-> - Distributivgesetze:  
-> $$
-> A \cap (B \cup C) = (A \cap B) \cup (A \cap C), \quad A \cup (B \cap C) = (A \cup B) \cap (A \cup C)
-> $$  
-> - De Morgansche Gesetze:  
-> $$
-> (A \cup B)^c = A^c \cap B^c, \quad (A \cap B)^c = A^c \cup B^c
-> $$
+## Leere Menge
 
-> [!definition] Spezielle Mengen
-> 
-> - Natürliche Zahlen:  
-> $$
-> \mathbb{N} = \{1, 2, 3, \dots\}
-> $$  
-> - Ganze Zahlen:  
-> $$
-> \mathbb{Z} = \{\dots, -2, -1, 0, 1, 2, \dots\}
-> $$  
-> - Rationale Zahlen:  
-> $$
-> \mathbb{Q} = \left\{\frac{p}{q} \mid p \in \mathbb{Z}, q \in \mathbb{N}\right\}
-> $$  
-> - Reelle Zahlen:  
-> $$
-> \mathbb{R}
-> $$  
-> - Komplexe Zahlen:  
-> $$
-> \mathbb{C}
-> $$
+> [!definition] Definition (Leere Menge)  
+> Die Menge  
+> \[
+> \emptyset = \{\} := \{x \mid x \neq x\}
+> \]  
+> heißt leere Menge.  
+> Für alle Elemente \( x \) des Universums gilt: \( x \notin \emptyset \). 
+
+---
+
+## Kardinalität und Teilmengen
+
+> [!definition] Definition (Kardinalität)  
+> Die Kardinalität \( |A| \) einer Menge \( A \) ist die Anzahl ihrer Elemente.
+
+> [!definition] Definition (Teilmenge)  
+> Eine Menge \( B \) ist eine Teilmenge der Menge \( A \), wenn alle Elemente von \( B \) auch in \( A \) enthalten sind, d.h.  
+> \[
+> \forall x \in B : x \in A.
+> \]  
+> Schreibweise: \( B \subseteq A \).
+
+**Satz:**  
+- Falls \( B \subseteq A \), so gilt \( |B| \leq |A| \).  
+- Falls \( B \subseteq A \) und \( A \subseteq C \), so gilt auch \( B \subseteq C \).
+
+---
+
+## Mengengleichheit
+
+> [!definition] Definition (Gleiche Mengen)  
+> Zwei Mengen \( A \) und \( B \) heißen gleich, wenn sie dieselben Elemente besitzen, also  
+> \[
+> \forall x (x \in A \iff x \in B)
+> \]
+> oder äquivalent  
+> \[
+> A \subseteq B \text{ und } B \subseteq A.
+> \]
+
+---
+
+## Vereinigungsmenge
+
+> [!definition] Definition (Vereinigungsmenge)  
+> Für Mengen \( A \) und \( B \) ist die Vereinigungsmenge definiert als  
+> \[
+> A \cup B := \{x \in U \mid x \in A \text{ oder } x \in B\}.
+> \]
+
+Für eine Familie von Mengen \( (A_i)_{i \in I} \) ist  
+\[
+\bigcup_{i \in I} A_i = \{x \in U \mid \exists i \in I : x \in A_i\}.
+\]
+
+---
+
+## Schnittmenge
+
+> [!definition] Definition (Schnittmenge)  
+> Für Mengen \( A \) und \( B \) ist die Schnittmenge definiert als  
+> \[
+> A \cap B := \{x \in U \mid x \in A \text{ und } x \in B\}.
+> \]
+
+Für eine Familie von Mengen \( (A_i)_{i \in I} \) ist  
+\[
+\bigcap_{i \in I} A_i = \{x \in U \mid \forall i \in I : x \in A_i\}.
+\]
+
+---
+
+## Komplement einer Menge
+
+> [!definition] Definition (Komplement)  
+> Für eine Menge \( A \) ist das Komplement definiert als  
+> \[
+> \overline{A} := \{x \in U \mid x \notin A\}.
+> \]
+
+Zusätzlich definiert man  
+\[
+A \setminus B := \{x \in A \mid x \notin B\} \quad \text{(gesprochen: } A \text{ ohne } B\text{)}.
+\]
+
+**Satz:**  
+- \( A \cap B = \overline{\overline{A} \cup \overline{B}} \) (De Morgan)
+
+---
+
+## Kartesisches Produkt
+
+> [!definition] Definition (Kartesisches Produkt)  
+> Für Mengen \( A_1, A_2, \ldots, A_n \) ist das kartesische Produkt definiert als  
+> \[
+> A_1 \times A_2 \times \cdots \times A_n := \{ (a_1, a_2, \ldots, a_n) \mid a_i \in A_i \text{ für } i=1,\ldots,n \}.
+> \]
+
+---
+
+Diese Notiz fasst die grundlegenden Begriffe und Definitionen der Mengenlehre übersichtlich zusammen und verwendet Callouts, um die formell-mathematischen Definitionen hervorzuheben. Du kannst sie in Obsidian als eigenständige Wiki-Seite nutzen.
