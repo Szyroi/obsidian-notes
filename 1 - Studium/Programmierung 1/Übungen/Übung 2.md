@@ -2,8 +2,8 @@
 
 ## **Aufgabe 1**
 
-1. S -> aA B -> b
-2. S -> aA -> A -> a
+1. aa: S -> aA A -> a 
+2. S -> bB
 3. 
 
 ## **Aufgabe 10 👾 Bestimmung von logischen Ausdrücken**
