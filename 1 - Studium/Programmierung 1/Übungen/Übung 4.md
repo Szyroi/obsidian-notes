@@ -53,42 +53,38 @@ public class Caesar {
 
         Scanner scanner = new Scanner(System.in);
 
-  
-
         char b;
-
         int k = scanner.nextInt();
-
         String t = scanner.next();
-
-  
-
+        
         for (int i = 0; i < t.length(); i++) {
-
             b = t.charAt(i);
-
             char verschluesselt = (char) ('A' + (b - 'A' + k) % 26);
-
             System.out.println("Buchstabe " + b);
-
             System.out.println("Buchstabe " + verschluesselt);
-
         }
 
-  
-
         scanner.close();
-
-  
-
+        
     }
-
 }
+
+```
+
+## **Aufgabe 4**
+
+
+```Java
+
+
+
+
+
 
 ```
 
 
 
-## **Aufgabe 4**
+
 
 ## **Aufgabe 5 👾**
