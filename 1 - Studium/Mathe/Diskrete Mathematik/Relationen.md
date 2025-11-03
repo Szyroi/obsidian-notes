@@ -92,7 +92,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 ## 4. Eigenschaften von Relationen (auf $A$)
 > [!definition] [[Reflexivität]]
 > 
-> $R$ ist **reflexiv**, falls  
+> $R$ ist **Reflexiv**, falls  
 > $$
 > \forall x\in A:\ (x,x)\in R.
 > $$
