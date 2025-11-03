@@ -104,21 +104,21 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > \forall x\in A:\ (x,x)\notin R.
 > $$
 
-> [!definition] Symmetrie  
+> [!definition] [[Symmetrie]]  
 > 
 > $R$ ist **symmetrisch**, falls  
 > $$
 > \forall x,y\in A:\ (x,y)\in R \implies (y,x)\in R.
 > $$
 
-> [!definition] Antisymmetrie  
+> [!definition] [[Antisymmetrie]]  
 > 
 > $R$ ist **antisymmetrisch**, falls  
 > $$
 > \forall x,y\in A:\ ((x,y)\in R \land (y,x)\in R) \implies x=y.
 > $$
 
-> [!definition] Transitivität  
+> [!definition] [[Transitivität]]  
 > 
 > $R$ ist **transitiv**, falls  
 > $$
@@ -151,7 +151,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > [!definition] Partielle Ordnung  
 > 
 > Eine Relation $R\subseteq A\times A$ ist **partiell geordnet**, falls sie   
->  - [[reflexiv]] 
+>  - [[Reflexivität]] 
 >  - antisymmetrisch 
 >  - transitiv ist. 
 > Man schreibt $(A,R)$ oder $(A,\le)$.
