@@ -46,7 +46,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] gerichteter Graph (Digraph)  
 > 
-> Relationen auf $A$ können als gerichtete Graphen mit Knoten $A$ und gerichteten Kanten \((x,y)\in R\) visualisiert werden.
+> Relationen auf $A$ können als gerichtete Graphen mit Knoten $A$ und gerichteten Kanten $(x,y)\in R$ visualisiert werden.
 
 
 ---
@@ -69,7 +69,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Identitätsrelation  
 > 
-> Auf \(A\) ist die Identität:  
+> Auf $A$ ist die Identität:  
 > $$
 > \mathrm{Id}_A=\{(x,x)\mid x\in A\}.
 > $$
@@ -169,7 +169,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Strikte Ordnung  
 > 
-> Eine **strikte** Ordnung \(<\) ist irreflexiv und transitiv; zu einer partiellen Ordnung \(\le\) gehört die strikte Ordnung \(<\) mit \(x<y \iff x\le y \land x\ne y\).
+> Eine **strikte** Ordnung $<$ ist irreflexiv und transitiv; zu einer partiellen Ordnung $\le$ gehört die strikte Ordnung \(<\) mit \(x<y \iff x\le y \land x\ne y\).
 
 > [!definition] Funktion als spezielle Relation  
 > 
