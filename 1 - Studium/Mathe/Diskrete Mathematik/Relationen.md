@@ -150,7 +150,10 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Partielle Ordnung  
 > 
-> Eine Relation $R\subseteq A\times A$ ist **partiell geordnet**, falls sie reflexiv, antisymmetrisch und transitiv ist. Man schreibt $(A,R)$ oder $(A,\le)$.
+> Eine Relation $R\subseteq A\times A$ ist **partiell geordnet**, falls sie - reflexiv 
+> 2. antisymmetrisch 
+> 3. transitiv ist. 
+> Man schreibt $(A,R)$ oder $(A,\le)$.
 
 > [!definition] Totale (lineare) Ordnung  
 > 
