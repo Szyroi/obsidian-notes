@@ -104,14 +104,14 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] [[Irreflexivität]]  
 > 
-> $R$ ist **irreflexiv**, falls  
+> $R$ ist **Irreflexiv**, falls  
 > $$
 > \forall x\in A:\ (x,x)\notin R.
 > $$
 
 > [!definition] [[Symmetrie]]  
 > 
-> $R$ ist **symmetrisch**, falls  
+> $R$ ist **Symmetrisch**, falls  
 > $$
 > \forall x,y\in A:\ (x,y)\in R \implies (y,x)\in R.
 > $$
