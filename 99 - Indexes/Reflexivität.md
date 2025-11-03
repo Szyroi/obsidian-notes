@@ -1,2 +1,7 @@
-> $R$ ist **reflexiv**, falls  
-> $\forall x\in A:\ (x,x)\in R.$
+
+> $$ R ist **reflexiv**, falls$$
+ \forall x\in A:\ (x,x)\in R.
+ $$
+ 
+>
+
