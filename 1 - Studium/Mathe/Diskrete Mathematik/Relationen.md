@@ -177,8 +177,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \forall x\in A\ \exists! y\in B:\ (x,y)\in R.
 > $$  
-> (für jedes \(x\) existiert genau ein \(y\) mit \((x,y)\in R\)).
-
+> für jedes $x$ existiert genau ein $y$ mit $(x,y)\in R$.
 
 ---
 
@@ -194,7 +193,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Kongruenz modulo \(n\)  
 > 
-> Auf \(\mathbb{Z}\): \(a\equiv b\pmod n\) definiert durch  
+> Auf $\mathbb{Z}$: $a\equiv b\pmod n$ definiert durch  
 > $$
 > a\equiv b\pmod n \iff n \mid (a-b),
 > $$  
