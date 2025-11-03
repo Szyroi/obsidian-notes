@@ -2,4 +2,4 @@
 
 Hallo Welt
 
-TiKJax Plz
+TiKJax Plugin
