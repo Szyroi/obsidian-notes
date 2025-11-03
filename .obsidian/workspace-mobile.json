@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Relationen"
             }
           }
         ]
@@ -156,7 +156,10 @@
   },
   "active": "e03092cda3d92bea",
   "lastOpenFiles": [
+    "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
+    "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf",
+    "README.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md"
   ]
 }
