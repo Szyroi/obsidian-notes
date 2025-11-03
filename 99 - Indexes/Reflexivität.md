@@ -1,7 +1,6 @@
-
-> $$ R ist **reflexiv**, falls$$
- \forall x\in A:\ (x,x)\in R.
- $$
- 
->
-
+> [!definition] [[Reflexivität]]  
+> 
+> $R$ ist **reflexiv**, falls  
+> $$
+> \forall x\in A:\ (x,x)\in R.
+> $$
