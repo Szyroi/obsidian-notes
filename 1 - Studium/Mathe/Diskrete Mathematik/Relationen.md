@@ -8,6 +8,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > R \subseteq A \times B
 > $$
+> Schreibweisen: $(x,y) ∈ R$ oder $xRy (x ∈ X , y ∈ Y )$. Die Menge $X$ heißt Domäane von $R: dom(R) = X$. Die Menge $Y$ heißt Kodomäne von $R: cod(R) = Y$. Eine binäre Relation mit dom(R) = cod(R) heißt homogen oder auch Endorelation. 
 
 > [!definition]   
 > 
