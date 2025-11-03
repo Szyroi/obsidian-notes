@@ -122,7 +122,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > 
 > $R$ ist **antisymmetrisch**, falls  
 > $$
-> \forall x,y\in A:\ (x,y)\in R \implies (y,x)\in R.
+> \forall x,y\in A:\ (x,y)\in R \ \land \ \implies (y,x)\in R.
 > $$
 
 > [!definition] [[Transitivität]]  
