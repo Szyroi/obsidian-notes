@@ -15,7 +15,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Domäne   
 > 
-> Man schreibt $(x,y)\in R$ genau dann, wenn $x$ in Relation zu $y$ steht.  
+> Die Menge $X$ heißt Domäne von $R: dom(R) = X$.  
 > - **Domain**:  
 > $$
 > \mathrm{dom}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
