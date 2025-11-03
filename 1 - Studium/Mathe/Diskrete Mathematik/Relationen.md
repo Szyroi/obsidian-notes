@@ -13,7 +13,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > Die Menge $Y$ heißt Kodomäne von $R: cod(R) = Y$.
 > Eine binäre Relation mit $dom(R) = cod(R)$ heißt homogen oder auch Endorelation. 
 
-> [!definition]   
+> [!definition] Definition: Domäne   
 > 
 > Man schreibt $(x,y)\in R$ genau dann, wenn $x$ in Relation zu $y$ steht.  
 > - **Domain**:  
