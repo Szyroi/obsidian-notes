@@ -118,6 +118,13 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > \forall x,y\in A:\ (x,y)\in R \implies \neg yRx.
 > $$
 
+> [!definition] [[Antisymmetrie]]  
+> 
+> $R$ ist **antisymmetrisch**, falls  
+> $$
+> \forall x,y\in A:\ (x,y)\in R \implies (y,x)\in R.
+> $$
+
 > [!definition] [[Transitivität]]  
 > 
 > $R$ ist **transitiv**, falls  
