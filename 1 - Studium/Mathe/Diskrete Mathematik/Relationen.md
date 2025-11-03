@@ -9,7 +9,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > R \subseteq A \times B
 > $$
 > Schreibweisen: $(x,y) ∈ R$ oder $xRy (x ∈ X , y ∈ Y )$. 
-> Eine binäre Relation mit $\mathrm{dom}(R) = \mathrm{cod}(R)$ heißt homogen oder auch Endorelation. 
+> Eine binäre Relation mit $\mathrm{dom}(R) = \mathrm{cod}(R)$ heißt ***homogen*** oder auch ***Endorelation***. 
 
 > [!definition] Definition: Domäne   
 > 
