@@ -169,11 +169,11 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Strikte Ordnung  
 > 
-> Eine **strikte** Ordnung $()<$ ist irreflexiv und transitiv zu einer partiellen Ordnung $\le$ gehört die strikte Ordnung $<$ mit $$x<y \iff x\le y \land x\ne y$$
+> Eine **strikte** Ordnung $(<)$ ist irreflexiv und transitiv. Zu einer partiellen Ordnung $(\le)$ gehört die strikte Ordnung $(<)$ mit $$x<y \iff x\le y \land x\ne y$$
 
 > [!definition] Funktion als spezielle Relation  
 > 
-> Sei \(R\subseteq A\times B\). \(R\) ist eine **Funktion** (Abbildung) \(f:A\to B\) genau dann, wenn  
+> Sei $R\subseteq A\times B$. $R$ ist eine **Funktion** (Abbildung) $f:A\to B$ genau dann, wenn  
 > $$
 > \forall x\in A\ \exists! y\in B:\ (x,y)\in R.
 > $$  
