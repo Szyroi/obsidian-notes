@@ -4,14 +4,14 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Relation  
 > 
-> Sei \(A\) und \(B\) Mengen. Eine **Relation** \(R\) von \(A\) nach \(B\) ist eine Teilmenge des kartesischen Produkts \(A \times B\):  
+> Sei $A$ und $B$ Mengen. Eine **Relation** $R$ von $A$ nach $B$ ist eine Teilmenge des kartesischen Produkts $A \times B$:  
 > $$
 > R \subseteq A \times B
 > $$
 
 > [!definition] Notation, Domain, Range  
 > 
-> - Man schreibt \((x,y)\in R\) genau dann, wenn \(x\) in Relation zu \(y\) steht.  
+> - Man schreibt $(x,y)\in R$ genau dann, wenn \(x\) in Relation zu \(y\) steht.  
 > - **Domain (Definitionsbereich)**:  
 > $$
 > \mathrm{dom}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
