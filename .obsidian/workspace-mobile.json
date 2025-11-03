@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf"
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u04.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "06_Kontrollstrukturen"
+              "title": "u04"
             }
           }
         ]
@@ -154,9 +154,9 @@
   },
   "active": "e03092cda3d92bea",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
-    "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf",
     "README.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md"
   ]
