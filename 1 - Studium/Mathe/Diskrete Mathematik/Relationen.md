@@ -16,17 +16,17 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > [!definition] Definition: Domäne   
 > 
 > Die Menge $X$ heißt Domäne von $R: dom(R) = X$.  
-> - **Domain**:  
+> - **Domäne**:  
 > $$
 > \mathrm{dom}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
 > $$  
 
 > [!definition] Definition: Kodomäne   
 > 
-> Die Menge $Y$ heißt Kodomäne von $R: dom(R) = X$.  
-> - **Kodomain**:  
+> Die Menge $Y$ heißt Kodomäne von $R: cod(R) = Y$.  
+> - **Kodomäne**:  
 > $$
-> \mathrm{cod}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
+> \mathrm{cod}(R)=\{y\in A \mid \exists x\in B:\ (x,y)\in R\}
 > $$  
 
 ---
