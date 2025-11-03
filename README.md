@@ -6,4 +6,5 @@ TODOs:
 
 TiKJax Plugin
 TI Praktikum Vorbereiten
-Mathe 
+Mathe Übung machen
+Gleitkomma
