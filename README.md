@@ -2,6 +2,8 @@
 
 Hallo Welt
 
-
+TODOs:
 
 TiKJax Plugin
+TI Praktikum Vorbereiten
+
