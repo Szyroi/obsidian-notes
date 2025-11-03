@@ -2,5 +2,5 @@
 > 
 > $R$ ist **reflexiv**, falls  
 > $$
-> \forall x\in A:\ (x,x)\in R.
+> \forall x\in U:\ xRx.
 > $$
