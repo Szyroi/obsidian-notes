@@ -1,0 +1,11 @@
+{
+  "ulu-theme-settings@@ulu-subtheme-selection": "ulu-origami",
+  "ulu-theme-settings@@ulu-theme-dark": "ulu-con-d",
+  "ulu-theme-settings@@ulu-radius": "var(--radius-l)",
+  "ulu-theme-settings@@ulu-callouts": "ulu-gummy-callouts",
+  "ulu-theme-settings@@ulu-codeblocks": "ulu-gummy-codeblock",
+  "ulu-theme-settings@@ulu-border": "ulu-dborder",
+  "ulu-theme-settings@@ulu-font-general": "Monaspace",
+  "ulu-theme-settings@@ulu-faintselect": false,
+  "ulu-theme-settings@@ulu-accent-title": true
+}
