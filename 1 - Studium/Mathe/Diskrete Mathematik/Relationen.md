@@ -11,7 +11,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Notation, Domain, Range  
 > 
-> - Man schreibt $(x,y)\in R$ genau dann, wenn \(x\) in Relation zu \(y\) steht.  
+> Man schreibt $(x,y)\in R$ genau dann, wenn $x$ in Relation zu $y$ steht.  
 > - **Domain (Definitionsbereich)**:  
 > $$
 > \mathrm{dom}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
@@ -46,7 +46,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] gerichteter Graph (Digraph)  
 > 
-> Relationen auf \(A\) können als gerichtete Graphen mit Knoten \(A\) und gerichteten Kanten \((x,y)\in R\) visualisiert werden.
+> Relationen auf $A$ können als gerichtete Graphen mit Knoten $A$ und gerichteten Kanten \((x,y)\in R\) visualisiert werden.
 
 
 ---
