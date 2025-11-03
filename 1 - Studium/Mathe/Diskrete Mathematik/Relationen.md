@@ -205,7 +205,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] ≤ auf Zahlen  
 > 
-> Die Relation \(\le\) auf \(\mathbb{R}\) ist eine totale Ordnung (reflexiv, antisymmetrisch, transitiv, total).
+> Die Relation $(\le)$ auf $\mathbb{R}$ ist eine totale Ordnung ([[Reflexivität|reflexiv]], antisymmetrisch, [[Transitivität|transitiv]], total).
 
 
 ---
