@@ -2,5 +2,5 @@
 > 
 > $R$ ist **transitiv**, falls  
 > $$
-> \forall x,y,z\in U:\ ((x,y)\in R \land (y,z)\in R) \implies (x,z)\in R.
+> \forall x,y,z\in U:\ xRy \ \land \ yRz \implies xRz.
 > $$
