@@ -205,7 +205,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] ≤ auf Zahlen  
 > 
-> Die Relation $(\le)$ auf $\mathbb{R}$ ist eine totale Ordnung ([[Reflexivität|reflexiv]], antisymmetrisch, [[Transitivität|transitiv]], total).
+> Die Relation $(\le)$ auf $\mathbb{R}$ ist eine totale Ordnung ([[Reflexivität|reflexiv]], [[Antisymmetrie |antisymmetrisch]], [[Transitivität|transitiv]], total).
 
 
 ---
@@ -214,7 +214,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Vereinigung und Schnitt  
 > 
-> Für \(R,S\subseteq A\times B\):  
+> Für $R,S\subseteq A\times B:$  
 > $$
 > R\cup S=\{(x,y)\mid (x,y)\in R \lor (x,y)\in S\},
 > $$  
@@ -222,13 +222,13 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > R\cap S=\{(x,y)\mid (x,y)\in R \land (x,y)\in S\}.
 > $$
 
-> [!definition] Komplement (relativ zu \(A\times B\))  
+> [!definition] Komplement (relativ zu $A\times B$)  
 > 
 > $$
 > R^c=(A\times B)\setminus R=\{(x,y)\in A\times B\mid (x,y)\notin R\}.
 > $$
 
-> [!definition] Relationale Potenzen (nochmals)  
+> [!definition] Relationale Potenzen 
 > 
 > $$
 > R^0=\mathrm{Id}_A,\quad R^{n+1}=R\circ R^n
