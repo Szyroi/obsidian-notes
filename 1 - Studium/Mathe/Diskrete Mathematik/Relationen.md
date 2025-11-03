@@ -169,7 +169,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Strikte Ordnung  
 > 
-> Eine **strikte** Ordnung $<$ ist irreflexiv und transitiv; zu einer partiellen Ordnung $\le$ gehört die strikte Ordnung \(<\) mit \(x<y \iff x\le y \land x\ne y\).
+> Eine **strikte** Ordnung $()<$ ist irreflexiv und transitiv zu einer partiellen Ordnung $\le$ gehört die strikte Ordnung $<$ mit $$x<y \iff x\le y \land x\ne y$$
 
 > [!definition] Funktion als spezielle Relation  
 > 
