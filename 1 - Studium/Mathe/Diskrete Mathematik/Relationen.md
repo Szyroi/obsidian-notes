@@ -201,7 +201,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Teilbarkeitsrelation  
 > 
-> Auf $\mathbb{N}:$ $(a \mid b)$ ($a$ teilt $b$) ist [[Reflexivität |reflexiv]] und transitiv, aber nicht symmetrisch; auf $\mathbb{N}\setminus\{0\}$ ist sie antisymmetrisch (wenn man passende Konventionen annimmt).
+> Auf $\mathbb{N}:$ $(a \mid b)$ ($a$ teilt $b$) ist [[Reflexivität|reflexiv]] und [[Transitivität|transitiv]], aber nicht symmetrisch; auf $\mathbb{N}\setminus\{0\}$ ist sie antisymmetrisch (wenn man passende Konventionen annimmt).
 
 > [!definition] ≤ auf Zahlen  
 > 
