@@ -9,10 +9,10 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > R \subseteq A \times B
 > $$
 
-> [!definition] Notation, Domain, Range  
+> [!definition]   
 > 
 > Man schreibt $(x,y)\in R$ genau dann, wenn $x$ in Relation zu $y$ steht.  
-> - **Domain (Definitionsbereich)**:  
+> - **Domain**:  
 > $$
 > \mathrm{dom}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
 > $$  
