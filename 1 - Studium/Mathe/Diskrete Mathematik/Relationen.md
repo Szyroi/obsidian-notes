@@ -151,7 +151,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > [!definition] Partielle Ordnung  
 > 
 > Eine Relation $R\subseteq A\times A$ ist **partiell geordnet**, falls sie   
->  - [[Reflexivität]] 
+>  - [reflexiv](Reflexivität) 
 >  - antisymmetrisch 
 >  - transitiv ist. 
 > Man schreibt $(A,R)$ oder $(A,\le)$.
