@@ -90,14 +90,14 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 ---
 
 ## 4. Eigenschaften von Relationen (auf $A$)
-> [!definition] Reflexivität  
+> [!definition] [[Reflexivität]]  
 > 
 > $R$ ist **reflexiv**, falls  
 > $$
 > \forall x\in A:\ (x,x)\in R.
 > $$
 
-> [!definition] Irreflexivität  
+> [!definition] [[Irreflexivität]]  
 > 
 > $R$ ist **irreflexiv**, falls  
 > $$
@@ -150,9 +150,10 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Partielle Ordnung  
 > 
-> Eine Relation $R\subseteq A\times A$ ist **partiell geordnet**, falls sie - reflexiv 
-> 2. antisymmetrisch 
-> 3. transitiv ist. 
+> Eine Relation $R\subseteq A\times A$ ist **partiell geordnet**, falls sie   
+>  - [[reflexiv]] 
+>  - antisymmetrisch 
+>  - transitiv ist. 
 > Man schreibt $(A,R)$ oder $(A,\le)$.
 
 > [!definition] Totale (lineare) Ordnung  
