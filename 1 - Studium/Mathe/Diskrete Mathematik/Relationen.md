@@ -113,9 +113,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] [[Asymmetrie]]  
 > 
-> $R$ ist **antisymmetrisch**, falls  
+> $R$ ist **asymmetrisch**, falls  
 > $$
-> \forall x,y\in A:\ ((x,y)\in R \land (y,x)\in R) \implies x=y.
+> \forall x,y\in A:\ ((x,y)\in R \implies \.
 > $$
 
 > [!definition] [[Transitivität]]  
