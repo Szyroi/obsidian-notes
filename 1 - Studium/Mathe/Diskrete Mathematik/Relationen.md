@@ -245,8 +245,8 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Hinweise zur Notation  
 > 
-> - Manche Autoren schreiben \(xRy\) anstelle von \((x,y)\in R\).  
-> - Achte bei Komposition auf die Reihenfolge: \(S\circ R\) bedeutet erst \(R\), dann \(S\).
+> - Manche Autoren schreiben $xRy$ anstelle von $(x,y)\in R$.  
+> - Achte bei Komposition auf die Reihenfolge: $S\circ R$ bedeutet erst $R$, dann $S$.
 
 
 ---
