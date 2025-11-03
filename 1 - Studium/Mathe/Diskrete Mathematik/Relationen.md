@@ -20,11 +20,14 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \mathrm{dom}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
 > $$  
-> - **Bild**:  
-> $$
-> \mathrm{ran}(R)=\{y\in B \mid \exists x\in A:\ (x,y)\in R\}
-> $$
 
+> [!definition] Definition: Kodomäne   
+> 
+> Die Menge $Y$ heißt Kodomäne von $R: dom(R) = X$.  
+> - **Kodomain**:  
+> $$
+> \mathrm{cod}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
+> $$  
 
 ---
 
