@@ -96,7 +96,6 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \forall x\in A:\ (x,x)\in R.
 > $$
->^def-Reflexivität
 
 > [!definition] [[Irreflexivität]]  
 > 
