@@ -89,7 +89,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 ---
 
-## 4. Eigenschaften von Relationen
+## 4. Eigenschaften von Endorelationen
 > [!definition] [[Reflexivität]]
 > 
 > $R$ ist **Reflexiv**, falls  
@@ -111,7 +111,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > \forall x,y\in A:\ (x,y)\in R \implies (y,x)\in R.
 > $$
 
-> [!definition] [[Antisymmetrie]]  
+> [!definition] [[Asymmetrie]]  
 > 
 > $R$ ist **antisymmetrisch**, falls  
 > $$
