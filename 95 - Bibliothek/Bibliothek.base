@@ -5,7 +5,8 @@ views:
       and:
         - file.folder == "obsidian-notes/95 - Bibliothek/Bücher"
     order:
-      - authors
+      - title
+      - author
     imageFit: contain
     image: note.coverUrl
     imageAspectRatio: 1.45
