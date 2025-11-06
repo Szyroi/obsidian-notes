@@ -16,3 +16,4 @@ previewLink: http://books.google.de/books?id=XsRlDwAAQBAJ&pg=PR4&dq=978-3-658-22
 isbn13: 9783658226961
 isbn10: 365822696X
 ---
+![[Übungsbuch Automaten und formale Sprachen.pdf]]
