@@ -16,3 +16,4 @@ previewLink: http://books.google.de/books?id=4CwzEQAAQBAJ&pg=PR4&dq=978-3-662-70
 isbn13: 9783662701461
 isbn10: 3662701464
 ---
+![[Automaten und Sprachen Theoretische Informatik für die Praxis.pdf]]
