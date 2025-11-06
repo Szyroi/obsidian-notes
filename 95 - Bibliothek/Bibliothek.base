@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Cover
+    filters:
+      and:
+        - file.folder == "obsidian-notes/95 - Bibliothek/Bücher/PDFs"
+    imageFit: contain
+    image: note.coverUrl
+    imageAspectRatio: 1.45
