@@ -74,15 +74,15 @@ Man zeigt, dass eine Aussage für alle \( n \in \mathbb{N} \) gilt, indem man si
 
 ### Vorgehensweise
 1. **Induktionsanfang (IA):** Zeige, dass die Aussage für \( n = n_0 \) gilt.  
-2. **Induktionsvoraussetzung (IV):** Nimm an, sie gilt für ein beliebiges \( n \).  
-3. **Induktionsschritt (IS):** Zeige, dass daraus folgt, dass sie auch für \( n + 1 \) gilt.  
-4. **Schluss:** Damit gilt die Aussage für alle \( n \ge n_0 \).
+2. **Induktionsvoraussetzung (IV):** Nimm an, sie gilt für ein beliebiges $(n)  
+3. **Induktionsschritt (IS):** Zeige, dass daraus folgt, dass sie auch für $( n + 1 )$ gilt.  
+4. **Schluss:** Damit gilt die Aussage für alle $( n \ge n_0 )$
 
 ### Beispiel
-> **Behauptung:** Für alle \( n \in \mathbb{N} \) gilt  
-> \( 1 + 2 + \dots + n = \frac{n(n+1)}{2} \).  
+> **Behauptung:** Für alle $( n \in \mathbb{N} )$ gilt  
+> $( 1 + 2 + \dots + n = \frac{n(n+1)}{2} )$  
 >
-> **IA:** Für \( n=1 \): \( 1 = \frac{1(1+1)}{2} = 1 \). 
+> **IA:** Für $( n=1 ): ( 1 = \frac{1(1+1)}{2} = 1 )$ 
 >
 > **IV:** Angenommen, die Formel gilt für $( n )$.  
 > **IS:** Dann gilt für $(n+1)$:  
