@@ -95,12 +95,12 @@ Man zeigt, dass eine Aussage für alle \( n \in \mathbb{N} \) gilt, indem man si
 
 ## 🧩 Vergleich der Beweisprinzipien
 
-| Prinzip | Typische Anwendung | Vorgehensweise | Beispiel |
-|----------|-------------------|----------------|-----------|
-| Direkter Beweis | Logische Implikationen | Von A zu B schließen | „Gerade → Quadrat gerade“ |
-| Kontraposition | Wenn Negation einfacher ist | „Nicht B ⇒ Nicht A“ | „Wenn \( n^2 \) ungerade → \( n \) ungerade“ |
-| Widerspruch | Beweis durch Unmöglichkeit | Angenommen Gegenteil → Widerspruch | „√2 irrational“ |
-| Induktion | Aussagen über ℕ | Anfang + Schritt | Summenformel |
+| Prinzip         | Typische Anwendung          | Vorgehensweise                     | Beispiel                             |
+| --------------- | --------------------------- | ---------------------------------- | ------------------------------------ |
+| Direkter Beweis | Logische Implikationen      | Von A zu B schließen               | „Gerade → Quadrat gerade“            |
+| Kontraposition  | Wenn Negation einfacher ist | „Nicht B ⇒ Nicht A“                | „Wenn $n^2$ ungerade → $n$ ungerade“ |
+| Widerspruch     | Beweis durch Unmöglichkeit  | Angenommen Gegenteil → Widerspruch | „$√2$ irrational“                    |
+| Induktion       | Aussagen über ℕ             | Anfang + Schritt                   | Summenformel                         |
 
 ---
 
