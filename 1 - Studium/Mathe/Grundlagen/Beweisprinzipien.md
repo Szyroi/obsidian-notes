@@ -14,11 +14,11 @@ direkt durch logisches Schließen von den Voraussetzungen (A) auf die Behauptung
 3. Leite die Behauptung (B) ab.
 
 ### Beispiel
-> **Behauptung:** Ist \( n \) gerade, dann ist \( n^2 \) gerade.  
+> **Behauptung:** Ist $n$ gerade, dann ist $n^2$ gerade.  
 > **Beweis:**  
-> Sei \( n = 2k \) mit \( k \in \mathbb{Z} \).  
-> Dann ist \( n^2 = (2k)^2 = 4k^2 = 2(2k^2) \).  
-> Also ist \( n^2 \) gerade. ■
+> Sei $n = 2k \ mit \ k \in \mathbb{Z}$.  
+> Dann ist  $n^2 = (2k)^2 = 4k^2 = 2(2k^2)$  
+> Also ist  $n^2 \ gerade. ■$
 
 ---
 
