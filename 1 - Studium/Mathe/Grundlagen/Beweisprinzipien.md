@@ -73,10 +73,11 @@ Verwendet man für Aussagen über natürliche Zahlen.
 Man zeigt, dass eine Aussage für alle \( n \in \mathbb{N} \) gilt, indem man sie zuerst für den Anfangswert beweist und dann zeigt, dass ihre Gültigkeit für \( n \) auch die Gültigkeit für \( n+1 \) impliziert.
 
 ### Vorgehensweise
-1. **Induktionsanfang (IA):** Zeige, dass die Aussage für \( n = n_0 \) gilt.  
-2. **Induktionsvoraussetzung (IV):** Nimm an, sie gilt für ein beliebiges $(n)  
-3. **Induktionsschritt (IS):** Zeige, dass daraus folgt, dass sie auch für $( n + 1 )$ gilt.  
-4. **Schluss:** Damit gilt die Aussage für alle $( n \ge n_0 )$
+1. **Induktionsanfang (IA):** Zeige, dass die Aussage für $( n = n_0 )$ gilt.  
+2. **Induktionsvoraussetzung (IV):** Nimm an, sie gilt für ein beliebiges $(n)$
+3. **Induktionsschritt (IS):** Zeige, dass daraus folgt, dass sie auch für
+4. $(n + 1)$ gilt.  
+5. **Schluss:** Damit gilt die Aussage für alle $( n \ge n_0 )$
 
 ### Beispiel
 > **Behauptung:** Für alle $( n \in \mathbb{N} )$ gilt  
@@ -88,7 +89,7 @@ Man zeigt, dass eine Aussage für alle \( n \in \mathbb{N} \) gilt, indem man si
 > **IS:** Dann gilt für $(n+1)$:  
 > $( 1 + 2 + \dots + n + (n+1) = \frac{n(n+1)}{2} + (n+1) = \frac{(n+1)(n+2)}{2} )$
 >
-> Also gilt die Behauptung für alle $( n \in \mathbb{N} ) ■$
+> Also gilt die Behauptung für alle $( n \in \mathbb{N} ) \ \ ■$
 
 ---
 
@@ -103,5 +104,3 @@ Man zeigt, dass eine Aussage für alle \( n \in \mathbb{N} \) gilt, indem man si
 
 ---
 
-**📘 Merksatz:**  
-> Jeder mathematische Beweis basiert auf logischer Folgerichtigkeit — das gewählte Prinzip hängt von der Struktur der Aussage ab.
