@@ -18,7 +18,7 @@ direkt durch logisches Schließen von den Voraussetzungen (A) auf die Behauptung
 > **Beweis:**  
 > Sei $n = 2k \ mit \ k \in \mathbb{Z}$.  
 > Dann ist  $n^2 = (2k)^2 = 4k^2 = 2(2k^2)$  
-> Also ist  $n^2 \ gerade. ■$
+> Also ist  $n^2  \ gerade. ■$
 
 ---
 
@@ -32,14 +32,14 @@ Beide Aussagen sind **logisch äquivalent**.
 
 ### Vorgehensweise
 1. Formuliere die Kontraposition:  
-   \( A \Rightarrow B \) ⇔ \( \neg B \Rightarrow \neg A \)  
+   $A \Rightarrow B  ⇔  \neg B \Rightarrow \neg A$  
 2. Beweise die kontrapositive Aussage.
 
 ### Beispiel
-> **Behauptung:** Wenn \( n^2 \) ungerade ist, dann ist \( n \) ungerade.  
-> **Kontraposition:** Wenn \( n \) gerade ist, dann ist \( n^2 \) gerade.  
+> **Behauptung:** Wenn $n^2$ ungerade ist, dann ist $n$ ungerade.  
+> **Kontraposition:** Wenn $n$ gerade ist, dann ist $n^2$ gerade.  
 > **Beweis:**  
-> Sei \( n = 2k \). Dann \( n^2 = 4k^2 = 2(2k^2) \), also gerade.  
+> Sei \( n = 2k \). Dann $\ n^2 = 4k^2 = 2(2k^2)$, also gerade.  
 > Damit ist auch die ursprüngliche Behauptung bewiesen. ■
 
 ---
