@@ -60,24 +60,24 @@ $$
 
 ## 🧱 Logische Gesetze (Äquivalenzen)
 
-| Gesetz                | Formel                                                                                                                 |
-| :-------------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| **Doppelte Negation** | $\neg(\neg A) \Leftrightarrow A$                                                                                       |
-| **Kommutativgesetz**  | $A \land B \Leftrightarrow B \land A$                                                                                  |
-| **Distributivgesetz** | $A \land (B \lor C) \Leftrightarrow (A \land B) \lor (A \land C)$                                                      |
-| **De Morgan**         | $\neg(A \land B) \Leftrightarrow (\neg A \lor \neg B)$ <br> \( \neg(A \lor B) \Leftrightarrow (\neg A \land \neg B) \) |
-| **Implikation**       | \( A \Rightarrow B \Leftrightarrow (\neg A \lor B) \)                                                                  |
-| **Äquivalenz**        | \( A \Leftrightarrow B \Leftrightarrow (A \Rightarrow B) \land (B \Rightarrow A) \)                                    |
+| Gesetz                |                                                       Formel                                                       |
+| :-------------------- | :----------------------------------------------------------------------------------------------------------------: |
+| **Doppelte Negation** |                                          $\neg(\neg A) \Leftrightarrow A$                                          |
+| **Kommutativgesetz**  |                                       $A \land B \Leftrightarrow B \land A$                                        |
+| **Distributivgesetz** |                         $A \land (B \lor C) \Leftrightarrow (A \land B) \lor (A \land C)$                          |
+| **De Morgan**         | $\neg(A \land B) \Leftrightarrow (\neg A \lor \neg B)$ <br> $\neg(A \lor B) \Leftrightarrow (\neg A \land \neg B)$ |
+| **Implikation**       |                                 $A \Rightarrow B \Leftrightarrow (\neg A \lor B)$                                  |
+| **Äquivalenz**        |                  $A \Leftrightarrow B \Leftrightarrow (A \Rightarrow B) \land (B \Rightarrow A)$                   |
 
 ---
 
 ## 🧩 Tautologie, Kontradiktion & Kontingenz
 
-| Begriff | Definition | Beispiel |
-|:---------|:------------|:----------|
-| **Tautologie** | Immer wahr | \( A \lor \neg A \) |
-| **Kontradiktion** | Immer falsch | \( A \land \neg A \) |
-| **Kontingenz** | Je nach A und B wahr oder falsch | \( A \Rightarrow B \) |
+| Begriff           | Definition                       | Beispiel          |
+| :---------------- | :------------------------------- | :---------------- |
+| **Tautologie**    | Immer wahr                       | $A \lor \neg A$   |
+| **Kontradiktion** | Immer falsch                     | $A \land \neg A$  |
+| **Kontingenz**    | Je nach A und B wahr oder falsch | $A \Rightarrow B$ |
 
 ---
 
