@@ -39,7 +39,7 @@ Beide Aussagen sind **logisch äquivalent**.
 > **Behauptung:** Wenn $n^2$ ungerade ist, dann ist $n$ ungerade.  
 > **Kontraposition:** Wenn $n$ gerade ist, dann ist $n^2$ gerade.  
 > **Beweis:**  
-> Sei \( n = 2k \). Dann $\ n^2 = 4k^2 = 2(2k^2)$, also gerade.  
+> Sei $n = 2k$. Dann $n^2 = 4k^2 = 2(2k^2)$, also gerade.  
 > Damit ist auch die ursprüngliche Behauptung bewiesen. ■
 
 ---
@@ -55,10 +55,10 @@ Man nimmt das **Gegenteil** der zu beweisenden Aussage an und zeigt, dass daraus
 3. Schließe daraus, dass die ursprüngliche Behauptung wahr sein muss.
 
 ### Beispiel
-> **Behauptung:** \( \sqrt{2} \) ist irrational.  
+> **Behauptung:** $\sqrt{2}$ ist irrational.  
 > **Beweis:**  
-> Angenommen, \( \sqrt{2} \) ist rational ⇒ \( \sqrt{2} = \frac{p}{q} \) mit teilerfremden \( p, q \in \mathbb{Z} \).  
-> Dann \( 2q^2 = p^2 \).  
+> Angenommen, $\sqrt{2}$ ist rational ⇒ $\sqrt{2} = \frac{p}{q}$ mit teilerfremden  $p, q \in \mathbb{Z}$.  
+> Dann $2q^2 = p^2$.  
 > ⇒ \( p^2 \) ist gerade ⇒ \( p \) ist gerade ⇒ \( p = 2k \).  
 > ⇒ \( 2q^2 = 4k^2 \Rightarrow q^2 = 2k^2 \) ⇒ \( q \) gerade.  
 > Widerspruch, da \( p, q \) beide gerade ⇒ nicht teilerfremd.  
