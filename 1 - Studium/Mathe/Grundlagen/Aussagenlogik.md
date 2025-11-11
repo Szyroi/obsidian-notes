@@ -12,7 +12,7 @@ Eine **Aussage** ist ein Satz, der **entweder wahr oder falsch** ist.
 **Beispiele:**
 - „3 ist eine Primzahl.“ ✅ → wahr  
 - „5 ist gerade.“ ❌ → falsch  
-- „\( x > 2 \)” → **keine Aussage**, da der Wahrheitswert von \( x \) abhängt.
+- „$x > 2$” → **keine Aussage**, da der Wahrheitswert von $x$ abhängt.
 
 ---
 
