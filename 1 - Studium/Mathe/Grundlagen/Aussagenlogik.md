@@ -91,11 +91,11 @@ Die Aussagenlogik ist die Grundlage für Beweisprinzipien wie:
 - **Induktion**
 
 **Beispiel (logische Form):**
-\[
+$$
 \text{gerade}(n) \Rightarrow \text{gerade}(n^2)
-\]
+$$
 **Beweisidee:**  
-Aus \( n = 2k \Rightarrow n^2 = 4k^2 = 2(2k^2) \Rightarrow \text{gerade} \).
+Aus  $n = 2k \Rightarrow n^2 = 4k^2 = 2(2k^2) \Rightarrow \text{gerade}$
 
 ---
 
@@ -110,15 +110,15 @@ Aus \( n = 2k \Rightarrow n^2 = 4k^2 = 2(2k^2) \Rightarrow \text{gerade} \).
 
 ## 🗂️ Zusammenfassung
 
-| Konzept | Symbol | Bedeutung |
-|----------|---------|-----------|
-| Negation | \( \neg A \) | Nicht A |
-| Konjunktion | \( A \land B \) | A und B |
-| Disjunktion | \( A \lor B \) | A oder B |
-| Implikation | \( A \Rightarrow B \) | Wenn A, dann B |
-| Äquivalenz | \( A \Leftrightarrow B \) | A genau dann, wenn B |
-| Tautologie | — | Immer wahr |
-| Kontradiktion | — | Immer falsch |
+| Konzept       | Symbol                | Bedeutung            |
+| ------------- | --------------------- | -------------------- |
+| Negation      | $\neg A$              | Nicht A              |
+| Konjunktion   | $A \land B$           | A und B              |
+| Disjunktion   | $A \lor B$            | A oder B             |
+| Implikation   | $A \Rightarrow B$     | Wenn A, dann B       |
+| Äquivalenz    | $A \Leftrightarrow B$ | A genau dann, wenn B |
+| Tautologie    | —                     | Immer wahr           |
+| Kontradiktion | —                     | Immer falsch         |
 
 ---
 
