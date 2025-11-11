@@ -33,26 +33,26 @@ $$
 
 ## ⚙️ Logische Verknüpfungen
 
-| Symbol                    | Name        | Bedeutung              | Wahrheit                                       |
-| :------------------------ | :---------- | :--------------------- | :--------------------------------------------- |
-| $\neg A$                  | Negation    | „nicht A“              | kehrt den Wahrheitswert um                     |
-| $A \land B$               | Konjunktion | „A und B“              | wahr nur, wenn beide wahr                      |
-| $A \lor B$                | Disjunktion | „A oder B“ (inklusiv)  | falsch nur, wenn beide falsch                  |
-| \( $A \Rightarrow B$ \)   | Implikation | „Wenn A, dann B“       | falsch nur, wenn A wahr und B falsch           |
-| \( A \Leftrightarrow B \) | Äquivalenz  | „A genau dann, wenn B“ | wahr, wenn beide denselben Wahrheitswert haben |
+|        Symbol         | Name        | Bedeutung              | Wahrheit                                       |
+| :-------------------: | :---------- | :--------------------- | :--------------------------------------------- |
+|       $\neg A$        | Negation    | „nicht A“              | kehrt den Wahrheitswert um                     |
+|      $A \land B$      | Konjunktion | „A und B“              | wahr nur, wenn beide wahr                      |
+|      $A \lor B$       | Disjunktion | „A oder B“ (inklusiv)  | falsch nur, wenn beide falsch                  |
+|   $A \Rightarrow B$   | Implikation | „Wenn A, dann B“       | falsch nur, wenn A wahr und B falsch           |
+| $A \Leftrightarrow B$ | Äquivalenz  | „A genau dann, wenn B“ | wahr, wenn beide denselben Wahrheitswert haben |
 
 ---
 
 ## 🧮 Wahrheitstabellen
 
-### Beispiel: Implikation \( A \Rightarrow B \)
+### Beispiel: Implikation $A \Rightarrow B$
 
 | \( A \) | \( B \) | \( A \Rightarrow B \) |
-|:-------:|:-------:|:---------------------:|
-| W | W | W |
-| W | F | F |
-| F | W | W |
-| F | F | W |
+| :-----: | :-----: | :-------------------: |
+|    W    |    W    |           W           |
+|    W    |    F    |           F           |
+|    F    |    W    |           W           |
+|    F    |    F    |           W           |
 
 👉 Nur **falsch**, wenn \( A \) wahr und \( B \) falsch.
 
