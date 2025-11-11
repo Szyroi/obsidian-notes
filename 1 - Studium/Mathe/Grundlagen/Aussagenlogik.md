@@ -20,26 +20,26 @@ Eine **Aussage** ist ein Satz, der **entweder wahr oder falsch** ist.
 
 Aussagen werden meist mit Buchstaben bezeichnet:
 
-\[
+$$
 A, B, C, p, q, r, \dots
-\]
+$$
 
 **Beispiel:**
-\[
+$$
 p: \text{„Es regnet.“}, \quad q: \text{„Ich nehme einen Schirm mit.“}
-\]
+$$
 
 ---
 
 ## ⚙️ Logische Verknüpfungen
 
-| Symbol | Name | Bedeutung | Wahrheit |
-|:-------|:------|:-----------|:----------|
-| \( \neg A \) | Negation | „nicht A“ | kehrt den Wahrheitswert um |
-| \( A \land B \) | Konjunktion | „A und B“ | wahr nur, wenn beide wahr |
-| \( A \lor B \) | Disjunktion | „A oder B“ (inklusiv) | falsch nur, wenn beide falsch |
-| \( A \Rightarrow B \) | Implikation | „Wenn A, dann B“ | falsch nur, wenn A wahr und B falsch |
-| \( A \Leftrightarrow B \) | Äquivalenz | „A genau dann, wenn B“ | wahr, wenn beide denselben Wahrheitswert haben |
+| Symbol                    | Name        | Bedeutung              | Wahrheit                                       |
+| :------------------------ | :---------- | :--------------------- | :--------------------------------------------- |
+| $\neg A$                  | Negation    | „nicht A“              | kehrt den Wahrheitswert um                     |
+| $A \land B$               | Konjunktion | „A und B“              | wahr nur, wenn beide wahr                      |
+| $A \lor B$                | Disjunktion | „A oder B“ (inklusiv)  | falsch nur, wenn beide falsch                  |
+| \( $A \Rightarrow B$ \)   | Implikation | „Wenn A, dann B“       | falsch nur, wenn A wahr und B falsch           |
+| \( A \Leftrightarrow B \) | Äquivalenz  | „A genau dann, wenn B“ | wahr, wenn beide denselben Wahrheitswert haben |
 
 ---
 
