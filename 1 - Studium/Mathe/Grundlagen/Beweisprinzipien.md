@@ -84,11 +84,11 @@ Man zeigt, dass eine Aussage für alle \( n \in \mathbb{N} \) gilt, indem man si
 >
 > **IA:** Für \( n=1 \): \( 1 = \frac{1(1+1)}{2} = 1 \). 
 >
-> **IV:** Angenommen, die Formel gilt für \( n \).  
-> **IS:** Dann gilt für \( n+1 \):  
-> \( 1 + 2 + \dots + n + (n+1) = \frac{n(n+1)}{2} + (n+1) = \frac{(n+1)(n+2)}{2} \).  
+> **IV:** Angenommen, die Formel gilt für $( n )$.  
+> **IS:** Dann gilt für $(n+1)$:  
+> $( 1 + 2 + \dots + n + (n+1) = \frac{n(n+1)}{2} + (n+1) = \frac{(n+1)(n+2)}{2} )$
 >
-> Also gilt die Behauptung für alle \( n \in \mathbb{N} \). ■
+> Also gilt die Behauptung für alle $( n \in \mathbb{N} ) ■$
 
 ---
 
