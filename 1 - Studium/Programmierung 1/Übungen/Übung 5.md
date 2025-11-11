@@ -23,3 +23,29 @@ public class BitQuersumme {
 
 ## **Aufgabe 3**
 
+1. 
+```Java
+public class Leibniz_Reihe {
+    public static void main(String[] args) {
+
+        int n = 100000;
+        double s = 0.0;
+        int vorz = 1;
+
+        for (int i = 0; i < n; i++) {
+
+            s += vorz * (1.0 / (2 * i + 1));
+
+            vorz = -vorz;
+
+        }
+
+        double pi = 4 * s;
+
+        System.out.println(pi);
+
+    }
+
+}
+
+```
