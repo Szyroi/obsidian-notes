@@ -11,14 +11,12 @@
             "id": "1651a2245821e16e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "Mathematik für Informatiker DMLA"
             }
           }
         ]
@@ -98,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,10 +154,13 @@
   },
   "active": "1651a2245821e16e",
   "lastOpenFiles": [
+    "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf",
+    "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md",
+    "1 - Studium/Mathe/Übungen/Übung 5.md",
+    "README.md",
     "95 - Bibliothek/Bücher/PDFs/Computernetze kompakt.pdf",
     "95 - Bibliothek/Bibliothek.base",
     "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
-    "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatik und Data Science.pdf",
     "95 - Bibliothek/Bücher/PDFs/Grundkurs JAVA.pdf",
@@ -169,10 +170,8 @@
     "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "96 - Dateien/Praktika/Technische Informatik Praktikum/Teil 2/Teil 2 - Aufgabenmappe mit Einfuehrung.pdf",
-    "96 - Dateien/Folien/TI Folien/03-Schaltwerke.pdf",
     "1 - Studium/Technische Informatik/Praktikum/Teil 1.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
-    "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
-    "README.md"
+    "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md"
   ]
 }
