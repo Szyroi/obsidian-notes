@@ -1,10 +1,12 @@
 # Obsidian Notizen
 
-Hallo Welt
-
 TODOs:
+Netze: Alles Lernen
 
-TiKJax Plugin
-TI Praktikum Vorbereiten
-Mathe Übung machen
-Gleitkommadarstellung
+TI: Praktikum 2 Vorbereiten
+
+Mathe: Mathematik für Informatiker & Übungen mit ACAT 
+
+Prog 1: Formale Sprachen, Gleitkommadarstellung, Bit Funktion & Übungen
+
+Japanisch: Hiragana, Katakana, Vokabeln & Textproduktion
