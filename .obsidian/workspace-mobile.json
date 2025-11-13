@@ -38,7 +38,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Dateiexplorer"
+          "title": "Files"
         }
       },
       {
@@ -152,7 +152,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "1651a2245821e16e",
+  "active": "7d2c7599c08348b8",
   "lastOpenFiles": [
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf",
