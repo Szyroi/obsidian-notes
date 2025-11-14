@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
+                "file": "2 - Linux/Rust/Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beweisprinzipien"
+              "title": "Syntax"
             }
           }
         ]
@@ -156,6 +156,9 @@
   },
   "active": "1651a2245821e16e",
   "lastOpenFiles": [
+    "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
+    "2 - Linux/Rust/Syntax.md",
+    "2 - Linux/Rust",
     "96 - Dateien/Folien/Prog 1 Folien/08_Typanpassung_Operatoren_Methoden.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/07_Kontrollstrukturen_Variablen.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
@@ -168,10 +171,8 @@
     "95 - Bibliothek/Bibliothek.base",
     "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatik und Data Science.pdf",
-    "95 - Bibliothek/Bücher/PDFs/Grundkurs JAVA.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
     "95 - Bibliothek/Bücher/Grundkurs JAVA - Dietmar Abts.md",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u04.pdf",
     "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
     "1 - Studium/Technische Informatik/Praktikum/Teil 1.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
