@@ -18,7 +18,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \mathrm{dom}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
 > $$  
-> Die Codomain ist **nicht** zwingend die Menge aller tatsächlich erreichten Werte – das ist die Bildmenge.
+> [!warning] Achtung: Die Codomain ist **nicht** zwingend die Menge aller tatsächlich erreichten Werte – das ist die Bildmenge.
 
 > [!definition] Definition: Kodomäne   
 > 
