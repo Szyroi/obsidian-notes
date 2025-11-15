@@ -171,7 +171,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > [!definition] FLIS-Eigenschaften
 > Seien $A,B$ Mengen und $R: A \to B$ eine Relation
 > $(i)$ $R$ heißt funktional (rechtseindeutig), 
-> $(ii)$ injektiv (linkseindeutig)
+> $(ii)$ injektiv (linkseindeutig) falls jeder wert von der $\mathrm{}$
 > $(iii)$ surjektiv (rechtstotal)
 > $(iv)$ Bijektiv
 > $(v)$ linkstotal
