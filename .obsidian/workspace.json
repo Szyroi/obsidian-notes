@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
+                "file": "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Folien_zur_Vorlesung"
+              "title": "Outline of UBlatt03"
             }
           },
           {
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5ddddc60896c48b",
+  "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
