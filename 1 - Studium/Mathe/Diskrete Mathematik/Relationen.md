@@ -13,7 +13,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Konverse Relation  
 > 
-> Sei $A$ und $B$ Mengen. Eine **Relation** $R$ von $A$ nach $B$ ist eine Teilmenge des kartesischen Produkts $A \times B$:  
+>Für eine **Relation** $R: A \to B$ heißtProdukts $A \times B$:  
 > $$
 > R \subseteq A \times B
 > $$
