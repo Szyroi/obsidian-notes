@@ -171,6 +171,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > [!definition] FLIS-Eigenschaften
 > Seien $A,B$ Mengen und $R: A \to B$ eine Relation
 > $(i)$ $R$ heißt **funktional (rechtseindeutig)** falls jeder wert von der $\mathrm{dom(R)}$ **höchstens einem** Element der $\mathrm{cod(R)}$ zugeordnet ist. 
+> $$
+> \forall_{x \in A} \ 
+> $$
 > 
 > $(ii)$ **injektiv (linkseindeutig)** falls jeder wert von der $\mathrm{cod(R)}$ **höchstens einem** Element der $\mathrm{dom(R)}$ zugeordnet ist.
 > $$
