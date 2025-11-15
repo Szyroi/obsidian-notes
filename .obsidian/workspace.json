@@ -11,14 +11,12 @@
             "id": "5cd4dc969305a8be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "UBlatt03"
             }
           }
         ]
@@ -193,6 +191,7 @@
   },
   "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
+    "1 - Studium/Mathe/Übungen/Übung 3.md",
     "README.md",
     "99 - Indexes/Transitivität.md",
     "99 - Indexes/Symmetrie.md",
@@ -227,7 +226,6 @@
     "95 - Bibliothek/Bücher/Logik für die Informatik - Markus Junker.md",
     "95 - Bibliothek/Bücher/Java als erste Programmiersprache - Joachim Goll Cornelia Heinisch.md",
     "95 - Bibliothek/Bücher/Grundlagen der Theoretischen Informatik - André Schulz.md",
-    "95 - Bibliothek/Bücher/Grundkurs JAVA - Dietmar Abts.md",
-    "95 - Bibliothek/Bücher/Einführung in die Informatik - Bastian Küppers.md"
+    "95 - Bibliothek/Bücher/Grundkurs JAVA - Dietmar Abts.md"
   ]
 }
