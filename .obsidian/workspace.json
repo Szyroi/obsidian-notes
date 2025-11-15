@@ -11,10 +11,14 @@
             "id": "5cd4dc969305a8be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -187,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
     "README.md",
     "99 - Indexes/Transitivität.md",
