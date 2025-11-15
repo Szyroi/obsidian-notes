@@ -169,8 +169,8 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 
 > [!definition] FLIS-Eigenschaften
-> S
-> $(i)$
+> Seien $A,B$ Mengen und $R: A \to B$ eine Relation
+> $(i)$ $R$ heißt funktional, 
 > $(ii)$
 > $(iii)$
 > $(iv)$
