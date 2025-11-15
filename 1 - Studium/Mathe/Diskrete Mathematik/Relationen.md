@@ -216,7 +216,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > 
 > Auf jeder Menge \(A\):  
 > $$
-> =\;=\{(x,x)\mid x\in A\}
+> (=)\ :=\{(x,x)\mid x\in A\}
 > $$  
 > ist eine Äquivalenzrelation.
 
