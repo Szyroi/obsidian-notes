@@ -1,5 +1,5 @@
 
-> [!info] Definition: {{title}}
+> [!info] info: {{title}}
 > {{description}}
 >
 
