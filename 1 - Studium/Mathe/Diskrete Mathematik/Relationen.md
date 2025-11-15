@@ -180,9 +180,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \forall_{y \in B} \exists_{x \in A} \ \ xRy \Leftrightarrow \mathrm{im(R) = cod(R) = B}.
 > $$
-> $(iv)$ R heißt **bijektiv**, wenn RRR sowohl funktional als auch injektiv und surjektiv ist. D.h. die Zuordnung ist eindeutig und trifft die gesamte Zielmenge.
-
-> $(v)$ linkstotal
+> $(iv)$ $R$ heißt **bijektiv**, wenn $R$ sowohl funktional als auch injektiv und surjektiv ist. D.h. die Zuordnung ist eindeutig und trifft die gesamte Zielmenge.
+> 
+> $(v)$ R heißt **linkstotal**, wenn jedes Element aus $dom(R)\mathrm{dom}(R)dom(R)$ **mindestens ein** Bild besitzt.
 > 
 ---
 
