@@ -176,7 +176,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \forall_{x_{1},x_{2} \in A} \ \forall_{y \in B} \ x_{1}Ry \land x_{2}Ry \implies x_{1} = x_{2}
 > $$
-> $(iii)$ surjektiv (rechtstotal) wenn alle 
+> $(iii)$ surjektiv (rechtstotal) wenn alle werter von der $\mathrm{cod(R)}$ mindestens eine Zuordnung haben
 
 
 > $(iv)$ Bijektiv
