@@ -172,7 +172,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > Seien $A,B$ Mengen und $R: A \to B$ eine Relation
 > $(i)$ $R$ heißt funktional (rechtseindeutig), 
 > 
-> $(ii)$ injektiv (linkseindeutig) falls jeder wert von der $\mathrm{dom(R)}$ genau einen wert der $\mathrm{cod(R)}$ zugeordnet ist.
+> $(ii)$ injektiv (linkseindeutig) falls jeder wert von der $\mathrm{dom(R)}$ maximal einen wert der $\mathrm{cod(R)}$ zugeordnet ist.
 > $$
 > \forall_{x_{1},x_{2} \in A} \ \forall_{y \in B} \ \ x_{1}Ry \land x_{2}Ry \implies x_{1} = x_{2}.
 > $$
