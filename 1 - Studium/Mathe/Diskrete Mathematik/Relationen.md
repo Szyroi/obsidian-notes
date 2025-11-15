@@ -176,11 +176,12 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \forall_{x_{1},x_{2} \in A} \ \forall_{y \in B} \ \ x_{1}Ry \land x_{2}Ry \implies x_{1} = x_{2}.
 > $$
-> $(iii)$ **surjektiv (rechtstotal)** wenn Element der $\mathrm{cod(R)}$ **mindestens einen** Urbildwert besitzt. $\mathrm{dom(R)}$ haben.
+> $(iii)$ **surjektiv (rechtstotal)** wenn Element der $\mathrm{cod(R)}$ **mindestens einen** Urbildwert besitzt.
 > $$
 > \forall_{y \in B} \exists_{x \in A} \ \ xRy \Leftrightarrow \mathrm{im(R) = cod(R) = B}.
 > $$
-> $(iv)$ Bijektiv
+> $(iv)$ R heißt **bijektiv**, wenn RRR sowohl funktional als auch injektiv und surjektiv ist. D.h. die Zuordnung ist eindeutig und trifft die gesamte Zielmenge.
+
 > $(v)$ linkstotal
 > 
 ---
