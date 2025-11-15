@@ -33,10 +33,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf"
+                "file": "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Mathematik für Informatiker DMLA"
+              "title": "Mathematik für Informatiker"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "03cf39f33f48e037",
   "lastOpenFiles": [
+    "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
