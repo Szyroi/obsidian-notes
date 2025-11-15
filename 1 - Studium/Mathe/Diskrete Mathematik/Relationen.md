@@ -17,8 +17,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \mathrm{R^{-1}} := \{(y,x) \in B \times A \mid (x,y) \in R\}
 > $$
-> konverse Relation oder Konverse von $R: xR^{-1}y \equi$
-
+> konverse Relation oder Konverse von $R: xR^{-1}y \Leftrightarrow yRx$
 
 > [!definition] Definition: Domäne   
 > 
@@ -52,6 +51,8 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 >  \mathrm{Urbild}(R) = \mathrm{im}(R^{-1}) := \{x\in A \mid \exists_{y\in B}\ (x,y)\in R\}
 > $$  
 > Das Urbild von $R$ gibt alle möglichen **Elemente** wieder die auf ein Element in $B$ zeigen.
+>> [!warning] Achtung:
+>> Das Urbi
 
 ---
 
