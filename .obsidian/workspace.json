@@ -24,19 +24,19 @@
         ]
       },
       {
-        "id": "f428a7e70bfff3c2",
+        "id": "aeba759cda18b523",
         "type": "tabs",
         "children": [
           {
-            "id": "03cf39f33f48e037",
+            "id": "c4af7d2b8fef0c73",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf"
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "UBlatt03"
+              "title": "Folien_zur_Vorlesung"
             }
           }
         ]
@@ -199,12 +199,12 @@
   },
   "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
+    "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatik und Data Science.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf",
-    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
-    "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
     "1 - Studium/Mathe/Grundlagen/Mengenlehre.md",
     "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
@@ -231,7 +231,6 @@
     "98 - Tags",
     "97 - Templates",
     "96 - Dateien/Übungen/Technische Informatik Übungen/2_Elektrotechnik.pdf",
-    "96 - Dateien/Übungen/Technische Informatik Übungen/1_Digitaltechnik.pdf",
     "95 - Bibliothek/Bücher/Übungsbuch Automaten und formale Sprachen - Stefan O Knapp.md",
     "95 - Bibliothek/Bücher/Theoretische Informatik - Lutz Priese Katrin Erk.md",
     "95 - Bibliothek/Bücher/Technische Grundlagen Eingebetteter Systeme - Karsten Berns Alexander Köpper Bernd Schürmann.md"
