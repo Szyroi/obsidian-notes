@@ -170,7 +170,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] FLIS-Eigenschaften
 > Seien $A,B$ Mengen und $R: A \to B$ eine Relation
-> $(i)$ $R$ heißt funktional (rechtseindeutig) falls jeder wert von der $\mathrm{cod(R)}$ 
+> $(i)$ $R$ heißt funktional (rechtseindeutig) falls jeder wert von der $\mathrm{cod(R)}$ maximal einen wert der $\mathrm{dom(R)}$ zugeordnet ist. 
 > 
 > $(ii)$ injektiv (linkseindeutig) falls jeder wert von der $\mathrm{dom(R)}$ maximal einen wert der $\mathrm{cod(R)}$ zugeordnet ist.
 > $$
