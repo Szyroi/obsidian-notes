@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "4cf259f679443060",
+    "type": "split",
+    "children": [
+      {
+        "id": "9263e1332e878f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd4dc969305a8be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d27cf651fb8cde0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4a4478fa064ff58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1f7f3fc75674ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b04294cc27d23921",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "772b99360b75a8c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5fc636d140ff70e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "35b1f2be666233d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a44f0e67386eb135",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4a28d33e4101c709",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "63591eb61e4cc5b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c77c107c3210e561",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "f1d9f09e35eb46c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6445f3ef8c26d1e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fa1f7f3fc75674ac",
+  "lastOpenFiles": [
+    "README.md",
+    "99 - Indexes/Transitivität.md",
+    "99 - Indexes/Symmetrie.md",
+    "99 - Indexes/Reflexivität.md",
+    "99 - Indexes/Irreflexivität.md",
+    "99 - Indexes/Asymmetrie.md",
+    "99 - Indexes/Antisymmetrie.md",
+    "99 - Indexes",
+    "98 - Tags/Placeholder/Placeholder.md",
+    "98 - Tags/Placeholder",
+    "98 - Tags",
+    "97 - Templates/Vorsicht.md",
+    "97 - Templates/Tipp.md",
+    "97 - Templates/Info.md",
+    "97 - Templates/Definitionen.md",
+    "97 - Templates/Bug.md",
+    "97 - Templates/Beispiel.md",
+    "97 - Templates/Achtung.md",
+    "97 - Templates",
+    "96 - Dateien/Übungen/Technische Informatik Übungen/2_Elektrotechnik.pdf",
+    "96 - Dateien/Übungen/Technische Informatik Übungen/1_Digitaltechnik.pdf",
+    "96 - Dateien/Übungen/Technische Informatik Übungen",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u05.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u04.pdf",
+    "95 - Bibliothek/Bücher/Übungsbuch Automaten und formale Sprachen - Stefan O Knapp.md",
+    "95 - Bibliothek/Bücher/Theoretische Informatik - Lutz Priese Katrin Erk.md",
+    "95 - Bibliothek/Bücher/Technische Grundlagen Eingebetteter Systeme - Karsten Berns Alexander Köpper Bernd Schürmann.md",
+    "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md",
+    "95 - Bibliothek/Bücher/Mathematik für Informatiker - Gerald Teschl Susanne Teschl.md",
+    "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
+    "95 - Bibliothek/Bücher/Logik für die Informatik - Markus Junker.md",
+    "95 - Bibliothek/Bücher/Java als erste Programmiersprache - Joachim Goll Cornelia Heinisch.md",
+    "95 - Bibliothek/Bücher/Grundlagen der Theoretischen Informatik - André Schulz.md",
+    "95 - Bibliothek/Bücher/Grundkurs JAVA - Dietmar Abts.md",
+    "95 - Bibliothek/Bücher/Einführung in die Informatik - Bastian Küppers.md"
+  ]
+}
