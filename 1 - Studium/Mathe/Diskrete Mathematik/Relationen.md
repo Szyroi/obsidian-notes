@@ -173,9 +173,10 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $(i)$ $R$ heißt funktional (rechtseindeutig), 
 > 
 > $(ii)$ injektiv (linkseindeutig) falls jeder wert von der $\mathrm{dom(R)}$ genau einen wert der $\mathrm{cod(R)}$ zugeordnet ist.
-> 
-> $(iii)$ surjektiv (rechtstotal)
+> $\forall_{x}$
 
+
+> $(iii)$ surjektiv (rechtstotal)
 > $(iv)$ Bijektiv
 > $(v)$ linkstotal
 ---
