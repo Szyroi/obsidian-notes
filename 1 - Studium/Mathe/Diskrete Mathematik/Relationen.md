@@ -42,7 +42,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 >  \mathrm{Urbild}(R) = \mathrm{im}(R^{-1}) := \{x\in A \mid \exists_{y\in B}\ (x,y)\in R\}
 > $$  
-> Das Urbild von $R$ gibt alle möglichen **Outputs** der Relation die Tatsächlich vorkommen.
+> Das Urbild von $R$ gibt alle möglichen **Elemente** wieder die auf ein Element in B zeigen.
 
 ---
 
