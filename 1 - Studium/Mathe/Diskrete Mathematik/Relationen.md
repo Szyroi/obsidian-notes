@@ -31,7 +31,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > 
 > Sei $R: X \to Y$ eine Relation. Seien $U \subseteq X$ und $V \subseteq Y.$  
 > $$
-> \mathrm{im}(R)=\{V\in Y \mid \exists_{U\in X}\ xRy}
+> \mathrm{im}(R)=\{V\in Y \mid \exists_{U\in X}\ (x,y)\in R\}
 > $$  
 
 ---
