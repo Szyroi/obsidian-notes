@@ -11,6 +11,16 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > <u>Schreibweisen</u>: $(x,y) ∈ R$ oder $xRy \  \ (x ∈ X , y ∈ Y )$. 
 > Eine Relation mit $\mathrm{dom}(R) = \mathrm{cod}(R)$ heißt ***homogen*** oder auch ***Endorelation***. 
 
+> [!definition] Definition: Konverse Relation  
+> 
+> Sei $A$ und $B$ Mengen. Eine **Relation** $R$ von $A$ nach $B$ ist eine Teilmenge des kartesischen Produkts $A \times B$:  
+> $$
+> R \subseteq A \times B
+> $$
+> <u>Schreibweisen</u>: $(x,y) ∈ R$ oder $xRy \  \ (x ∈ X , y ∈ Y )$. 
+> Eine Relation mit $\mathrm{dom}(R) = \mathrm{cod}(R)$ heißt ***homogen*** oder auch ***Endorelation***. 
+
+
 > [!definition] Definition: Domäne   
 > 
 > Die Menge $X$ heißt Domäne (Definitionsmenge) von $R: \mathrm{dom}(R) = X$.  
@@ -42,7 +52,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 >  \mathrm{Urbild}(R) = \mathrm{im}(R^{-1}) := \{x\in A \mid \exists_{y\in B}\ (x,y)\in R\}
 > $$  
-> Das Urbild von $R$ gibt alle möglichen **Elemente** wieder die auf ein Element in B zeigen.
+> Das Urbild von $R$ gibt alle möglichen **Elemente** wieder die auf ein Element in $B$ zeigen.
 
 ---
 
