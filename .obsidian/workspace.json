@@ -18,9 +18,15 @@
               "icon": "lucide-file-text",
               "title": "UBlatt03"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "63d10c79c825aa11",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8412eafc2c913d82",
+            "id": "b5ddddc60896c48b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -31,8 +37,7 @@
               "title": "Folien_zur_Vorlesung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,31 +151,18 @@
             }
           },
           {
-            "id": "c77c107c3210e561",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
             "id": "f1d9f09e35eb46c0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Folien_zur_Vorlesung"
             }
           },
           {
@@ -184,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8412eafc2c913d82",
+  "active": "b5ddddc60896c48b",
   "lastOpenFiles": [
-    "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
+    "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "1 - Studium/Mathe/Übungen/Übung 3.md",
     "README.md",
     "99 - Indexes/Transitivität.md",
