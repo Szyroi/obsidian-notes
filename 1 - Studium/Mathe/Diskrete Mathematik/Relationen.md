@@ -170,13 +170,13 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] FLIS-Eigenschaften
 > Seien $A,B$ Mengen und $R: A \to B$ eine Relation
-> $(i)$ $R$ heißt **funktional (rechtseindeutig)** falls jeder wert von der $\mathrm{dom(R)}$ maximal einen wert der $\mathrm{cod(R)}$ zugeordnet ist. 
+> $(i)$ $R$ heißt **funktional (rechtseindeutig)** falls jeder wert von der $\mathrm{dom(R)}$ **höchstens einem** Element der $\mathrm{cod(R)}$ zugeordnet ist. 
 > 
-> $(ii)$ injektiv (linkseindeutig) falls jeder wert von der $\mathrm{cod(R)}$ maximal einen wert der $\mathrm{dom(R)}$ zugeordnet ist.
+> $(ii)$ **injektiv (linkseindeutig)** falls jeder wert von der $\mathrm{cod(R)}$ **höchstens einem** Element der $\mathrm{dom(R)}$ zugeordnet ist.
 > $$
 > \forall_{x_{1},x_{2} \in A} \ \forall_{y \in B} \ \ x_{1}Ry \land x_{2}Ry \implies x_{1} = x_{2}.
 > $$
-> $(iii)$ surjektiv (rechtstotal) wenn alle werter von der $\mathrm{cod(R)}$ mindestens eine Zuordnung aus $\mathrm{dom(R)}$ haben.
+> $(iii)$ **surjektiv (rechtstotal)** wenn alle werter von der $\mathrm{cod(R)}$ mindestens eine Zuordnung aus $\mathrm{dom(R)}$ haben.
 > $$
 > \forall_{y \in B} \exists_{x \in A} \ \ xRy \Leftrightarrow \mathrm{im(R) = cod(R) = B}.
 > $$
