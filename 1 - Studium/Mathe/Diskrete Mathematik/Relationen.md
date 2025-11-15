@@ -40,9 +40,9 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > 
 > Seien $A,B$ Mengen und $R: A \to B$ eine Relation. 
 > $$
->  \mathrm{Urbild}(R) = \mathrm{im}(R^{-1}) := \{x\in A \mid \exists_{y\in }\ (x,y)\in R\}
+>  \mathrm{Urbild}(R) = \mathrm{im}(R^{-1}) := \{x\in A \mid \exists_{y\in B}\ (x,y)\in R\}
 > $$  
-> Das Bild von $R$ gibt alle möglichen **Outputs** der Relation die Tatsächlich vorkommen.
+> Das Urbild von $R$ gibt alle möglichen **Outputs** der Relation die Tatsächlich vorkommen.
 
 ---
 
