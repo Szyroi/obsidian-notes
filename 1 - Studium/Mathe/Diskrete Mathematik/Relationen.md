@@ -29,7 +29,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Bild   
 > 
-> Sei $R: X \to Y$ eine Relation. Seien $U \sub\{  \} X$  
+> Sei $R: X \to Y$ eine Relation. Seien $U \sub$  
 > - **Kodomäne**:  
 > $$
 > \mathrm{cod}(R)=\{y\in A \mid \exists x\in B:\ (x,y)\in R\}
