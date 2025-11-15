@@ -178,7 +178,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > $(iii)$ surjektiv (rechtstotal) wenn alle werter von der $\mathrm{cod(R)}$ mindestens eine Zuordnung aus $\mathrm{dom(R)}$ haben
 > $$
-> \forall_{y \in B} \exists_{x \in A} xRy \
+> \mathrm{\forall_{y \in B} \exists_{x \in A} xRy \Leftrightarrow} \mathrm{im(R) = cod(R) = B}
 > $$
 
 
