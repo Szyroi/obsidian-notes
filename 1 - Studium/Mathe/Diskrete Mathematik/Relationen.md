@@ -168,7 +168,11 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > \forall x,y\in A:\ (x,y)\in R \lor (y,x)\in R.
 > $$
 
-> [!definition] 
+> [!definition] FLIS-Eigenschaften
+> $(i)$
+> $(ii)$
+> $(iii)$
+> $(iv)$
 ---
 
 ## 5. Wichtige Relationstypen
