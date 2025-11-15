@@ -33,10 +33,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf"
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "UBlatt03"
+              "title": "Folien_zur_Vorlesung"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "03cf39f33f48e037",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
     "1 - Studium/Mathe/Grundlagen/Mengenlehre.md",
@@ -213,7 +214,6 @@
     "97 - Templates/Bug.md",
     "97 - Templates/Definitionen.md",
     "1 - Studium/Mathe/Grundlagen/Abbildungen.md",
-    "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "1 - Studium/Mathe/Übungen/Übung 3.md",
     "README.md",
     "99 - Indexes/Transitivität.md",
@@ -233,7 +233,6 @@
     "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
     "95 - Bibliothek/Bücher/Übungsbuch Automaten und formale Sprachen - Stefan O Knapp.md",
     "95 - Bibliothek/Bücher/Theoretische Informatik - Lutz Priese Katrin Erk.md",
-    "95 - Bibliothek/Bücher/Technische Grundlagen Eingebetteter Systeme - Karsten Berns Alexander Köpper Bernd Schürmann.md",
-    "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md"
+    "95 - Bibliothek/Bücher/Technische Grundlagen Eingebetteter Systeme - Karsten Berns Alexander Köpper Bernd Schürmann.md"
   ]
 }
