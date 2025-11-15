@@ -15,7 +15,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > 
 >Für eine **Relation** $R: A \to B$ heißt  
 > $$
-> \mathrm{R^{-1}:= {(y,x) \owns B x A \mid (x,y) \owns R}}
+> \mathrm{R^{-1}} := {(y,x) \in B \times A \mid (x,y) \in R}
 > $$
 > 
 
