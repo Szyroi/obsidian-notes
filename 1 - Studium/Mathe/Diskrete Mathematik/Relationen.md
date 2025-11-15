@@ -13,12 +13,11 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Konverse Relation  
 > 
->Für eine **Relation** $R: A \to B$ heißtProdukts $A \times B$:  
+>Für eine **Relation** $R: A \to B$ heißt  
 > $$
-> R \subseteq A \times B
+> \mathrm{R^{-1}:= {(y,x) \of }}
 > $$
-> <u>Schreibweisen</u>: $(x,y) ∈ R$ oder $xRy \  \ (x ∈ X , y ∈ Y )$. 
-> Eine Relation mit $\mathrm{dom}(R) = \mathrm{cod}(R)$ heißt ***homogen*** oder auch ***Endorelation***. 
+> 
 
 
 > [!definition] Definition: Domäne   
