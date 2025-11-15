@@ -29,7 +29,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Bild   
 > 
-> Die Menge $Y$ heißt Kodomäne (Zielmenge) von $R: \mathrm{cod}(R) = Y$.  
+> Die R $X$ heißt Bild ( von $R: \mathrm{cod}(R) = Y$.  
 > - **Kodomäne**:  
 > $$
 > \mathrm{cod}(R)=\{y\in A \mid \exists x\in B:\ (x,y)\in R\}
