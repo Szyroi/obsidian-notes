@@ -33,10 +33,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf"
+                "file": "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatik und Data Science.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Mathematik für Informatiker"
+              "title": "Mathematik für Informatik und Data Science"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "03cf39f33f48e037",
   "lastOpenFiles": [
+    "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
@@ -231,7 +232,6 @@
     "96 - Dateien/Übungen/Technische Informatik Übungen/2_Elektrotechnik.pdf",
     "96 - Dateien/Übungen/Technische Informatik Übungen/1_Digitaltechnik.pdf",
     "96 - Dateien/Übungen/Technische Informatik Übungen",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
     "95 - Bibliothek/Bücher/Übungsbuch Automaten und formale Sprachen - Stefan O Knapp.md",
     "95 - Bibliothek/Bücher/Theoretische Informatik - Lutz Priese Katrin Erk.md",
     "95 - Bibliothek/Bücher/Technische Grundlagen Eingebetteter Systeme - Karsten Berns Alexander Köpper Bernd Schürmann.md"
