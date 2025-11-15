@@ -52,7 +52,8 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$  
 > Das Urbild von $R$ gibt alle möglichen **Elemente** wieder die auf ein Element in $B$ zeigen.
 >> [!warning] Achtung:
->> Das Urbi
+>> Das Urbild und die Konverse Relation ist nicht das gleiche.
+>> Das Urbild gibt alle Elemente von A die auf $B$ zeigen
 
 ---
 
