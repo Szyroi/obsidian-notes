@@ -13,7 +13,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Domäne   
 > 
-> Die Menge $X$ heißt Domäne von $R: \mathrm{dom}(R) = X$.  
+> Die Menge $X$ heißt Domäne (Definitionsmenge) von $R: \mathrm{dom}(R) = X$.  
 > - **Domäne**:  
 > $$
 > \mathrm{dom}(R)=\{x\in A \mid \exists y\in B:\ (x,y)\in R\}
@@ -21,7 +21,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Kodomäne   
 > 
-> Die Menge $Y$ heißt Kodomäne von $R: \mathrm{cod}(R) = Y$.  
+> Die Menge $Y$ heißt Kodomäne (Zielmenge) von $R: \mathrm{cod}(R) = Y$.  
 > - **Kodomäne**:  
 > $$
 > \mathrm{cod}(R)=\{y\in A \mid \exists x\in B:\ (x,y)\in R\}
