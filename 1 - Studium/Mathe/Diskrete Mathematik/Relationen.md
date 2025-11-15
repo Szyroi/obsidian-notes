@@ -33,6 +33,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 >  \mathrm{Bild}(R) = \mathrm{im}(R) := \{y\in B \mid \exists_{x\in A}\ (x,y)\in R\}
 > $$  
+> Das Bild von $R$ gibt alle möglichen **Outputs** der Relation.
 
 ---
 
