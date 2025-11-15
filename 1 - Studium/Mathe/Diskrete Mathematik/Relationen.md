@@ -184,7 +184,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > 
 > $(v)$ R heißt **linkstotal**, wenn jedes Element aus $\mathrm{dom(R)}$ **mindestens ein** Bild besitzt.
 > $$
-> \forall x \inA​ ∃y∈B​ xRy.
+> \forall x\in A​ \exists_ y \in B​ xRy.
 > $$
 > 
 ---
