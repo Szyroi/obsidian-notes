@@ -29,7 +29,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 > [!definition] Definition: Bild   
 > 
-> Sei $R: X \to Y$ eine Relation. Seien $U \subseteq X$ und $V \subseteq Y.$  
+> Seien $A,B$ Mengen und $R: A \to B$ eine Relation. 
 > $$
 > \mathrm{im}(R)=\{V\in Y \mid \exists_{U\in X}\ (x,y)\in R\}
 > $$  
