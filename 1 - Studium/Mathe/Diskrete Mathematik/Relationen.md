@@ -30,9 +30,8 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > [!definition] Definition: Bild   
 > 
 > Sei $R: X \to Y$ eine Relation. Seien $U \subseteq X$ und $V \subseteq Y.$  
-> - **Kodomäne**:  
 > $$
-> \mathrm{cod}(R)=\{y\in A \mid \exists x\in B:\ (x,y)\in R\}
+> \mathrm{im}(R)=\{y\in A \mid \exists x\in B:\ (x,y)\in R\}
 > $$  
 
 ---
