@@ -17,7 +17,7 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > $$
 > \mathrm{R^{-1}} := \{(y,x) \in B \times A \mid (x,y) \in R\}
 > $$
-> konverse Relation oder Konverse 
+> konverse Relation oder Konverse von $R: xR^{-1}y \equi$
 
 
 > [!definition] Definition: Domäne   
