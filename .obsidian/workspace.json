@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UBlatt03"
+              "title": "Outline of Folien_zur_Vorlesung"
             }
           },
           {
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cd4dc969305a8be",
+  "active": "b5ddddc60896c48b",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
+    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "1 - Studium/Mathe/Übungen/Übung 3.md",
     "README.md",
     "99 - Indexes/Transitivität.md",
