@@ -20,19 +20,23 @@
               "icon": "lucide-file",
               "title": "Relationen"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f428a7e70bfff3c2",
+        "type": "tabs",
+        "children": [
           {
-            "id": "72cb00b9bc3a3b8b",
+            "id": "03cf39f33f48e037",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Beweisprinzipien"
+              "icon": "lucide-file-text",
+              "title": "UBlatt03"
             }
           }
         ]
@@ -193,13 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cd4dc969305a8be",
+  "active": "03cf39f33f48e037",
   "lastOpenFiles": [
-    "1 - Studium/Mathe/Grundlagen/Mengenlehre.md",
+    "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
+    "1 - Studium/Mathe/Grundlagen/Mengenlehre.md",
     "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
-    "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "97 - Templates/Tipp.md",
     "97 - Templates/Info.md",
