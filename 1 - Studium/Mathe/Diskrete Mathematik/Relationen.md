@@ -171,10 +171,10 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 > [!definition] FLIS-Eigenschaften
 > Seien $A,B$ Mengen und $R: A \to B$ eine Relation
 > $(i)$ $R$ heißt funktional, 
-> $(ii)$
-> $(iii)$
-> $(iv)$
-> $(v)$
+> $(ii)$ injektiv (linkseindeutig)
+> $(iii)$ surjektiv (Rechtstotal)
+> $(iv)$ Bijektiv
+> $(v)$ Linkstotal
 ---
 
 ## 5. Wichtige Relationstypen
