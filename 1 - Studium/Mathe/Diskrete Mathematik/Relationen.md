@@ -89,13 +89,6 @@ Die **Relationstheorie** untersucht binäre Relationen zwischen Elementen von (m
 
 ## 3. Grundbegriffe und Operationen
 
-> [!definition] Inverse Relation  
-> 
-> Die **inverse** Relation $(R^{-1})$ ist  
-> $$
-> R^{-1}=\{(y,x)\mid (x,y)\in R\}.
-> $$
-
 > [!definition] Komposition (Verknüpfung)  
 > 
 > Für Relationen $R\subseteq A\times B$ und $S\subseteq B\times C$ ist die **Komposition** $S\circ R$ definiert durch  
