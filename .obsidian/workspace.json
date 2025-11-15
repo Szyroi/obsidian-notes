@@ -20,26 +20,23 @@
               "icon": "lucide-file",
               "title": "Relationen"
             }
-          }
-        ]
-      },
-      {
-        "id": "63d10c79c825aa11",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "b5ddddc60896c48b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
+                "file": "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Folien_zur_Vorlesung"
+              "icon": "lucide-file",
+              "title": "Beweisprinzipien"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +196,8 @@
   },
   "active": "b5ddddc60896c48b",
   "lastOpenFiles": [
-    "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
+    "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "97 - Templates/Tipp.md",
     "97 - Templates/Info.md",
     "97 - Templates/Vorsicht.md",
