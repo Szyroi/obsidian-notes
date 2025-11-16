@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Linux/Rust/Syntax.md",
+                "file": "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syntax"
-            }
-          }
-        ]
-      },
-      {
-        "id": "aeba759cda18b523",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c4af7d2b8fef0c73",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Folien_zur_Vorlesung"
+              "title": "Übung 5"
             }
           }
         ]
@@ -96,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -199,6 +181,8 @@
   },
   "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
+    "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
+    "2 - Linux/Rust/Syntax.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
@@ -232,7 +216,6 @@
     "97 - Templates",
     "96 - Dateien/Übungen/Technische Informatik Übungen/2_Elektrotechnik.pdf",
     "95 - Bibliothek/Bücher/Übungsbuch Automaten und formale Sprachen - Stefan O Knapp.md",
-    "95 - Bibliothek/Bücher/Theoretische Informatik - Lutz Priese Katrin Erk.md",
-    "95 - Bibliothek/Bücher/Technische Grundlagen Eingebetteter Systeme - Karsten Berns Alexander Köpper Bernd Schürmann.md"
+    "95 - Bibliothek/Bücher/Theoretische Informatik - Lutz Priese Katrin Erk.md"
   ]
 }
