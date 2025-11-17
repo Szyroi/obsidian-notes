@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md",
+                "file": "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematik für Informatiker - Peter Hartmann"
+              "title": "Mathematik für Informatik und Data Science - Andreas Knoblauch"
             }
           }
         ]
@@ -182,6 +182,7 @@
   "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
     "95 - Bibliothek/Bücher/Mathematik für Informatiker - Gerald Teschl Susanne Teschl.md",
+    "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
@@ -213,7 +214,6 @@
     "99 - Indexes/Symmetrie.md",
     "99 - Indexes/Reflexivität.md",
     "99 - Indexes/Irreflexivität.md",
-    "99 - Indexes/Asymmetrie.md",
     "99 - Indexes",
     "98 - Tags/Placeholder",
     "98 - Tags"
