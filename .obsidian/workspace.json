@@ -11,14 +11,12 @@
             "id": "5cd4dc969305a8be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Übung 5"
+              "icon": "lucide-file-text",
+              "title": "Folien_zur_Vorlesung"
             }
           }
         ]
@@ -181,9 +179,9 @@
   },
   "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
+    "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "96 - Dateien/Folien/Prog 1 Folien/07_Kontrollstrukturen_Variablen.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf",
-    "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
     "2 - Linux/Rust/Syntax.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
@@ -215,7 +213,6 @@
     "99 - Indexes",
     "98 - Tags/Placeholder/Placeholder.md",
     "98 - Tags/Placeholder",
-    "98 - Tags",
-    "97 - Templates"
+    "98 - Tags"
   ]
 }
