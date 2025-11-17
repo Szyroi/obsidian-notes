@@ -11,12 +11,14 @@
             "id": "5cd4dc969305a8be",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
+                "file": "95 - Bibliothek/Bücher/Mathematik für Informatiker - Gerald Teschl Susanne Teschl.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Folien_zur_Vorlesung"
+              "icon": "lucide-file",
+              "title": "Mathematik für Informatiker - Gerald Teschl Susanne Teschl"
             }
           }
         ]
@@ -179,13 +181,15 @@
   },
   "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
+    "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
+    "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
+    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "96 - Dateien/Folien/Prog 1 Folien/07_Kontrollstrukturen_Variablen.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
     "2 - Linux/Rust/Syntax.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
-    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatik und Data Science.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf",
@@ -211,7 +215,6 @@
     "99 - Indexes/Asymmetrie.md",
     "99 - Indexes/Antisymmetrie.md",
     "99 - Indexes",
-    "98 - Tags/Placeholder/Placeholder.md",
     "98 - Tags/Placeholder",
     "98 - Tags"
   ]
