@@ -11,14 +11,12 @@
             "id": "5cd4dc969305a8be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Mathematik für Informatik und Data Science - Andreas Knoblauch"
+              "icon": "lucide-file-text",
+              "title": "Folien_zur_Vorlesung"
             }
           }
         ]
@@ -181,9 +179,10 @@
   },
   "active": "5cd4dc969305a8be",
   "lastOpenFiles": [
+    "1 - Studium/Programmierung 1/Übungen/Übung 1.md",
+    "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatiker - Gerald Teschl Susanne Teschl.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md",
-    "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
@@ -213,7 +212,6 @@
     "99 - Indexes/Transitivität.md",
     "99 - Indexes/Symmetrie.md",
     "99 - Indexes/Reflexivität.md",
-    "99 - Indexes/Irreflexivität.md",
     "99 - Indexes",
     "98 - Tags/Placeholder",
     "98 - Tags"
