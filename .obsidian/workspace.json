@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Prog 1 Folien/09_Parameteruebergabe_Felder.pdf"
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "09_Parameteruebergabe_Felder"
+              "title": "u07"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
+    "96 - Dateien/Folien/Prog 1 Folien/09_Parameteruebergabe_Felder.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Ohne Titel 2025-08-23.pdf",
@@ -196,7 +198,6 @@
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatik und Data Science.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf",
-    "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker DMLA.pdf",
     "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
     "1 - Studium/Mathe/Grundlagen/Mengenlehre.md",
     "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
@@ -212,7 +213,6 @@
     "1 - Studium/Mathe/Übungen/Übung 3.md",
     "README.md",
     "99 - Indexes/Transitivität.md",
-    "99 - Indexes/Symmetrie.md",
-    "99 - Indexes"
+    "99 - Indexes/Symmetrie.md"
   ]
 }
