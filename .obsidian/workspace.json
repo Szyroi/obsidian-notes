@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf"
+                "file": "96 - Dateien/Praktika/Technische Informatik Praktikum/Teil 2/Teil 2 - Aufgabenmappe mit Einfuehrung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "u07"
+              "title": "Teil 2 - Aufgabenmappe mit Einfuehrung"
             }
           }
         ]
@@ -176,11 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "5f5f96b41b771cb8",
   "lastOpenFiles": [
+    "96 - Dateien/Praktika/Technische Informatik Praktikum/Teil 2/Teil 2 - Aufgabenmappe mit Einfuehrung 1.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/09_Parameteruebergabe_Felder.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Ohne Titel 2025-08-23.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/Bonusaufgabe-1.pdf",
@@ -197,7 +198,6 @@
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt03.pdf",
     "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatik und Data Science.pdf",
-    "95 - Bibliothek/Bücher/PDFs/Mathematik für Informatiker.pdf",
     "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
     "1 - Studium/Mathe/Grundlagen/Mengenlehre.md",
     "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
