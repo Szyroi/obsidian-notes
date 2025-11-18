@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Übungen/Mathe Übungen/Bonusaufgabe-1.pdf"
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Bonusaufgabe-1"
+              "title": "Folien_zur_Vorlesung"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "5f5f96b41b771cb8",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Ohne Titel 2025-08-23.pdf",
+    "96 - Dateien/Übungen/Mathe Übungen/Bonusaufgabe-1.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 1.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
@@ -211,7 +213,6 @@
     "99 - Indexes/Transitivität.md",
     "99 - Indexes/Symmetrie.md",
     "99 - Indexes",
-    "98 - Tags/Placeholder",
-    "98 - Tags"
+    "98 - Tags/Placeholder"
   ]
 }
