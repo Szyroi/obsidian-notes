@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Praktika/Technische Informatik Praktikum/Teil 2/Teil 2 - Aufgabenmappe mit Einfuehrung.pdf"
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Teil 2 - Aufgabenmappe mit Einfuehrung"
+              "title": "u07"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 226.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -176,19 +176,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "5f5f96b41b771cb8",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Prog 1 Übungen/u05.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf",
+    "96 - Dateien/Praktika/Technische Informatik Praktikum/Teil 2/Teil 2 - Aufgabenmappe mit Einfuehrung.pdf",
+    "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
+    "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
+    "1 - Studium/Netze/Inhalte/Transport Layer.md",
+    "1 - Studium/Netze/Inhalte/Physical Layer.md",
+    "1 - Studium/Netze/Inhalte/Network Layer.md",
+    "1 - Studium/Netze/Inhalte/IPv6.md",
+    "1 - Studium/Netze/Inhalte/Data Link Layer.md",
+    "1 - Studium/Netze/Inhalte/Application Layer.md",
+    "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Wa.md",
+    "1 - Studium/Japanisch　にひんご/Grammatik/Partikel To.md",
+    "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Mo.md",
+    "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Ga.md",
     "96 - Dateien/Übungen/ACAT/2_3.pdf",
     "96 - Dateien/Übungen/ACAT/2_2.pdf",
     "96 - Dateien/Übungen/ACAT/2_1.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/UBlatt06.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/Bonusaufgabe-2.pdf",
     "96 - Dateien/Praktika/Technische Informatik Praktikum/Teil 2/Teil 2 - Aufgabenmappe mit Einfuehrung 1.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
-    "96 - Dateien/Folien/Prog 1 Folien/09_Parameteruebergabe_Felder.pdf",
-    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
-    "96 - Dateien/Übungen/Ohne Titel 2025-08-23.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 1.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatiker - Gerald Teschl Susanne Teschl.md",
@@ -201,18 +213,6 @@
     "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
     "1 - Studium/Mathe/Grundlagen/Mengenlehre.md",
     "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
-    "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
-    "97 - Templates/Tipp.md",
-    "97 - Templates/Info.md",
-    "97 - Templates/Vorsicht.md",
-    "97 - Templates/Achtung.md",
-    "97 - Templates/Beispiel.md",
-    "97 - Templates/Bug.md",
-    "97 - Templates/Definitionen.md",
-    "1 - Studium/Mathe/Grundlagen/Abbildungen.md",
-    "1 - Studium/Mathe/Übungen/Übung 3.md",
-    "README.md",
-    "99 - Indexes/Transitivität.md",
-    "99 - Indexes/Symmetrie.md"
+    "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md"
   ]
 }
