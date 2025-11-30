@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Computernetze kompakt"
             }
+          },
+          {
+            "id": "89198c09bdb239f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f5f96b41b771cb8",
+  "active": "89198c09bdb239f4",
   "lastOpenFiles": [
     "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
     "95 - Bibliothek/Bücher/PDFs/Computernetze kompakt.pdf",
