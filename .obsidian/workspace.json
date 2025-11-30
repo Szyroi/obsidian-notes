@@ -11,28 +11,17 @@
             "id": "5f5f96b41b771cb8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "95 - Bibliothek/Bücher/PDFs/Computernetze kompakt.pdf"
+                "file": "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Computernetze kompakt"
-            }
-          },
-          {
-            "id": "89198c09bdb239f4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Übung 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -191,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89198c09bdb239f4",
+  "active": "5f5f96b41b771cb8",
   "lastOpenFiles": [
-    "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
+    "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "95 - Bibliothek/Bücher/PDFs/Computernetze kompakt.pdf",
+    "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
     "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
     "95 - Bibliothek/Bibliothek.base",
     "96 - Dateien/Übungen/Mathe Übungen/Ohne Titel 2025-08-23.pdf",
@@ -216,13 +205,11 @@
     "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Ga.md",
     "96 - Dateien/Übungen/ACAT/2_3.pdf",
     "96 - Dateien/Übungen/ACAT/2_2.pdf",
-    "96 - Dateien/Übungen/ACAT/2_1.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 1.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatiker - Gerald Teschl Susanne Teschl.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
     "2 - Linux/Rust/Syntax.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
