@@ -11,14 +11,12 @@
             "id": "5f5f96b41b771cb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Übung 8"
+              "icon": "lucide-file-text",
+              "title": "u08"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -181,9 +180,10 @@
   },
   "active": "5f5f96b41b771cb8",
   "lastOpenFiles": [
-    "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
     "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
+    "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
+    "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "95 - Bibliothek/Bücher/PDFs/Computernetze kompakt.pdf",
     "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
@@ -194,7 +194,6 @@
     "96 - Dateien/Übungen/Prog 1 Übungen/u05.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
     "96 - Dateien/Praktika/Technische Informatik Praktikum/Teil 2/Teil 2 - Aufgabenmappe mit Einfuehrung.pdf",
-    "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
     "1 - Studium/Netze/Inhalte/Transport Layer.md",
     "1 - Studium/Netze/Inhalte/Physical Layer.md",
@@ -215,7 +214,6 @@
     "2 - Linux/Rust/Syntax.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
-    "1 - Studium/Mathe/Grundlagen/Mengenlehre.md",
-    "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md"
+    "1 - Studium/Mathe/Grundlagen/Mengenlehre.md"
   ]
 }
