@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/MGLA Folien/Skript_Lineare_Algebra.pdf"
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Skript_Lineare_Algebra"
+              "title": "Folien_zur_Vorlesung"
             }
           }
         ],
@@ -192,6 +192,7 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/MGLA Folien/Skript_Lineare_Algebra.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
@@ -202,7 +203,6 @@
     "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u07.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/01_Orga.pdf",
-    "96 - Dateien/Folien/Prog 1 Folien/12_Typanpassung_Zugriffsrechte.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
