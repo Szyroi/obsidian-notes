@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "u08"
             }
+          },
+          {
+            "id": "65d9deed6c4d79ff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Folien_zur_Vorlesung"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -178,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f5f96b41b771cb8",
+  "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
-    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/08_Typanpassung_Operatoren_Methoden.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/07_Kontrollstrukturen_Variablen.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf",
