@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Übungen/Mathe Übungen/BA3.pdf"
+                "file": "96 - Dateien/Übungen/Mathe Übungen/UBlatt07.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "BA3"
+              "title": "UBlatt07"
             }
           }
         ],
@@ -192,11 +192,16 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
-    "1 - Studium/Mathe/Übungen/Bonusaufgabe 1.md",
+    "96 - Dateien/Übungen/Mathe Übungen/UBlatt08.pdf",
+    "1 - Studium/Mathe/Übungen/Übung 8.md",
+    "1 - Studium/Mathe/Übungen/Übung 7.md",
+    "1 - Studium/Mathe/Übungen/Übung 6.md",
+    "1 - Studium/Mathe/Übungen/Übung 1.md",
     "1 - Studium/Mathe/Übungen/Bonusaufgabe 2.md",
     "1 - Studium/Mathe/Übungen/Bonusaufgabe 3.md",
-    "96 - Dateien/Übungen/Mathe Übungen/BA2.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/BA3.pdf",
+    "1 - Studium/Mathe/Übungen/Bonusaufgabe 1.md",
+    "96 - Dateien/Übungen/Mathe Übungen/BA2.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/Bonusaufgabe-2.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/Bonusaufgabe3.pdf",
     "1 - Studium/Programmierung 1/Algorithmen/Grundbausteine.md",
@@ -222,11 +227,6 @@
     "1 - Studium/Japanisch　にひんご/Grammatik/Partikel To.md",
     "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Mo.md",
     "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Ga.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 1.md",
-    "95 - Bibliothek/Bücher/Mathematik für Informatik und Data Science - Andreas Knoblauch.md",
-    "95 - Bibliothek/Bücher/Mathematik für Informatiker - Gerald Teschl Susanne Teschl.md",
-    "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md",
-    "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 6.md"
+    "1 - Studium/Programmierung 1/Übungen/Übung 1.md"
   ]
 }
