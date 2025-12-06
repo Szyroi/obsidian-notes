@@ -23,12 +23,14 @@
             "id": "65d9deed6c4d79ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1 - Studium/Mathe/dmbook.pdf"
+                "file": "1 - Studium/Programmierung 1/Programmiersprachen/Abstrakte Datentypen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "dmbook"
+              "icon": "lucide-file",
+              "title": "Abstrakte Datentypen"
             }
           }
         ],
@@ -192,8 +194,11 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
-    "1 - Studium/Mathe/mcs.pdf",
+    "1 - Studium/Programmierung 1/Java/Post Fix vs Pre Fix.md",
+    "1 - Studium/Programmierung 1/Programmiersprachen/Abstrakte Datentypen.md",
+    "1 - Studium/Programmierung 1/Java/Literale.md",
     "1 - Studium/Mathe/dmbook.pdf",
+    "1 - Studium/Mathe/mcs.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/t01.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
@@ -202,7 +207,6 @@
     "96 - Dateien/Übungen/Prog 1 Übungen/t02.pdf",
     "96 - Dateien/Übungen/ACAT/3_3.pdf",
     "96 - Dateien/Übungen/ACAT/3_2.pdf",
-    "96 - Dateien/Übungen/ACAT/2_3.pdf",
     "1 - Studium/Mathe/Übungen/Übung 8.md",
     "1 - Studium/Mathe/Übungen/Übung 7.md",
     "1 - Studium/Mathe/Übungen/Übung 6.md",
@@ -225,8 +229,6 @@
     "1 - Studium/Netze/Inhalte/Application Layer.md",
     "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Wa.md",
     "1 - Studium/Japanisch　にひんご/Grammatik/Partikel To.md",
-    "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Mo.md",
-    "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Ga.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 1.md"
+    "1 - Studium/Japanisch　にひんご/Grammatik/Partikel Mo.md"
   ]
 }
