@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1 - Studium/Mathe/mcs.pdf"
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/t02_loesung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "mcs"
+              "title": "t02_loesung"
             }
           }
         ],
@@ -192,8 +192,10 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
-    "1 - Studium/Mathe/dmbook.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/t02.pdf",
     "1 - Studium/Mathe/mcs.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/t02_loesung.pdf",
+    "1 - Studium/Mathe/dmbook.pdf",
     "96 - Dateien/Übungen/ACAT/3_3.pdf",
     "96 - Dateien/Übungen/ACAT/3_2.pdf",
     "96 - Dateien/Übungen/ACAT/2_3.pdf",
@@ -201,8 +203,6 @@
     "96 - Dateien/Übungen/ACAT/2_1.pdf",
     "96 - Dateien/Übungen/ACAT/1_2.pdf",
     "96 - Dateien/Übungen/ACAT/1_1.pdf",
-    "96 - Dateien/Übungen/ACAT/3_4.pdf",
-    "96 - Dateien/Übungen/ACAT/4_1.pdf",
     "1 - Studium/Mathe/Übungen/Übung 8.md",
     "1 - Studium/Mathe/Übungen/Übung 7.md",
     "1 - Studium/Mathe/Übungen/Übung 6.md",
