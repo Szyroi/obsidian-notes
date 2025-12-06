@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Programmierung 1/OOP/Untitled.md",
+                "file": "1 - Studium/Programmierung 1/OOP/Static.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Static"
             }
           }
         ],
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 284.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -192,10 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65d9deed6c4d79ff",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "1 - Studium/Programmierung 1/OOP/Public, Private und Protected.md",
+    "1 - Studium/Programmierung 1/OOP/Static.md",
+    "1 - Studium/Programmierung 1/OOP/Getter und Setter.md",
     "1 - Studium/Programmierung 1/OOP/Inheritance.md",
-    "1 - Studium/Programmierung 1/OOP/Untitled.md",
     "1 - Studium/Programmierung 1/OOP/Construktor.md",
     "1 - Studium/Programmierung 1/OOP/Klassen.md",
     "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
@@ -227,8 +229,6 @@
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
-    "1 - Studium/Netze/Inhalte/Transport Layer.md",
-    "1 - Studium/Netze/Inhalte/Physical Layer.md",
-    "1 - Studium/Netze/Inhalte/Network Layer.md"
+    "1 - Studium/Netze/Inhalte/Transport Layer.md"
   ]
 }
