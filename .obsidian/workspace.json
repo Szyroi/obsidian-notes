@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Programmierung 1/OOP/Static.md",
+                "file": "1 - Studium/Programmierung 1/Algorithmen/SWP und TMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static"
+              "title": "SWP und TMP"
             }
           }
         ],
@@ -192,10 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
-    "1 - Studium/Programmierung 1/OOP/Public, Private und Protected.md",
+    "1 - Studium/Programmierung 1/Algorithmen/Grundbausteine.md",
+    "1 - Studium/Programmierung 1/Algorithmen/big-o-cheatsheet.pdf",
+    "1 - Studium/Programmierung 1/Algorithmen/SWP und TMP.md",
     "1 - Studium/Programmierung 1/OOP/Static.md",
+    "1 - Studium/Programmierung 1/OOP/Public, Private und Protected.md",
     "1 - Studium/Programmierung 1/OOP/Getter und Setter.md",
     "1 - Studium/Programmierung 1/OOP/Inheritance.md",
     "1 - Studium/Programmierung 1/OOP/Construktor.md",
@@ -214,7 +217,6 @@
     "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u01.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/t02_loesung.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/t02.pdf",
     "1 - Studium/Mathe/Übungen/Übung 8.md",
     "1 - Studium/Mathe/Übungen/Übung 7.md",
     "1 - Studium/Mathe/Übungen/Übung 6.md",
@@ -222,13 +224,10 @@
     "1 - Studium/Mathe/Übungen/Bonusaufgabe 2.md",
     "1 - Studium/Mathe/Übungen/Bonusaufgabe 3.md",
     "1 - Studium/Mathe/Übungen/Bonusaufgabe 1.md",
-    "1 - Studium/Programmierung 1/Algorithmen/Grundbausteine.md",
     "README.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
-    "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
-    "1 - Studium/Netze/Inhalte/Transport Layer.md"
+    "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md"
   ]
 }
