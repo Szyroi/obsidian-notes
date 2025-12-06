@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Übungen/Mathe Übungen/Ohne Titel 2025-08-23.pdf"
+                "file": "96 - Dateien/Übungen/Mathe Übungen/BA3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Ohne Titel 2025-08-23"
+              "title": "BA3"
             }
           }
         ],
@@ -192,10 +192,13 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
+    "1 - Studium/Mathe/Übungen/Bonusaufgabe 1.md",
+    "1 - Studium/Mathe/Übungen/Bonusaufgabe 2.md",
+    "1 - Studium/Mathe/Übungen/Bonusaufgabe 3.md",
+    "96 - Dateien/Übungen/Mathe Übungen/BA2.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/BA3.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/Bonusaufgabe-2.pdf",
     "96 - Dateien/Übungen/Mathe Übungen/Bonusaufgabe3.pdf",
-    "96 - Dateien/Übungen/Mathe Übungen/Ohne Titel 2025-08-23.pdf",
     "1 - Studium/Programmierung 1/Algorithmen/Grundbausteine.md",
     "1 - Studium/Programmierung 1/Algorithmen/big-o-cheatsheet.pdf",
     "README.md",
@@ -204,7 +207,6 @@
     "96 - Dateien/Übungen/ACAT/3_4.pdf",
     "96 - Dateien/Übungen/ACAT/3_3.pdf",
     "96 - Dateien/Übungen/ACAT/3_2.pdf",
-    "96 - Dateien/Übungen/ACAT/3_1.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
@@ -225,8 +227,6 @@
     "95 - Bibliothek/Bücher/Mathematik für Informatiker - Gerald Teschl Susanne Teschl.md",
     "95 - Bibliothek/Bücher/Mathematik für Informatiker - Peter Hartmann.md",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
-    "2 - Linux/Rust/Syntax.md",
-    "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md"
+    "1 - Studium/Programmierung 1/Übungen/Übung 6.md"
   ]
 }
