@@ -194,8 +194,11 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
-    "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
+    "1 - Studium/Programmierung 1/OOP/Inheritance.md",
     "1 - Studium/Programmierung 1/OOP/Untitled.md",
+    "1 - Studium/Programmierung 1/OOP/Construktor.md",
+    "1 - Studium/Programmierung 1/OOP/Klassen.md",
+    "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
     "1 - Studium/Programmierung 1/Rerenztypen/String.md",
     "1 - Studium/Programmierung 1/Programmiersprachen/Abstrakte Datentypen.md",
     "1 - Studium/Programmierung 1/OOP",
@@ -226,9 +229,6 @@
     "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
     "1 - Studium/Netze/Inhalte/Transport Layer.md",
     "1 - Studium/Netze/Inhalte/Physical Layer.md",
-    "1 - Studium/Netze/Inhalte/Network Layer.md",
-    "1 - Studium/Netze/Inhalte/IPv6.md",
-    "1 - Studium/Netze/Inhalte/Data Link Layer.md",
-    "1 - Studium/Netze/Inhalte/Application Layer.md"
+    "1 - Studium/Netze/Inhalte/Network Layer.md"
   ]
 }
