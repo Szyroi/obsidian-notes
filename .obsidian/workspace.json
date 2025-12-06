@@ -23,12 +23,14 @@
             "id": "65d9deed6c4d79ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Folien_zur_Vorlesung"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -89,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -193,8 +194,8 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/MGLA Folien/Skript_Lineare_Algebra.pdf",
     "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
+    "96 - Dateien/Folien/MGLA Folien/Skript_Lineare_Algebra.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/08_Typanpassung_Operatoren_Methoden.pdf",
