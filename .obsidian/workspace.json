@@ -23,14 +23,12 @@
             "id": "65d9deed6c4d79ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Array Swap"
+              "icon": "lucide-file-text",
+              "title": "u08"
             }
           }
         ],
@@ -194,11 +192,11 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
+    "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
     "96 - Dateien/Übungen/Prog 1 Übungen/t03_loesung.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/t03.pdf",
     "1 - Studium/Programmierung 1/Algorithmen/Grundbausteine.md",
     "1 - Studium/Programmierung 1/Algorithmen/big-o-cheatsheet.pdf",
-    "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
     "1 - Studium/Programmierung 1/OOP/Static.md",
     "1 - Studium/Programmierung 1/OOP/Public, Private und Protected.md",
     "1 - Studium/Programmierung 1/OOP/Getter und Setter.md",
@@ -217,7 +215,6 @@
     "96 - Dateien/Übungen/Prog 1 Übungen/t01.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u01.pdf",
     "1 - Studium/Mathe/Übungen/Übung 8.md",
     "1 - Studium/Mathe/Übungen/Übung 7.md",
     "1 - Studium/Mathe/Übungen/Übung 6.md",
