@@ -23,14 +23,12 @@
             "id": "65d9deed6c4d79ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "u08"
             }
           }
         ],
@@ -194,8 +192,8 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
-    "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "README.md",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "1 - Studium/Programmierung 1/Java/Literale.md",
     "1 - Studium/Programmierung 1/Java/Post Fix vs Pre Fix.md",
     "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
