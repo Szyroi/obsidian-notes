@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Programmierung 1/Algorithmen/SWP und TMP.md",
+                "file": "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SWP und TMP"
+              "title": "Array Swap"
             }
           }
         ],
@@ -192,13 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
     "96 - Dateien/Übungen/Prog 1 Übungen/t03_loesung.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/t03.pdf",
     "1 - Studium/Programmierung 1/Algorithmen/Grundbausteine.md",
     "1 - Studium/Programmierung 1/Algorithmen/big-o-cheatsheet.pdf",
-    "1 - Studium/Programmierung 1/Algorithmen/SWP und TMP.md",
+    "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
     "1 - Studium/Programmierung 1/OOP/Static.md",
     "1 - Studium/Programmierung 1/OOP/Public, Private und Protected.md",
     "1 - Studium/Programmierung 1/OOP/Getter und Setter.md",
