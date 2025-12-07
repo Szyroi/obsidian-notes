@@ -25,14 +25,13 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf"
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "u08"
+              "title": "u09"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,11 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65d9deed6c4d79ff",
+  "active": "5f5f96b41b771cb8",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
     "README.md",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
@@ -220,7 +220,6 @@
     "1 - Studium/Mathe/dmbook.pdf",
     "1 - Studium/Mathe/mcs.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/t01.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "1 - Studium/Mathe/Übungen/Übung 8.md",
     "1 - Studium/Mathe/Übungen/Übung 7.md",
     "1 - Studium/Mathe/Übungen/Übung 6.md",
