@@ -11,12 +11,14 @@
             "id": "5f5f96b41b771cb8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "u08"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -191,8 +193,8 @@
   },
   "active": "5f5f96b41b771cb8",
   "lastOpenFiles": [
-    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
     "README.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
