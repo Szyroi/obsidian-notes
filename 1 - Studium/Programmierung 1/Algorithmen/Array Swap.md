@@ -32,8 +32,7 @@ public class App {
 ```Java
         int[] arr = { 1, 2, 3, 4, 5, 6 };
         int[] arg = { 1, 2, 3, 4, 5, 6 };
-        Scanner sc = new Scanner(System.in);
-
+        
         int swp = arr.length - 1;
 
         for (int i = 0; i < arr.length; i++) {
