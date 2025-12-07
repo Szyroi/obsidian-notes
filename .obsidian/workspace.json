@@ -23,12 +23,14 @@
             "id": "65d9deed6c4d79ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "u08"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -89,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -193,12 +194,12 @@
   },
   "active": "65d9deed6c4d79ff",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "README.md",
     "1 - Studium/Programmierung 1/Java/Literale.md",
     "1 - Studium/Programmierung 1/Java/Post Fix vs Pre Fix.md",
@@ -227,7 +228,6 @@
     "1 - Studium/Mathe/Übungen/Übung 6.md",
     "1 - Studium/Mathe/Übungen/Übung 1.md",
     "1 - Studium/Mathe/Übungen/Bonusaufgabe 2.md",
-    "1 - Studium/Mathe/Übungen/Bonusaufgabe 3.md",
-    "1 - Studium/Mathe/Übungen/Bonusaufgabe 1.md"
+    "1 - Studium/Mathe/Übungen/Bonusaufgabe 3.md"
   ]
 }
