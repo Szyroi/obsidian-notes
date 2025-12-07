@@ -11,12 +11,14 @@
             "id": "5f5f96b41b771cb8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "u09"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -179,9 +181,9 @@
   },
   "active": "5f5f96b41b771cb8",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "README.md",
     "96 - Dateien/Folien/Prog 1 Folien/12_Typanpassung_Zugriffsrechte.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/11_Einfuehrung_OOP_Vererbung.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
     "1 - Studium/Programmierung 1/Java/Literale.md",
