@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
+                "file": "1 - Studium/Programmierung 1/OOP/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Übung 5"
+              "title": "Untitled"
             }
           }
         ]
@@ -155,8 +155,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d2c7599c08348b8",
+  "active": "1651a2245821e16e",
   "lastOpenFiles": [
+    "1 - Studium/Programmierung 1/OOP/Polymorphism.md",
+    "1 - Studium/Programmierung 1/OOP/Untitled.md",
+    "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
+    "1 - Studium/Programmierung 1/OOP/Encapsulation.md",
     "2 - Linux/Rust/Syntax.md",
     "1 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
     "2 - Linux/Rust",
