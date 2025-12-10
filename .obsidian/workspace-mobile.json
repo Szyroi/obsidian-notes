@@ -25,14 +25,12 @@
             "id": "98e0c30e8741be82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Programmierung 1/Rerenztypen/Interface.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Interface"
+              "icon": "lucide-file-text",
+              "title": "Folien_zur_Vorlesung"
             }
           }
         ],
@@ -123,7 +121,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Rückverweis"
+          "title": "Backlinks"
         }
       },
       {
@@ -166,14 +164,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false
     }
   },
   "active": "98e0c30e8741be82",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Prog 1 Folien/11_Einfuehrung_OOP_Vererbung.pdf",
     "1 - Studium/Programmierung 1/Rerenztypen/Interface.md",
+    "96 - Dateien/Folien/Prog 1 Folien/11_Einfuehrung_OOP_Vererbung.pdf",
     "1 - Studium/Programmierung 1/Rerenztypen/Structs.md",
     "1 - Studium/Programmierung 1/Rerenztypen/Enums.md",
     "1 - Studium/Programmierung 1/Java/Print Methods.md",
@@ -195,7 +192,6 @@
     "README.md",
     "95 - Bibliothek/Bücher/PDFs/Computernetze kompakt.pdf",
     "95 - Bibliothek/Bibliothek.base",
-    "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
     "95 - Bibliothek/Bücher/Grundkurs JAVA - Dietmar Abts.md",
     "1 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
