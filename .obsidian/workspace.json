@@ -11,14 +11,12 @@
             "id": "6d06f4cf95369767",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Praktika/Netze Praktikum/S2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "S2"
             }
           }
         ]
@@ -171,6 +169,7 @@
   },
   "active": "6d06f4cf95369767",
   "lastOpenFiles": [
+    "README.md",
     "96 - Dateien/Übungen/Prog 1 Übungen/probeklausur_ws25_loesung.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/14_Exceptions_und_Assertions.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u03_loesung.pdf",
@@ -178,11 +177,9 @@
     "96 - Dateien/Übungen/Prog 1 Übungen/u06_loesung.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
-    "README.md",
     "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u02_loesung.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u01.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 3.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
