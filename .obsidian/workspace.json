@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Prog 1 Folien/14_Exceptions_und_Assertions.pdf"
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/probeklausur_ws25_loesung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "14_Exceptions_und_Assertions"
+              "title": "probeklausur_ws25_loesung"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "96 - Dateien/Folien/Prog 1 Folien/14_Exceptions_und_Assertions.pdf",
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/probeklausur_ws25_loesung.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 14_Exceptions_und_Assertions"
+              "title": "Outline of probeklausur_ws25_loesung"
             }
           }
         ],
@@ -169,6 +169,7 @@
   },
   "active": "6d06f4cf95369767",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Prog 1 Folien/14_Exceptions_und_Assertions.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/probeklausur_ws25_loesung.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u03_loesung.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u03.pdf",
@@ -180,7 +181,6 @@
     "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u02_loesung.pdf",
     "96 - Dateien/Übungen/Prog 1 Übungen/u01.pdf",
-    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 3.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
