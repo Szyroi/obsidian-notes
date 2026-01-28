@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58c267c1ecf17ac0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "05_Bitoperationen_Fliesskommazahlen_Zeichenketten"
-            }
-          },
-          {
             "id": "6d06f4cf95369767",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u06_loesung.pdf"
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/probeklausur_ws25_loesung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "u06_loesung"
+              "title": "probeklausur_ws25_loesung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u06_loesung.pdf",
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/probeklausur_ws25_loesung.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of u06_loesung"
+              "title": "Outline of probeklausur_ws25_loesung"
             }
           }
         ],
