@@ -8,7 +8,8 @@ Topologieen von Netzen
 - Teilvermascht
 - Baum
 - Bus
-	- 
+	- Gerade Linie
+	- Keine Knoten (Steuerungszentrale)
 - Stern
 	- Switch in der Mitte
 - Einfacher gerichteter Ring
