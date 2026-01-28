@@ -10,6 +10,7 @@ Topologieen von Netzen
 - Bus
 	- Gerade Linie
 	- Keine Knoten (Steuerungszentrale)
+	- Einfache verkabel
 - Stern
 	- Switch in der Mitte
 - Einfacher gerichteter Ring

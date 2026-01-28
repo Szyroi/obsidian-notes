@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Netze Vorlesung 00-01"
             }
+          },
+          {
+            "id": "0521f03b988d8828",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Uebungsblatt-1_Netze_2026"
+            }
           }
         ]
       },
@@ -201,9 +213,10 @@
   },
   "active": "6d06f4cf95369767",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
+    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 00-01.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 00-01.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 02.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 13.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 12.md",
@@ -218,13 +231,11 @@
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
     "96 - Dateien/Folien/Netze Folien/N",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-2_Netze_2026.pdf",
-    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P6.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P5.pdf",
     "README.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 3.md",
