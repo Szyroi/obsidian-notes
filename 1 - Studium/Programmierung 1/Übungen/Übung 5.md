@@ -43,7 +43,3 @@ public class Leibniz_Reihe {
 }
 
 ```
-2. Programm 2
-```Java
-
-```

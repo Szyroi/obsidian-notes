@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3fb323e27f27b4e6",
+        "id": "6b3bdffb1230782a",
         "type": "tabs",
         "children": [
           {
-            "id": "5f5f96b41b771cb8",
+            "id": "58c267c1ecf17ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "05_Bitoperationen_Fliesskommazahlen_Zeichenketten"
+            }
+          },
+          {
+            "id": "6d06f4cf95369767",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u06_loesung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "u06_loesung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 451.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -140,27 +151,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
+                "file": "96 - Dateien/Übungen/Prog 1 Übungen/u06_loesung.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relationen"
-            }
-          },
-          {
-            "id": "6445f3ef8c26d1e0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of u06_loesung"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,46 +176,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "5f5f96b41b771cb8",
+  "active": "6d06f4cf95369767",
   "lastOpenFiles": [
-    "96 - Dateien/Übungen/Prog 1 Übungen/u09.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u06_loesung.pdf",
+    "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
     "README.md",
-    "96 - Dateien/Folien/Prog 1 Folien/12_Typanpassung_Zugriffsrechte.pdf",
-    "96 - Dateien/Folien/Prog 1 Folien/11_Einfuehrung_OOP_Vererbung.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/u08.pdf",
-    "1 - Studium/Programmierung 1/Java/Literale.md",
-    "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
+    "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
+    "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u03_loesung.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u03.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u02_loesung.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/u01.pdf",
+    "96 - Dateien/Folien/MGLA Folien/Folien_zur_Vorlesung.pdf",
+    "96 - Dateien/Übungen/Prog 1 Übungen/t01.pdf",
+    "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
+    "1 - Studium/Programmierung 1/Übungen/Übung 3.md",
+    "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
+    "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 6.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
     "1 - Studium/Programmierung 1/Java/Post Fix vs Pre Fix.md",
-    "96 - Dateien/Übungen/Prog 1 Übungen/t03_loesung.pdf",
-    "96 - Dateien/Übungen/Prog 1 Übungen/t03.pdf",
-    "1 - Studium/Programmierung 1/Algorithmen/Grundbausteine.md",
-    "1 - Studium/Programmierung 1/Algorithmen/big-o-cheatsheet.pdf",
-    "1 - Studium/Programmierung 1/OOP/Static.md",
-    "1 - Studium/Programmierung 1/OOP/Public, Private und Protected.md",
-    "1 - Studium/Programmierung 1/OOP/Getter und Setter.md",
-    "1 - Studium/Programmierung 1/OOP/Inheritance.md",
-    "1 - Studium/Programmierung 1/OOP/Construktor.md",
-    "1 - Studium/Programmierung 1/OOP/Klassen.md",
-    "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
+    "1 - Studium/Programmierung 1/Java/Literale.md",
+    "96 - Dateien/Übungen/Prog 1 Übungen/loesung/flugzeug/Untitled.md",
+    "1 - Studium/Programmierung 1/Primitive Datentypen/Float.md",
+    "1 - Studium/Programmierung 1/Primitive Datentypen/Integer.md",
+    "1 - Studium/Programmierung 1/Programmiersprachen/Grammatik.md",
+    "1 - Studium/Programmierung 1/Übungen/Übung 2.md",
+    "1 - Studium/Programmierung 1/Algorithmen/Array Swap.md",
+    "1 - Studium/Programmierung 1/Übungen/Übung 1.md",
+    "1 - Studium/Programmierung 1/Rerenztypen/Structs.md",
     "1 - Studium/Programmierung 1/Rerenztypen/String.md",
+    "1 - Studium/Programmierung 1/Rerenztypen/Interface.md",
+    "1 - Studium/Programmierung 1/Rerenztypen/Enums.md",
+    "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
+    "1 - Studium/Programmierung 1/Programmiersprachen/Formale Sprachen.md",
     "1 - Studium/Programmierung 1/Programmiersprachen/Abstrakte Datentypen.md",
-    "1 - Studium/Programmierung 1/OOP",
-    "1 - Studium/Programmierung 1/Rerenztypen",
-    "1 - Studium/Mathe/dmbook.pdf",
-    "1 - Studium/Mathe/Übungen/Übung 8.md",
-    "1 - Studium/Mathe/Übungen/Übung 7.md",
-    "1 - Studium/Mathe/Übungen/Übung 6.md",
-    "1 - Studium/Mathe/Übungen/Übung 1.md",
-    "1 - Studium/Mathe/Übungen/Bonusaufgabe 2.md",
-    "1 - Studium/Mathe/Übungen/Bonusaufgabe 3.md"
+    "1 - Studium/Programmierung 1/OOP/Polymorphism.md",
+    "1 - Studium/Programmierung 1/OOP/Encapsulation.md"
   ]
 }
