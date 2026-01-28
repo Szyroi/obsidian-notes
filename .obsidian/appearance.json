@@ -1,4 +1,6 @@
 {
-  "cssTheme": "Ultra Lobster",
-  "accentColor": "#4545ed"
+  "cssTheme": "",
+  "accentColor": "#4545ed",
+  "baseFontSizeAction": true,
+  "baseFontSize": 21
 }
