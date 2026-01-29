@@ -190,3 +190,6 @@ $$
 	- Kann auf kurzen Strecken eingesetzt werden
 ## Drahtlos
 - Drahtlose Kommunikation: Drahtlose Kommunikation ist die Übertragung von Informationen zwischen zwei oder mehr Punkten, die nicht durch einen elektrischen Leiter verbunden sind, unter Verwendung **mo- dulierter elektromagnetischer Wellen**.
+$$
+c[m\text{/s}] = \lambda[m] \cdot f[Hz]
+$$
