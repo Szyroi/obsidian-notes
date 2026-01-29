@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/Network Layer/IP.md",
+                "file": "1 - Studium/Netze/Inhalte/3-Network Layer/IP.md",
                 "mode": "source",
                 "source": false
               },
@@ -265,11 +265,12 @@
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
     "1 - Studium/Netze/Inhalte/Untitled",
-    "1 - Studium/Netze/Inhalte/Network Layer/IPv6.md",
-    "1 - Studium/Netze/Inhalte/Network Layer",
+    "1 - Studium/Netze/Inhalte/Physical Layer",
+    "1 - Studium/Netze/Inhalte/3-Network Layer/IPv6.md",
+    "1 - Studium/Netze/Inhalte/3-Network Layer",
     "1 - Studium/Netze/Inhalte/Network Layer.md",
-    "1 - Studium/Netze/Inhalte/Network Layer/IPv4.md",
-    "1 - Studium/Netze/Inhalte/Network Layer/IP.md",
+    "1 - Studium/Netze/Inhalte/3-Network Layer/IPv4.md",
+    "1 - Studium/Netze/Inhalte/3-Network Layer/IP.md",
     "1 - Studium/Netze/N/Zusammenfassung.md",
     "1 - Studium/Netze/N/Netze Vorlesung 01.md",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
@@ -283,7 +284,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "Netze Übung 01 1.md",
     "Netze Übung 01.md",
     "1 - Studium/Netze/Übungen/Übung 2.md",
