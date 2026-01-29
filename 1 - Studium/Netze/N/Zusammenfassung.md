@@ -8,6 +8,10 @@ https://de.wikipedia.org/wiki/OSI-Modell
 ## Transport Oriented 
 - Transport Layer/Transportschicht 4
 	- Einheit: TCP = Segemente und UDP = Datagramme
+	- Protokolle:
+		- TCP
+		- UDP
+		- 
 - Network Layer/Vermittelungsschicht 3
 	- Einheit: Pakete
 	- Einordnung: End to End Multihop
