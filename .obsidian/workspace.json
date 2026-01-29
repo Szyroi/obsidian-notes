@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d06f4cf95369767",
+  "active": "ed057fb2e27b9bfd",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 02.md",
+    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
