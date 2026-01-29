@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "462b8bbc1fbfd338",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Uebungsblatt-1_Netze_2026"
+            }
+          },
+          {
             "id": "c923a1c6ffa7e0bb",
             "type": "leaf",
             "state": {
@@ -47,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0dcf79aeab235e19",
@@ -239,8 +251,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53e00dd2a99e0059",
+  "active": "462b8bbc1fbfd338",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-2_Netze_2026.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
@@ -261,7 +274,6 @@
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 05.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 04.md",
     "96 - Dateien/Folien/Netze Folien/N",
-    "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
     "README.md",
