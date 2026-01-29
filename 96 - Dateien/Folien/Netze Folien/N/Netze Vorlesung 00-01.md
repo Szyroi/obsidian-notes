@@ -14,7 +14,9 @@ Topologieen von Netzen
 	- Vorteile: Leichte Fehlersuche, Einfache verkabelung, Keine Störung wenn ein Node ausfällt
 	- Nachteil: Singe Point of Failure (SPoF): Neztausfall bei Ausfall oder Überlastung des Knotens
 - Mesh
-	- Alle Nodes mit einer Vielzahl anderer Nodes direkt verbund
+	- Alle Nodes mit einer Vielzahl anderer Nodes direkt verbunden
+	- Vollvermaschung: Wenn alle Nodes miteinander verbunden sind 
+	- Diese 
 - Baum
 - Vollvermascht
 - Teilvermascht
