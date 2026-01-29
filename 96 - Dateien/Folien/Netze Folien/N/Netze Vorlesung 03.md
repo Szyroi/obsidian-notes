@@ -2,8 +2,8 @@
 # 23.04.2024
 [[Netze Vorlesung 03.pdf]]
 # Ethernet und WLAN
-## OS
-#### Ethernet
+# Data Link Layer/Sicherungsschicht
+## Ethernet
 IEE 802.3
 LAN = Local Area Network
 Frame/Rahmen besteht aus
@@ -11,7 +11,7 @@ Frame/Rahmen besteht aus
 - Frame Delimiter: 10101011
 - Nutzdaten (Layer 2 Frame)
 
-#### WLAN
+## WLAN
 IEE 802.11
 Wireless LAN
 
