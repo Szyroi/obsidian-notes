@@ -78,7 +78,10 @@ $$
 C = B\log_{2}(1+\text{S/R})
 $$
 
-$C$: Kapazität $[$
+$C$: Kapazität (bits/s)
+$B$: Bandbreite (Hz)
+$N_{0}$: Rauschen (W/Hz)
+$S_{P}$: Signal Stärke
 
 
 Kanalkapazität $C$
