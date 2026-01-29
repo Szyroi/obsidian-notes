@@ -137,8 +137,9 @@ Bsp:
 ## Link Kapazitäten
 - Die beiden wichtigsten Parameter sind:
 - **1.Datenrate** (Kapazität, Geschwindigkeit)
-	- Gemessen in bits/s
+	- Gemessen in bits/s (Bits^-1)
 - **2.Latenz** (Verzögerungszeit)
+	- Gemessen in Sekunden
 
 
 ## Kabel
