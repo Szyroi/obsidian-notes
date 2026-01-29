@@ -17,10 +17,15 @@
 
 - Dienst: Ein Netzwerk-**Dienst** ist eine abstrahierte Funkti- on, die von einem Computernetzwerk den Anwen- dern bzw. teilnehmenden Geräten bereitgestellt wird.
 
-- Rou
+- Router: Ein **Router** ist ein Knoten, der Pakete zwischen Netzwerken weiterleitet.
+
+- Switch: Ein **Switch** ist ein Knoten, der Pakete innerhalb ei- nes einzelnen Netzwerkes weiterleitet.
 
 
 ## Topologieen
+
+Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Nodes eines Netzwerks angeordnet und über Links physisch miteinander verbunden werden.
+
 - Bus
 	- Gerade Linie
 	- Keine Knoten (Steuerungszentrale)
