@@ -59,6 +59,8 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 - Local Area Network (LAN)
 	- Ein **Local Area Network (LAN)** ist ein privates Netzwerk, das innerhalb und in der Nähe eines einzelnen Gebäudes wie einem Haus, einem Büro oder einer Fabrik operiert. Auch Campus-Netzwerke sind in der Regel LANs
 	- Beispiele: Ethernet (IEEE 802.3), WLAN (IEEE 802.11)
-- 
+- Metropolitan Are Network (MAN)
+	- Ein **Metropolitan Area Network (MAN)** operiert in einer Stadt/Region.
+	- Beispiele: Die Verbindung von verschiedenen Firmengebäuden mit dedizierten Kabeln oder per Richtfunk, Kabel-TV Provider mit einem Einspeisepun
 
 
