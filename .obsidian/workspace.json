@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 - Ethernet"
+              "title": "2.3 - WLAN"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "4fff0f74d709bc2f",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
     "1 - Studium/Netze/N/Netze Vorlesung 03.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/TCP.md",
