@@ -71,6 +71,7 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 ### Application Oriented
 - **Layer 7 bis 5 werden hier im Kurs als Application Layer zusammengefasst**
 - **Zusammenfassung: Verschafft Anwendungen Zugriff auf das Kommunikationsnetz**
+- Verantwortlich für Data Stream Message
 - ### Application Layer 7
 	- Interaktion mit Daten des Benutzers 
 	- Client Software ist nicht Teil der Schicht
@@ -83,6 +84,7 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 ---
 ### Transport Oriented
 - ### Transport Layer 4
+	- 
 - ### Network Layer 3
 - ### Data Link Layer 2
 - ### Physical Layer 1
