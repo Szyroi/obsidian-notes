@@ -67,6 +67,21 @@ $$
 # Kanalkapazität
 
 
+Bandbreite
+Frequenzbereich der gut übertragen werden kann
+Analoges Telefon braucht ~4kHz
+
+Kanalkapazität $C$
+Bits pro Sekunde
+Mit Bandbreite $B$
+$C=2B$
+Kann mehr als 2 Signalebenen haben (Mehrere verschiedene Werte möglich)
+Bei $M$ signalebenen
+$C=2B\;log_2(M)$
+
+
+
+
 Relevante Parameter
 - Delay / Signallaufzeit
 	- Kupfer: 0.6 * light speed
@@ -89,17 +104,7 @@ Attenuation to Cross-talk Ration
 $ACR=NEXT-a$
 ACR größer = Kabel hat höhere Qualität
 
-Bandbreite
-Frequenzbereich der gut übertragen werden kann
-Analoges Telefon braucht ~4kHz
 
-Kanalkapazität $C$
-Bits pro Sekunde
-Mit Bandbreite $B$
-$C=2B$
-Kann mehr als 2 Signalebenen haben (Mehrere verschiedene Werte möglich)
-Bei $M$ signalebenen
-$C=2B\;log_2(M)$
 
 Baudrate
 Schrittgeschwindigkeit = Zahl der Zustandswechsel
