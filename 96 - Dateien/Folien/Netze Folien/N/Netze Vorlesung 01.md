@@ -94,8 +94,13 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 	- Fehlererkennung: Fehlerhafte Daten werden erkannt und geeignet behandelt
 	- Protokolle (bspw.): TCP, UDP, QUIC
 - ### Network Layer 3
-- Übertragung/Weiterleitung von Paketen/Datagrammen zwischen Nodes in **unterschiedlichen** Netzwerken. 
-- Knoten (hier Router) leiten Pakete zwischen zwei Netzwerken weiter. 
-- Das Netzwerk findet den Weg selbstständig (Routing). Der Absender kennt nur die Adresse des Empfängers.
+	- Übertragung/Weiterleitung von Paketen/Datagrammen zwischen Nodes in **unterschiedlichen** Netzwerken. 
+	- Knoten (hier Router) leiten Pakete zwischen zwei Netzwerken weiter. 
+	- Das Netzwerk findet den Weg selbstständig (Routing). 
+	- Der Absender kennt nur die Adresse des Empfängers.
+	- Protokolle (bspw.): IP
 - ### Data Link Layer 2
+	- Lokale Zustellung von Rahmen (engl. Frames) zwischen Nodes im gleichen Netzwerk. 
+	- Knoten (hier Switche) leiten Pakete zwischen Nodes weiter. 
+	- Gewährleistung einer weitestgehend fehlerfreien Übertragung auf dem physikalischen Medium (häufig). Zugriff auf das Übertragungsmedium regeln. Die Adressierung ist eine MAC-Adresse der Netzwerkkarte.
 - ### Physical Layer 1
