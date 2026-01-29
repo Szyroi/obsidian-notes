@@ -71,7 +71,7 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 ### Application Oriented
 - **Layer 7 bis 5 werden hier im Kurs als Application Layer zusammengefasst**
 - **Zusammenfassung: Verschafft Anwendungen Zugriff auf das Kommunikationsnetz**
-- Verantwortlich für Data Stream Message
+- **Verantwortlich für Data Stream Message**
 - ### Application Layer 7
 	- Interaktion mit Daten des Benutzers 
 	- Client Software ist nicht Teil der Schicht
@@ -84,7 +84,12 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 ---
 ### Transport Oriented
 - ### Transport Layer 4
-	- 
+	- Verantwortlich für Segement
+	- Ende-zu-Ende Kommunikation zwischen Prozessen auf Nodes 
+	- Die Adressierung ist ein Port auf einem Node 
+	- Verschiedene Prozesse können unterschiedliche Ports nutzen 
+	- Bietet der Anwendungsschicht einen einheitlichen und vereinfachten Zugriff auf das Netz 
+	- Zerlegung und Wiederzusammenführung der Daten in Segmente (engl. Segments) Flusssteuerung (engl. flow control): Der Sender überfordert nicht den Empfänger Stauvermeidung (engl. congestion control): Die Knoten im Netzwerk werden nicht überlastet Fehlererkennung: Fehlerhafte Daten werden erkannt und geeignet behandelt
 - ### Network Layer 3
 - ### Data Link Layer 2
 - ### Physical Layer 1
