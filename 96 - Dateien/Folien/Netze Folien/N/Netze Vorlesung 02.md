@@ -193,3 +193,4 @@ $$
 $$
 c[m\text{/s}] = \lambda[m] \cdot f[Hz]
 $$
+$c = 3 * 10^8[m\text{/s}]$ im Vacuum.
