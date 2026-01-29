@@ -12,7 +12,7 @@ Topologieen von Netzen
 - Ring
 	- Alle Nodes werden mit genau zwei weiteren Nodes zu einem geschlossen ring verbunden
 	- Vorteile: Große Neztausdehnung, Geringer Kabelzuwachs
-	- Nachteile: Störung eines Nodes führt zu Netzausfall, Aufwendige Fehlersuche (Wo ist der Defekt?), Je mehr Nodes
+	- Nachteile: Störung eines Nodes führt zu Netzausfall, Aufwendige Fehlersuche (Wo ist der Defekt?), Mehr Nodes verlängert die dauer der Übertragten Nachrichten
 - Stern
 	- Switch in der Mitte
 	- Vorteile: Leichte Fehlersuche, Einfache verkabelung, Keine Störung wenn ein Node ausfällt
