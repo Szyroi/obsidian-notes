@@ -102,5 +102,8 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 - ### Data Link Layer 2
 	- Lokale Zustellung von Rahmen (engl. Frames) zwischen Nodes im gleichen Netzwerk. 
 	- Knoten (hier Switche) leiten Pakete zwischen Nodes weiter. 
-	- Gewährleistung einer weitestgehend fehlerfreien Übertragung auf dem physikalischen Medium (häufig). Zugriff auf das Übertragungsmedium regeln. Die Adressierung ist eine MAC-Adresse der Netzwerkkarte.
+	- Gewährleistung einer weitestgehend fehlerfreien Übertragung auf dem physikalischen Medium (häufig). 
+	- Zugriff auf das Übertragungsmedium regeln. 
+	- Die Adressierung ist eine MAC-Adresse der Netzwerkkarte.
+	- Protokolle (bspw.): Ethernet, Point-to-Point-Protocol (PPP), Wireless Local Area Network (WLAN)
 - ### Physical Layer 1
