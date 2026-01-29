@@ -1,9 +1,8 @@
 #netze/vorlesung
 # 09.04.2024
-[[Netze Vorlesung 00.pdf]]
-[[Netze Vorlesung 01.pdf]] bis S.13
-## 00
-Topologieen von Netzen
+[[Vorlesung-01.pdf]]
+
+## Topologieen
 - Bus
 	- Gerade Linie
 	- Keine Knoten (Steuerungszentrale)
