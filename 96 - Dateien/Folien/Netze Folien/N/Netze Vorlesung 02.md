@@ -43,6 +43,14 @@ P_{RX} = P_{TX} - L_{M_{1}} + P_{A} - L_{M_{2}}
 $$
 TX = Transmitter
 A = Amplifier
+RX = Receiver
+M = Physical Medium
+
+Beispiel:
+$$
+
+$$
+
 
 # Kanalkapazität
 Beispiele Übertragungsmedien
