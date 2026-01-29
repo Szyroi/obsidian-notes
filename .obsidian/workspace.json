@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
+                "file": "1 - Studium/Netze/N/Netze Vorlesung 01.md",
                 "mode": "source",
                 "source": false
               },
@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
+                "file": "1 - Studium/Netze/N/Zusammenfassung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netze Vorlesung 03"
+              "title": "Zusammenfassung"
             }
           },
           {
@@ -290,11 +290,13 @@
   },
   "active": "2e28677b01ea454a",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 01.md",
+    "1 - Studium/Netze/N/Zusammenfassung.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 03.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 02.md",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
     "1 - Studium/Netze/Übungen/Übung 1.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
@@ -305,20 +307,19 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "Netze Übung 01 1.md",
     "Netze Übung 01.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 02.md",
     "1 - Studium/Netze/Übungen/Übung 2.md",
     "Netze Übung 02 1.md",
     "Netze Übung 02.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 13.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 12.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 11.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 10.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 09.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 08.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 07.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 06.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 05.md",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 04.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 13.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 12.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 11.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 10.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 09.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 08.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 07.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 06.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 05.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 04.md",
     "README.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 3.md",
