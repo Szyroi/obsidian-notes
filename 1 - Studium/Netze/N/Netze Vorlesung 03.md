@@ -83,5 +83,3 @@ Problem WLAN: Mehrere Geräte im gleichen Frequenzbereich
 		- DIFS: Datendienste
 	- Optional: Vor Übertragung RTS (Request to Send) und CTS (Clear to Send) austauschen
 		- Stations können einander evtl nicht sehen; So wissen sie trotzdem dass kanal Belegt ist
-
-## Loakale Adressierung MAC -Adressen
