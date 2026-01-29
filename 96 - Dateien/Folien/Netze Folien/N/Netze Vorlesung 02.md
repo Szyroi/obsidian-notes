@@ -15,8 +15,11 @@ Die signifikantesten Unterschiede werden verursacht durch:
 - (**Rauschen**) (engl. Noise) Das empfangene Signal enthält **Komponenten**, die nicht vom Sender übertragen wurden.
 
 
-## 
-
+## Dämpfung und Dezibel
+- **dB ist ein logarithmisches Verhältnis von bspw. Leistungen**
+$$
+	- P
+$$
 
 
 # Kanalkapazität
