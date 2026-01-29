@@ -22,6 +22,7 @@ $x=10log_{10}(X)$
 - $log(x^y)=y\;log(x)$
 - $log_z(x)=\frac{log_{10}(x)}{log_{10}(z)}$
 - $z^{log_z(x)}=x$
+$1 G = $
 
 ## **Dämpfung und Dezibel**
 - **dB ist ein logarithmisches Verhältnis von bspw. Leistungen**
