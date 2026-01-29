@@ -141,8 +141,9 @@ Bsp:
 - **2.Latenz** (Verzögerungszeit)
 	- Gemessen in Sekunden
 	- Übertragungsverzögerung
-		- $$
-		-$$
+$$
+UEV = \frac{M[bit]}{R[bist/]}
+$$
 
 
 ## Kabel
