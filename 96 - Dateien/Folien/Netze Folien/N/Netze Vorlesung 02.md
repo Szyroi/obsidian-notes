@@ -168,8 +168,13 @@ $$
 - Diese werden durch andere stromführende Kabel bspw. im selben Schacht hervorgerufen 
 - Außerdem wird eine Störung (Rauschen) zwischen benachbarten Adern-paaren innerhalb des Kabels reduziert
 ## Koaxial Kabel (Co-ax)
-## Glasfaser
-
+- Ebenfalls sehr verbreitet. In Deutschland oft bekannt als “Antennenkabel” 
+- Sehr gute Eigenschaften (Distanz und Durchsatz oft besser als bei Twisted Pair) Schwierig zu installieren. 
+- Die Kabel sind nur begrenzt biegsam und die Verbindungen empfindlich
+## Glasfaser (Lichtwellenleiter)
+- Übertragung via Lichtimpulse (optische Signale) in einem sehr dünnen Glasstrang 
+- Im einfachsten Fall eine LED und eine Photodiode 
+- Extrem hoher Durchsatz und extrem hohe Entfernungen möglich Schwierige Installation (bspw. “splicing”)
 
 
 ## Drahtlos
