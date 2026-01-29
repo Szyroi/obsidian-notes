@@ -47,8 +47,11 @@ RX = Receiver
 M = Physical Medium
 
 Beispiel:
-$$
+$P_{TX} $
 
+
+$$
+P_{RX} = 20dB - 40dB + 10dB - 30dB
 $$
 
 
