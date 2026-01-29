@@ -125,7 +125,11 @@ Bsp:
 		- Viele verschiedene Varianten denkbar.
 
 - **Manchester Codierubg**
-	- 
+	- In der Mitte der Übertragung des Bits findet ein Übergang statt. 
+	- Die Repräsentation eines binären, digitalen Signals in Manchester Codierung:
+		- “0”: Erste Hälfte An, zweite Hälfte Aus 
+		- “1”: Erste Hälfte Aus, zweite Hälfte An
+	- **+** **Inhärenter Takt**, keine Probleme mit langen Folgen gleicher Bits
 ## Übertragungsmedien
 
 ### Link Kapazitäten
