@@ -23,8 +23,11 @@ $$
 
 - **oder von Spannungen**
 $$
-U_{1}
+\frac{U_{1}}{U_{2}}[dB] = 20\log_{10} \left( \frac{U_{1}[V]}{U_{2}[V]} \right)
 $$
+
+
+
 # Kanalkapazität
 Beispiele Übertragungsmedien
 - Koaxialkabel
