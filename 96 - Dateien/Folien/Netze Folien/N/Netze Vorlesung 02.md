@@ -140,7 +140,7 @@ Bsp:
 	- Gemessen in bits/s (Bits^-1)
 - **2.Latenz** (Verzögerungszeit)
 	- Gemessen in Sekunden
-	- Übertragungsverzögerung
+	- **Übertragungsverzögerung**
 $$
 UEV = \frac{M[bit]}{R[bit\text{/s}]}
 $$
@@ -148,7 +148,7 @@ $$
 	- Ist unabhängig von der physikalischen Länge des Mediums. 
 	- Hängt von der Anzahl der Bits und der Datenrate ab.
 
-- Ausbreitungsverzögerung
+- **Ausbreitungsverzögerung**
 $$
 AV = \frac{\text{Längen[m]}}{v[ms^-1]}
 $$
