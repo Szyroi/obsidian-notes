@@ -108,7 +108,7 @@ Bsp:
 - Kommunikation braucht Synchronisierung
 	- Die Repräsentation eines binären, digitalen Signals wirkt trivial: 
 		- “0” $\widehat{=}$ 0V $\widehat{=}$  licht aus
-		- “1”̂ = 5V̂ = licht an
+		- “1” $\widehat{=}$ 5V $\widehat{=}$ licht an
 	- Für eine fehlerfreie Dekodierung muss der Empfänger das Signal zur richtigen Zeit evaluieren 
 	- Bei häufigen Wechseln bekommt der Empfänger automatisch einen Takt 
 	- Was passiert jedoch bei längeren Folgen von “0” oder “1”?
