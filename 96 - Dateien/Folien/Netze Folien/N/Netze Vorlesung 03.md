@@ -23,14 +23,14 @@ Amplitude, Frequenz oder Phase eines Trägersignals werden verändert, um Daten 
 - AM = Amplitude Modulation
 - FM = Frequenz Modulation
 - PM = Phase Modulation
-![[Netze AM FM PM.png]]
+
 
 Frame besteht aus
 - Präambel
 - Start of Frame Delimiter
 - Header (Size, Datenrate, Checksum)
 - Nutzdaten (Layer 2 Frame)
-### OSI Modell: Schicht 2
+## OSI Modell: Schicht 2
 Adressierung MAC-Schicht
 MAC = Medium Access Controll
 48 bit (6 byte)
@@ -77,3 +77,4 @@ Problem WLAN: Mehrere Geräte im gleichen Frequenzbereich
 	- Optional: Vor Übertragung RTS (Request to Send) und CTS (Clear to Send) austauschen
 		- Stations können einander evtl nicht sehen; So wissen sie trotzdem dass kanal Belegt ist
 
+## Loakale Adressierung MAC 
