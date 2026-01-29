@@ -197,5 +197,8 @@ $$
 ### Ausbreitung von Elektromagnetischen Wellen
 - Im freien Raum (Vakuum, keine Hindernisse) nimmt die Signalstärke am Empfänger ($P_{R}$) **quadratisch** mit der Entfernung vom Sender ab.
 $$
-\frac{P_{T}}{P_{R}} = \left[ \frac{4\pi d^2}{\lambda} \right] = [4\pi df^2]
+\frac{P_{T}}{P_{R}} = \left[ \frac{4\pi d^2}{\lambda} \right] = \left[ \frac{4\pi df^2}{c} \right]
+$$
+$$
+L_{f}[dB] = 20 * \log_{10}(f)
 $$
