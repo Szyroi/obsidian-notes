@@ -89,7 +89,7 @@ $\frac{S_{P}}{N_{0}\times B}$: S/R, ausgedrückt als lineares Leistungsverhältn
 - Jedoch, es existieren Grenzen
 
 
-
+## Modulation
 
 
 Relevante Parameter
