@@ -10,6 +10,7 @@ https://de.wikipedia.org/wiki/OSI-Modell
 	- Einheit: TCP = Segemente und UDP = Datagramme
 - Network Layer/Vermittelungsschicht 3
 	- Einheit: Pakete
+	- Einordnung: End to End Multihop
 	- Protokolle:
 		- IP
 		- ICMP
@@ -18,12 +19,13 @@ https://de.wikipedia.org/wiki/OSI-Modell
 		- IPX
 - Data Link Layer/Sicherungschicht 2
 	- Einheit: Frames
-	- Einordnung: 
+	- Einordnung: Point to Point
 	- Protokolle: 
 		- IEEE 802.3 (Ethernet)
 		- IEEE 802.11 (WLAN)
 		- MAC
 - Physical Layer/Bitübertragungsschicht 1
 	- Einheit: Bits/Symbole
+	- Einordnung: Point to Point
 
 
