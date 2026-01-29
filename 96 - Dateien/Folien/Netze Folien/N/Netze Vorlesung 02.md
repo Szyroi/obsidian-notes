@@ -26,8 +26,8 @@ Giga: $1 G = 10^9$
 Mega: $1M = 10^6$
 Kilo: $1k = 10^3$
 Mili: $1m = 10^{-3}$
-Mikro: $1\mu = 10$
-Nano:
+Mikro: $1\mu = 10^{-6}$
+Nano: $1n = 10^$
 
 
 ## **Dämpfung und Dezibel**
