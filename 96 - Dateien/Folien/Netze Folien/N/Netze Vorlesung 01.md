@@ -67,3 +67,5 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 	- Oft Zusammenschluss von mehreren Netzwerken
 
 
+## ISO/OSI
+- ### Application
