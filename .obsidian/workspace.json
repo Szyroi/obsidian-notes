@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/IPv6.md",
+                "file": "1 - Studium/Netze/Inhalte/Network Layer/IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv6"
+              "title": "IP"
             }
           }
         ]
@@ -262,10 +262,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e28677b01ea454a",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/IPv4.md",
-    "1 - Studium/Netze/Inhalte/IP.md",
+    "1 - Studium/Netze/Inhalte/Untitled",
+    "1 - Studium/Netze/Inhalte/Network Layer/IPv6.md",
+    "1 - Studium/Netze/Inhalte/Network Layer",
+    "1 - Studium/Netze/Inhalte/Network Layer.md",
+    "1 - Studium/Netze/Inhalte/Network Layer/IPv4.md",
+    "1 - Studium/Netze/Inhalte/Network Layer/IP.md",
     "1 - Studium/Netze/N/Zusammenfassung.md",
     "1 - Studium/Netze/N/Netze Vorlesung 01.md",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
@@ -280,7 +284,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "Netze Übung 01 1.md",
     "Netze Übung 01.md",
     "1 - Studium/Netze/Übungen/Übung 2.md",
@@ -296,9 +299,6 @@
     "1 - Studium/Netze/N/Netze Vorlesung 06.md",
     "1 - Studium/Netze/N/Netze Vorlesung 05.md",
     "1 - Studium/Netze/N/Netze Vorlesung 04.md",
-    "README.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 3.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 4.md"
+    "README.md"
   ]
 }
