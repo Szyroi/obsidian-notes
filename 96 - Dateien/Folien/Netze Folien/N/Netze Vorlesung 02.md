@@ -41,17 +41,16 @@ Typischerweise angegeben in dB/100m oder dB/km.
 $$
 P_{RX} = P_{TX} - L_{M_{1}} + P_{A} - L_{M_{2}}
 $$
-TX = Transmitter
-A = Amplifier
-RX = Receiver
-M = Physical Medium
+$P_{TX}$ = Transmitter
+$P_{A}$ = Amplifier
+$P_{RX}$ = Receiver
+$L_{M}$ = Physical Medium
 
 Beispiel:
 $P_{TX}$ = 100 mW
 $L_{M_{1}}$ = 40dB
 $L_{M_{2}}$ = 30dB
 $P_{A}$ = 10dB
-
 
 $$
 P_{RX} = 20dB - 40dB + 10dB - 30dB
