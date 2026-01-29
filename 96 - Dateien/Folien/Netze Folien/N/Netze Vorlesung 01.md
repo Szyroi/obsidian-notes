@@ -106,7 +106,7 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 	- Zugriff auf das Übertragungsmedium regeln. 
 	- Die Adressierung ist eine MAC-Adresse der Netzwerkkarte.
 	- Protokolle (bspw.): Ethernet, Point-to-Point-Protocol (PPP), Wireless Local Area Network (WLAN) (802.11)
-- ### Physical Layer 1
+- ### Physical Layer/Bitübertragungsschicht 1
 	- Physikalische Übertragung der Daten
 	- Umwandlung der Bits in: 
 		- elektrische Signale (bspw. Kabel) 
