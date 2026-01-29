@@ -5,16 +5,16 @@
 ### OSI Modell: Schicht 1
 Bitübertragungsschicht - Physical Layer
 
-Auf der Bitübertragungsschicht werden Daten gesendet, indem ein Signal erzeugt und dieses Signal über ein Medium übertragen wird.
+### Signale
+- Auf der Bitübertragungsschicht werden Daten gesendet, indem ein Signal erzeugt und dieses Signal über ein Medium übertragen wird.
+- **Signal**: Ein Signal ist ein physikalisches Phänomen mit welchem sich verschiedene Zustände (bspw. 0 oder 1) darstellen lassen.
 
-Signal: Ein Signal ist ein physikalisches Phänomen mit welchem sich verschiedene Zustände (bspw. 0 oder 1) darstellen lassen.
 
-
-**Ein empfangenes Signal unterscheidet sich von einem gesendeten Signal.** 
+### **Ein empfangenes Signal unterscheidet sich von einem gesendeten Signal.** 
 Die signifikantesten Unterschiede werden verursacht durch: 
-- Dämpfung (engl. Attenuation) Das Signal verliert an **Intensität** auf dem Weg vom Sender zum Empfänger.
-- Verzerrung (engl. Distortion) Das Signal wird auf dem Weg vom Sender zum Emp- fänger **deformiert**. 
-- (Rauschen) (engl. Noise) Das empfangene Signal enthält Komponenten, die nicht vom Sender übertragen wurden.
+- **Dämpfung** (engl. Attenuation) Das Signal verliert an **Intensität** auf dem Weg vom Sender zum Empfänger.
+- **Verzerrung** (engl. Distortion) Das Signal wird auf dem Weg vom Sender zum Emp- fänger **deformiert**. 
+- (**Rauschen**) (engl. Noise) Das empfangene Signal enthält **Komponenten**, die nicht vom Sender übertragen wurden.
 
 
 Beschreibt
