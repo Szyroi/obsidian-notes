@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/N/Zusammenfassung.md",
+                "file": "1 - Studium/Netze/Inhalte/IPv6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zusammenfassung"
+              "title": "IPv6"
             }
           }
         ]
@@ -264,8 +264,8 @@
   },
   "active": "2e28677b01ea454a",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/IP.md",
     "1 - Studium/Netze/Inhalte/IPv4.md",
+    "1 - Studium/Netze/Inhalte/IP.md",
     "1 - Studium/Netze/N/Zusammenfassung.md",
     "1 - Studium/Netze/N/Netze Vorlesung 01.md",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
