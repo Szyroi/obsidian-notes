@@ -17,6 +17,7 @@ Topologieen von Netzen
 	- Alle Nodes mit einer Vielzahl anderer Nodes direkt verbunden
 	- Vollvermaschung: Wenn alle Nodes miteinander verbunden sind 
 	- Diese Topologie bildet sich z.B bei unkontrollierten bzw. ad-hoc aufgebauten Netzwerke
+	- Vorteile: Hohe Ausf
 - Baum
 - Einfacher gerichteter Ring
 	- Token Ring System
