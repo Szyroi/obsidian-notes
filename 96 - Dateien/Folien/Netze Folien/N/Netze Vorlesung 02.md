@@ -130,11 +130,16 @@ Bsp:
 		- “1”: Erste Hälfte Aus, zweite Hälfte An
 	- **+** **Inhärenter Takt**, keine Probleme mit langen Folgen gleicher Bits
 	- **-** heoretisch eine Halbierung der Kapazität
-## Übertragungsmedien
 
-### Link Kapazitäten
 
-### Kabel
+# Übertragungsmedien
 
-### Drahtlos
+## Link Kapazitäten
+
+
+
+
+## Kabel
+
+## Drahtlos
 
