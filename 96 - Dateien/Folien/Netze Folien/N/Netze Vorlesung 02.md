@@ -5,7 +5,7 @@
 ### OSI Modell: Schicht 1
 Bitübertragungsschicht - Physical Layer
 
-# Signale
+# **Signale**
 - Auf der Bitübertragungsschicht werden Daten gesendet, indem ein Signal erzeugt und dieses Signal über ein Medium übertragen wird.
 - **Signal**: Ein Signal ist ein physikalisches Phänomen mit welchem sich verschiedene Zustände (bspw. 0 oder 1) darstellen lassen.
 ### **Ein empfangenes Signal unterscheidet sich von einem gesendeten Signal.** 
@@ -23,7 +23,7 @@ $x=10log_{10}(X)$
 - $log_z(x)=\frac{log_{10}(x)}{log_{10}(z)}$
 - $z^{log_z(x)}=x$
 
-## Dämpfung und Dezibel
+## **Dämpfung und Dezibel**
 - **dB ist ein logarithmisches Verhältnis von bspw. Leistungen**
 $$
 	\frac{P_{1}}{P_{2}}[dB] = 10\log_{10} \left( \frac{P_{1}[\text{W}]}{P_{\text{2}}[W]} \right)
@@ -64,7 +64,7 @@ $$
 P_{RX} = 20dB - 40dB + 10dB - 30dB
 $$
 
-# Kanalkapazität
+# **Kanalkapazität**
 
 $$
 C = B\log_{2}\left( 1 + \frac{S_{P}}{N_{0} \times B} \right)
@@ -84,7 +84,7 @@ $\frac{S_{P}}{N_{0}\times B}$: S/R, ausgedrückt als lineares Leistungsverhältn
 - Jedoch, es existieren Grenzen
 
 
-# Modulation
+# **Modulation**
 - Modulation: Modulation ist die Veränderung eines Si- gnalparameters (oder: mehrerer Parame- ter) eines “Trägersignals” durch ein mo- dulierendes Signal.
 - Demodulation: Demodulation ist die Wiederherstellung des ursprünglichen Signals aus dem mo- dulierten Signal.
 Bsp für Modulationen:
@@ -93,7 +93,7 @@ Bsp für Modulationen:
 - Phase-shift keying (PSK) 
 - Quadrature Amplitude Modulation (QAM)
 
-## Amplitude-Shift Keying (ASK) — Amplitudenmodulation
+## **Amplitude-Shift Keying (ASK) — Amplitudenmodulation**
 - “0” und “1” werden durch unterschiedliche Signalpegel dargestellt (bspw. Spannungspegel).
 - Häufig ist der Signalpegel für 0, kein Signal (On-Off Keying (OOK))
 Bsp: 
@@ -101,10 +101,10 @@ Bsp:
 - AM im Autoradio
 - Ethernet (Kabel)
 
-## Frequency-shift keying (FSK) — Frequenzmodulation
+## **Frequency-shift keying (FSK) — Frequenzmodulation**
 - “0” und “1”werden durch zwei verschiedene Frequenzen in der Nähe der Trägerfrequenz dargestellt.
 
-# Codierung
+# **Codierung**
 - Kommunikation braucht Synchronisierung
 	- Die Repräsentation eines binären, digitalen Signals wirkt trivial: 
 		- “0”̂ = 0V̂ = licht aus
@@ -123,7 +123,7 @@ Bsp:
 	3. Eine zusätzliche **Codierungen** verwenden.
 		- Viele verschiedene Varianten denkbar.
 
-- **Manchester Codierubg**
+- **Manchester Codierung**
 	- In der Mitte der Übertragung des Bits findet ein Übergang statt. 
 	- Die Repräsentation eines binären, digitalen Signals in Manchester Codierung:
 		- “0”: Erste Hälfte An, zweite Hälfte Aus 
