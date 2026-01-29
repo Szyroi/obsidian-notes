@@ -130,7 +130,6 @@ log von: Leistung signal / Leistung noise
 
 Verdrillte Kupferkabel (Twisted Pair)
 Shielded/Foiled/Unshielded/Screened-Shielded
-
 #### Strukturierte Verkabelung
 Primärbereich = zwischen Gebäuden
 Sekundärbereich = zwischen Stockwerken
