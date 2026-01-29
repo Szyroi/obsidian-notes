@@ -37,6 +37,7 @@ $U$ = Spannung des Signals
 $a$ = Dämpfung (eng. attenuation). 
 Typischerweise angegeben in dB/100m oder dB/km.
 
+### Verlust/Gewinn in kaskadierten Pfaden
 
 
 
