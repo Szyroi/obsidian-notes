@@ -13,7 +13,11 @@ Topologieen von Netzen
 	- Switch in der Mitte
 	- Vorteile: Leichte Fehlersuche, Einfache verkabelung, Keine Störung wenn ein Node ausfällt
 	- Nachteil: Singe Point of Failure (SPoF): Neztausfall bei Ausfall oder Überlastung des Knotens
-	
+- Mesh
+	- Alle Nodes mit einer Vielzahl anderer Nodes direkt verbund
+- Baum
+- Vollvermascht
+- Teilvermascht
 - Einfacher gerichteter Ring
 	- Token Ring System
 - Doppelter gegenläufiger Ring
