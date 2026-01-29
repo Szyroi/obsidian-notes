@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "0dcf79aeab235e19",
@@ -96,12 +96,14 @@
             "id": "2e28677b01ea454a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-03"
+              "icon": "lucide-file",
+              "title": "Netze Vorlesung 03"
             }
           },
           {
@@ -165,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,24 +315,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d06f4cf95369767",
+  "active": "2e28677b01ea454a",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
+    "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
+    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
+    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
+    "1 - Studium/Netze/Übungen/Übung 1.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
-    "1 - Studium/Netze/Übungen/Übung 1.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "Netze Übung 01 1.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
-    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
     "Netze Übung 01.md",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 02.md",
-    "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "1 - Studium/Netze/Übungen/Übung 2.md",
     "Netze Übung 02 1.md",
     "Netze Übung 02.md",
