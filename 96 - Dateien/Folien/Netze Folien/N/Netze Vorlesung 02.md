@@ -25,8 +25,8 @@ $x=10log_{10}(X)$
 Giga: $1 G = 10^9$
 Mega: $1M = 10^6$
 Kilo: $1k = 10^3$
-Mili: $1m = 10^mi3$
-Mikro:
+Mili: $1m = 10^{-3}$
+Mikro: $1mikro$
 Nano:
 
 
