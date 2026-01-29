@@ -152,6 +152,13 @@ $$
 $$
 AV = \frac{\text{Längen[m]}}{v[ms^-1]}
 $$
+- Zeit, welche die Bits brauchen, um beim Empfänger anzukommen. 
+- Hängt von der physikalischen Länge des Mediums und der Ausbreitungsgeschwindigkeit ab. 
+- Bei Kupferkabel ca. 0,6 * c (Lichtgeschwindigkeit)
+
+$$
+Latenz = UEV + AV
+$$
 
 ## Kabel
 
