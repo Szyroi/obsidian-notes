@@ -72,8 +72,15 @@ Frequenzbereich der gut übertragen werden kann
 Analoges Telefon braucht ~4kHz
 
 $$
-C = B\log_{2}
+C = B\log_{2}\left( 1 + \frac{S_{P}}{N_{0} \times B} \right)
 $$
+$$
+C = B\log_{2}(1+S)
+$$
+
+
+
+
 Kanalkapazität $C$
 Bits pro Sekunde
 Mit Bandbreite $B$
