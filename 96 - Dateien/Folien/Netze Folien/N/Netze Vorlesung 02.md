@@ -86,16 +86,13 @@ $\frac{S_{P}}{N_{0}\times B}$: S/R, ausgedrückt als lineares Leistungsverhältn
 
 
 ## Modulation
-- Modulation ist die Veränderung eines Si- gnalparameters (oder: mehrerer Parame- ter) eines “Trägersignals” durch ein mo- dulierendes Signal.
-
-
-
-
-
-
-
-
-
+- Modulation: Modulation ist die Veränderung eines Si- gnalparameters (oder: mehrerer Parame- ter) eines “Trägersignals” durch ein mo- dulierendes Signal.
+- Demodulation: Demodulation ist die Wiederherstellung des ursprünglichen Signals aus dem mo- dulierten Signal.
+Bsp für Modulationen:
+- Amplitude-Shift Keying (ASK) 
+- Frequency-shift keying (FSK) 
+- Phase-shift keying (PSK) 
+- Quadrature Amplitude Modulation (QAM)
 
 
 #### Übertragungsmedien
