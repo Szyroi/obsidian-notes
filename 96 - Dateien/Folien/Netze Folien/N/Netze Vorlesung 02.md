@@ -18,7 +18,7 @@ Die signifikantesten Unterschiede werden verursacht durch:
 ## Dämpfung und Dezibel
 - **dB ist ein logarithmisches Verhältnis von bspw. Leistungen**
 $$
-	- P
+	\frac{P_{1}}{P_{2}}[dB] = 10\log_{10} \left( \frac{P_{1}}{P_{\text{2}}} \right)
 $$
 
 
