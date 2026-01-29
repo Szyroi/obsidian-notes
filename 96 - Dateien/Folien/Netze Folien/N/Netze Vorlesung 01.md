@@ -109,3 +109,6 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 - ### Physical Layer 1
 	- Physikalische Übertragung der Daten
 	- Umwandlung der Bits in: 
+		- elektrische Signale (bspw. Kabel) 
+		- optische Signale (bspw. Glasfaser) 
+		- elektromagnetische Signale (bspw. Funk)
