@@ -97,13 +97,17 @@ Bsp für Modulationen:
 ### Amplitude-Shift Keying (ASK) — Amplitudenmodulation
 - “0” und “1” werden durch unterschiedliche Signalpegel dargestellt (bspw. Spannungspegel).
 - Häufig ist der Signalpegel für 0, kein Signal (On-Off Keying (OOK))
+Bsp: 
+- Daten über Glasfaser verwendet (Lichtimpuls = 1, kein Licht = 0) 
+- AM im Autoradio
+- Ethernet (Kabel)
 
 ### Frequency-shift keying (FSK) — Frequenzmodulation
 - “0” und “1”werden durch zwei verschiedene Frequenzen in der Nähe der Trägerfrequenz dargestellt.
 
 
 
-#### Übertragungsmedien
+## Übertragungsmedien
 
 Verdrillte Kupferkabel (Twisted Pair)
 Shielded/Foiled/Unshielded/Screened-Shielded
