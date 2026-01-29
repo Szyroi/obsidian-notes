@@ -196,3 +196,6 @@ $$
 - $c = 3 * 10^8[m\text{/s}]$ im Vacuum.
 ### Ausbreitung von Elektromagnetischen Wellen
 - Im freien Raum (Vakuum, keine Hindernisse) nimmt die Signalstärke am Empfänger ($P_{R}$) **quadratisch** mit der Entfernung vom Sender ab.
+$$
+\frac{P_{T}}{P_{R}} = \left[ \frac{4\pi d^2}{\lambda} \right] = [4\pi df^2]
+$$
