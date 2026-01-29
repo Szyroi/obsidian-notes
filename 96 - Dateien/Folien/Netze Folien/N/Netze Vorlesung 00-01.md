@@ -10,7 +10,8 @@ Topologieen von Netzen
 - Bus
 	- Gerade Linie
 	- Keine Knoten (Steuerungszentrale)
-	- Einfache verkabel
+	- Vorteile: Einfache verkabelung, Geringe kosten und Ausfall eines Nodes hat keine konsequenzen fürs netz
+	- Nachteile: Begrenzt Skalierbar
 - Stern
 	- Switch in der Mitte
 - Einfacher gerichteter Ring
