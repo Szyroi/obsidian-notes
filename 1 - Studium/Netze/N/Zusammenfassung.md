@@ -3,8 +3,11 @@ https://de.wikipedia.org/wiki/OSI-Modell
 Application Layer 7
 Presentaion Layer 6
 Session Layer/Sitzungsschicht5
+
+---
+
 Transport Layer/Transportschicht 4
-- Einheit: 
+- Einheit: TCP = Segemente und UDP = Datagramme
 Network Layer/Vermittelungsschicht 3
 - Einheit: Pakete
 Data Link Layer/Sicherungschicht 2
