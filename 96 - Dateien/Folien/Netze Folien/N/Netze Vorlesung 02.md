@@ -138,8 +138,7 @@ Bsp:
 - Die beiden wichtigsten Parameter sind:
 - **1.Datenrate** (Kapazität, Geschwindigkeit)
 	- Gemessen in bits/s (Bits^-1)
-- **2.Latenz** (Verzögerungszeit)
-	- Gemessen in Sekunden
+	- 
 	- Übertragungsverzögerung
 $$
 UEV = \frac{M[bit]}{R[bit\text{/s}]}
@@ -147,7 +146,7 @@ $$
 	- Zeit die ein Node benötigt, um ein Paket abzuschicken. 
 	- Ist unabhängig von der physikalischen Länge des Mediums. 
 	- Hängt von der Anzahl der Bits und der Datenrate ab.
-
+- **2.Latenz** (Verzögerungszeit)
 - Ausbreitungsverzögerung
 $$
 AV = \frac{\text{Längen[m]}}{v[ms^-1]}
