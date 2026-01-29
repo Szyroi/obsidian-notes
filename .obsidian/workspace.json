@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/Untitled.md",
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/Ethernet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Ethernet"
             }
           }
         ],
@@ -204,8 +204,9 @@
   },
   "active": "4fff0f74d709bc2f",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/IP.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/MAC - Adressen.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/WLAN.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/Untitled.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/Ethernet.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 02.md",
@@ -235,7 +236,6 @@
     "1 - Studium/Netze/Inhalte/Topologien/Ring.md",
     "1 - Studium/Netze/Inhalte/Topologien/Stern.md",
     "1 - Studium/Netze/Inhalte/Topologien/Bus.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/IP.md",
     "1 - Studium/Netze/Inhalte/Topologien/Bus",
     "1 - Studium/Netze/Inhalte/OSI Schichtenmodell.md",
     "1 - Studium/Netze/Inhalte/Application Layer.md",
