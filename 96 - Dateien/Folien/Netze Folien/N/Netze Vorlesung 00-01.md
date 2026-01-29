@@ -4,13 +4,20 @@
 
 ## Grundbegriffe
 - Node: **Nodes** sind physikalisch vorhandene (generische) aktive Komponenten in einem Netzwerk (bspw. Host, Client, Server, ...).
+
 - Links (Verbindugen): **Links** sind physikalische Verbindungen bspw. durch Leitungen/Kabel oder Funkstrecken.
+
 - Host: Ein **Host** ist ein Node ohne Weiterleitungs- funktion. Ein Host ist ein Endsystem, auf dem eine Netzwerkanwendung läuft (bspw. ein Cli- ent oder ein Server).
-- Knoten: 
-- Client:
-- Server:
-- Dienst:
-- Topologie:
+
+- Knoten: Ein **Knoten** ist ein Node. Der Knoten dient als Verzweiger in einem Kommunikationsnetzwerk, an dem mehrere Verbindungen zusammenlaufen (Router, Switch, Access Point).
+
+- Client: Ein **Client** kann einen Dienst bei einem Server anfordern, der diesen Dienst bereitstellt. Ein Cli- ent ist ein Endgerät oder auch nur eine Software- Komponente auf einem Endgerät.
+
+- Server: Ein **Server** ist ein Programm (Prozess) oder ein Computer, der mit einem Client, kommuniziert, um ihm Zugang zu einem Dienst zu verschaffen.
+
+- Dienst: Ein Netzwerk-**Dienst** ist eine abstrahierte Funkti- on, die von einem Computernetzwerk den Anwen- dern bzw. teilnehmenden Geräten bereitgestellt wird.
+
+- Rou
 
 
 ## Topologieen
