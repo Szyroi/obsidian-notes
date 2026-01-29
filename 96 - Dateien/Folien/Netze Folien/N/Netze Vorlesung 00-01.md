@@ -16,10 +16,8 @@ Topologieen von Netzen
 - Mesh
 	- Alle Nodes mit einer Vielzahl anderer Nodes direkt verbunden
 	- Vollvermaschung: Wenn alle Nodes miteinander verbunden sind 
-	- Diese 
+	- Diese Topologie bildet sich z.B bei unkontrollierten bzw. ad-hoc aufgebauten Netzwerke
 - Baum
-- Vollvermascht
-- Teilvermascht
 - Einfacher gerichteter Ring
 	- Token Ring System
 - Doppelter gegenläufiger Ring
