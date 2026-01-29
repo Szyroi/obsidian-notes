@@ -14,6 +14,14 @@ Die signifikantesten Unterschiede werden verursacht durch:
 - **Verzerrung** (engl. Distortion) Das Signal wird auf dem Weg vom Sender zum Emp- fänger **deformiert**. 
 - (**Rauschen**) (engl. Noise) Das empfangene Signal enthält **Komponenten**, die nicht vom Sender übertragen wurden.
 
+**Logarithmische Größen (dimensionslos)**
+$x=10log_{10}(X)$
+**Rechenregeln:**
+- $log(x/y)=log(x)-log(y)$
+- $log(xy)=log(x)+log(y)$
+- $log(x^y)=y\;log(x)$
+- $log_z(x)=\frac{log_{10}(x)}{log_{10}(z)}$
+- $z^{log_z(x)}=x$
 
 ## Dämpfung und Dezibel
 - **dB ist ein logarithmisches Verhältnis von bspw. Leistungen**
@@ -57,10 +65,7 @@ P_{RX} = 20dB - 40dB + 10dB - 30dB
 $$
 
 # Kanalkapazität
-Beispiele Übertragungsmedien
-- Koaxialkabel
-- Glasfaser
-- Elektromagnetische Wellen (in der Luft)
+
 
 Relevante Parameter
 - Delay / Signallaufzeit
@@ -73,14 +78,7 @@ Relevante Parameter
 - Störanfälligkeit durch andere Signale
 - Maximale Datenrate
 
-Logarithmische Größen (dimensionslos)
-$x=10log_{10}(X)$
-Rechenregeln
-- $log(x/y)=log(x)-log(y)$
-- $log(xy)=log(x)+log(y)$
-- $log(x^y)=y\;log(x)$
-- $log_z(x)=\frac{log_{10}(x)}{log_{10}(z)}$
-- $z^{log_z(x)}=x$
+
 
 
 Near End Cross Talk (Übersprechen)
