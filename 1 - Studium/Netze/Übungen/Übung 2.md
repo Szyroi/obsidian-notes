@@ -1,1 +1,1 @@
-![[Uebungsblatt-2_Netze_2026.pdf]]
+![[Uebungsblatt-2_Netze_2026.pdf]]![[Netze Übung 02 1]]
