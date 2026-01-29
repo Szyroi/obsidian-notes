@@ -34,7 +34,8 @@
               "title": "Uebungsblatt-2_Netze_2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0dcf79aeab235e19",
@@ -226,10 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed057fb2e27b9bfd",
+  "active": "c923a1c6ffa7e0bb",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 02.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
+    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 02.md",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-2_Netze_2026.pdf",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
