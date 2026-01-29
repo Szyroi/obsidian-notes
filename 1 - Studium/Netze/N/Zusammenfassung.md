@@ -13,9 +13,12 @@ https://de.wikipedia.org/wiki/OSI-Modell
 	- Protokolle:
 		- IP
 		- ICMP
-		- IP
+		- IGMP
+		- IPsec
+		- IPX
 - Data Link Layer/Sicherungschicht 2
 	- Einheit: Frames
+	- Einordnung: 
 	- Protokolle: 
 		- IEEE 802.3 (Ethernet)
 		- IEEE 802.11 (WLAN)
