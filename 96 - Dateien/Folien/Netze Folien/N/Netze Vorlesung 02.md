@@ -200,5 +200,7 @@ $$
 \frac{P_{T}}{P_{R}} = \left[ \frac{4\pi d^2}{\lambda} \right] = \left[ \frac{4\pi df^2}{c} \right]
 $$
 $$
-L_{f}[dB] = 20 * \log_{10}(f)
+L_{f}[dB] = 20 * \log_{10}(f[MHt]) + 20 * \log_{10}(d[km]) + 32.4[dB]
 $$
+- Umso geringer die Signalstärke, umso geringer der Durchsatz (vgl. Shannon) 
+- Weitere Aspekte der drahtlosen Kommunikation in einer nicht idealen Welt: Reflexion, Diffraktion, Erdkrümmung, Witterungsbedingungen.
