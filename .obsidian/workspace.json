@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0dcf79aeab235e19",
@@ -253,15 +253,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c923a1c6ffa7e0bb",
+  "active": "462b8bbc1fbfd338",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-2_Netze_2026.pdf",
     "1 - Studium/Netze/Übungen/Übung 2.md",
     "Netze Übung 02 1.md",
     "Netze Übung 02.md",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
-    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-2_Netze_2026.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 02.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
@@ -289,7 +289,6 @@
     "1 - Studium/Programmierung 1/Übungen/Übung 8.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 7.md",
     "1 - Studium/Programmierung 1/Java/Post Fix vs Pre Fix.md",
-    "1 - Studium/Programmierung 1/Java/Literale.md",
-    "96 - Dateien/Übungen/Prog 1 Übungen/loesung/flugzeug/Untitled.md"
+    "1 - Studium/Programmierung 1/Java/Literale.md"
   ]
 }
