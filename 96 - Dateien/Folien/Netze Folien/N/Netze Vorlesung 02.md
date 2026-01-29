@@ -161,21 +161,21 @@ Latenz = UEV + AV
 $$
 
 ## Kabel
-## Twisted Pair
+### Twisted Pair
 - Sehr verbreitet. Die Standardverkabelung 
 - Die paarweise Verseilung vermindert störende Einflüsse von externen magnetischen Wechselfeldern 
 - Diese werden durch andere stromführende Kabel bspw. im selben Schacht hervorgerufen 
 - Außerdem wird eine Störung (Rauschen) zwischen benachbarten Adern-paaren innerhalb des Kabels reduziert
-## Koaxial Kabel (Co-ax)
+### Koaxial Kabel (Co-ax)
 - Ebenfalls sehr verbreitet. In Deutschland oft bekannt als “Antennenkabel” 
 - Sehr gute Eigenschaften (Distanz und Durchsatz oft besser als bei Twisted Pair) Schwierig zu installieren. 
 - Die Kabel sind nur begrenzt biegsam und die Verbindungen empfindlich
-## Glasfaser (Lichtwellenleiter)
+### Glasfaser (Lichtwellenleiter)
 - Übertragung via Lichtimpulse (optische Signale) in einem sehr dünnen Glasstrang 
 - Im einfachsten Fall eine LED und eine Photodiode 
 - **Extrem hoher Durchsatz und extrem hohe Entfernungen möglich** 
 - Schwierige Installation (bspw. “splicing”)
-### Verschiedene Typen
+#### Verschiedene Typen
 - **Monomode/Singlemode:**
 	- Ausbreitung einer einzigen Mode 
 	- Sehr geringer Durchmesser des Kerns 9𝜇m 
@@ -189,4 +189,4 @@ $$
 	- Betrieb mit einer LED möglich 
 	- Kann auf kurzen Strecken eingesetzt werden
 ## Drahtlos
-
+- Drahtlose Kommunikation: Drahtlose Kommunikation ist die Übertragung von Informationen zwischen zwei oder mehr Punkten, die nicht durch einen elektrischen Leiter verbunden sind, unter Verwendung **mo- dulierter elektromagnetischer Wellen**.
