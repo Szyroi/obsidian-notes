@@ -27,7 +27,7 @@ Topologieen von Netzen
 - Baum
 	- Hierarchish angerordnete Stern-Topologie (Mehrer Sterne zusammen)
 	- Vorteile: Der Ausfall eines "Blatts" hat keine Konsequenzen, Gute Struktur für Erweiterung, Große Entfernung realisierbar
-	- Nachteile: Bei Ausfall eines Zentralen Knotens ist der Ganze "Ast" betroffen, Lange Dauer 
+	- Nachteile: Bei Ausfall eines Zentralen Knotens ist der Ganze "Ast" betroffen, Lange Dauer für Nachrichtenübermittelung bei sehr tiefen Bäumen, Skalierbarkeit ist definiert durch die Wurzel Knoten
 
 
 Kommunikationsfluss
