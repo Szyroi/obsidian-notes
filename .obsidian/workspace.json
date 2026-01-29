@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-01"
+              "title": "Vorlesung-02"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "c65fdf4e66b834f9",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "README.md",
     "1 - Studium/Netze/N/Netze Vorlesung 01.md",
     "Netze Übung 02.md",
