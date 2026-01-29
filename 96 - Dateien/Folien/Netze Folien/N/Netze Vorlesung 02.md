@@ -107,7 +107,7 @@ Bsp:
 # **Codierung**
 - Kommunikation braucht Synchronisierung
 	- Die Repräsentation eines binären, digitalen Signals wirkt trivial: 
-		- “0”̂ = 0V̂ = licht aus
+		- “0” $\widehat{=}$ 0V $\widehat{=}$  licht aus
 		- “1”̂ = 5V̂ = licht an
 	- Für eine fehlerfreie Dekodierung muss der Empfänger das Signal zur richtigen Zeit evaluieren 
 	- Bei häufigen Wechseln bekommt der Empfänger automatisch einen Takt 
