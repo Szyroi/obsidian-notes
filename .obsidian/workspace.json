@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "().md",
+                "file": "1 - Studium/Netze/N/Zusammenfassung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "()"
+              "title": "Zusammenfassung"
             }
           }
         ]
@@ -264,8 +264,9 @@
   },
   "active": "2e28677b01ea454a",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/IP.md",
+    "1 - Studium/Netze/Inhalte/IPv4.md",
     "1 - Studium/Netze/N/Zusammenfassung.md",
-    "().md",
     "1 - Studium/Netze/N/Netze Vorlesung 01.md",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 03.md",
@@ -298,7 +299,6 @@
     "README.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 3.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 4.md",
-    "1 - Studium/Programmierung 1/Übungen/Übung 6.md"
+    "1 - Studium/Programmierung 1/Übungen/Übung 4.md"
   ]
 }
