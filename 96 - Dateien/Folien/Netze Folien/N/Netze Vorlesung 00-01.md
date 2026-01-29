@@ -4,9 +4,6 @@
 [[Netze Vorlesung 01.pdf]] bis S.13
 ## 00
 Topologieen von Netzen
-- Vollvermascht
-- Teilvermascht
-- Baum
 - Bus
 	- Gerade Linie
 	- Keine Knoten (Steuerungszentrale)
@@ -15,7 +12,8 @@ Topologieen von Netzen
 - Stern
 	- Switch in der Mitte
 	- Vorteile: Leichte Fehlersuche, Einfache verkabelung, Keine Störung wenn ein Node ausfällt
-	- Nachteil: Singe Point of Failure 
+	- Nachteil: Singe Point of Failure (SPoF): Neztausfall bei Ausfall oder Überlastung des Knotens
+	
 - Einfacher gerichteter Ring
 	- Token Ring System
 - Doppelter gegenläufiger Ring
