@@ -103,8 +103,33 @@
               "icon": "lucide-file-text",
               "title": "Vorlesung-03"
             }
+          },
+          {
+            "id": "6ddf12f2f5d6bf4a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-04"
+            }
+          },
+          {
+            "id": "fd34819c0b1c7ba9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-05"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,10 +277,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d06f4cf95369767",
+  "active": "fd34819c0b1c7ba9",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "1 - Studium/Netze/Übungen/Übung 1.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "Netze Übung 01 1.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
