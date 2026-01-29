@@ -113,10 +113,7 @@ Bsp:
 
 ### Link Kapazitäten
 
+### Kabel
 
-Verdrillte Kupferkabel (Twisted Pair)
-Shielded/Foiled/Unshielded/Screened-Shielded
-#### Strukturierte Verkabelung
-Primärbereich = zwischen Gebäuden
-Sekundärbereich = zwischen Stockwerken
-Teritärbereich = innerhalb Stockwerken
+### Drahtlos
+
