@@ -18,10 +18,13 @@ Die signifikantesten Unterschiede werden verursacht durch:
 ## Dämpfung und Dezibel
 - **dB ist ein logarithmisches Verhältnis von bspw. Leistungen**
 $$
-	\frac{P_{1}}{P_{2}}[dB] = 10\log_{10} \left( \frac{P_{1}}{P_{\text{2}}} \right)
+	\frac{P_{1}}{P_{2}}[dB] = 10\log_{10} \left( \frac{P_{1}[\text{W}]}{P_{\text{2}}[W]} \right)
 $$
 
-
+- **oder von Spannungen**
+$$
+U_{1}
+$$
 # Kanalkapazität
 Beispiele Übertragungsmedien
 - Koaxialkabel
