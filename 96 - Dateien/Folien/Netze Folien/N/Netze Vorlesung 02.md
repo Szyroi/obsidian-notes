@@ -22,7 +22,9 @@ $x=10log_{10}(X)$
 - $log(x^y)=y\;log(x)$
 - $log_z(x)=\frac{log_{10}(x)}{log_{10}(z)}$
 - $z^{log_z(x)}=x$
-$1 G = $
+Giga $1 G = 10^9$
+Mega $1M = 10^6$
+Kilo: $1k = 10^3$
 
 ## **Dämpfung und Dezibel**
 - **dB ist ein logarithmisches Verhältnis von bspw. Leistungen**
