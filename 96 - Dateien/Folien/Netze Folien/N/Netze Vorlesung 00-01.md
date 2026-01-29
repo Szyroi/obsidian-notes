@@ -20,11 +20,12 @@ Topologieen von Netzen
 - Mesh
 	- Alle Nodes mit einer Vielzahl anderer Nodes direkt verbunden
 	- Vollvermaschung: Wenn alle Nodes miteinander verbunden sind 
+	- Teilvermaschung: Wenn nicht alle Nodes direkt miteinander verbunden sind
 	- Diese Topologie bildet sich z.B bei unkontrollierten bzw. ad-hoc aufgebauten Netzwerke
 	- Vorteile: Hohe Ausfallsicherheit und Leistungsfähigkeit
 	- Nachteile: Sehr hohe Kosten für Leistungen, Aufwendige Verfahren für die Wegfindung der Daten
 - Baum
-	- Hierarchish angerordnete Stern-Topologie
+	- Hierarchish angerordnete Stern-Topologie ()
 
 
 Kommunikationsfluss
