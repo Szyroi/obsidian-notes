@@ -77,20 +77,14 @@ $$
 $$
 C = B\log_{2}(1+\text{S/R})
 $$
-
 $C$: Kapazität (bits/s)
 $B$: Bandbreite (Hz)
 $N_{0}$: Rauschen (W/Hz)
-$S_{P}$: Signal Stärke
+$S_{P}$: Signal Stärke (W)
+$\frac{S_{P}}{N_{0}}$:
 
 
-Kanalkapazität $C$
-Bits pro Sekunde
-Mit Bandbreite $B$
-$C=2B$
-Kann mehr als 2 Signalebenen haben (Mehrere verschiedene Werte möglich)
-Bei $M$ signalebenen
-$C=2B\;log_2(M)$
+
 
 
 
