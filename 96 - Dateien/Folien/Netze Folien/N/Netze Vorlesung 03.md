@@ -1,8 +1,8 @@
 #netze/vorlesung 
 # 23.04.2024
 [[Netze Vorlesung 03.pdf]]
-## 03
-### OSI Modell: Schicht 1
+# Ethernet und WLAN
+## OS
 #### Ethernet
 IEE 802.3
 LAN = Local Area Network
