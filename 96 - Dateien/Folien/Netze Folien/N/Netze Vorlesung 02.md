@@ -106,8 +106,13 @@ Bsp:
 - “0” und “1”werden durch zwei verschiedene Frequenzen in der Nähe der Trägerfrequenz dargestellt.
 
 
+## Codierung
+
 
 ## Übertragungsmedien
+
+### Link Kapazitäten
+
 
 Verdrillte Kupferkabel (Twisted Pair)
 Shielded/Foiled/Unshielded/Screened-Shielded
