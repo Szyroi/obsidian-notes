@@ -68,4 +68,9 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 
 
 ## ISO/OSI
-- ### Application
+- ### Application Layer 7
+- ### Presentation Layer 6
+- ### Session Layer 5
+- ### Transport Layer 4
+- ### Network Layer 3
+- 
