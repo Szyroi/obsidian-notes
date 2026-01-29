@@ -9,6 +9,8 @@ Topologieen von Netzen
 	- Keine Knoten (Steuerungszentrale)
 	- Vorteile: Einfache verkabelung, Geringe kosten und Ausfall eines Nodes hat keine konsequenzen fürs netz
 	- Nachteile: Begrenzt Skalierbar, Leistungsbruch führt zu Netzausfall, Übetragungen können abgehört werden, Aufwendinge Zugriffsmethoden (Wer sendet wann?) 
+- Ring
+	- Alle Nodes werden mit genau zwei weiteren Nodes zu einem geschlo
 - Stern
 	- Switch in der Mitte
 	- Vorteile: Leichte Fehlersuche, Einfache verkabelung, Keine Störung wenn ein Node ausfällt
