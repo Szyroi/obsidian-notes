@@ -75,10 +75,10 @@ $$
 C = B\log_{2}\left( 1 + \frac{S_{P}}{N_{0} \times B} \right)
 $$
 $$
-C = B\log_{2}(1+S)
+C = B\log_{2}(1+\text{S/R})
 $$
 
-
+$C$: Kapazität $[$
 
 
 Kanalkapazität $C$
