@@ -2,6 +2,11 @@
 # 09.04.2024
 [[Vorlesung-01.pdf]]
 
+## Grundbegriffe
+- Node: Nodes sind physikalisch vorhandene (generische) aktive Komponenten in einem Netzwerk (bspw. Host, Client, Server, ...).
+- Links (Verbindugen): Links sind physikalische Verbindungen bspw. durch Leitungen/Kabel oder Funkstrecken.
+
+
 ## Topologieen
 - Bus
 	- Gerade Linie
