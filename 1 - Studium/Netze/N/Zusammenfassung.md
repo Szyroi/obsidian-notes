@@ -12,7 +12,7 @@ https://de.wikipedia.org/wiki/OSI-Modell
 		- TCP
 		- UDP
 		- SCTP
-		- S
+		- SPX
 - Network Layer/Vermittelungsschicht 3
 	- Einheit: Pakete
 	- Einordnung: End to End Multihop
