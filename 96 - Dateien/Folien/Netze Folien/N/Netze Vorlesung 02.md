@@ -109,7 +109,9 @@ Bsp:
 ## Codierung
 
 - Kommunikation braucht Synchronisierung
-	- 
+	- Die Repräsentation eines binären, digitalen Signals wirkt trivial: 
+		- “0”̂ = 0V̂ = licht aus
+		- “1”̂ = 5V̂ = licht an
 
 - **Strategien für eine Synchronisierung**
 	1.  Spezielle **Start-** und **Stop-Bits** definieren
