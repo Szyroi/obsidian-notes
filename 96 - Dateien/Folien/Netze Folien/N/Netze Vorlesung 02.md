@@ -66,7 +66,6 @@ $$
 
 # Kanalkapazität
 
-
 $$
 C = B\log_{2}\left( 1 + \frac{S_{P}}{N_{0} \times B} \right)
 $$
@@ -85,7 +84,7 @@ $\frac{S_{P}}{N_{0}\times B}$: S/R, ausgedrückt als lineares Leistungsverhältn
 - Jedoch, es existieren Grenzen
 
 
-## Modulation
+# Modulation
 - Modulation: Modulation ist die Veränderung eines Si- gnalparameters (oder: mehrerer Parame- ter) eines “Trägersignals” durch ein mo- dulierendes Signal.
 - Demodulation: Demodulation ist die Wiederherstellung des ursprünglichen Signals aus dem mo- dulierten Signal.
 Bsp für Modulationen:
@@ -94,7 +93,7 @@ Bsp für Modulationen:
 - Phase-shift keying (PSK) 
 - Quadrature Amplitude Modulation (QAM)
 
-### Amplitude-Shift Keying (ASK) — Amplitudenmodulation
+## Amplitude-Shift Keying (ASK) — Amplitudenmodulation
 - “0” und “1” werden durch unterschiedliche Signalpegel dargestellt (bspw. Spannungspegel).
 - Häufig ist der Signalpegel für 0, kein Signal (On-Off Keying (OOK))
 Bsp: 
@@ -102,10 +101,10 @@ Bsp:
 - AM im Autoradio
 - Ethernet (Kabel)
 
-### Frequency-shift keying (FSK) — Frequenzmodulation
+## Frequency-shift keying (FSK) — Frequenzmodulation
 - “0” und “1”werden durch zwei verschiedene Frequenzen in der Nähe der Trägerfrequenz dargestellt.
 
-## Codierung
+# Codierung
 - Kommunikation braucht Synchronisierung
 	- Die Repräsentation eines binären, digitalen Signals wirkt trivial: 
 		- “0”̂ = 0V̂ = licht aus
