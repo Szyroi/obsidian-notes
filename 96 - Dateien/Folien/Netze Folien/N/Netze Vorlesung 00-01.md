@@ -14,7 +14,8 @@ Topologieen von Netzen
 	- Nachteile: Begrenzt Skalierbar, Leistungsbruch führt zu Netzausfall, Übetragungen können abgehört werden, Aufwendinge Zugriffsmethoden (Wer sendet wann?) 
 - Stern
 	- Switch in der Mitte
-	- Vorteile: Leichte Fehlersuche, Einfache ve
+	- Vorteile: Leichte Fehlersuche, Einfache verkabelung, Keine Störung wenn ein Node ausfällt
+	- Nachteil: Singe Point of Failure 
 - Einfacher gerichteter Ring
 	- Token Ring System
 - Doppelter gegenläufiger Ring
