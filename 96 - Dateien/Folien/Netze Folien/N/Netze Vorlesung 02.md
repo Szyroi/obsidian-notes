@@ -94,6 +94,13 @@ Bsp für Modulationen:
 - Phase-shift keying (PSK) 
 - Quadrature Amplitude Modulation (QAM)
 
+### Amplitude-Shift Keying (ASK) - Amplitudenmodulation
+
+- “0” und “1” werden durch unterschiedliche Signalpegel dargestellt (bspw. Spannungspegel).
+- 
+
+
+
 
 #### Übertragungsmedien
 
