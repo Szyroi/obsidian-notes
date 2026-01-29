@@ -3,7 +3,7 @@ https://de.wikipedia.org/wiki/OSI-Modell
 ## Application Oriented
 - Application Layer 7
 - Presentaion Layer 6
-- Session Layer/Sitzungsschicht5
+- Session Layer/Sitzungsschicht 5
 ---
 ## Transport Oriented 
 - Transport Layer/Transportschicht 4
@@ -17,7 +17,7 @@ https://de.wikipedia.org/wiki/OSI-Modell
 	- Einheit: Pakete
 	- Einordnung: End to End Multihop
 	- Protokolle:
-		- IP
+		- [IP]()
 		- ICMP
 		- IGMP
 		- IPsec
