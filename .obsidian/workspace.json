@@ -14,24 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
+                "file": "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netze Vorlesung 03"
-            }
-          },
-          {
-            "id": "0521f03b988d8828",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Uebungsblatt-1_Netze_2026"
+              "title": "Netze Vorlesung 01"
             }
           }
         ]
@@ -226,15 +214,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e28677b01ea454a",
+  "active": "6d06f4cf95369767",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 02.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
+    "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 03.md",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 13.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 12.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 11.md",
