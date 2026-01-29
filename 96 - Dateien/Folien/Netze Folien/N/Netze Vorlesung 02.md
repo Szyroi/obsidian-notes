@@ -174,8 +174,12 @@ $$
 ## Glasfaser (Lichtwellenleiter)
 - Übertragung via Lichtimpulse (optische Signale) in einem sehr dünnen Glasstrang 
 - Im einfachsten Fall eine LED und eine Photodiode 
-- Extrem hoher Durchsatz und extrem hohe Entfernungen möglich Schwierige Installation (bspw. “splicing”)
-
-
+- **Extrem hoher Durchsatz und extrem hohe Entfernungen möglich** 
+- Schwierige Installation (bspw. “splicing”)
+### Verschiedene Typen
+- **Monomode/Singlemode:**
+	- 
+- **Multimode:**
+	- 
 ## Drahtlos
 
