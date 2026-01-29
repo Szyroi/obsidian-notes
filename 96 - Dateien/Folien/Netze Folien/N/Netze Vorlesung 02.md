@@ -105,14 +105,15 @@ Bsp:
 ### Frequency-shift keying (FSK) — Frequenzmodulation
 - “0” und “1”werden durch zwei verschiedene Frequenzen in der Nähe der Trägerfrequenz dargestellt.
 
-
 ## Codierung
-
 - Kommunikation braucht Synchronisierung
 	- Die Repräsentation eines binären, digitalen Signals wirkt trivial: 
 		- “0”̂ = 0V̂ = licht aus
 		- “1”̂ = 5V̂ = licht an
-
+	- Für eine fehlerfreie Dekodierung muss der Empfänger das Signal zur richtigen Zeit evaluieren 
+	- Bei häufigen Wechseln bekommt der Empfänger automatisch einen Takt 
+	- Was passiert jedoch bei längeren Folgen von “0” oder “1”?
+	
 - **Strategien für eine Synchronisierung**
 	1.  Spezielle **Start-** und **Stop-Bits** definieren
 		- Dies kann bspw. ein spezielles Bitmuster (0110) sein, dass nicht verwendet wird. 
@@ -123,6 +124,8 @@ Bsp:
 	3. Eine zusätzliche **Codierungen** verwenden.
 		- Viele verschiedene Varianten denkbar.
 
+- **Manchester Codierubg**
+	- 
 ## Übertragungsmedien
 
 ### Link Kapazitäten
