@@ -52,14 +52,7 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 	- Nachteile: Bei Ausfall eines Zentralen Knotens ist der Ganze "Ast" betroffen, Lange Dauer für Nachrichtenübermittelung bei sehr tiefen Bäumen, Skalierbarkeit ist definiert durch die Wurzel Knoten
 
 
-Kommunikationsfluss
-- Unicast
-- Broadcast
-- Multicast
-- Anycast
-	- Multicast aber es reicht wenn eines der Ziele das Paket erhält
-## 01
-Standartisierung
-durch Gremien (ISO, IEEE, ITU-T, IETF, W3C)
+## Ausprägungen von Netze
+- Personal Ar
 
-Idee des OSI-Modell
+
