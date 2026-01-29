@@ -155,7 +155,7 @@ $$
 - Zeit, welche die Bits brauchen, um beim Empfänger anzukommen. 
 - Hängt von der physikalischen Länge des Mediums und der Ausbreitungsgeschwindigkeit ab. 
 - **Vakuum/Luft**: $v≈3×10^8 \text{m/s}$ (Lichtgeschwindigkeit)
-- **Kupferkabel**: v≈0,6×c≈1,8×108 m/sv≈0,6×c≈1,8×108m/s
+- **Kupferkabel**: $v≈ 0,6 × c ≈ 1,8×10^8\text{m/s}$
 - **Glasfaser**: v≈0,67×c≈2×108 m/sv≈0,67×c≈2×108m/s
 
 $$
