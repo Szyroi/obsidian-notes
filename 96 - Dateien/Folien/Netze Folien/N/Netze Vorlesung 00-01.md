@@ -53,6 +53,8 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 
 
 ## Ausprägungen von Netze
-- Personal Ar
+- Personal Area Network (PANs)
+	- In **Personal Area Networks (PANs)** kommunizieren Geräte über die ungefähre Reichweite einer Person.
+	- Beispiele: Bluetooth
 
 
