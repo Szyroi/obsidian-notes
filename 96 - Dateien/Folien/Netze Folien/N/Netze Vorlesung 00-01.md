@@ -24,12 +24,8 @@ Topologieen von Netzen
 	- Vorteile: Hohe Ausfallsicherheit und Leistungsfähigkeit
 	- Nachteile: Sehr hohe Kosten für Leistungen, Aufwendige Verfahren für die Wegfindung der Daten
 - Baum
-- Einfacher gerichteter Ring
-	- Token Ring System
-- Doppelter gegenläufiger Ring
-	- Wie 2 Ringe in verschiedene Richtungen
-- Hierarchnisches Netz
-	- Sterntopologie aber Mitte ist in mehrere Geräte geteilt
+	- Hierarchish angerordnete Stern-Topologie
+
 
 Kommunikationsfluss
 - Unicast
