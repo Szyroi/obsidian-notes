@@ -3,8 +3,14 @@
 [[Vorlesung-01.pdf]]
 
 ## Grundbegriffe
-- Node: Nodes sind physikalisch vorhandene (generische) aktive Komponenten in einem Netzwerk (bspw. Host, Client, Server, ...).
-- Links (Verbindugen): Links sind physikalische Verbindungen bspw. durch Leitungen/Kabel oder Funkstrecken.
+- Node: **Nodes** sind physikalisch vorhandene (generische) aktive Komponenten in einem Netzwerk (bspw. Host, Client, Server, ...).
+- Links (Verbindugen): **Links** sind physikalische Verbindungen bspw. durch Leitungen/Kabel oder Funkstrecken.
+- Host: Ein **Host** ist ein Node ohne Weiterleitungs- funktion. Ein Host ist ein Endsystem, auf dem eine Netzwerkanwendung läuft (bspw. ein Cli- ent oder ein Server).
+- Knoten: 
+- Client:
+- Server:
+- Dienst:
+- Topologie:
 
 
 ## Topologieen
