@@ -127,9 +127,45 @@
               "icon": "lucide-file-text",
               "title": "Vorlesung-05"
             }
+          },
+          {
+            "id": "fa82d951266a0c82",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-06"
+            }
+          },
+          {
+            "id": "5dd880a9033702d9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-07"
+            }
+          },
+          {
+            "id": "10ee4ba145659d38",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-08"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -277,8 +313,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd34819c0b1c7ba9",
+  "active": "10ee4ba145659d38",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "1 - Studium/Netze/Übungen/Übung 1.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
@@ -306,9 +345,6 @@
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 06.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 05.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 04.md",
-    "96 - Dateien/Folien/Netze Folien/N",
-    "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
     "README.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 5.md",
     "1 - Studium/Programmierung 1/Übungen/Übung 3.md",
