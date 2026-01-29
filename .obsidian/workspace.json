@@ -38,8 +38,19 @@
               "icon": "lucide-file-text",
               "title": "P2"
             }
+          },
+          {
+            "id": "621e7bd937a0fbbc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a051345065a77776",
+  "active": "621e7bd937a0fbbc",
   "lastOpenFiles": [
+    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
@@ -223,7 +235,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/Application Layer",
     "1 - Studium/Netze/Inhalte/Topologien/Baum.md",
     "1 - Studium/Netze/Inhalte/Topologien/Mesh.md",
-    "1 - Studium/Netze/Inhalte/Topologien/Ring.md",
-    "1 - Studium/Netze/Inhalte/Topologien/Bus"
+    "1 - Studium/Netze/Inhalte/Topologien/Ring.md"
   ]
 }
