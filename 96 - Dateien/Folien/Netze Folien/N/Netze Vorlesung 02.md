@@ -144,9 +144,13 @@ Bsp:
 $$
 UEV = \frac{M[bit]}{R[bit\text{/s}]}
 $$
+	- Zeit die ein Node benötigt, um ein Paket abzuschicken. 
+	- Ist unabhängig von der physikalischen Länge des Mediums. 
+	- Hängt von der Anzahl der Bits und der Datenrate ab.
+
 - Ausbreitungsverzögerung
 $$
-AV = \frac{\text{Längen}}{}
+AV = \frac{\text{Längen[m]}}{v[ms^-1]}
 $$
 
 ## Kabel
