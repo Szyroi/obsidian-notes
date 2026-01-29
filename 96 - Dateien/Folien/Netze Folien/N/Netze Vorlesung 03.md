@@ -3,6 +3,13 @@
 [[Netze Vorlesung 03.pdf]]
 # Ethernet und WLAN
 # Data Link Layer/Sicherungsschicht
+
+- Die Sicherungsschicht ist in jedem Knoten implementiert. 
+- Die Hauptlogik der Sicherungsschicht ist in den NIC implementiert.
+- Immer gleiche Aufgaben werden von Application-Specific Integrated Circuits (ASICs) übernommen. 
+- Diese ASICs sind über ein Bus-System (PCI) mit der CPU verbunden.
+
+
 ## Ethernet
 IEE 802.3
 LAN = Local Area Network
