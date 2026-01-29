@@ -104,7 +104,8 @@
               "title": "Vorlesung-03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,11 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63517a8ba26b372b",
+  "active": "ed057fb2e27b9bfd",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "1 - Studium/Netze/Übungen/Übung 1.md",
     "96 - Dateien/Folien/Netze Folien/N/Netze Vorlesung 01.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
     "Netze Übung 01.md",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
