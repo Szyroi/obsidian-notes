@@ -67,10 +67,6 @@ $$
 # Kanalkapazität
 
 
-Bandbreite
-Frequenzbereich der gut übertragen werden kann
-Analoges Telefon braucht ~4kHz
-
 $$
 C = B\log_{2}\left( 1 + \frac{S_{P}}{N_{0} \times B} \right)
 $$
@@ -90,39 +86,15 @@ $\frac{S_{P}}{N_{0}\times B}$: S/R, ausgedrückt als lineares Leistungsverhältn
 
 
 ## Modulation
-
-
-Relevante Parameter
-- Delay / Signallaufzeit
-	- Kupfer: 0.6 * light speed
-	- Bei Twisted Pair: Delay Skew (max delay diff zwischen kabeln, 10% von delay)
-- Kompatabilität: Wellenwiederstand
-	- Änderungen führen zu Reflektionen des Signals
-	- Miteinander verbundene Kabel müssen gleichen Wellenwiederstand haben
-- Leistungsverlust des Signals
-- Störanfälligkeit durch andere Signale
-- Maximale Datenrate
+- Modulation ist die Veränderung eines Si- gnalparameters (oder: mehrerer Parame- ter) eines “Trägersignals” durch ein mo- dulierendes Signal.
 
 
 
 
-Near End Cross Talk (Übersprechen)
-$NEXT=10log_{10}(P_{in}/P_{noise})$
-Wie viel noise ein input auf anliegender Leitung erzeugt
-
-Attenuation to Cross-talk Ration
-$ACR=NEXT-a$
-ACR größer = Kabel hat höhere Qualität
 
 
 
-Baudrate
-Schrittgeschwindigkeit = Zahl der Zustandswechsel
-Bei 2 Signalwerten: Bitrate = Baudrate
 
-Signal to Noise Ratio $SNR$
-$SNR=10\;log_{10}(P_s/P_n)$
-log von: Leistung signal / Leistung noise
 
 
 
