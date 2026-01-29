@@ -1,7 +1,7 @@
 #netze/vorlesung 
 # 16.4.2024
 [[Vorlesung-02.pdf]]
-## 02
+
 ### OSI Modell: Schicht 1
 Bitübertragungsschicht - Physical Layer
 
