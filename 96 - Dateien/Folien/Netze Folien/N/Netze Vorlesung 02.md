@@ -108,8 +108,11 @@ Bsp:
 
 ## Codierung
 - **Strategien für eine Synchronisierung**
-	1.  Spezielle Start- und Stop-Bits definieren
-	2. 
+	1.  Spezielle **Start-** und **Stop-Bits** definieren
+		- Dies kann bspw. ein spezielles Bitmuster (0110) sein, dass nicht verwendet wird. 
+		- Zwischen den Übertragungen gibt es eine Zeit ohne Daten.
+	2. Spezielle **Start**- und **Stop-Signale** definieren
+	3. Eine zusätzliche Codierungen verwenden.
 
 ## Übertragungsmedien
 
