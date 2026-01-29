@@ -12,6 +12,8 @@ https://de.wikipedia.org/wiki/OSI-Modell
 	- Einheit: Pakete
 - Data Link Layer/Sicherungschicht 2
 	- Einheit: Frames
+	- Protokolle: IEEE
 - Physical Layer/Bitübertragungsschicht 1
 	- Einheit: Bits/Symbole
+
 
