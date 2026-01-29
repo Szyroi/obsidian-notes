@@ -4,7 +4,9 @@
 
 ### OSI Modell: Schicht 1
 Bitübertragungsschicht - Physical Layer
+
 Auf der Bitübertragungsschicht werden Daten gesendet, indem ein Signal erzeugt und dieses Signal über ein Medium übertragen wird.
+
 Signal: Ein Signal ist ein physikalisches Phänomen mit welchem sich verschiedene Zustände (bspw. 0 oder 1) darstellen lassen.
 
 
