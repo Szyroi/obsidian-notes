@@ -140,6 +140,9 @@ Bsp:
 	- Gemessen in bits/s (Bits^-1)
 - **2.Latenz** (Verzögerungszeit)
 	- Gemessen in Sekunden
+	- Übertragungsverzögerung
+		- $$
+		-$$
 
 
 ## Kabel
