@@ -61,7 +61,7 @@ $L_{M_{2}}$ = 30dB
 $P_{A}$ = 10dB
 
 $$
-P_{RX} = 20dB - 40dB + 10dB - 30dB
+P_{RX} = 20dBm - 40dB + 10dB - 30dB
 $$
 
 # **Kanalkapazität**
