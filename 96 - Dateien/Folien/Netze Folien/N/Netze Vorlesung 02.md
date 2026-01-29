@@ -162,8 +162,13 @@ $$
 
 ## Kabel
 
-## Twis
-
+## Twisted Pair
+- Sehr verbreitet. Die Standardverkabelung 
+- Die paarweise Verseilung vermindert störende Einflüsse von externen magnetischen Wechselfeldern 
+- Diese werden durch andere stromführende Kabel bspw. im selben Schacht hervorgerufen 
+- Außerdem wird eine Störung (Rauschen) zwischen benachbarten Adern-paaren innerhalb des Kabels reduziert
+## Koaxial Kabel (Co-ax)
+## Glasfaser
 
 
 
