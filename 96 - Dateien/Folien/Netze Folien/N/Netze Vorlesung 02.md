@@ -107,12 +107,19 @@ Bsp:
 
 
 ## Codierung
+
+- Kommunikation braucht Synchronisierung
+	- 
+
 - **Strategien für eine Synchronisierung**
 	1.  Spezielle **Start-** und **Stop-Bits** definieren
 		- Dies kann bspw. ein spezielles Bitmuster (0110) sein, dass nicht verwendet wird. 
 		- Zwischen den Übertragungen gibt es eine Zeit ohne Daten.
 	2. Spezielle **Start**- und **Stop-Signale** definieren
-	3. Eine zusätzliche Codierungen verwenden.
+		- Dies kann bspw. ein spezielles Signallevel (3V) sein, das sonst nicht verwendet wird. 
+		- Zwischen den Übertragungen gibt es eine Phase ohne Daten.
+	3. Eine zusätzliche **Codierungen** verwenden.
+		- Viele verschiedene Varianten denkbar.
 
 ## Übertragungsmedien
 
