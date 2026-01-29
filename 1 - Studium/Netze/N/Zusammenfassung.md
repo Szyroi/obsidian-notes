@@ -10,9 +10,16 @@ https://de.wikipedia.org/wiki/OSI-Modell
 	- Einheit: TCP = Segemente und UDP = Datagramme
 - Network Layer/Vermittelungsschicht 3
 	- Einheit: Pakete
+	- Protokolle:
+		- IP
+		- ICMP
+		- IP
 - Data Link Layer/Sicherungschicht 2
 	- Einheit: Frames
-	- Protokolle: IEEE
+	- Protokolle: 
+		- IEEE 802.3 (Ethernet)
+		- IEEE 802.11 (WLAN)
+		- MAC
 - Physical Layer/Bitübertragungsschicht 1
 	- Einheit: Bits/Symbole
 
