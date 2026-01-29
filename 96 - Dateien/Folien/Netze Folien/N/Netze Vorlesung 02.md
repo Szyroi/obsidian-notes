@@ -56,7 +56,6 @@ $$
 P_{RX} = 20dB - 40dB + 10dB - 30dB
 $$
 
-
 # Kanalkapazität
 Beispiele Übertragungsmedien
 - Koaxialkabel
@@ -83,13 +82,6 @@ Rechenregeln
 - $log_z(x)=\frac{log_{10}(x)}{log_{10}(z)}$
 - $z^{log_z(x)}=x$
 
-Formel: Dämpfung $a$
-$P$: Leistung des Signals
-$U$ Spannung des Signals
-$a=10log_{10}(P_{in}/P_{out})$
-oder $a=20log_{10}(U_{in}/U_{out})$
-Üblich: $dB/100m$
-Dämpfung eines 100m leitungsstücks
 
 Near End Cross Talk (Übersprechen)
 $NEXT=10log_{10}(P_{in}/P_{noise})$
@@ -119,8 +111,6 @@ Signal to Noise Ratio $SNR$
 $SNR=10\;log_{10}(P_s/P_n)$
 log von: Leistung signal / Leistung noise
 
-Gestz von C.Shannon
-Physikalisch Max. Mögliche Übertragunsrate
 
 
 #### Übertragungsmedien
