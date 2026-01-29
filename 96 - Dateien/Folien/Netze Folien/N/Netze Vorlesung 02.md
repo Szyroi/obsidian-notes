@@ -72,7 +72,7 @@ log von: Leistung signal / Leistung noise
 
 Gestz von C.Shannon
 Physikalisch Max. Mögliche Übertragunsrate
-![[Netze Shannon.png]]
+
 
 #### Übertragungsmedien
 
