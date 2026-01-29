@@ -135,8 +135,10 @@ Bsp:
 # Übertragungsmedien
 
 ## Link Kapazitäten
-
-
+- Die beiden wichtigsten Parameter sind:
+- **1.Datenrate** (Kapazität, Geschwindigkeit)
+	- Gemessen in bits/s
+- **2.Latenz** (Verzögerungszeit)
 
 
 ## Kabel
