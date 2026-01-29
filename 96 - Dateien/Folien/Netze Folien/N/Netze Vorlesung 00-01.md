@@ -11,9 +11,10 @@ Topologieen von Netzen
 	- Gerade Linie
 	- Keine Knoten (Steuerungszentrale)
 	- Vorteile: Einfache verkabelung, Geringe kosten und Ausfall eines Nodes hat keine konsequenzen fürs netz
-	- Nachteile: Begrenzt Skalierbar, Leistungsbruch führt zu Netzausfall, Übetragungen können abgehört werden, Aufwendinge Zug 
+	- Nachteile: Begrenzt Skalierbar, Leistungsbruch führt zu Netzausfall, Übetragungen können abgehört werden, Aufwendinge Zugriffsmethoden (Wer sendet wann?) 
 - Stern
 	- Switch in der Mitte
+	- Vorteile: Leichte Fehlersuche, Einfache ve
 - Einfacher gerichteter Ring
 	- Token Ring System
 - Doppelter gegenläufiger Ring
