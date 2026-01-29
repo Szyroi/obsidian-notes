@@ -107,7 +107,9 @@ Bsp:
 
 
 ## Codierung
-
+- **Strategien für eine Synchronisierung**
+	1.  Spezielle Start- und Stop-Bits definieren
+	2. 
 
 ## Übertragungsmedien
 
