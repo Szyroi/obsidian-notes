@@ -142,9 +142,12 @@ Bsp:
 	- Gemessen in Sekunden
 	- Übertragungsverzögerung
 $$
-UEV = \frac{M[bit]}{R[bist/]}
+UEV = \frac{M[bit]}{R[bit\text{/s}]}
 $$
-
+- Ausbreitungsverzögerung
+$$
+AV = \frac{\text{Längen}}{}
+$$
 
 ## Kabel
 
