@@ -70,6 +70,7 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 ## ISO/OSI
 ### Application Oriented
 - **Layer 7 bis 5 werden hier im Kurs als Application Layer zusammengefasst**
+- **Zusammenfassung: Verschafft Anwendungen Zugriff auf das Kommunikationsnetz**
 - ### Application Layer 7
 	- Interaktion mit Daten des Benutzers 
 	- Client Software ist nicht Teil der Schicht
@@ -79,7 +80,6 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 - ### Session Layer 5
 	- Initiierung, Verwaltung und Terminierung der Verbindungen zwischen einer lokalen und entfernten Applikation
 	- Kann Checkpoints verwalten, um eine abgebrochene Verbindung wieder nutzbar zu machen
-**Verschafft Anwendungen Zugriff auf das Kommunikationsnetz**
 ---
 ### Transport Oriented
 - ### Transport Layer 4
