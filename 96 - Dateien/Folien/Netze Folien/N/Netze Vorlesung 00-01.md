@@ -25,7 +25,8 @@ Topologieen von Netzen
 	- Vorteile: Hohe Ausfallsicherheit und Leistungsfähigkeit
 	- Nachteile: Sehr hohe Kosten für Leistungen, Aufwendige Verfahren für die Wegfindung der Daten
 - Baum
-	- Hierarchish angerordnete Stern-Topologie ()
+	- Hierarchish angerordnete Stern-Topologie (Mehrer Sterne zusammen)
+	- Vorteile: Der Ausfall eines "Blatts" hat keine Konsequenzen, 
 
 
 Kommunikationsfluss
