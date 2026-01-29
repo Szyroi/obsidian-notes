@@ -262,8 +262,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e28677b01ea454a",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/Application Layer",
     "1 - Studium/Netze/Inhalte/Topologien/Baum.md",
     "1 - Studium/Netze/Inhalte/Topologien/Mesh.md",
     "1 - Studium/Netze/Inhalte/Topologien/Ring.md",
@@ -274,7 +275,7 @@
     "1 - Studium/Netze/Inhalte/Topologien",
     "1 - Studium/Netze/Inhalte/OSI Schichtenmodell.md",
     "1 - Studium/Netze/Inhalte/Application Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/6-Preseantaion Layer",
+    "1 - Studium/Netze/Inhalte/OSI Modell/Presentation",
     "1 - Studium/Netze/Inhalte/OSI Modell/5-Session Layer",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer",
@@ -298,7 +299,6 @@
     "1 - Studium/Netze/N/Netze Vorlesung 13.md",
     "1 - Studium/Netze/N/Netze Vorlesung 12.md",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
-    "1 - Studium/Netze/N/Netze Vorlesung 10.md",
-    "1 - Studium/Netze/N/Netze Vorlesung 09.md"
+    "1 - Studium/Netze/N/Netze Vorlesung 10.md"
   ]
 }

@@ -2,7 +2,7 @@
 https://de.wikipedia.org/wiki/OSI-Modell
 ## Application Oriented
 - Application Layer 7
-- Presentaion Layer 6
+- Presentation Layer 6
 - Session Layer/Sitzungsschicht 5
 ---
 ## Transport Oriented 
