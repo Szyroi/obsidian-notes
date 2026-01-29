@@ -1,5 +1,5 @@
 #netze/vorlesung
-# 09.04.2024
+
 [[Vorlesung-01.pdf]]
 
 ## Grundbegriffe
