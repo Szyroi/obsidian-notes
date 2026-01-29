@@ -4,67 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0dcf79aeab235e19",
+        "id": "7c970061330e6071",
         "type": "tabs",
         "children": [
           {
-            "id": "63517a8ba26b372b",
+            "id": "c65fdf4e66b834f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-01"
-            }
-          },
-          {
-            "id": "fd34819c0b1c7ba9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-05"
-            }
-          },
-          {
-            "id": "fa82d951266a0c82",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-06"
-            }
-          },
-          {
-            "id": "5dd880a9033702d9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-07"
-            }
-          },
-          {
-            "id": "10ee4ba145659d38",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-08"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -215,8 +165,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63517a8ba26b372b",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "Netze Übung 01 1.md",
+    "Netze Übung 01.md",
+    "Netze Übung 02.md",
+    "Netze Übung 02 1.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/Kanalkapazität.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/Latenz.md",
@@ -236,11 +195,6 @@
     "1 - Studium/Netze/Inhalte/Topologien",
     "1 - Studium/Netze/Inhalte/OSI Schichtenmodell.md",
     "1 - Studium/Netze/Inhalte/Application Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/Presentation",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5-Session Layer",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer",
-    "1 - Studium/Netze/Inhalte/OSI Modell",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/IPv6.md",
     "1 - Studium/Netze/Inhalte/Network Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/IPv4.md",
@@ -248,9 +202,6 @@
     "1 - Studium/Netze/N/Netze Vorlesung 03.md",
     "1 - Studium/Netze/N/Netze Vorlesung 02.md",
     "1 - Studium/Netze/Übungen/Übung 1.md",
-    "Netze Übung 01 1.md",
-    "Netze Übung 01.md",
-    "1 - Studium/Netze/Übungen/Übung 2.md",
-    "Netze Übung 02 1.md"
+    "1 - Studium/Netze/Übungen/Übung 2.md"
   ]
 }
