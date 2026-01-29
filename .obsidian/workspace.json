@@ -33,10 +33,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
+                "file": "96 - Dateien/Praktika/Netze Praktikum/P2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-03"
+              "title": "P2"
             }
           }
         ]
@@ -187,12 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fff0f74d709bc2f",
+  "active": "a051345065a77776",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
+    "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
     "1 - Studium/Netze/N/Netze Vorlesung 03.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/TCP.md",
@@ -223,7 +224,6 @@
     "1 - Studium/Netze/Inhalte/Topologien/Baum.md",
     "1 - Studium/Netze/Inhalte/Topologien/Mesh.md",
     "1 - Studium/Netze/Inhalte/Topologien/Ring.md",
-    "1 - Studium/Netze/Inhalte/Topologien/Stern.md",
     "1 - Studium/Netze/Inhalte/Topologien/Bus"
   ]
 }
