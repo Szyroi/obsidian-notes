@@ -193,7 +193,7 @@ $$
 $$
 c[m\text{/s}] = \lambda[m] \cdot f[Hz]
 $$
-- $c = 3 * 10^8[m\text{/s}]$ im Vacuum.
+- $c \appr\otimes 3 * 10^8[m\text{/s}]$ im Vacuum.
 ### Ausbreitung von Elektromagnetischen Wellen
 - Im freien Raum (Vakuum, keine Hindernisse) nimmt die Signalstärke am Empfänger ($P_{R}$) **quadratisch** mit der Entfernung vom Sender ab.
 $$
