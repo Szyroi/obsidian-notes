@@ -161,7 +161,6 @@ Latenz = UEV + AV
 $$
 
 ## Kabel
-
 ## Twisted Pair
 - Sehr verbreitet. Die Standardverkabelung 
 - Die paarweise Verseilung vermindert störende Einflüsse von externen magnetischen Wechselfeldern 
@@ -178,8 +177,16 @@ $$
 - Schwierige Installation (bspw. “splicing”)
 ### Verschiedene Typen
 - **Monomode/Singlemode:**
-	- 
+	- Ausbreitung einer einzigen Mode 
+	- Sehr geringer Durchmesser des Kerns 9𝜇m 
+	- Schwierig zu fertigen und zu verarbeiten 
+	- Betrieb mit einem Laser 
+	- Lange Distanzen möglich, sehr hohe Datenraten
 - **Multimode:**
-	- 
+	- Prinzip der Totalreflexion 
+	- Größere Durchmesser des Kerns 50𝜇m/62,5𝜇m 
+	- Einfacher zu fertigen 
+	- Betrieb mit einer LED möglich 
+	- Kann auf kurzen Strecken eingesetzt werden
 ## Drahtlos
 
