@@ -29,9 +29,9 @@ $$
 - **Beispiel für die Dämpfung (=Leistungsverlust) einer Leitung:**
 
 $$
-a = 10\log_{10}\left( \frac{P_{in}}{P_{out}} \right) = 20 
+a = 10\log_{10}\left( \frac{P_{in}}{P_{out}} \right) = 20 \times \log_{10}\left( \frac{U_{in}}{U_{out}} \right)
 $$
-
+a = Dämpfung (eng. attenuation). Typischerweise angegeben in dB/100m oder dB/km.
 
 
 
