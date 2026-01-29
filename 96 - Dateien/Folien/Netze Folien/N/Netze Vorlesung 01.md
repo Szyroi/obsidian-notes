@@ -92,7 +92,10 @@ Definition: Die Netzwerk-**Topologie** definiert die Struktur, wie einzelne Node
 	- Flusssteuerung (engl. flow control): Der Sender überfordert nicht den Empfänger 
 	- Stauvermeidung (engl. congestion control): Die Knoten im Netzwerk werden nicht überlastet 
 	- Fehlererkennung: Fehlerhafte Daten werden erkannt und geeignet behandelt
-
+	- Protokolle (bspw.): TCP, UDP, QUIC
 - ### Network Layer 3
+- Übertragung/Weiterleitung von Paketen/Datagrammen zwischen Nodes in **unterschiedlichen** Netzwerken. 
+- Knoten (hier Router) leiten Pakete zwischen zwei Netzwerken weiter. 
+- Das Netzwerk findet den Weg selbstständig (Routing). Der Absender kennt nur die Adresse des Empfängers.
 - ### Data Link Layer 2
 - ### Physical Layer 1
