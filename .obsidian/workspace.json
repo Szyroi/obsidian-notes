@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/TCP.md",
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP"
+              "title": "2.1 - Frames"
             }
           }
         ],
@@ -46,14 +46,12 @@
             "id": "a051345065a77776",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2.1 - Frames"
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-03"
             }
           }
         ]
@@ -206,9 +204,9 @@
   },
   "active": "a051345065a77776",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/TCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/TCP.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
