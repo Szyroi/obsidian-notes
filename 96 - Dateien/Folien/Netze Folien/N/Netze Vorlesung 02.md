@@ -83,8 +83,10 @@ $N_{0}$: Rauschen (W/Hz)
 $S_{P}$: Signal Stärke (W)
 $\frac{S_{P}}{N_{0}\times B}$: S/R, ausgedrückt als lineares Leistungsverhältnis, nicht als logarithmische Dezibel
 
-- Eine Erhöhung des S/R, erhöht die Kanalkapazität 
-- Eine Erhöhung der Bandbreite, erhöht die Kanalkapazität Je nachdem, ob B oder 𝑆𝑃 wichtiger/teurer ist, können wir das eine erhöhen und das andere verringern, und dennoch die gleiche Kapazität beibehalten Jedoch, es existieren Grenzen
+- Eine Erhöhung des **S/R**, erhöht die Kanalkapazität 
+- Eine Erhöhung der Bandbreite, erhöht die Kanalkapazität 
+- Je nachdem, ob B oder $S_{P}$ wichtiger/teurer ist, können wir das eine erhöhen und das andere verringern, und dennoch die gleiche Kapazität beibehalten 
+- Jedoch, es existieren Grenzen
 
 
 
