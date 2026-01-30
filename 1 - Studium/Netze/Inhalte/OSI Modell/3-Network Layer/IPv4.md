@@ -81,7 +81,9 @@ Bits die zur Kodierung der Rechneraddresse vorgesehen sind, werden für Addressi
 Zu Beachten:
 - Anzahl der benötigten Subnetze
 - Anzahl der Rechner im größten Subnetz
-
 ## **Address Resolution Protocol (ARP)**
+In den verschiedenen Schichten des Netzwerkmodells werden unterschiedliche Arten von Adressen bzw. Namen verwendet: 
+- MAC-Adressen – 48-Bit-Adressen der Sicherungsschicht (Data Link Layer)
+-  IP-Adressen – 32-Bit-IPv4-Adressen der Vermittlungsschicht (Network Layer) Fully Qualified Domain Names (FQDN) – z. B. www.h-brs.de, verwendet auf der Anwendungsschicht
 
-## **ICMP**
+## **Internet Control Message Protocol (ICMP)**
