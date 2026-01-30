@@ -37,7 +37,11 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 - 12.10.1.64/26
 	- Wäre eigendlich ein Class-A Netz
 	- 26 bit netz, 6 bit rechner
-- CIDR: Classless Inter-Domain Routing
+## **CIDR: Classless Inter-Domain Routing**
+- Mit CIDR wurde das starre Klassensystem (A, B, C) aufgehoben, um Netze flexibler und bedarfsgerechter aufteilen zu können.
+
+
+
 ## **IP Header**
 - **Version**: 4/6
 - **IHL (Internet Header Lenght)**:
