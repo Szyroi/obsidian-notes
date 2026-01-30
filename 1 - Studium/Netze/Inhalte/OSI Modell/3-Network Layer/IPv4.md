@@ -87,6 +87,7 @@ In den verschiedenen Schichten des Netzwerkmodells werden unterschiedliche Arten
 -  **IP-Adressen** – 32-Bit-IPv4-Adressen der Vermittlungsschicht (Network Layer) 
 - **Fully Qualified Domain Names (FQDN)** – z. B. www.h-brs.de, verwendet auf der Anwendungsschicht
 
+FQDN -> IP Address -> MAC Adress
 
 
 
