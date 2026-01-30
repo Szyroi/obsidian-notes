@@ -59,4 +59,8 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 	- Anmerkung: Ursprünglich als Zeitangabe in Sekunden gedacht, heute als Hop-Zähler interpretiert. Typischer Startwert: z. B. 64.
 - **Protokoll:**
 	- 8-Bit-Wert zur Identifizierung des darüberliegenden Transportprotokolls (entspricht der IANA Protocol Number).
-	- oft: 6 = TCP, 17 = UDP
+	- Oft: 6 = TCP, 17 = UDP
+- **Kopfprüfsumme (Header Checksum):**
+	- 16-Bit-Prüfsumme über den IPv4-Header (ohne Nutzdaten). Sie wird bei jedem Hop von Routern überprüft und neu berechnet.
+- **Optionen:**
+	- Variabel langes Feld (optional), heute kaum noch genutzt. Beispiel: Option 7 (Record Route) – Router tragen ihre IP-Adressen in das Optionsfeld ein. (Falls nötig, wird das Feld auf ein Vielfaches von 32 Bit aufgefüllt.)
