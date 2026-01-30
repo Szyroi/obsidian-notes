@@ -119,7 +119,7 @@ ICMP Fehlernachrichten werden niemals erzeugt als reaktion auf
 - IP nachricht mit Source-IP: 0.0.0.0 / Loopback / Multicast
 
 ##### ICMP Ping
-![[Netze ICMP Ping.png]]
+
 Echo Request = Type 8
 Echo Reply = Type 0
 Kennung und Sequenznr werden echoed
