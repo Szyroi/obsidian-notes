@@ -41,11 +41,13 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 - **Version**: 4/6
 - **IHL (Internet Header Lenght)**:
 	- Länger des IPv4-Headers in 32 Bit worten.
-	-  IHL = 5 -> x 4 Byte keine Optionen
+	-  Normalerweise IHL = 5 -> x 4 Byte = 20 Byte (keine Optionen)
 - **ToS (Type of Service)**:
 	- Heute als **Differentiated Services Code Point (DSCP)** und **Explicit Congestion Notification (ECN)** genutzt.
-- **Kennung (Identification)**: ID/nummerierung der fragmente
+- **Kennung (Identification)**: 
+	- 16-Bit-Wert zur Identifizierung (Nummerierung) der Fragmente eines Datagramms. Alle Fragmente desselben Pakets tragen die gleiche Kennung.
 - **Flags**:
+	- 3 Steuerbits zur Kontrolle der 
 	- DF=1 "do not fragment"
 	- MF=1 "more fragments exist"
 - **TTL**:
