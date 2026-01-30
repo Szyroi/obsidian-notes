@@ -86,7 +86,8 @@ In den verschiedenen Schichten des Netzwerkmodells werden unterschiedliche Arten
 - **MAC-Adressen** – 48-Bit-Adressen der Sicherungsschicht (Data Link Layer)
 -  **IP-Adressen** – 32-Bit-IPv4-Adressen der Vermittlungsschicht (Network Layer) 
 - **Fully Qualified Domain Names (FQDN)** – z. B. www.h-brs.de, verwendet auf der Anwendungsschicht
-
+Auflösung:
+Das DNS löst den FQDN in eine 
 FQDN -> IP Address -> MAC Adress
 
 
