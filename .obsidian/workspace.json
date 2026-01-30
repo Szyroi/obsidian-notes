@@ -72,10 +72,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-11"
+              "title": "Vorlesung-14"
             }
           }
         ],
@@ -229,6 +229,10 @@
   },
   "active": "6cc543c355c9f0ce",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/QUIC.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/HTTPS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
@@ -260,9 +264,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
     "1 - Studium/Netze/N/Netze Vorlesung 02.md",
-    "1 - Studium/Netze/N/Netze Vorlesung 01.md",
-    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf"
+    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf"
   ]
 }
