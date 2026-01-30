@@ -70,3 +70,6 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 	- 16-Bit-Prüfsumme über den IPv4-Header (ohne Nutzdaten). Sie wird bei jedem Hop von Routern überprüft und neu berechnet.
 - **Optionen:**
 	- Variabel langes Feld (optional), heute kaum noch genutzt. Beispiel: Option 7 (Record Route) – Router tragen ihre IP-Adressen in das Optionsfeld ein. (Falls nötig, wird das Feld auf ein Vielfaches von 32 Bit aufgefüllt.)
+
+## **Subnetting**
+- 
