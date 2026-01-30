@@ -37,17 +37,17 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 - 12.10.1.64/26
 	- Wäre eigendlich ein Class-A Netz
 	- 26 bit netz, 6 bit rechner
-## ****
-Version: 4/6
-IHL: Header Length, Normal 5 -> keine Optionen
-Kennung: ID/nummerierung der fragmente
-Flags
-- DF=1 "do not fragment"
-- MF=1 "more fragments exist"
-TTL:
-- Wird vom router decremented
-- TTL = 0 -> paket wird verworfen
-- Vorsorge gegen z.B. im kreis routen
-Protokoll
-- Was ist auf der schicht darüber?
-- oft: 6 = tcp, 17 = udp
+## **IP Header**
+- Version: 4/6
+- **IHL**: Header Length, Normal 5 -> keine Optionen
+- Kennung: ID/nummerierung der fragmente
+- Flags
+	- DF=1 "do not fragment"
+	- MF=1 "more fragments exist"
+- **TTL**:
+	- Wird vom router decremented
+	- TTL = 0 -> paket wird verworfen
+	- Vorsorge gegen z.B. im kreis routen
+- Protokoll
+	- Was ist auf der schicht darüber?
+	- oft: 6 = tcp, 17 = udp
