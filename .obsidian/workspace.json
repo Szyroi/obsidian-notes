@@ -53,7 +53,8 @@
               "title": "Vorlesung-04"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,13 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "621e7bd937a0fbbc",
+  "active": "4fff0f74d709bc2f",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.2 - IPv4.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 04.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.1 - Internet Protocol (IP).md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
-    "1 - Studium/Netze/N/Netze Vorlesung 04.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P1 Netze.pdf",
@@ -237,7 +238,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/Signalübertragung.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/Application Layer/HTTPS.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/Application Layer/HTTP.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/Application Layer/HTTPS.md"
   ]
 }
