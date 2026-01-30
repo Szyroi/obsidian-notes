@@ -90,7 +90,8 @@ Auflösung:
 Das DNS löst den FQDN in eine IP Adresse auf.
 Die Zuordnung von IP-Adresse zu MAC-Adresse erfolgt über das Address Resolution Protocol (ARP). 
 FQDN -> IP Address -> MAC Adress
-
+- Zur Ermittlung einer **IP-Adresse** aus einer bekannten **MAC-Adresse** wurde früher das Reverse **Address Resolution Protocol** **(RARP)** verwendet. Heute übernehmen diese Funktion Protokolle wie **BOOTP** oder **DHCP**. 
+- Auch das Domain Name System (DNS) unterstützt eine Auflösung in umgekehrter Richtung: Mit Reverse DNS kann zu einer IP-Adresse der zugehörige Domainname ermittelt werden
 
 
 
