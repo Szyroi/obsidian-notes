@@ -43,10 +43,14 @@
             "id": "621e7bd937a0fbbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2.4 - MAC-Adressen"
             }
           }
         ],
@@ -200,16 +204,16 @@
   },
   "active": "621e7bd937a0fbbc",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
     "1 - Studium/Netze/N/Netze Vorlesung 03.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/TCP.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/IP.md",
     "1 - Studium/Netze/N/Netze Vorlesung 02.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/Link Kapazitäten.md",
@@ -232,7 +236,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/Application Layer/HTTPS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/Application Layer/HTTP.md",
     "1 - Studium/Netze/N/Zusammenfassung.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/Application Layer",
     "1 - Studium/Netze/Inhalte/Topologien/Baum.md",
     "1 - Studium/Netze/Inhalte/Topologien/Mesh.md",
     "1 - Studium/Netze/Inhalte/Topologien/Ring.md"
