@@ -40,7 +40,8 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 ## **IP Header**
 - **Version**: 4/6
 - **IHL (Internet Header Lenght)**: Header Length, Normal 5 -> keine Optionen
-- **ToS (T**
+- **ToS (Type of Service)**:
+	- Heute als **Differentiated Services Code Point (DSCP)** und **Explicit Congestion Notification (ECN)** genutzt.
 - Kennung: ID/nummerierung der fragmente
 - Flags
 	- DF=1 "do not fragment"
