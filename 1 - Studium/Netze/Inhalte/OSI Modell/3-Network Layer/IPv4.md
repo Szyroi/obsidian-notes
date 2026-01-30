@@ -83,7 +83,14 @@ Zu Beachten:
 - Anzahl der Rechner im größten Subnetz
 ## **Address Resolution Protocol (ARP)**
 In den verschiedenen Schichten des Netzwerkmodells werden unterschiedliche Arten von Adressen bzw. Namen verwendet: 
-- MAC-Adressen – 48-Bit-Adressen der Sicherungsschicht (Data Link Layer)
--  IP-Adressen – 32-Bit-IPv4-Adressen der Vermittlungsschicht (Network Layer) Fully Qualified Domain Names (FQDN) – z. B. www.h-brs.de, verwendet auf der Anwendungsschicht
+- **MAC-Adressen** – 48-Bit-Adressen der Sicherungsschicht (Data Link Layer)
+-  **IP-Adressen** – 32-Bit-IPv4-Adressen der Vermittlungsschicht (Network Layer) 
+- **Fully Qualified Domain Names (FQDN)** – z. B. www.h-brs.de, verwendet auf der Anwendungsschicht
+
+
+
+
+
+
 
 ## **Internet Control Message Protocol (ICMP)**
