@@ -35,8 +35,7 @@
               "title": "3.2 - IPv4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "388945e9d6711751",
@@ -202,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b164e61bfe1377d",
+  "active": "4fff0f74d709bc2f",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.2 - IPv4.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
