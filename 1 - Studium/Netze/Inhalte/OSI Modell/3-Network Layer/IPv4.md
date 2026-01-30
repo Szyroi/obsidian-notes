@@ -87,7 +87,8 @@ In den verschiedenen Schichten des Netzwerkmodells werden unterschiedliche Arten
 -  **IP-Adressen** – 32-Bit-IPv4-Adressen der Vermittlungsschicht (Network Layer) 
 - **Fully Qualified Domain Names (FQDN)** – z. B. www.h-brs.de, verwendet auf der Anwendungsschicht
 Auflösung:
-Das DNS löst den FQDN in eine 
+Das DNS löst den FQDN in eine IP Adresse auf.
+Die Zuordnung von IP-Adresse zu MAC-Adresse erfolgt über das Address Resolution Protocol (ARP). 
 FQDN -> IP Address -> MAC Adress
 
 
