@@ -92,11 +92,14 @@ Die Zuordnung von IP-Adresse zu MAC-Adresse erfolgt über das Address Resolution
 FQDN -> IP Address -> MAC Adress
 - Zur Ermittlung einer **IP-Adresse** aus einer bekannten **MAC-Adresse** wurde früher das Reverse **Address Resolution Protocol** **(RARP)** verwendet. Heute übernehmen diese Funktion Protokolle wie **BOOTP** oder **DHCP**. 
 - Auch das **Domain Name System (DNS)** unterstützt eine Auflösung in umgekehrter Richtung: Mit **Reverse DNS** kann zu einer IP-Adresse der zugehörige Domainname ermittelt werden
-
+**Hinweis: ARP funktioniert nur innerhalb desselben lokalen Netzes (Broadcast-Domäne).**
 Steps:
 1. Überprüfen, ob die benötigte Zuordnung (IP zu MAC) bereits im lokalen ARP-Cache vorhanden ist. 
 	- Falls ja: Die gespeicherte MAC-Adresse wird verwendet.
 	- Falls nein: Weiter mit Schritt 2.
-
-
+2. Senden einer ARP-Request-Nachricht als Broadcast (Ziel-MAC-Adresse: FF:FF:FF:FF:FF:FF) an alle Geräte im lokalen Netz. Enthalten ist die gesuchte Ziel-IP-Adresse.
+3. Alle Geräte im Netzwerk prüfen, ob die angefragte IP-Adresse zu ihrer eigenen gehört.
+4. Nur das Gerät mit der passenden IP-Adresse antwortet mit einer ARP-Reply-Nachricht und teilt seine MAC-Adresse mit.
+5. Der Absender speichert die Zuordnung von IP- und MAC-Adresse im ARP-Cache.
+6. Das Datenpaket kann nun an die ermittelte MAC-Adresse gesendet werden.
 ## **Internet Control Message Protocol (ICMP)**
