@@ -47,13 +47,15 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 - **Kennung (Identification)**: 
 	- 16-Bit-Wert zur Identifizierung (Nummerierung) der Fragmente eines Datagramms. Alle Fragmente desselben Pakets tragen die gleiche Kennung.
 - **Flags**:
-	- 3 Steuerbits zur Kontrolle der 
-	- DF=1 "do not fragment"
-	- MF=1 "more fragments exist"
-- **TTL**:
+	- 3 Steuerbits zur Kontrolle der Fragmentierung
+	- DF = 1 "do not fragment"
+	- MF = 1 "more fragments exist"
+- **Fragment Offset:**
+	- 
+- **TTL (Time To Live)**:
 	- Wird vom router decremented
 	- TTL = 0 -> paket wird verworfen
 	- Vorsorge gegen z.B. im kreis routen
-- Protokoll
+- **Protokoll:**
 	- Was ist auf der schicht darüber?
 	- oft: 6 = tcp, 17 = udp
