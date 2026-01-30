@@ -52,9 +52,21 @@
               "icon": "lucide-file",
               "title": "Netze Vorlesung 03"
             }
+          },
+          {
+            "id": "60744debf5b64355",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-03"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fff0f74d709bc2f",
+  "active": "60744debf5b64355",
   "lastOpenFiles": [
-    "1 - Studium/Netze/N/Netze Vorlesung 03.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 03.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
