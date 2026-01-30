@@ -39,11 +39,13 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 	- 26 bit netz, 6 bit rechner
 ## **IP Header**
 - **Version**: 4/6
-- **IHL (Internet Header Lenght)**: Header Length, Normal 5 -> keine Optionen
+- **IHL (Internet Header Lenght)**:
+	- Länger des I
+	-  Header Length, Normal 5 -> keine Optionen
 - **ToS (Type of Service)**:
 	- Heute als **Differentiated Services Code Point (DSCP)** und **Explicit Congestion Notification (ECN)** genutzt.
-- Kennung: ID/nummerierung der fragmente
-- Flags
+- **Kennung (Identification)**: ID/nummerierung der fragmente
+- **Flags**:
 	- DF=1 "do not fragment"
 	- MF=1 "more fragments exist"
 - **TTL**:
