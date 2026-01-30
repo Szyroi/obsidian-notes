@@ -17,7 +17,7 @@ https://de.wikipedia.org/wiki/OSI-Modell
 	- Einheit: Pakete
 	- Einordnung: End to End Multihop
 	- Protokolle:
-		- [IP](IP.md)
+		- [3.1 - Internet Protocol (IP)](3.1%20-%20Internet%20Protocol%20(IP).md)
 		- ICMP
 		- IGMP
 		- IPsec
