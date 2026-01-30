@@ -72,4 +72,14 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 	- Variabel langes Feld (optional), heute kaum noch genutzt. Beispiel: Option 7 (Record Route) – Router tragen ihre IP-Adressen in das Optionsfeld ein. (Falls nötig, wird das Feld auf ein Vielfaches von 32 Bit aufgefüllt.)
 
 ## **Subnetting**
-- 
+Router benötigt pro Interface eine eigene Netzaddresse.
+Broadcasts sollten in größeren Organisationen nicht an alle Clients gehen.
+
+Kleinere Teilnetze/Subnetze werden im Vorgegebenen Addressbereich definiert.
+Bits die zur Kodierung der Rechneraddresse vorgesehen sind, werden für Addressierung von Teilnetzen verwendet.
+
+Zu Beachten:
+- Anzahl der benötigten Subnetze
+- Anzahl der Rechner im größten Subnetz
+
+## **Address Resolution Protocol (ARP)**
