@@ -51,11 +51,12 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 	- DF = 1 "do not fragment"
 	- MF = 1 "more fragments exist"
 - **Fragment Offset:**
-	- 
+	- Position des Fragments im ursprünglichen Datagramm, angegeben in 8-Byte-Einheiten (13 Bit).
 - **TTL (Time To Live)**:
 	- Wird vom router decremented
 	- TTL = 0 -> paket wird verworfen
 	- Vorsorge gegen z.B. im kreis routen
+	- Anmerkung: Ursprünglich als Zeitangabe in Sekunden gedacht, heute als Hop-Zähler interpretiert. Typischer Startwert: z. B. 64.
 - **Protokoll:**
-	- Was ist auf der schicht darüber?
-	- oft: 6 = tcp, 17 = udp
+	- 8-Bit-Wert zur Identifizierung des darüberliegenden Transportprotokolls (entspricht der IANA Protocol Number).
+	- oft: 6 = TCP, 17 = UDP
