@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/HTTPS.md",
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTPS"
+              "title": "3.4 - IPv6"
             }
           }
         ],
@@ -53,33 +53,8 @@
               "icon": "lucide-file-text",
               "title": "Vorlesung-05"
             }
-          },
-          {
-            "id": "e73e9e5f3ef67ad6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-06"
-            }
-          },
-          {
-            "id": "6cc543c355c9f0ce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-14"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,22 +202,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cc543c355c9f0ce",
+  "active": "c81c932644240f77",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.3 -  HTTPS.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - QUIC.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/QUIC.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/HTTPS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.1 - Internet Protocol (IP).md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.2 - IPv4.md",
@@ -252,7 +228,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P1 Netze.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 03.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.3 - Link Kapazitäten.md",
@@ -263,7 +238,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
-    "1 - Studium/Netze/N/Netze Vorlesung 02.md",
-    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf"
+    "1 - Studium/Netze/N/Netze Vorlesung 02.md"
   ]
 }
