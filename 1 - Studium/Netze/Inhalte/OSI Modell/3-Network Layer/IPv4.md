@@ -38,8 +38,9 @@ Seitdem werden immer IP-Addresse und Netzmaske (als anzahl der Netzaddressbits) 
 	- Wäre eigendlich ein Class-A Netz
 	- 26 bit netz, 6 bit rechner
 ## **IP Header**
-- Version: 4/6
-- **IHL**: Header Length, Normal 5 -> keine Optionen
+- **Version**: 4/6
+- **IHL (Internet Header Lenght)**: Header Length, Normal 5 -> keine Optionen
+- **ToS (T**
 - Kennung: ID/nummerierung der fragmente
 - Flags
 	- DF=1 "do not fragment"
