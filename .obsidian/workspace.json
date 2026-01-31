@@ -52,18 +52,6 @@
             }
           },
           {
-            "id": "7f8a99763be86069",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-04"
-            }
-          },
-          {
             "id": "41ea2a3004f108c5",
             "type": "leaf",
             "state": {
@@ -113,8 +101,7 @@
               "title": "Netze Vorlesung 09"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,8 +249,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f8a99763be86069",
+  "active": "930ec46693788c69",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.7 - VLAN.md",
@@ -274,7 +264,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 09.md",
@@ -284,7 +273,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
     "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
@@ -298,7 +286,6 @@
     "1 - Studium/Netze/N/Netze Vorlesung 12.md",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
     "1 - Studium/Netze/N/Netze Vorlesung 10.md",
-    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf",
-    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-2_Netze_2026.pdf"
+    "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-1_Netze_2026.pdf"
   ]
 }
