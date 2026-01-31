@@ -38,8 +38,57 @@
               "icon": "lucide-file-text",
               "title": "Vorlesung-08"
             }
+          },
+          {
+            "id": "06f388c826b531aa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-09"
+            }
+          },
+          {
+            "id": "41ea2a3004f108c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-10"
+            }
+          },
+          {
+            "id": "457ea50aae420832",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-11"
+            }
+          },
+          {
+            "id": "955a362ebb72ad1a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-12"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,16 +236,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "930ec46693788c69",
+  "active": "457ea50aae420832",
   "lastOpenFiles": [
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
+    "1 - Studium/Netze/N/Netze Vorlesung 09.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
     "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.6 - SPT.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.5 - Switch.md",
     "1 - Studium/Netze/N/Netze Vorlesung 06.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/Routing/1.2 - Distance Vector Routing.md",
     "1 - Studium/Netze/Inhalte/Routing/1.3 - Dijkstra Algorithmus.md",
@@ -207,7 +260,6 @@
     "1 - Studium/Netze/N/Netze Vorlesung 12.md",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
     "1 - Studium/Netze/N/Netze Vorlesung 10.md",
-    "1 - Studium/Netze/N/Netze Vorlesung 09.md",
     "1 - Studium/Netze/N/Netze Vorlesung 08.md",
     "1 - Studium/Netze/N/Netze Vorlesung 05.md",
     "1 - Studium/Netze/Inhalte/Routing/1.1 - Link State Routing.md",
@@ -216,14 +268,10 @@
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/Netzwerkbefehle-Praktikum-Netze.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P1.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
     "1 - Studium/Netze/Inhalte/Routing/1.4 - Bellamn Ford Algorithmus.md",
     "1 - Studium/Netze/Inhalte/Routing/Untitled.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.6 - Router.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.7 - VLAN.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Repeater.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md"
   ]
 }
