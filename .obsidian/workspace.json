@@ -96,8 +96,7 @@
               "title": "3.2 - IPv4"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,15 +244,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95a1287ffbb92d06",
+  "active": "3aa9441dd6adf3bd",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.5 - Switch.md",
     "1 - Studium/Netze/N/Netze Vorlesung 06.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.2 - IPv4.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.5 - Switch.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.6 - SPT.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Repeater.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.2 - IPv4.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
     "1 - Studium/Netze/Inhalte/Routing/Diskjtra Algo.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - SLAAC.md",
