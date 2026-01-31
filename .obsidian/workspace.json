@@ -101,8 +101,7 @@
               "title": "Netze Vorlesung 10"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,13 +249,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "457ea50aae420832",
+  "active": "930ec46693788c69",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 10.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "1 - Studium/Netze/N/Netze Vorlesung 09.md",
     "1 - Studium/Netze/N/Netze Vorlesung 08.md",
     "1 - Studium/Netze/N/Netze Vorlesung 13.md",
@@ -275,8 +276,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "1 - Studium/Netze/N/Netze Vorlesung 07.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
