@@ -57,10 +57,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-03"
+              "title": "Vorlesung-04"
             }
           },
           {
@@ -264,8 +264,8 @@
   },
   "active": "7f8a99763be86069",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.7 - VLAN.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.6 - SPT.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.5 - Switch.md",
