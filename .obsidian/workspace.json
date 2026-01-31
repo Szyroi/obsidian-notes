@@ -109,9 +109,21 @@
               "icon": "lucide-file-text",
               "title": "Vorlesung-06"
             }
+          },
+          {
+            "id": "392953e81bb36d50",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-07"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,8 +271,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b22250a51480d084",
+  "active": "392953e81bb36d50",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - SLAAC.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.6 - Router.md",
@@ -279,7 +292,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.6 - Switch.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Repeater.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 06.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
