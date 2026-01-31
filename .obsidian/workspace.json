@@ -71,30 +71,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c81c932644240f77",
+            "id": "fe453be97ba83ee7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf"
+                "file": "1 - Studium/Netze/N/Netze Vorlesung 06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-05"
+              "icon": "lucide-file",
+              "title": "Netze Vorlesung 06"
             }
           },
           {
-            "id": "d2bc99a45fb2a70b",
+            "id": "0b3e56130a2da575",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-03"
+              "title": "Vorlesung-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,20 +245,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7371f4bff4514b7a",
+  "active": "0b3e56130a2da575",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
+    "1 - Studium/Netze/N/Netze Vorlesung 06.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - DHCP.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.6 - SLAAC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - Autokonfiguration.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 08.md",
     "1 - Studium/Netze/N/Netze Vorlesung 07.md",
-    "1 - Studium/Netze/N/Netze Vorlesung 06.md",
     "1 - Studium/Netze/N/Netze Vorlesung 05.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
