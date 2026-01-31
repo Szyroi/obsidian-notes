@@ -86,21 +86,8 @@
               "icon": "lucide-file-text",
               "title": "Vorlesung-12"
             }
-          },
-          {
-            "id": "7b55e7ca9eebd719",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-14"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,10 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b55e7ca9eebd719",
+  "active": "930ec46693788c69",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
@@ -280,7 +268,6 @@
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-2_Netze_2026.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
     "1 - Studium/Netze/Inhalte/Routing/1.4 - Bellamn Ford Algorithmus.md",
     "1 - Studium/Netze/Inhalte/Routing/Untitled.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.6 - Router.md",
