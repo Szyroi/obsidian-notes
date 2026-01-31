@@ -49,8 +49,7 @@
               "title": "2.4 - MAC-Adressen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "388945e9d6711751",
@@ -80,8 +79,7 @@
               "title": "Vorlesung-03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,12 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5cbdb680fe2fb07",
+  "active": "4fff0f74d709bc2f",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.2 - IPv4.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
