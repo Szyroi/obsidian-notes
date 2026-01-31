@@ -96,8 +96,7 @@
               "title": "1.0 - Routing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,11 +244,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d29f6627ae2ee72f",
+  "active": "b22250a51480d084",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
     "1 - Studium/Netze/N/Netze Vorlesung 07.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
-    "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
     "1 - Studium/Netze/N/Netze Vorlesung 06.md",
     "1 - Studium/Netze/Inhalte/Routing/1.2 - Distance Vector Routing.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.6 - Router.md",
