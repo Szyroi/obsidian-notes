@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.3 - Link Kapazitäten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 - Latenz"
+              "title": "1.3 - Link Kapazitäten"
             }
           }
         ],
@@ -46,12 +46,14 @@
             "id": "06f388c826b531aa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf"
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-02"
+              "icon": "lucide-file",
+              "title": "1.2 - Latenz"
             }
           }
         ]
@@ -202,12 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcee1877384c92be",
+  "active": "06f388c826b531aa",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.3 - Link Kapazitäten.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
