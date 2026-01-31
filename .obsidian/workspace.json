@@ -116,10 +116,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-10"
+              "title": "Vorlesung-11"
             }
           }
         ],
@@ -273,6 +273,7 @@
   },
   "active": "392953e81bb36d50",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
@@ -307,7 +308,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf"
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf"
   ]
 }
