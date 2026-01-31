@@ -96,8 +96,7 @@
               "title": "Zusammenfassung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,8 +244,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3127ec4ea58c7d7",
+  "active": "b22250a51480d084",
   "lastOpenFiles": [
+    "1 - Studium/Netze/N/Zusammenfassung.md",
     "1 - Studium/Netze/N/Netze Vorlesung 13.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
@@ -281,7 +281,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.3 - HTTPS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - DHCP.md",
     "1 - Studium/Netze/Inhalte/Topologien/Baum.md",
-    "1 - Studium/Netze/Inhalte/Topologien/Stern.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
   ]
 }
