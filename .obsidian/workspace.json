@@ -76,10 +76,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
+                "file": "96 - Dateien/Praktika/Netze Praktikum/Netzwerkbefehle-Praktikum-Netze.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-07"
+              "title": "Netzwerkbefehle-Praktikum-Netze"
             }
           },
           {
@@ -246,9 +246,16 @@
   },
   "active": "b22250a51480d084",
   "lastOpenFiles": [
+    "96 - Dateien/Praktika/Netze Praktikum/P1.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P5.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P6.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/N/Zusammenfassung.md",
     "1 - Studium/Netze/N/Netze Vorlesung 13.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
     "1 - Studium/Netze/Inhalte/Routing/1.1 - Link State Routing.md",
     "1 - Studium/Netze/Inhalte/Routing/1.4 - Bellamn Ford Algorithmus.md",
@@ -270,17 +277,10 @@
     "1 - Studium/Netze/Inhalte/Routing",
     "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
-    "1 - Studium/Netze/Inhalte/VPN",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.3 - HTTPS.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - DHCP.md",
-    "1 - Studium/Netze/Inhalte/Topologien/Baum.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - DHCP.md"
   ]
 }
