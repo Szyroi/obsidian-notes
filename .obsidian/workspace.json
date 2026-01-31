@@ -126,14 +126,12 @@
             "id": "89ca04939e45a6af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Netze/N/Netze Vorlesung 08.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Netze Vorlesung 08"
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-07"
             }
           }
         ],
@@ -287,6 +285,13 @@
   },
   "active": "89ca04939e45a6af",
   "lastOpenFiles": [
+    "1 - Studium/Netze/N/Netze Vorlesung 13.md",
+    "1 - Studium/Netze/N/Zusammenfassung.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 12.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 11.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 10.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 09.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 08.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 07.md",
@@ -300,12 +305,9 @@
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Wiederholung.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
-    "1 - Studium/Netze/N/Zusammenfassung.md",
     "96 - Dateien/Praktika/Netze Praktikum/Netzwerkbefehle-Praktikum-Netze.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P1.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
-    "1 - Studium/Netze/N/Netze Vorlesung 13.md",
     "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
     "1 - Studium/Netze/Inhalte/Routing/1.4 - Bellamn Ford Algorithmus.md",
     "1 - Studium/Netze/Inhalte/Routing/Untitled.md",
@@ -318,10 +320,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Repeater.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - SLAAC.md",
-    "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.3 - HTTPS.md"
+    "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md"
   ]
 }
