@@ -11,8 +11,6 @@ https://de.wikipedia.org/wiki/OSI-Modell
 	- Protokolle:
 		- TCP
 		- UDP
-		- SCTP
-		- SPX
 - Network Layer/Vermittelungsschicht 3
 	- Einheit: Pakete
 	- Einordnung: End to End Multihop

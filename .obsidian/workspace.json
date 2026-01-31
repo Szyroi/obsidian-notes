@@ -82,7 +82,8 @@
               "title": "Zusammenfassung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcee1877384c92be",
+  "active": "457ea50aae420832",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
@@ -265,7 +267,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
   ]
