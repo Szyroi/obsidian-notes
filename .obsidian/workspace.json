@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,27 +250,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8fad6bb453c149f",
+  "active": "dbc5dd21f2ca6097",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.3 - HTTPS.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 13.md",
     "1 - Studium/Netze/N/Netze Vorlesung 07.md",
     "1 - Studium/Netze/N/Netze Vorlesung 08.md",
     "1 - Studium/Netze/N/Netze Vorlesung 09.md",
     "1 - Studium/Netze/N/Netze Vorlesung 10.md",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
     "1 - Studium/Netze/N/Netze Vorlesung 12.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.3 - HTTPS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
-    "1 - Studium/Netze/N/Netze Vorlesung 13.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
@@ -286,7 +286,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
     "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
     "1 - Studium/Netze/N/Netze Vorlesung 06.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
-    "1 - Studium/Netze/Inhalte/Routing/1.2 - Distance Vector Routing.md"
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
   ]
 }
