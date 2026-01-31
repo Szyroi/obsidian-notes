@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - Router.md",
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - SLAAC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 - Router"
+              "title": "3.5 - SLAAC"
             }
           }
         ],
@@ -261,8 +261,9 @@
   },
   "active": "7371f4bff4514b7a",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/5.6 - SLAAC.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - Router.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.6 - Router.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - SLAAC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.6 - Switch.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.5 - Spanning Tree Protocol.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Repeater.md",
@@ -275,7 +276,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - Autokonfiguration.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.4 - IPv6.md",
     "1 - Studium/Netze/N/Netze Vorlesung 08.md",
     "1 - Studium/Netze/N/Netze Vorlesung 07.md",
     "1 - Studium/Netze/N/Netze Vorlesung 05.md",
