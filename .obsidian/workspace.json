@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d3fe7d8717dae42e",
@@ -244,12 +244,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aa9441dd6adf3bd",
+  "active": "0b3e56130a2da575",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.5 - Switch.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 06.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.2 - IPv4.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.5 - Switch.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.6 - SPT.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Repeater.md",
