@@ -101,7 +101,8 @@
               "title": "Netze Vorlesung 10"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,18 +250,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "930ec46693788c69",
+  "active": "457ea50aae420832",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 10.md",
     "1 - Studium/Netze/N/Netze Vorlesung 09.md",
     "1 - Studium/Netze/N/Netze Vorlesung 08.md",
     "1 - Studium/Netze/N/Netze Vorlesung 13.md",
     "1 - Studium/Netze/N/Netze Vorlesung 12.md",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
