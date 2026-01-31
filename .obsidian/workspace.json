@@ -116,10 +116,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-07"
+              "title": "Vorlesung-10"
             }
           }
         ],
@@ -273,9 +273,11 @@
   },
   "active": "392953e81bb36d50",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.5 - SLAAC.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.6 - Router.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
@@ -306,7 +308,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf"
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf"
   ]
 }
