@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbc5dd21f2ca6097",
+            "id": "5da24d383d471db3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 - DNS"
-            }
-          },
-          {
-            "id": "3fa20ce1528412a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.2 - HTTP"
+              "title": "1.0 - Physical Layer"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "1.3 - Link Kapazitäten"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d3fe7d8717dae42e",
@@ -58,34 +43,6 @@
         "children": [
           {
             "id": "06f388c826b531aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.0 - Physical Layer"
-            }
-          },
-          {
-            "id": "457ea50aae420832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zusammenfassung"
-            }
-          },
-          {
-            "id": "5da24d383d471db3",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -96,8 +53,7 @@
               "title": "Vorlesung-02"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,16 +201,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da24d383d471db3",
+  "active": "06f388c826b531aa",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.3 - Link Kapazitäten.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Repeater.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
@@ -278,7 +235,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.7 - VLAN.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.6 - SPT.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf"
