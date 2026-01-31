@@ -76,18 +76,6 @@
             }
           },
           {
-            "id": "d9667ea55fc28f9f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-08"
-            }
-          },
-          {
             "id": "b8fad6bb453c149f",
             "type": "leaf",
             "state": {
@@ -102,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,10 +238,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "955a362ebb72ad1a",
+  "active": "b8fad6bb453c149f",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.3 - HTTPS.md",
@@ -268,7 +257,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
