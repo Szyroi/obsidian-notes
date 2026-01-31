@@ -81,9 +81,21 @@
               "icon": "lucide-file",
               "title": "Zusammenfassung"
             }
+          },
+          {
+            "id": "5da24d383d471db3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-01"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,8 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "457ea50aae420832",
+  "active": "dcee1877384c92be",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
+    "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
@@ -243,7 +257,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
-    "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
@@ -266,7 +279,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.1 - Frames.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf"
   ]
