@@ -110,8 +110,7 @@
               "title": "Netze Vorlesung 07"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,10 +258,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "644083f95ebc9206",
+  "active": "b22250a51480d084",
   "lastOpenFiles": [
-    "1 - Studium/Netze/N/Netze Vorlesung 06.md",
     "1 - Studium/Netze/N/Netze Vorlesung 07.md",
+    "1 - Studium/Netze/N/Netze Vorlesung 06.md",
     "1 - Studium/Netze/N/Netze Vorlesung 05.md",
     "1 - Studium/Netze/Inhalte/Routing/1.3 - Dijkstra Algorithmus.md",
     "1 - Studium/Netze/Inhalte/Routing/1.1 - Link State Routing.md",
