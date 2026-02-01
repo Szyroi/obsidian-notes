@@ -67,8 +67,21 @@
               "icon": "lucide-file-text",
               "title": "Vorlesung-09"
             }
+          },
+          {
+            "id": "390c9671f536b34a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-05"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb6eb4606a2e988",
+  "active": "390c9671f536b34a",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
