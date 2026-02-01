@@ -232,6 +232,9 @@
   },
   "active": "ace03a5aca2b7c9e",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
@@ -253,7 +256,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
@@ -264,8 +266,6 @@
     "1 - Studium/Netze/N/Netze Vorlesung 08.md",
     "1 - Studium/Netze/N/Netze Vorlesung 09.md",
     "1 - Studium/Netze/N/Netze Vorlesung 10.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.7 - VLAN.md"
   ]
 }
