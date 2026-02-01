@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "1.2 - Link Kapazitäten"
             }
+          },
+          {
+            "id": "ace03a5aca2b7c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 - TCP"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d3fe7d8717dae42e",
@@ -216,14 +230,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06f388c826b531aa",
+  "active": "ace03a5aca2b7c9e",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "1 - Studium/Netze/Praktikum/Netzwerkbefehle-Praktikum-Netze 1.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
@@ -233,8 +248,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
