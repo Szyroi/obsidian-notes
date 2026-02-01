@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/Routing/1.4 - Bellamn Ford Algorithmus.md",
+                "file": "1 - Studium/Netze/Inhalte/Routing/1.2 - Distance Vector Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 - Bellamn Ford Algorithmus"
+              "title": "1.2 - Distance Vector Routing"
             }
           }
         ],
@@ -245,8 +245,8 @@
   },
   "active": "f3af41c8777361cc",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - XMPP.md",
     "1 - Studium/Netze/Inhalte/Routing/1.4 - Bellamn Ford Algorithmus.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - XMPP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
