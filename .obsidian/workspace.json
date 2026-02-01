@@ -74,10 +74,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-14"
+              "title": "Vorlesung-12"
             }
           }
         ],
@@ -231,6 +231,7 @@
   },
   "active": "390c9671f536b34a",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-14.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - XMPP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
