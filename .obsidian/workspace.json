@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "1.2 - Link Kapazitäten"
             }
-          },
-          {
-            "id": "df64c80ecdd2d1de",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1 - Studium/Netze/Praktikum/Netzwerkbefehle-Praktikum-Netze 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Netzwerkbefehle-Praktikum-Netze 1"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d3fe7d8717dae42e",
@@ -74,10 +62,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-04"
+              "title": "Vorlesung-05"
             }
           }
         ]
@@ -228,9 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df64c80ecdd2d1de",
+  "active": "06f388c826b531aa",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
+    "1 - Studium/Netze/Praktikum/Netzwerkbefehle-Praktikum-Netze 1.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
@@ -238,7 +228,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Kabel.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.3 - Repeater.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-01.pdf",
@@ -253,11 +242,9 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
     "1 - Studium/Netze/N/Netze Vorlesung 12.md",
     "1 - Studium/Netze/N/Netze Vorlesung 13.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.3 - HTTPS.md",
     "1 - Studium/Netze/N/Netze Vorlesung 07.md",
     "1 - Studium/Netze/N/Netze Vorlesung 08.md",
