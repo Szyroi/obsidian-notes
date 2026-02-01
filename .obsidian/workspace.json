@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "1.2 - Link Kapazitäten"
             }
+          },
+          {
+            "id": "df64c80ecdd2d1de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1 - Studium/Netze/Praktikum/Netzwerkbefehle-Praktikum-Netze 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Netzwerkbefehle-Praktikum-Netze 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "d3fe7d8717dae42e",
@@ -216,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06f388c826b531aa",
+  "active": "df64c80ecdd2d1de",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-02.pdf",
