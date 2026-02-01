@@ -62,10 +62,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-08"
+              "title": "Vorlesung-09"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "06f388c826b531aa",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-06.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
@@ -241,7 +242,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md",
     "1 - Studium/Netze/N/Netze Vorlesung 11.md",
     "1 - Studium/Netze/N/Netze Vorlesung 12.md",
