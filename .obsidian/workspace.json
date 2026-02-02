@@ -47,8 +47,7 @@
               "title": "P7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,13 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4cc4ab56c6f5df0",
+  "active": "5da24d383d471db3",
   "lastOpenFiles": [
-    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P6.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "96 - Dateien/Praktika/Netze Praktikum/P5.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
@@ -211,7 +210,6 @@
     "1 - Studium/Netze/Praktikum/P1.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
