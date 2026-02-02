@@ -41,10 +41,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-04"
+              "title": "Vorlesung-03"
             }
           }
         ],
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06f388c826b531aa",
+  "active": "ace03a5aca2b7c9e",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
