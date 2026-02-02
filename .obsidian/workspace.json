@@ -62,10 +62,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-10"
+              "title": "Vorlesung-09"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "06f388c826b531aa",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
