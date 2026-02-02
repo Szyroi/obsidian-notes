@@ -62,10 +62,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-09"
+              "title": "Vorlesung-10"
             }
           }
         ]
@@ -216,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ace03a5aca2b7c9e",
+  "active": "06f388c826b531aa",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
