@@ -34,21 +34,27 @@
               "icon": "lucide-file",
               "title": "1.2 - Link Kapazitäten"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9e961a7befe2a2c1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ace03a5aca2b7c9e",
+            "id": "d415fa206553ddbf",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Praktika/Netze Praktikum/P4.pdf"
+                "file": "96 - Dateien/Praktika/Netze Praktikum/P7.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "P4"
+              "title": "P7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ace03a5aca2b7c9e",
+  "active": "d415fa206553ddbf",
   "lastOpenFiles": [
+    "96 - Dateien/Praktika/Netze Praktikum/P6.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P5.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P1.pdf",
@@ -213,13 +222,10 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - XMPP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.6 - TLS.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
     "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
     "1 - Studium/Netze/Inhalte/Routing/1.1 - Link State Routing.md",
     "1 - Studium/Netze/Inhalte/Routing/1.2 - Distance Vector Routing.md",
     "1 - Studium/Netze/Inhalte/Routing/1.4 - Bellamn Ford Algorithmus.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-11.pdf",
     "1 - Studium/Netze/Inhalte/Routing/1.3 - Dijkstra Algorithmus.md",
     "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
