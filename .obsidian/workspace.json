@@ -62,10 +62,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf"
+                "file": "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-09"
+              "title": "Uebungsblatt-3_Netze_2026"
             }
           }
         ]
@@ -218,8 +218,8 @@
   },
   "active": "06f388c826b531aa",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
