@@ -39,34 +39,18 @@
             "id": "ace03a5aca2b7c9e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf"
+                "file": "1 - Studium/Netze/Praktikum/P1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-03"
+              "icon": "lucide-file",
+              "title": "P1"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "d3fe7d8717dae42e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "06f388c826b531aa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Uebungsblatt-3_Netze_2026"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -214,11 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06f388c826b531aa",
+  "active": "ace03a5aca2b7c9e",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Übungen/Netze Übungen/Uebungsblatt-3_Netze_2026.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-10.pdf",
