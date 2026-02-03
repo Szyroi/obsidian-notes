@@ -41,10 +41,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf"
+                "file": "96 - Dateien/Praktika/Netze Praktikum/S2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-13"
+              "title": "S2"
             }
           }
         ],
@@ -198,6 +198,7 @@
   },
   "active": "7144c08f0b4c9131",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
@@ -210,7 +211,6 @@
     "96 - Dateien/Praktika/Netze Praktikum/P5.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P1.pdf",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Praktikum/P1.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
