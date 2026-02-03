@@ -11,14 +11,12 @@
             "id": "5da24d383d471db3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf"
               },
-              "icon": "lucide-file",
-              "title": "5.4 - DHCP"
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-05"
             }
           },
           {
@@ -199,6 +197,9 @@
   },
   "active": "5da24d383d471db3",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
@@ -213,7 +214,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P6.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P5.pdf",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Praktikum/P1.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
@@ -232,7 +232,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.1 - DNS.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md"
   ]
 }
