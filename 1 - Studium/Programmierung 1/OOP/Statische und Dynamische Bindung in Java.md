@@ -12,4 +12,6 @@
 
 - **Zeitpunkt**: Zur Laufzeit (Runtime)
 - **Verwendet für**: Methoden, die zur Laufzeit aufgelöst werden
-- **Betrifft**: Überschriebene (overridden) Instanzmethoden
+- **Betrifft**: 
+	- Überschriebene (overridden) 
+	- Instanzmethoden
