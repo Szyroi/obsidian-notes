@@ -49,8 +49,7 @@
               "title": "1.1 - Kanalkapazität"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cabc37ce6656c74",
+  "active": "5da24d383d471db3",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
