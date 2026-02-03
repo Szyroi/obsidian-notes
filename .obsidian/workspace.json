@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,12 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb6eb4606a2e988",
+  "active": "b4cc4ab56c6f5df0",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P6.pdf",
@@ -224,7 +224,6 @@
     "96 - Dateien/Praktika/Netze Praktikum/P1.pdf",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Praktikum/P1.md",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
