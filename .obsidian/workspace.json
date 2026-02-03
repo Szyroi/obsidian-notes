@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf"
+                "file": "96 - Dateien/Praktika/Netze Praktikum/S2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-12"
+              "title": "S2"
             }
           }
         ],
@@ -184,6 +184,7 @@
   },
   "active": "6cb6eb4606a2e988",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
     "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
