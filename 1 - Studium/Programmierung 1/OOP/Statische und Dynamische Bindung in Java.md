@@ -2,7 +2,7 @@
 
 - **Zeitpunkt**: Zur Kompilierzeit (Compile-Time)
 - **Verwendet für**: Methoden, die zur Kompilezeit auflösbar sind
-- **Beispiele**:
+- Betrifft:
     - `private` Methoden
     - `static` Methoden (Klassenmethoden)
     - `final` Methoden
@@ -12,4 +12,4 @@
 
 - **Zeitpunkt**: Zur Laufzeit (Runtime)
 - **Verwendet für**: Methoden, die zur Laufzeit aufgelöst werden
-- **Beispiele**: Überschriebene (overridden) Instanzmethoden
+- **Betrifft**: Überschriebene (overridden) Instanzmethoden
