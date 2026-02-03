@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "1.0 - Physical Layer"
             }
-          },
-          {
-            "id": "6cb6eb4606a2e988",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Praktika/Netze Praktikum/S2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "S2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb6eb4606a2e988",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
