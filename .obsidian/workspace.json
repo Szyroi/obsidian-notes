@@ -41,26 +41,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf"
+                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-08"
-            }
-          },
-          {
-            "id": "b4cc4ab56c6f5df0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Praktika/Netze Praktikum/P7.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "P7"
+              "title": "Vorlesung-13"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,13 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4cc4ab56c6f5df0",
+  "active": "7144c08f0b4c9131",
   "lastOpenFiles": [
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
+    "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
-    "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P6.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
