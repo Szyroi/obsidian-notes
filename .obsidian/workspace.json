@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5da24d383d471db3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-05"
-            }
-          },
-          {
             "id": "59af0ad04b3a5738",
             "type": "leaf",
             "state": {
@@ -45,6 +33,24 @@
               },
               "icon": "lucide-file",
               "title": "1.1 - Kanalkapazität"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e904872fff4fc9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6be099d737d802",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Praktika/Netze Praktikum/P4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "P4"
             }
           }
         ]
@@ -195,8 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da24d383d471db3",
+  "active": "fc6be099d737d802",
   "lastOpenFiles": [
+    "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
+    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
@@ -212,8 +220,6 @@
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P2.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P6.pdf",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Praktikum/P1.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
