@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
+                "file": "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 - Kanalkapazität"
+              "title": "1.0 - Physical Layer"
             }
           },
           {
@@ -33,24 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "1.1 - Kanalkapazität"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2e904872fff4fc9a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc6be099d737d802",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Praktika/Netze Praktikum/P4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "P4"
             }
           }
         ]
@@ -201,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc6be099d737d802",
+  "active": "59af0ad04b3a5738",
   "lastOpenFiles": [
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
+    "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
@@ -210,7 +194,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
@@ -218,8 +201,6 @@
     "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-09.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-08.pdf",
-    "96 - Dateien/Praktika/Netze Praktikum/P7.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-07.pdf",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Praktikum/P1.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
