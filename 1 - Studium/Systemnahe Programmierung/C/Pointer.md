@@ -214,7 +214,7 @@ free(ptr);
 
 ## Visualisierung
 
-```
+```c
 Variable:    zahl = 42
 Adresse:     0x7ffd2a8b4c
 
@@ -235,8 +235,9 @@ Pointer:     zeiger = 0x7ffd2a8b4c
 ## Memory Layout
 
 
+```c
 +-----------------+
-|    Stack        |  // Lokale Variablen, automatische Speicherverwaltung
+|    Stack        |  // Lokale Variablen,automatische Speicherverwaltung
 +-----------------+
 |    Heap         |  // Dynamischer Speicher (malloc/free)
 +-----------------+
@@ -244,3 +245,4 @@ Pointer:     zeiger = 0x7ffd2a8b4c
 +-----------------+
 |    Text/Code    |  // Programmiercode
 +-----------------+
+```
