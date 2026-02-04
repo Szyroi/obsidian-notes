@@ -25,12 +25,14 @@
             "id": "9e2e130b29fbfdde",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1 - Studium/Datenbanken/Folien alt/Datenbanken LE00 Vorbemerkungen.pdf"
+                "file": "1 - Studium/Datenbanken/Datenbanken Klausurzettel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Datenbanken LE00 Vorbemerkungen"
+              "icon": "lucide-file",
+              "title": "Datenbanken Klausurzettel"
             }
           }
         ],
@@ -184,6 +186,7 @@
   },
   "active": "9e2e130b29fbfdde",
   "lastOpenFiles": [
+    "1 - Studium/Datenbanken/Folien alt/Datenbanken LE00 Vorbemerkungen.pdf",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 13.md",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 12.md",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 11.md",
@@ -218,7 +221,6 @@
     "1 - Studium/Programmierung 1/Java/Literale.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md"
   ]
 }
