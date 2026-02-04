@@ -11,12 +11,14 @@
             "id": "60d632fe10a0292a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 13.pdf"
+                "file": "1 - Studium/Datenbanken/Datenbanken Klausurzettel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Datenbanken Vorlesung 13"
+              "icon": "lucide-file",
+              "title": "Datenbanken Klausurzettel"
             }
           },
           {
@@ -179,15 +181,15 @@
   },
   "active": "60d632fe10a0292a",
   "lastOpenFiles": [
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 01.md",
+    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 13.pdf",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 13.md",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 05.md",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 04.md",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 03.md",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 04 Zusammenfassung Begriffe.pdf",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 02.md",
-    "1 - Studium/Datenbanken/Datenbanken Vorlesung 01.md",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken LE2 MiniBeispiel.pdf",
-    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 13.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12 Extra.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 11.pdf",
