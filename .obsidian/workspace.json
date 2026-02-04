@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Datenbanken/Datenbanken Klausurzettel.md",
+                "file": "1 - Studium/Datenbanken/Datenbanken Vorlesung 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datenbanken Klausurzettel"
+              "title": "Datenbanken Vorlesung 01"
             }
           }
         ]
@@ -171,8 +171,21 @@
   },
   "active": "d16ff2e402d15d3c",
   "lastOpenFiles": [
-    "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
     "1 - Studium/Datenbanken/Datenbanken Klausurzettel.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 13.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 12.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 11.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 10.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 09.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 08.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 07.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 06.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 05.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 04.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 03.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 02.md",
+    "1 - Studium/Datenbanken/Datenbanken Vorlesung 01.md",
+    "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
     "1 - Studium/Programmierung 2",
     "1 - Studium/ADG",
     "1 - Studium/Systemnahe Programmierung",
@@ -193,19 +206,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
-    "1 - Studium/Netze/Praktikum/P1.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.1 - TCP.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.2 - UDP.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.5 - XMPP.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.6 - TLS.md",
-    "1 - Studium/Netze/Inhalte/Routing/1.0 - Routing.md",
-    "1 - Studium/Netze/Inhalte/Routing/1.1 - Link State Routing.md",
-    "1 - Studium/Netze/Inhalte/Routing/1.2 - Distance Vector Routing.md",
-    "1 - Studium/Netze/Inhalte/Routing/1.4 - Bellamn Ford Algorithmus.md",
-    "1 - Studium/Netze/Inhalte/Routing/1.3 - Dijkstra Algorithmus.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Kabel.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.3 - Repeater.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md"
+    "1 - Studium/Netze/Praktikum/P1.md"
   ]
 }
