@@ -14,3 +14,5 @@
 | %lf       | double    |
 | %c        | char      |
 | %s        | Strings   |
+### **sizeof**
+- Der sizeof operator holt den 
