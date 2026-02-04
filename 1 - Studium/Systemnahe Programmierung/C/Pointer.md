@@ -40,8 +40,8 @@ int *null_ptr = NULL;  // Sicheres Initialisieren
 
 ## Pointer-Arithmetik
 
-c
 
+```c
 #include <stdio.h>
 
 int main() {
@@ -61,11 +61,12 @@ int main() {
     
     return 0;
 }
+```
 
 ## Pointer und Arrays
 
-c
 
+```c
 #include <stdio.h>
 
 int main() {
@@ -84,11 +85,12 @@ int main() {
     
     return 0;
 }
+```
 
 ## Pointer auf Pointer
 
-c
 
+```c
 #include <stdio.h>
 
 int main() {
@@ -102,11 +104,12 @@ int main() {
     
     return 0;
 }
+```
 
 ## Pointer in Funktionen (Call by Reference)
 
-c
 
+```c
 #include <stdio.h>
 
 // Call by Reference (arbeitet mit Original)
@@ -125,11 +128,12 @@ int main() {
     
     return 0;
 }
+```
 
 ## Dynamische Speicherallokation
 
-c
 
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -158,10 +162,11 @@ int main() {
     
     return 0;
 }
+```
 
 ## Pointer und Strings
 
-c
+
 
 #include <stdio.h>
 
