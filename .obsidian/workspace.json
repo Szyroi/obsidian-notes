@@ -11,10 +11,14 @@
             "id": "d16ff2e402d15d3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Studium/Datenbanken/Datenbanken Klausurzettel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Datenbanken Klausurzettel"
             }
           }
         ]
@@ -165,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "d16ff2e402d15d3c",
   "lastOpenFiles": [
+    "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
+    "1 - Studium/Datenbanken/Datenbanken Klausurzettel.md",
     "1 - Studium/Programmierung 2",
     "1 - Studium/ADG",
     "1 - Studium/Systemnahe Programmierung",
@@ -182,7 +188,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
     "96 - Dateien/Praktika/Netze Praktikum/P4.pdf",
     "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
@@ -201,7 +206,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.4 - Kabel.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.3 - Repeater.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md"
   ]
 }
