@@ -15,3 +15,12 @@
 - **Betrifft**: 
 	- Überschriebene (overridden) 
 	- Instanzmethoden
+
+# 📊 Kurzvergleich
+
+|Merkmal|Referenztyp|Objekttyp|
+|---|---|---|
+|Bestimmt durch|Variablendeklaration|`new`|
+|Bekannt wann?|Compile-Zeit|Laufzeit|
+|Steuert|Sichtbarkeit|Methodenauswahl|
+|Polymorphismus|❌ Nein|✅ Ja|
