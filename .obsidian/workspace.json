@@ -11,28 +11,12 @@
             "id": "59af0ad04b3a5738",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Programmierung 1/Java/Literale.md",
-                "mode": "source",
-                "source": false
+                "file": "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Literale"
-            }
-          },
-          {
-            "id": "1cabc37ce6656c74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1 - Kanalkapazität"
+              "icon": "lucide-file-text",
+              "title": "06_Kontrollstrukturen"
             }
           }
         ]
@@ -185,6 +169,7 @@
   },
   "active": "59af0ad04b3a5738",
   "lastOpenFiles": [
+    "1 - Studium/Programmierung 1/Java/Literale.md",
     "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
@@ -219,7 +204,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.2 - HTTP.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md"
   ]
 }
