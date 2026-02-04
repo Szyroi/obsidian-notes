@@ -1,10 +1,10 @@
 
-| Data Type | Size           |
-| --------- | -------------- |
-| int       | 2 oder 4 Bytes |
-| float     | 4 Bytes        |
-| double    | 8 Bytes        |
-| char      | 1 Byte         |
+| Data Type | Size                           |
+| --------- | ------------------------------ |
+| int       | 2 oder 4 Bytes (Meist 4 Bytes) |
+| float     | 4 Bytes                        |
+| double    | 8 Bytes                        |
+| char      | 1 Byte                         |
 ### **Format Specifier**
 
 | Specifier | Data Type             |
