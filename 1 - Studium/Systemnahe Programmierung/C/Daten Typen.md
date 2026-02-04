@@ -5,4 +5,11 @@
 | float     | 4 Bytes        |
 | double    | 8 Bytes        |
 | char      | 1 Byte         |
-## **Format **
+### **Format Specifier**
+
+| Specifier | Data Type |
+| --------- | --------- |
+| %d or %i  |           |
+| %f or %F  |           |
+| %lf       |           |
+| %c        |           |
