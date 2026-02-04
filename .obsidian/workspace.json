@@ -182,8 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "730261dccc825663",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "1 - Studium/Untitled",
+    "1 - Studium/Systemnahe Programmierung",
+    "1 - Studium/Datenbanken",
     "1 - Studium/Programmierung 1/OOP/Static.md",
     "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md",
     "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
@@ -197,11 +200,9 @@
     "96 - Dateien/Praktika/Netze Praktikum/P3.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-05.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-04.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-03.pdf",
     "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.3 - QUIC.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
-    "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
     "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Praktikum/P1.md",
@@ -218,7 +219,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.3 - Repeater.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Latenz.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md"
   ]
 }
