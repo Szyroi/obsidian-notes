@@ -15,4 +15,4 @@
 | %c        | char      |
 | %s        | Strings   |
 ### **sizeof**
-- Der sizeof operator holt den 
+- Der sizeof operator gibt den speicher von variablen oder Daten typen zurück 
