@@ -7,12 +7,13 @@
 | char      | 1 Byte         |
 ### **Format Specifier**
 
-| Specifier | Data Type |
-| --------- | --------- |
-| %d or %i  | int       |
-| %f or %F  | float     |
-| %lf       | double    |
-| %c        | char      |
-| %s        | Strings   |
+| Specifier | Data Type           |
+| --------- | ------------------- |
+| %d or %i  | int                 |
+| %f or %F  | float               |
+| %lf       | double              |
+| %c        | char                |
+| %s        | Strings             |
+| %zu       | unsigned int/sizeof |
 ### **sizeof**
 - Der sizeof operator gibt den speicher von variablen oder Daten typen zurück 
