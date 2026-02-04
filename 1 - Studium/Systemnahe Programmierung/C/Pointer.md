@@ -167,7 +167,7 @@ int main() {
 ## Pointer und Strings
 
 
-
+```c
 #include <stdio.h>
 
 int main() {
@@ -182,11 +182,12 @@ int main() {
     
     return 0;
 }
+```
 
 ## Häufige Fehler
 
-c
 
+```c
 // 1. Nicht initialisierte Pointer (Wild Pointer)
 int *wild_ptr;  // Gefährlich!
 
@@ -201,24 +202,19 @@ int *ptr = (int*)malloc(sizeof(int));
 // 4. Verwendung nach free()
 free(ptr);
 // printf("%d\n", *ptr);  // Undefiniertes Verhalten!
+```
 
 ## Best Practices
 
 1. **Immer initialisieren**: Pointer auf NULL oder gültige Adresse setzen
-    
 2. **NULL-Checks**: Vor Dereferenzierung prüfen
-    
 3. **Gültigkeitsbereich beachten**: Nicht auf lokale Variablen außerhalb ihres Scopes zeigen
-    
 4. **Speicher freigeben**: Jeden malloc/calloc mit free paaren
-    
 5. **Nach free() NULL setzen**: Verhindert "dangling pointers"
-    
 
 ## Visualisierung
 
-text
-
+```
 Variable:    zahl = 42
 Adresse:     0x7ffd2a8b4c
 
@@ -226,23 +222,18 @@ Pointer:     zeiger = 0x7ffd2a8b4c
              |
              v
             [42]  (an Adresse 0x7ffd2a8b4c)
+```
 
 ## Typische Anwendungsfälle
 
 1. **Dynamische Datenstrukturen**: Listen, Bäume, Graphen
-    
 2. **String-Verarbeitung**: Effiziente String-Manipulation
-    
 3. **Arrays dynamischer Größe**: Zur Laufzeit Speicher allozieren
-    
 4. **Funktionsparameter**: Call by Reference für große Daten
-    
 5. **Systemprogrammierung**: Direkter Speicherzugriff
-    
 
 ## Memory Layout
 
-text
 
 +-----------------+
 |    Stack        |  // Lokale Variablen, automatische Speicherverwaltung
