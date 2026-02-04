@@ -18,8 +18,19 @@
               "icon": "lucide-file-text",
               "title": "u06"
             }
+          },
+          {
+            "id": "730261dccc825663",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59af0ad04b3a5738",
+  "active": "730261dccc825663",
   "lastOpenFiles": [
+    "96 - Dateien/Übungen/Prog 1 Übungen/u06.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/08_Typanpassung_Operatoren_Methoden.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/07_Kontrollstrukturen_Variablen.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/06_Kontrollstrukturen.pdf",
@@ -186,7 +198,6 @@
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
     "96 - Dateien/Praktika/Netze Praktikum/S2.pdf",
     "96 - Dateien/Folien/Netze Folien/Vorlesung-12.pdf",
-    "96 - Dateien/Folien/Netze Folien/Vorlesung-13.pdf",
     "1 - Studium/Netze/Inhalte/VPN/1.0 - VPN.md",
     "1 - Studium/Netze/Inhalte/Zusammenfassung.md",
     "1 - Studium/Netze/Praktikum/P1.md",
