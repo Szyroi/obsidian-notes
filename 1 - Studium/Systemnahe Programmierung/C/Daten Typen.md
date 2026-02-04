@@ -9,7 +9,8 @@
 
 | Specifier | Data Type |
 | --------- | --------- |
-| %d or %i  |           |
-| %f or %F  |           |
-| %lf       |           |
-| %c        |           |
+| %d or %i  | int       |
+| %f or %F  | float     |
+| %lf       | double    |
+| %c        | char      |
+| %s        | Strings   |
