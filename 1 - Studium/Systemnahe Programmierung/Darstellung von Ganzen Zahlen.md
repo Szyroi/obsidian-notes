@@ -39,9 +39,6 @@ Das erste bit von Links nennt man den **Most Significant Bit (MSB)**.
 Dieser gibt an ob die Zahl negataiv oder Positiv ist.
 - Bei `0` -> Positiv
 - Bei `1` -> Negativ
-Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
-- Bei `0` -> Zahl ist Gerade
-- Bei `1` -> Zahl ist Ungerade
 
 | Binär    | Dezimal |
 | -------- | ------- |
@@ -57,7 +54,18 @@ Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 | …        | …       |
 | 10000000 | -128    |
 
+Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
+- Bei `0` -> Zahl ist Gerade
+- Bei `1` -> Zahl ist Ungerade
 
+|Dezimal|Binär|LSB|Gerade/Ungerade|
+|---|---|---|---|
+|0|00000000|0|gerade|
+|1|00000001|1|ungerade|
+|2|00000010|0|gerade|
+|3|00000011|1|ungerade|
+|126|01111110|0|gerade|
+|127|01111111|1|ungerade|
 
 ## **Festkommadarstellung**
 
