@@ -39,10 +39,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf"
+                "file": "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "05_Bitoperationen_Fliesskommazahlen_Zeichenketten"
+              "title": "04_ausfuehren_von_programmen"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "9d201700b6b6fab8",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Float.md",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Integer.md",
@@ -227,7 +228,6 @@
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12 Extra.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 11.pdf",
-    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 10.pdf",
     "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
     "1 - Studium/Programmierung 1/OOP/Static.md",
     "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md",
