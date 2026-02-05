@@ -11,12 +11,13 @@ tags:
 ## 🧠 Vorlesungsübersicht  
 #vorlesung #prog1 
 
-- [[01 - Orga]]
-- [[VL_02_Variablen_und_Datentypen]]
-- [[VL_03_Kontrollstrukturen]]
-- [[VL_04_Funktionen]]
-- [[VL_05_Arrays]]
-- [[VL_06_Objekte_und_Klassen]]
+- [[01_Orga.pdf]]
+- [[02_Algorithmen.pdf]]
+- [[03_Programmiersprachen.pdf]]
+- [[04_ausfuehren_von_programmen.pdf]]
+- [[05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf]]
+- [[06_Kontrollstrukturen.pdf]]
+- [[07]]
 
 ---
 
