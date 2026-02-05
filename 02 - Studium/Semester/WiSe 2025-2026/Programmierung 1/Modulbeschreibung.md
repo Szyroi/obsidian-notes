@@ -1,7 +1,7 @@
 ---
 modulname: Programmierung 1
-modulcode: BI-XXX
-dozent: Name
+modulcode: BI-2024-1-PSE-1
+dozent: MSc. Moritz Balg
 semester: WS 25/26
 status: aktiv
 credits: 9
