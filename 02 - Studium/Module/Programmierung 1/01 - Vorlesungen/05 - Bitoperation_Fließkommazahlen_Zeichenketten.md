@@ -8,4 +8,4 @@ Folie: [[05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf]]
 
 
 ## Hinweis
-- Übungsaufgaben: [[u04.pdf]]
+- Übungsaufgaben: [[u04.pdf]], [[u03.pdf]]
