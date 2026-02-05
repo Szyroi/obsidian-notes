@@ -1,7 +1,7 @@
 # Kontrollstrukturen
 #vorlesung #prog1 #java
 
-📄 Skript: [[06_Kontrollstrukturen.pdf]]
+📄 Folie: [[06_Kontrollstrukturen.pdf]]
 
 ## behandelte Konzepte
 - [[If-Else]]

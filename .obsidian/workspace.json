@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Break_Continue"
+              "title": "If-Else"
             }
           }
         ]
@@ -189,12 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161cd84f2948ae29",
+  "active": "13c5a130b87e2437",
   "lastOpenFiles": [
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do-While.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do-While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Funktional.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Objektorientiert.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Imperativ.md",
