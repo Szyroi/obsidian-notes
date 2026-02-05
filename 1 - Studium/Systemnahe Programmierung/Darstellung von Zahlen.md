@@ -69,6 +69,15 @@ Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 
 ## **Festkommadarstellung**
 
+### **Grundidee**
+
+- Festkomma = **Alternative zu Gleitkommazahlen**
+- Die Zahl wird als **Ganzzahl gespeichert**, aber wir interpretieren die Bits so, dass **ein Teil nach dem Komma liegt**
+- Vorteil: schneller, deterministischer Rechenaufwand, oft in Embedded-Systemen, DSP oder Mikrocontrollern
+- Nachteil: kleiner Wertebereich und weniger Präzision im Vergleich zu float/double
+
+
+### **Aufbau**
 Eine Festkommazahl wird dargestellt als:
 - Beispiel: 16-Bit Zahl
   - 1 Bit = Vorzeichen (signed)
@@ -84,7 +93,7 @@ wobei \(f\) = Anzahl Bits im Bruchanteil.
 
 ---
 
-## 3️⃣ Beispiele
+### **Beispiele**
 
 ### a) 8.8 Format (16-Bit)
 
@@ -111,7 +120,7 @@ Beispiel: `0b0 0100000000000000`
 
 ---
 
-## 4️⃣ Vorteile
+### **Vorteile**
 
 1. Schneller als float/double (keine Hardware-FPU nötig)  
 2. Deterministisches Verhalten  
@@ -119,7 +128,7 @@ Beispiel: `0b0 0100000000000000`
 
 ---
 
-## 5️⃣ Nachteile
+### **Nachteile**
 
 1. Begrenzter Wertebereich → Overflow leicht möglich  
 2. Präzision begrenzt  
@@ -127,7 +136,7 @@ Beispiel: `0b0 0100000000000000`
 
 ---
 
-## 6️⃣ C-Beispiel (Fixpunkt mit Skalierung)
+##  **C-Beispiel (Fixpunkt mit Skalierung)**
 
 ```c
 #include <stdio.h>
