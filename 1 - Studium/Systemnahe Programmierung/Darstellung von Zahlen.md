@@ -67,6 +67,7 @@ Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 |126|01111110|0|gerade|
 |127|01111111|1|ungerade|
 
+---
 ## **Festkommadarstellung**
 
 ### **Grundidee**
@@ -105,8 +106,6 @@ Zahl: `00000010 01000000₂`
 
 ➡ Wert = 2.25
 
----
-
 ### b) 1.15 Format (16-Bit signed)
 
 - 1 Bit → Vorzeichen  
@@ -123,8 +122,6 @@ Beispiel: `0b0 0100000000000000`
 1. Schneller als float/double (keine Hardware-FPU nötig)  
 2. Deterministisches Verhalten  
 3. Ideal für kleine Controller oder DSPs  
-
----
 
 ### **Nachteile**
 
