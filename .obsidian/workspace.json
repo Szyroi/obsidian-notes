@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b3752936ca1b7f9b",
+        "id": "d762e3b117c72fce",
         "type": "tabs",
         "children": [
           {
-            "id": "73d11b489acd867b",
+            "id": "a6baf4fe35e6ac82",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Resourcen/Textbooks/Theoretische Informatik.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Theoretische Informatik"
-            }
-          },
-          {
-            "id": "1cc9ad7175036327",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Resourcen/Textbooks/Übungsbuch Automaten und formale Sprachen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Übungsbuch Automaten und formale Sprachen"
-            }
-          },
-          {
-            "id": "1d3870ae17aea6dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Resourcen/Textbooks/Theoretische Informatik.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Theoretische Informatik"
-            }
-          },
-          {
-            "id": "0ef015a09269be37",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Semester/WS25-26/Technische Informatik/Folien/00-Einfuehrung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "00-Einfuehrung"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
