@@ -25,14 +25,12 @@
             "id": "9e2e130b29fbfdde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1 - Studium/Systemnahe Programmierung/C/Pointer Arithmetik.md",
-                "mode": "source",
-                "source": false
+                "file": "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Pointer Arithmetik"
+              "icon": "lucide-file-text",
+              "title": "Einführung in C"
             }
           }
         ],
@@ -186,9 +184,10 @@
   },
   "active": "9e2e130b29fbfdde",
   "lastOpenFiles": [
+    "1 - Studium/Systemnahe Programmierung/C/Pointer Arithmetik.md",
+    "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf",
     "1 - Studium/Systemnahe Programmierung/C/Daten Typen.md",
     "1 - Studium/Systemnahe Programmierung/C/Pointer.md",
-    "1 - Studium/Systemnahe Programmierung/C/Pointer Arithmetik.md",
     "1 - Studium/Systemnahe Programmierung/C/Strings.md",
     "1 - Studium/Systemnahe Programmierung/C/Structs.md",
     "1 - Studium/Datenbanken/Datenbanken Klausurzettel.md",
@@ -214,13 +213,11 @@
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 11.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 10.pdf",
-    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 09.pdf",
     "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
     "1 - Studium/Programmierung 1/OOP/Static.md",
     "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md",
     "1 - Studium/Programmierung 1/Java/Literale.md",
     "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/5- Application Layer/5.4 - DHCP.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md"
   ]
 }
