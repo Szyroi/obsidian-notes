@@ -35,6 +35,8 @@ Bsp:
 
 **Bereich**: $-2^{n-1}$ bis $2^{n-1}-1$
 
+## **Most Significant Bit**
+
 Das erste bit von Links nennt man den **Most Significant Bit (MSB)**.
 Dieser gibt an ob die Zahl negataiv oder Positiv ist.
 - Bei `0` -> Positiv
@@ -53,6 +55,8 @@ Dieser gibt an ob die Zahl negataiv oder Positiv ist.
 | 11111101 | -3      |
 | …        | …       |
 | 10000000 | -128    |
+
+## **Least Significant Bit**
 
 Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 - Bei `0` -> Zahl ist Gerade
@@ -152,7 +156,6 @@ int main() {
 # **Gleitkommadarstellung**
 
 ##  Grundidee
-
 - Gleitkommazahlen = Zahlen mit **Variabler Position des Kommas**
 - Anders als Festkomma → Komma „gleitet“, daher der Name
 - Standard: **IEEE 754**
