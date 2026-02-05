@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Semester/WiSe 2025-2026/Programmierung 1/Modulbeschreibung.md",
+                "file": "Programmierung_MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modulbeschreibung"
+              "title": "Programmierung_MOC"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "161cd84f2948ae29",
   "lastOpenFiles": [
+    "02 - Studium/Semester/WiSe 2025-2026/Programmierung 1/Modulbeschreibung.md",
+    "Programmierung_MOC.md",
     "06 - Templates/Vorlesung.md",
     "08 - Meta/Dashboard.md",
-    "02 - Studium/Semester/WiSe 2025-2026/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Semester/WiSe 2025-2026/Programmierung 1/01 - Vorlesungen/Übung 8.md",
     "02 - Studium/Semester/WiSe 2025-2026/Programmierung 1/03 - Zusammenfassungen",
     "02 - Studium/Semester/WiSe 2025-2026/Programmierung 1/01 - Vorlesungen/Übung 2.md",
@@ -205,7 +206,6 @@
     "1 - Studium/Mathe/Lineare Algebra/Lineare Gleichungssysteme.md",
     "1 - Studium/Mathe/Lineare Algebra/Euklidische Räume.md",
     "1 - Studium/Mathe/Lineare Algebra/Eigenwerte.md",
-    "1 - Studium/Mathe/Lineare Algebra/Eigenvektoren.md",
-    "2 - Linux/Linux/Rice/Configs/Placeholder.md"
+    "1 - Studium/Mathe/Lineare Algebra/Eigenvektoren.md"
   ]
 }

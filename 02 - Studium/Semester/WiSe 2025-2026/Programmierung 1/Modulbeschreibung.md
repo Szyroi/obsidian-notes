@@ -6,6 +6,7 @@ semester: WS 25/26
 status: aktiv
 credits: 9
 tags:
+  - semester-1
 ---
 
 # {{title}}
