@@ -11,10 +11,12 @@
             "id": "9af396bb49679863",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Übungsblätter/1_Digitaltechnik.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1_Digitaltechnik"
             }
           }
         ]
@@ -167,7 +169,8 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Untitled",
+    "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 2.md",
+    "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Übungsblätter",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 1.md",
     "08 - Meta/Dashboard.md",
@@ -179,7 +182,6 @@
     "02 - Studium/Semester/WS2025-2026/Programmierung 1/Folien/Einfuehrung in die Programmierung.pdf",
     "02 - Studium/Semester/WS2025-2026/Netze/Folien",
     "02 - Studium/Semester/WS2025-2026/Programmierung 1/Folien/15_Programmierparadigmen_Typkonzepte.pdf",
-    "02 - Studium/Resourcen/Textbooks/Theoretische Informatik.pdf",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
     "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
     "02 - Studium/University MOC.md",
