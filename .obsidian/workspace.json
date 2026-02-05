@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modulbeschreibung"
+              "title": "For"
             }
           }
         ],
@@ -187,6 +187,7 @@
   "active": "eb00362b1853d5ae",
   "lastOpenFiles": [
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
+    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u03.pdf",
