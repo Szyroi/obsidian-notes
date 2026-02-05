@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "95 - Bibliothek/Bücher/PDFs/Theoretische Informatik.pdf"
+                "file": "02 - Studium/Resourcen/Textbooks/Theoretische Informatik.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Theoretische Informatik"
@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "95 - Bibliothek/Bücher/PDFs/Übungsbuch Automaten und formale Sprachen.pdf"
+                "file": "02 - Studium/Resourcen/Textbooks/Übungsbuch Automaten und formale Sprachen.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Übungsbuch Automaten und formale Sprachen"
@@ -37,7 +37,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "95 - Bibliothek/Bücher/PDFs/Theoretische Informatik.pdf"
+                "file": "02 - Studium/Resourcen/Textbooks/Theoretische Informatik.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Theoretische Informatik"
@@ -192,16 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d3870ae17aea6dc",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "95 - Bibliothek/Bücher/PDFs/Übungsbuch Automaten und formale Sprachen.pdf",
-    "95 - Bibliothek/Bücher/PDFs/Theoretische Informatik.pdf",
-    "95 - Bibliothek/Bücher/PDFs/Grundlagen der Theoretischen Informatik.pdf",
-    "95 - Bibliothek/Bücher/PDFs/Grundkurs JAVA.pdf",
+    "02 - Studium/Resourcen/Textbooks/Übungsbuch Automaten und formale Sprachen.pdf",
+    "02 - Studium/Resourcen/Textbooks/Theoretische Informatik.pdf",
+    "02 - Studium/Resourcen/Textbooks/Grundlagen der Theoretischen Informatik.pdf",
+    "02 - Studium/Resourcen/Textbooks/Grundkurs JAVA.pdf",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
     "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
     "95 - Bibliothek/Bibliothek.base",
-    "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
+    "02 - Studium/Resourcen/Textbooks/978-3-662-70146-1.pdf",
     "02 - Studium/University MOC.md",
     "02 - Studium/Resourcen/Textbooks",
     "02 - Studium/Resourcen",
