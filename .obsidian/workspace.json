@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Systemnahe Programmierung/C/Structs.md",
+                "file": "01-Knowledge/Mathematik/Lineare Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structs"
+              "title": "Lineare Algebra"
             }
           }
         ],
@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "9e2e130b29fbfdde",
   "lastOpenFiles": [
+    "1 - Studium/Systemnahe Programmierung/C/Structs.md",
+    "01-Knowledge/Mathematik/Lineare Algebra.md",
+    "01-Knowledge/Mathematik",
     "01-Knowledge",
     "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf",
     "99 - Indexes/Transitivität.md",
@@ -203,7 +206,6 @@
     "1 - Studium/Systemnahe Programmierung/C/Daten Typen.md",
     "1 - Studium/Systemnahe Programmierung/C/Pointer.md",
     "1 - Studium/Systemnahe Programmierung/C/Strings.md",
-    "1 - Studium/Systemnahe Programmierung/C/Structs.md",
     "1 - Studium/Datenbanken/Datenbanken Klausurzettel.md",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken LE00 Vorbemerkungen.pdf",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 13.md",
@@ -219,8 +221,6 @@
     "1 - Studium/Systemnahe Programmierung/C",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 13.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 04 Zusammenfassung Begriffe.pdf",
-    "1 - Studium/Datenbanken/Folien alt/Datenbanken LE2 MiniBeispiel.pdf",
-    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12 Extra.pdf",
-    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12.pdf"
+    "1 - Studium/Datenbanken/Folien alt/Datenbanken LE2 MiniBeispiel.pdf"
   ]
 }
