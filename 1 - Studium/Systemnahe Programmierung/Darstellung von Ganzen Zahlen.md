@@ -27,7 +27,7 @@ Bsp:
 1111 0111 (Einserkomplement von 8)
 0000 0001 + (1 in Binär)
 ----------
-0000 1110 (Übertrag) 
+     111  (Übertrag) 
 ----------
 1111 1000
 
