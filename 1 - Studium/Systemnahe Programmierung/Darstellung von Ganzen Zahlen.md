@@ -40,7 +40,8 @@ Dieser gibt an ob die Zahl negataiv oder Positiv ist.
 - Bei `0` -> Positiv
 - Bei `1` -> Negativ
 Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
-
+- Bei `0` -> Zahl ist Gerade
+- Bei `1` -> Zahl ist Ungerade
 
 | Binär    | Dezimal |
 | -------- | ------- |
