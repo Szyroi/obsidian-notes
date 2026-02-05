@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2e5fcf42becdbdb7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "13c5a130b87e2437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "If-Else"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13c5a130b87e2437",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",

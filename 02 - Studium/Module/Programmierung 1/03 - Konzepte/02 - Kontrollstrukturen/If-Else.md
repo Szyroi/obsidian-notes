@@ -11,6 +11,7 @@ tags:
 # If-Else (Java)
 
 ## Erklärung
+- [[06_Kontrollstrukturen.pdf]]
 - `if` überprüft eine Bedingung und führt den Block aus, wenn die Bedingung **true** ist.
 - `else` wird ausgeführt, wenn die Bedingung **false** ist.
 - `else if` erlaubt die Überprüfung weiterer Bedingungen in der Reihenfolge.
