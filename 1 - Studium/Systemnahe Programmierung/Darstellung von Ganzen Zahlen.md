@@ -40,4 +40,4 @@ Bsp:
 ## **Festkommadarstellung**
 
 ## **Gleitkommadarstellung**
-IEEE 
+IEEE 754
