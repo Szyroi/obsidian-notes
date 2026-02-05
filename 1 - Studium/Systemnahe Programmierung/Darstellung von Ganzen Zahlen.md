@@ -35,6 +35,9 @@ Bsp:
 
 **Bereich**: $-2^{n-1}$ bis $2^{n-1}-1$
 
+Das erste bit von Links nennt man den **Most Significant Bit (MSB)**
+Dieser gibt an 
+
 | Binär    | Dezimal |
 | -------- | ------- |
 | 01111111 | 127     |
@@ -48,6 +51,8 @@ Bsp:
 | 11111101 | -3      |
 | …        | …       |
 | 10000000 | -128    |
+
+
 
 ## **Festkommadarstellung**
 
