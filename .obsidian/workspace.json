@@ -31,12 +31,14 @@
             "id": "13c5a130b87e2437",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u02.pdf"
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "u02"
+              "icon": "lucide-file",
+              "title": "If-Else"
             }
           }
         ]
@@ -189,16 +191,17 @@
   },
   "active": "13c5a130b87e2437",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u09.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u08.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u07.pdf",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u03.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u04.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u05.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u06.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u04.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u03.pdf",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u07.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u08.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u09.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u02.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do-While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Funktional.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Objektorientiert.md",
@@ -222,8 +225,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/11 - Grammtiken",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/10 - Operatoren und Ausdruecke",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/10 - Operatoren und Ausdruecke"
   ]
 }

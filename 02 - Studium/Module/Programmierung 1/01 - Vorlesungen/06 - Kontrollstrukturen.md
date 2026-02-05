@@ -12,5 +12,4 @@
 - [[Break_Continue]]
 
 ## Hinweis
-- Alle Konzepte in Konzept-Ordner erklärt
-- Übungsaufgaben: [[u04.pdf]]
+- Übungsaufgaben: [[u05.pdf]]
