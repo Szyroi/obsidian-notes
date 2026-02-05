@@ -70,7 +70,78 @@ Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 ## **Festkommadarstellung**
 
 
+- Beispiel: 16-Bit Zahl
+  - 1 Bit = Vorzeichen (signed)
+  - 7 Bits = Ganzzahlanteil
+  - 8 Bits = Bruchanteil
+- Der Wert wird interpretiert als:
+
+\[
+\text{Wert} = \text{Integer} \times 2^{-f}
+\]
+
+wobei \(f\) = Anzahl Bits im Bruchanteil.
+
+---
+
+## 3️⃣ Beispiele
+
+### a) 8.8 Format (16-Bit)
+
+- 8 Bits → Ganzzahl  
+- 8 Bits → Bruch
+
+Zahl: `00000010 01000000₂`  
+
+- Ganzzahl = `00000010` = 2  
+- Bruch = `01000000` = 64 / 256 = 0.25  
+
+➡ Wert = 2.25
+
+---
+
+### b) 1.15 Format (16-Bit signed)
+
+- 1 Bit → Vorzeichen  
+- 15 Bits → Bruch  
+
+Beispiel: `0b0 0100000000000000`  
+
+- Wert = 0.5 (da 2¹⁴ / 2¹⁵ = 0.5)  
+
+---
+
+## 4️⃣ Vorteile
+
+1. Schneller als float/double (keine Hardware-FPU nötig)  
+2. Deterministisches Verhalten  
+3. Ideal für kleine Controller oder DSPs  
+
+---
+
+## 5️⃣ Nachteile
+
+1. Begrenzter Wertebereich → Overflow leicht möglich  
+2. Präzision begrenzt  
+3. Programmierer muss selbst skalieren und interpretieren  
+
+---
+
+## 6️⃣ C-Beispiel (Fixpunkt mit Skalierung)
+
+```c
+#include <stdio.h>
+#include <stdint.h>
+
+#define FRACTIONAL_BITS 8
+
+int main() {
+    int16_t x = 2 << FRACTIONAL_BITS; // 2.0 in 8.8 Format
+    int16_t y = (64);                 // 0.25 in 8.8 Format (64/256)
+    int16_t z = x + y;                // 2.25
+
+    printf("Z = %d (raw), %.2f (interpretiert)\n", z, z / 256.0);
+}
 
 
-## **Gleitkommadarstellung**
-IEEE 754
+
