@@ -231,3 +231,10 @@ int main() {
 }
 
 ```
+
+## Merksätze
+- Float = 1 Vorzeichenbit + 8-Bit Exponent + 23-Bit Mantisse (32-Bit)
+- Wert = $(-1)^{s}$
+- Mantisse enthält **nur Nachkommabits** (implizite 1 vor dem Komma)
+- Große Zahlen → Exponent hoch, kleine → Exponent niedrig
+- Anders als Festkomma → **dynamisches Komma**
