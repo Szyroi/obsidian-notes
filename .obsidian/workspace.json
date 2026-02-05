@@ -39,10 +39,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf"
+                "file": "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "04_ausfuehren_von_programmen"
+              "title": "05_Bitoperationen_Fliesskommazahlen_Zeichenketten"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "9d201700b6b6fab8",
   "lastOpenFiles": [
+    "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Float.md",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Integer.md",
     "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf",
@@ -230,7 +231,6 @@
     "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
     "1 - Studium/Programmierung 1/OOP/Static.md",
     "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md",
-    "1 - Studium/Programmierung 1/Java/Literale.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md"
+    "1 - Studium/Programmierung 1/Java/Literale.md"
   ]
 }
