@@ -75,8 +75,6 @@ Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 - Die Zahl wird als **Ganzzahl gespeichert**, aber wir interpretieren die Bits so, dass **ein Teil nach dem Komma liegt**
 - Vorteil: schneller, deterministischer Rechenaufwand, oft in Embedded-Systemen, DSP oder Mikrocontrollern
 - Nachteil: kleiner Wertebereich und weniger Präzision im Vergleich zu float/double
-
-
 ### **Aufbau**
 Eine Festkommazahl wird dargestellt als:
 - Beispiel: 16-Bit Zahl
@@ -136,7 +134,7 @@ Beispiel: `0b0 0100000000000000`
 
 ---
 
-##  **C-Beispiel (Fixpunkt mit Skalierung)**
+### **C-Beispiel (Fixpunkt mit Skalierung)**
 
 ```c
 #include <stdio.h>
