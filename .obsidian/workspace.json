@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8266853e6e35be12",
+        "id": "d8a555c9deb41065",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe6b2748050da5d",
+            "id": "161cd84f2948ae29",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/Altklausuren/KlausurWS23.pdf"
+                "file": "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien/Folien/15_Programmierparadigmen_Typkonzepte.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "KlausurWS23"
-            }
-          },
-          {
-            "id": "58614fd95a894498",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien/u01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "u01"
+              "title": "15_Programmierparadigmen_Typkonzepte"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,17 +169,17 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien/Untitled",
+    "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien/Skripte",
+    "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien/Übungsblätter/u12_loesung.pdf",
+    "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien/Folien",
+    "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien/Übungsblätter/u01.pdf",
+    "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien/Übungsblätter",
     "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/ACAT/6_2.pdf",
     "02 - Studium/Semester/WS2025-2026/Programmierung 1/00 - Materialien",
     "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/Bonusaufgaben/Bonusaufgabe-5.pdf",
     "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/ACAT",
     "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/Bonusaufgaben/Bonusaufgabe-1.pdf",
-    "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/Bonusaufgaben",
-    "02 - Studium/Semester/WS2025-2026/MAGLA/02 - Übungen/BA3.pdf",
-    "02 - Studium/Semester/WS2025-2026/MAGLA/02 - Übungen/BA2.pdf",
-    "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/Übungsblätter/UBlatt03.pdf",
-    "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/Übungsblätter/UBlatt14.pdf",
-    "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien/Altklausuren/KlausurWS23.pdf",
     "02 - Studium/Semester/WS2025-2026/Netze/03 - Zusammenfassungen/Zusammenfassung.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Praktikum/Teil 1.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 2.md",
