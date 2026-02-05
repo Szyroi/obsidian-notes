@@ -203,4 +203,31 @@ Zahl: `6.5`
 5. Mantisse M = 101000…0 (23 Bits)
 
 **Bitdarstellung (32-Bit):**
-`0 10000001 10100000000000000000000”`
+`0 10000001 10100000000000000000000₂`
+
+
+---
+
+## Besonderheiten
+
+- ±0, ±∞, NaN (nicht definiert)  
+- Sehr große Zahlen → Exponent groß  
+- Sehr kleine Zahlen → Exponent klein (subnormale Zahlen)  
+- Rechenregeln unterscheiden sich von Integer → Rundungsfehler möglich
+
+---
+
+## C-Beispiele
+
+```c
+#include <stdio.h>
+
+int main() {
+    float x = 6.5f;
+    double y = 0.1;
+
+    printf("x = %.2f\n", x);
+    printf("y = %.17f\n", y); // zeigt Rundungsfehler bei double
+}
+
+```
