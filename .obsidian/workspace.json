@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung/Assertions.md",
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assertions"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,8 +171,15 @@
   },
   "active": "161cd84f2948ae29",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung/Throws.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Arrays.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Untitled.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Zugriffsmodifikatoren.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/this.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Konstruktoren.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Attribute.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung/Assertions.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung/Throws.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung/Try catch.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung/Exceptions.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Literale.md",
@@ -199,13 +206,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/Programmiersprachen/Formale Sprachen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/Programmiersprachen/Abstrakte Datentypen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/Structs.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/String.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/Interface.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/Enums.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/Array.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Statische und Dynamische Bindung in Java.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Static.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Public, Private und Protected.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Polymorphism.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/String.md"
   ]
 }
