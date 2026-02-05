@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Meta/Dashboard.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "README"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "README.md",
     "08 - Meta/Dashboard.md",
+    "README.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "Programmierung_MOC.md",
     "06 - Templates/Vorlesung.md",
@@ -189,19 +189,19 @@
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren/probeklausur_ws25.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/15_Programmierparadigmen_Typkonzepte.pdf",
-    "02 - Studium/Module/WiSe 2025-2026/Netze/03 - Zusammenfassungen/Zusammenfassung.md",
+    "02 - Studium/Module/Netze/03 - Zusammenfassungen/Zusammenfassung.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Praktikum/Teil 1.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 2.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 1.md",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
     "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
     "02 - Studium/University MOC.md",
-    "02 - Studium/Module/WiSe 2025-2026/MAGLA/01 - Vorlesungen/Relationen.md",
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Relationen.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
-    "02 - Studium/Module/WiSe 2025-2026/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
-    "02 - Studium/Module/WiSe 2025-2026/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Aussagenlogik.md",
-    "02 - Studium/Module/WiSe 2025-2026/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Beweisprinzipien.md",
-    "02 - Studium/Module/WiSe 2025-2026/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Abbildungen.md",
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Aussagenlogik.md",
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Beweisprinzipien.md",
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Abbildungen.md",
     "1 - Studium/Mathe/Lineare Algebra/Vektoren.md",
     "1 - Studium/Mathe/Lineare Algebra/Matrizen.md",
     "1 - Studium/Mathe/Lineare Algebra/Lineare Gleichungssysteme.md",
