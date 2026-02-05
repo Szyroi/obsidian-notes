@@ -32,21 +32,9 @@
               "icon": "lucide-file-text",
               "title": "Einführung in C"
             }
-          },
-          {
-            "id": "9d201700b6b6fab8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "04_ausfuehren_von_programmen"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d201700b6b6fab8",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
