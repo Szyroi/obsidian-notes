@@ -16,8 +16,8 @@ tags:
 - `else` wird ausgeführt, wenn die Bedingung **false** ist.
 - `else if` erlaubt die Überprüfung weiterer Bedingungen in der Reihenfolge.
 
-Syntax:
-```java
+## Syntax:
+```Java
 if (bedingung) {
     // Codeblock
 } else if (andereBedingung) {
@@ -26,5 +26,15 @@ if (bedingung) {
     // Codeblock
 }
 ```
+
+
+## Beispiel
+```Java
+
+
+```
+
+
+
 
 ---
