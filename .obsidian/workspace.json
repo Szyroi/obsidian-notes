@@ -171,9 +171,10 @@
   },
   "active": "da63d5761ee0cecd",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
+    "06 - Templates/Programmierung 1/Prog 1.md",
+    "06 - Templates/Programmierung 1",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
-    "06 - Templates/Prog 1.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Initialisierung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
     "06 - Templates/Vorlesung.md",
@@ -199,13 +200,11 @@
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u05.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u06.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u07.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Funktional.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Objektorientiert.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Imperativ.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Typkonzepte.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Statisch vs Dynamische Typen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Referenz vs Werttypen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Abstrakte Datetypen.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Referenz vs Werttypen.md"
   ]
 }
