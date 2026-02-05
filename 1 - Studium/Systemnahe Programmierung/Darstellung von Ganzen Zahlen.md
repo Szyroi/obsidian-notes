@@ -37,3 +37,7 @@ Bsp:
 
 
 
+## **Festkommadarstellung**
+
+## **Gleitkommadarstellung**
+IEEE 
