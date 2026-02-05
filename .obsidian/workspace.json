@@ -11,10 +11,14 @@
             "id": "3a9b0bd9a490bc60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -202,14 +206,15 @@
       }
     ]
   },
-  "active": "161cd84f2948ae29",
+  "active": "3a9b0bd9a490bc60",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 -.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Untitled.md",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/04_ausfuehren_von_programmen.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 -.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/04_ausfuehren_von_programmen.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/03_Programmiersprachen.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/02_Algorithmen.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
