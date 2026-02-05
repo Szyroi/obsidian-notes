@@ -17,4 +17,4 @@ Das **Einserkomplement** bildet man in dem man alle bits der Binäre zahl invert
 ## **Zweierkomplement**
 
 Das Zweierkomplement ist die Lösung dieses problems.
-
+Indem die zuvor durch den Einserkomplement gebildete Invertierte zahl mit 1 in der  
