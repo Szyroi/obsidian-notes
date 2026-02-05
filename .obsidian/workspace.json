@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f88b775225b801cb",
+        "id": "8266853e6e35be12",
         "type": "tabs",
         "children": [
           {
-            "id": "9af396bb49679863",
+            "id": "9fe6b2748050da5d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Übungsblätter/1_Digitaltechnik.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1_Digitaltechnik"
-            }
-          },
-          {
-            "id": "903663fcdc6cf6dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Altklausuren/TI-SS22-Musterloesung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TI-SS22-Musterloesung"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,6 +167,8 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Semester/WS2025-2026/MAGLA/Untitled",
+    "02 - Studium/Semester/WS2025-2026/MAGLA/00 - Materialien",
     "02 - Studium/Semester/WS2025-2026/Netze/00 - Materialien/Übungsblätter/Wiederholung.pdf",
     "02 - Studium/Semester/WS2025-2026/Netze/03 - Zusammenfassungen",
     "02 - Studium/Semester/WS2025-2026/Netze/02 - Übungen",
@@ -191,8 +178,6 @@
     "02 - Studium/Semester/WS2025-2026/Netze/00 - Materialien/Praktika",
     "02 - Studium/Semester/WS2025-2026/Netze/00 - Materialien/Altklausuren",
     "02 - Studium/Semester/WS2025-2026/Netze/00 - Materialien/Übungsblätter",
-    "02 - Studium/Semester/WS2025-2026/Netze/00 - Materialien/Folien",
-    "02 - Studium/Semester/WS2025-2026/Netze/00 - Materialien",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Praktikum/Teil 1.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 2.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 1.md",
