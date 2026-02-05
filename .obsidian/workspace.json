@@ -33,10 +33,14 @@
             "id": "b9d9eaa1f35395e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/Array.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Array"
             }
           }
         ]
@@ -189,6 +193,16 @@
   },
   "active": "b9d9eaa1f35395e1",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Statische und Dynamische Bindung in Java.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Static.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Public, Private und Protected.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Polymorphism.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Primitive Datentypen/Float.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Primitive Datentypen/Integer.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Primitive Datentypen/Char.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Primitive Datentypen/Byte.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Primitive Datentypen/Boolean.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Abstraction.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Klassen.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u01.pdf",
@@ -207,7 +221,6 @@
     "07 - Attachments/placeholder.md",
     "README.md",
     "Programmierung_MOC.md",
-    "06 - Templates/Vorlesung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte",
     "02 - Studium/Module/Programmierung 1/02 - Übungen",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen",
@@ -215,15 +228,6 @@
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren/probeklausur_ws25_loesung.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Tests/t02_loesung.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Tests",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren",
-    "02 - Studium/Module/Netze/03 - Zusammenfassungen/Zusammenfassung.md",
-    "02 - Studium/Semester/WS2025-2026/Technische Informatik/Praktikum/Teil 1.md",
-    "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 2.md",
-    "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 1.md",
-    "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
-    "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
-    "02 - Studium/University MOC.md",
-    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Relationen.md",
-    "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md"
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren"
   ]
 }
