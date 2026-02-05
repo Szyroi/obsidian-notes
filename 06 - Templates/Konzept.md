@@ -8,7 +8,7 @@ tags:
   - java
 ---
 
-# {{Titel}}
+# {{title}}
 
 ## Erklärung
 - {{Kurze Definition / Erklärung}}
