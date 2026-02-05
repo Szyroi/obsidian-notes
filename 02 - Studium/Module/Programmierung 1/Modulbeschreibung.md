@@ -43,7 +43,7 @@ tags:
 
 ---
 
-## 📝 Übungen & Aufgaben  
+## Übungen & Aufgaben  
 #uebung #prog1 
 
 - [[u01.pdf]]
@@ -57,11 +57,11 @@ tags:
 - [[u09.pdf]]
 - [[u10.pdf]]
 - [[u11.pdf]]
-- 
+- [[u12.pdf]]
 
 ---
 
-## 💻 Code & Snippets  
+## Code & Snippets  
 #code #prog1 
 
 - [[Code_Beispiele]]
@@ -70,12 +70,10 @@ tags:
 
 ---
 
-## 🎯 Klausurvorbereitung  
+## Klausurvorbereitung  
 #klausur #prog1 
 
-- [[Klausur_Zusammenfassung]]
-- [[Typische_Klausuraufgaben]]
-- [[Fehler_die_Punkte_kosten]]
+
 
 ---
 
