@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ausdruecke"
+              "title": "For"
             }
           }
         ]
@@ -169,10 +169,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "161cd84f2948ae29",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break Continue.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do While.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Kontrollstrukturen.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If Else.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Initialisierung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Array als Parameter.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Array Initialisierung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Mehrdimensionale Arrays.md",
@@ -198,14 +206,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Algorithmen/Grundbausteine.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Klassen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Methoden.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Kontrollstrukturen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Operatoren.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Variablen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/11 - Grammtiken/Grammatik.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen"
   ]
 }
