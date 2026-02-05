@@ -69,16 +69,16 @@ Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 
 ## **Festkommadarstellung**
 
-
+Eine Festkommazahl wird dargestellt als:
 - Beispiel: 16-Bit Zahl
   - 1 Bit = Vorzeichen (signed)
   - 7 Bits = Ganzzahlanteil
   - 8 Bits = Bruchanteil
 - Der Wert wird interpretiert als:
 
-\[
+$$
 \text{Wert} = \text{Integer} \times 2^{-f}
-\]
+$$
 
 wobei \(f\) = Anzahl Bits im Bruchanteil.
 
@@ -142,6 +142,8 @@ int main() {
 
     printf("Z = %d (raw), %.2f (interpretiert)\n", z, z / 256.0);
 }
+```
 
 
-
+## **Gleitkommadarstellung**
+IEEE 754
