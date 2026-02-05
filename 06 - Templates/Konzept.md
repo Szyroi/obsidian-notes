@@ -15,6 +15,9 @@ tags:
 - Vorlesung: [[{{Vorlesungsthema}}]]
 
 ## Syntax / Struktur
+
 ```java
 // Beispielcode hier einfügen
 ```
+
+
