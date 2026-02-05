@@ -19,8 +19,17 @@ tags:
 [[06_Kontrollstrukturen.pdf]]
 
 ## Syntax
-```java
+```Java
 for (initialisierung; bedingung; inkrement) {
     // Codeblock
 }
 ```
+
+## Beispiel 1 – Zähler
+
+```Java
+for (int i = 0; i < 5; i++) {     
+	System.out.println(i); 
+}
+```
+
