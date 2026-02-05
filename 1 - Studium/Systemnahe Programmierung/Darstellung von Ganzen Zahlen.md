@@ -36,7 +36,11 @@ Bsp:
 **Bereich**: $-2^{n-1}$ bis $2^{n-1}-1$
 
 Das erste bit von Links nennt man den **Most Significant Bit (MSB)**
-Dieser gibt an 
+Dieser gibt an ob die Zahl negataiv oder Positiv ist.
+Bei `0` -> Positiv
+Bei `1` -> Negativ
+
+
 
 | Binär    | Dezimal |
 | -------- | ------- |
