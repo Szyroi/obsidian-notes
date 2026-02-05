@@ -68,15 +68,15 @@ Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 |127|01111111|1|ungerade|
 
 ---
-## **Festkommadarstellung**
+# **Festkommadarstellung**
 
-### **Grundidee**
+## **Grundidee**
 
 - Festkomma = **Alternative zu Gleitkommazahlen**
 - Die Zahl wird als **Ganzzahl gespeichert**, aber wir interpretieren die Bits so, dass **ein Teil nach dem Komma liegt**
 - Vorteil: schneller, deterministischer Rechenaufwand, oft in Embedded-Systemen, DSP oder Mikrocontrollern
 - Nachteil: kleiner Wertebereich und weniger Präzision im Vergleich zu float/double
-### **Aufbau**
+## **Aufbau**
 Eine Festkommazahl wird dargestellt als:
 - Beispiel: 16-Bit Zahl
   - 1 Bit = Vorzeichen (signed)
@@ -92,7 +92,7 @@ wobei \(f\) = Anzahl Bits im Bruchanteil.
 
 ---
 
-### **Beispiele**
+## **Beispiele**
 
 ### a) 8.8 Format (16-Bit)
 
@@ -117,13 +117,13 @@ Beispiel: `0b0 0100000000000000`
 
 ---
 
-### **Vorteile**
+## **Vorteile**
 
 1. Schneller als float/double (keine Hardware-FPU nötig)  
 2. Deterministisches Verhalten  
 3. Ideal für kleine Controller oder DSPs  
 
-### **Nachteile**
+## **Nachteile**
 
 1. Begrenzter Wertebereich → Overflow leicht möglich  
 2. Präzision begrenzt  
@@ -131,7 +131,7 @@ Beispiel: `0b0 0100000000000000`
 
 ---
 
-### **C-Beispiel (Fixpunkt mit Skalierung)**
+## **C-Beispiel (Fixpunkt mit Skalierung)**
 
 ```c
 #include <stdio.h>
@@ -149,10 +149,9 @@ int main() {
 ```
 
 
-## **Gleitkommadarstellung**
-IEEE 754
+# **Gleitkommadarstellung**
 
-## 1️⃣ Grundidee
+##  Grundidee
 
 - Gleitkommazahlen = Zahlen mit **Variabler Position des Kommas**
 - Anders als Festkomma → Komma „gleitet“, daher der Name
@@ -163,7 +162,7 @@ IEEE 754
 
 ---
 
-## 2️⃣ Aufbau (IEEE 754)
+## Aufbau (IEEE 754)
 
 ### a) 32-Bit Float
 
@@ -190,7 +189,7 @@ IEEE 754
 
 ---
 
-## 3️⃣ Beispiel 32-Bit Float
+##  Beispiel 32-Bit Float
 
 Zahl: `6.5`  
 
