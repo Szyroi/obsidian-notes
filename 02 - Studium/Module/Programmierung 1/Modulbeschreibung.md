@@ -8,7 +8,7 @@ tags:
 
 # MOC – Programmierung 1
 
-## 🧠 Vorlesungsübersicht  
+## Vorlesungsübersicht  
 #vorlesung #prog1 
 
 - [[01_Orga.pdf]]
@@ -25,18 +25,18 @@ tags:
 - [[12_Typanpassung_Zugriffsrechte.pdf]]
 - [[13_abstrakte_klassen_schnittstellen.pdf]]
 - [[14_Exceptions_und_Assertions.pdf]]
-- [[]]
+- [[15_Programmierparadigmen_Typkonzepte.pdf]]
 
 ---
 
-## 📚 Zentrale Konzepte  
+## Zentrale Konzepte  
 #konzept #prog1 
 
 - [[Variablen]]
 - [[Datentypen]]
 - [[Operatoren]]
 - [[Kontrollstrukturen]]
-- [[Funktionen]]
+- [[Methoden]]
 - [[Arrays]]
 - [[Klassen]]
 - [[Objekte]]
@@ -46,8 +46,8 @@ tags:
 ## 📝 Übungen & Aufgaben  
 #uebung #prog1 
 
-- [[UE_01]]
-- [[UE_02]]
+- [[u01.pdf]]
+- [[u02]]
 - [[UE_03]]
 
 ---
