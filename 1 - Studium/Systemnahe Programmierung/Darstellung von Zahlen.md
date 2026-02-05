@@ -234,7 +234,7 @@ int main() {
 
 ## Merksätze
 - Float = 1 Vorzeichenbit + 8-Bit Exponent + 23-Bit Mantisse (32-Bit)
-- Wert = $(-1)^{s}$
+- Wert = $(-1)^{S} \times 1.M \times 2^{E-Bias}$
 - Mantisse enthält **nur Nachkommabits** (implizite 1 vor dem Komma)
 - Große Zahlen → Exponent hoch, kleine → Exponent niedrig
 - Anders als Festkomma → **dynamisches Komma**
