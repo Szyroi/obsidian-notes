@@ -1,4 +1,4 @@
-## **Einserkomplement**
+# **Einserkomplement**
 
 Um negative zahlen darstellen zu können wird das **Einserkomplement verwendet**.
 
@@ -14,7 +14,7 @@ Das **Einserkomplement** bildet man in dem man alle bits der Binäre zahl invert
 
 **Problem**: Es gibt dadurch aber Doppelte Nullen $+0(0000)$ und $-0(1111 \text{ bei 4 bit})$ 
 
-## **Zweierkomplement**
+# **Zweierkomplement**
 
 Das Zweierkomplement ist die Lösung dieses problems.
 Indem die zuvor durch den Einserkomplement gebildete Invertierte zahl mit 1 in der Binär darstellung addiert wird.
@@ -151,3 +151,53 @@ int main() {
 
 ## **Gleitkommadarstellung**
 IEEE 754
+
+## 1️⃣ Grundidee
+
+- Gleitkommazahlen = Zahlen mit **Variabler Position des Kommas**
+- Anders als Festkomma → Komma „gleitet“, daher der Name
+- Standard: **IEEE 754**
+  - **32-Bit** = float
+  - **64-Bit** = double
+- Vorteil: sehr großer Wertebereich und hohe Präzision für wissenschaftliche Berechnungen
+
+---
+
+## 2️⃣ Aufbau (IEEE 754)
+
+### a) 32-Bit Float
+
+| Bit  | 31       | 30 … 23       | 22 … 0        |
+|------|----------|---------------|---------------|
+| Name | Vorzeichen (S) | Exponent (E) | Mantisse (M) |
+| Größe | 1 Bit   | 8 Bit         | 23 Bit        |
+
+- Wert = \((-1)^S \times 1.M \times 2^{E-127}\)  
+  - S = 0 → positiv, S = 1 → negativ  
+  - E = Exponent + Bias (127 für 32-Bit)  
+  - M = Mantisse (normalisiert, implizite führende 1)  
+
+---
+
+### b) 64-Bit Double
+
+| Bit  | 63       | 62 … 52       | 51 … 0        |
+|------|----------|---------------|---------------|
+| Name | Vorzeichen | Exponent      | Mantisse      |
+| Größe | 1 Bit    | 11 Bit        | 52 Bit        |
+- Bias = 1023
+- Wert = \((-1)^S \times 1.M \times 2^{E-1023}\)
+
+---
+
+## 3️⃣ Beispiel 32-Bit Float
+
+Zahl: `6.5`  
+
+1. Binär: `6.5` = `110.1₂`  
+2. Normalisieren: `1.101 × 2^2`  
+3. Vorzeichen S = 0 → positiv  
+4. Exponent E = 2 + 127 = 129 → `10000001₂`  
+5. Mantisse M = 101000…0 (23 Bits)
+
+**Bitdarstellung (32-Bit):**
