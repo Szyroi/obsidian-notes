@@ -10,7 +10,8 @@ Bsp:
 1111 0111_2
 ```
 
-$-(2^{n-1} - 1)$ bis $+(2^n)$
+Bereich: $-(2^{n-1} - 1)$ bis $+(2^{n-1}-1)$
 
+Problem: 
 
 ## **Zweierkomplement**
