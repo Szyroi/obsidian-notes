@@ -12,4 +12,4 @@ tags:
 
 ## Erklärung
 - [[06_Kontrollstrukturen.pdf]]
-- `while()` 
+- `while()` der Block wird solange ausgeführt wenn 
