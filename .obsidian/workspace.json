@@ -18,8 +18,33 @@
               "icon": "lucide-file-text",
               "title": "1_Digitaltechnik"
             }
+          },
+          {
+            "id": "903663fcdc6cf6dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Altklausuren/TI-SS22-Musterloesung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TI-SS22-Musterloesung"
+            }
+          },
+          {
+            "id": "8db2a836eff9ae56",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Altklausuren/TI-SS22-Musterloesung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TI-SS22-Musterloesung"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,6 +194,12 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Semester/WS2025-2026/Technische Informatik/Untitled",
+    "02 - Studium/Semester/WS2025-2026/Technische Informatik/01 - Vorlesungen",
+    "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Altklausuren/TI-WS24-Musterloesung.pdf",
+    "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Altklausuren/TI-SS22-Musterloesung.pdf",
+    "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Übungsblätter/1_Digitaltechnik.pdf",
+    "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Altklausuren",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 2.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Übungsblätter",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien",
@@ -177,11 +208,6 @@
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Folien/00-Einfuehrung.pdf",
     "02 - Studium/Semester/WS2025-2026/Netze/Folien/Vorlesung-01.pdf",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/00 - Materialien/Folien",
-    "02 - Studium/Semester/WS2025-2026/MAGLA/Folien",
-    "02 - Studium/Semester/WS2025-2026/Netze/Folien/Vorlesung-02.pdf",
-    "02 - Studium/Semester/WS2025-2026/Programmierung 1/Folien/Einfuehrung in die Programmierung.pdf",
-    "02 - Studium/Semester/WS2025-2026/Netze/Folien",
-    "02 - Studium/Semester/WS2025-2026/Programmierung 1/Folien/15_Programmierparadigmen_Typkonzepte.pdf",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
     "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
     "02 - Studium/University MOC.md",
@@ -203,7 +229,6 @@
     "07-Meta/Irreflexivität.md",
     "07-Meta/Antisymmetrie.md",
     "03 - Knowledge/Mathematik/Lineare Algebra.md",
-    "02 - Studium/Semester/SS-2026/Systemnahe Programmierung/C/Structs.md",
-    "07-Meta/Transitivität.md"
+    "02 - Studium/Semester/SS-2026/Systemnahe Programmierung/C/Structs.md"
   ]
 }
