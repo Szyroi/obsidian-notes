@@ -11,13 +11,40 @@
             "id": "73d11b489acd867b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "95 - Bibliothek/Bücher/PDFs/Theoretische Informatik.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Theoretische Informatik"
+            }
+          },
+          {
+            "id": "1cc9ad7175036327",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "95 - Bibliothek/Bücher/PDFs/Übungsbuch Automaten und formale Sprachen.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Übungsbuch Automaten und formale Sprachen"
+            }
+          },
+          {
+            "id": "1d3870ae17aea6dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "95 - Bibliothek/Bücher/PDFs/Theoretische Informatik.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Theoretische Informatik"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 347.5
   },
   "right": {
     "id": "5fc636d140ff70e9",
@@ -165,21 +192,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "1d3870ae17aea6dc",
   "lastOpenFiles": [
-    "02 - Studium/Untitled",
+    "95 - Bibliothek/Bücher/PDFs/Übungsbuch Automaten und formale Sprachen.pdf",
+    "95 - Bibliothek/Bücher/PDFs/Theoretische Informatik.pdf",
+    "95 - Bibliothek/Bücher/PDFs/Grundlagen der Theoretischen Informatik.pdf",
+    "95 - Bibliothek/Bücher/PDFs/Grundkurs JAVA.pdf",
+    "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
+    "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
+    "95 - Bibliothek/Bibliothek.base",
+    "95 - Bibliothek/Bücher/PDFs/978-3-662-70146-1.pdf",
+    "02 - Studium/University MOC.md",
+    "02 - Studium/Resourcen/Textbooks",
+    "02 - Studium/Resourcen",
     "02 - Studium/Projekte/Praktikum",
     "02 - Studium/Projekte",
     "02 - Studium/Semester/WS25-26/MAGLA",
     "02 - Studium/Semester/WS25-26/MAGLA/Relationen.md",
-    "02 - Studium/University MOC.md",
-    "02 - Studium/Semester/SS26",
-    "02 - Studium/Semester/WS25-26",
-    "02 - Studium/Semester",
-    "01 - Daily",
-    "04 - Projects",
-    "05 - Archive",
-    "07 - Attachments",
     "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
     "02 - Studium/Semester/WS25-26/MAGLA/Mathe/Grundlagen/Mengenlehre.md",
     "02 - Studium/Semester/WS25-26/MAGLA/Mathe/Grundlagen/Aussagenlogik.md",
@@ -200,8 +229,6 @@
     "02 - Studium/Semester/SS26/Systemnahe Programmierung/C/Structs.md",
     "07-Meta/Transitivität.md",
     "07-Meta/Symmetrie.md",
-    "07-Meta/Reflexivität.md",
-    "02 - Studium/Semester/SS26/Systemnahe Programmierung/Darstellung von Zahlen.md",
-    "02 - Studium/Semester/WS25-26/Programmierung 1/Primitive Datentypen/Float.md"
+    "07-Meta/Reflexivität.md"
   ]
 }
