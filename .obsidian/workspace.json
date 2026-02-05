@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "161cd84f2948ae29",
+            "id": "3a9b0bd9a490bc60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 - Programmiersprachen"
+              "title": "New tab"
             }
           }
         ]
@@ -169,16 +165,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "floating": {
+    "id": "5074f9f784df10cc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c5a5295b7ce6c778",
+        "type": "window",
+        "children": [
+          {
+            "id": "6c321be7690d1cf2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "161cd84f2948ae29",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "05_Bitoperationen_Fliesskommazahlen_Zeichenketten"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 871.8333740234375,
+        "height": 1378,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "161cd84f2948ae29",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/04_ausfuehren_von_programmen.pdf",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 -.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/04_ausfuehren_von_programmen.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/03_Programmiersprachen.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/02_Algorithmen.pdf",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
