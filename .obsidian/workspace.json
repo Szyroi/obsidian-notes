@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
+                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Algorithmen"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,8 +171,13 @@
   },
   "active": "161cd84f2948ae29",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Untitled.md",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/04_ausfuehren_von_programmen.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/03_Programmiersprachen.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/02_Algorithmen.pdf",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
@@ -188,7 +193,6 @@
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u07.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u08.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u09.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u02.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Funktional.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Objektorientiert.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Imperativ.md",
@@ -202,10 +206,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/super.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Vererbung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Call by value.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Methodenueberladung.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Rueckgabewerte.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Parameteruebergabe.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/11 - Grammtiken",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/10 - Operatoren und Ausdruecke"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Methodenueberladung.md"
   ]
 }

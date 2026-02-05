@@ -3,4 +3,4 @@
 
 📄 Folie: [[02_Algorithmen.pdf]]
 
-## Beh
+## Behandelte Konzepte
