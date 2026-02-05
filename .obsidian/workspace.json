@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/Modulbeschreibung.md",
+                "file": "08 - Meta/Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modulbeschreibung"
+              "title": "Dashboard"
             }
           }
         ]
@@ -171,23 +171,24 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "Programmierung_MOC.md",
+    "README.md",
     "08 - Meta/Dashboard.md",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/Modulbeschreibung.md",
+    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
+    "Programmierung_MOC.md",
     "06 - Templates/Vorlesung.md",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/01 - Vorlesungen/Übung 8.md",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/03 - Zusammenfassungen",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/01 - Vorlesungen/Übung 2.md",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/01 - Vorlesungen/Übung 1.md",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/02 - Übungen",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/01 - Vorlesungen",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/00 - Materialien/Tests/t04.pdf",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/00 - Materialien/Probeklausuren/probeklausur_ws25_loesung.pdf",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/00 - Materialien/Tests/t02_loesung.pdf",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/00 - Materialien/Tests",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/00 - Materialien/Probeklausuren",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/00 - Materialien/Probeklausuren/probeklausur_ws25.pdf",
-    "02 - Studium/Module/WiSe 2025-2026/Programmierung 1/00 - Materialien/Folien/15_Programmierparadigmen_Typkonzepte.pdf",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 8.md",
+    "02 - Studium/Module/Programmierung 1/03 - Zusammenfassungen",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 2.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 1.md",
+    "02 - Studium/Module/Programmierung 1/02 - Übungen",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Tests/t04.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren/probeklausur_ws25_loesung.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Tests/t02_loesung.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Tests",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren/probeklausur_ws25.pdf",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/15_Programmierparadigmen_Typkonzepte.pdf",
     "02 - Studium/Module/WiSe 2025-2026/Netze/03 - Zusammenfassungen/Zusammenfassung.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Praktikum/Teil 1.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 2.md",
@@ -205,7 +206,6 @@
     "1 - Studium/Mathe/Lineare Algebra/Matrizen.md",
     "1 - Studium/Mathe/Lineare Algebra/Lineare Gleichungssysteme.md",
     "1 - Studium/Mathe/Lineare Algebra/Euklidische Räume.md",
-    "1 - Studium/Mathe/Lineare Algebra/Eigenwerte.md",
-    "1 - Studium/Mathe/Lineare Algebra/Eigenvektoren.md"
+    "1 - Studium/Mathe/Lineare Algebra/Eigenwerte.md"
   ]
 }
