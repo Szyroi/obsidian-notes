@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Untitled.md",
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,13 @@
   },
   "active": "161cd84f2948ae29",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Imperativ.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Untitled.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Typkonzepte.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Statisch vs Dynamische Typen.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Referenz vs Werttypen.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Abstrakte Datetypen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Polymorphie.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Untitled.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Interfaces.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Abstrakte Klassen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/super.md",
@@ -192,11 +197,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Initialisierung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Array als Parameter.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Array Initialisierung.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Mehrdimensionale Arrays.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Arrays.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Zugriffsmodifikatoren.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/11 - Grammtiken",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/10 - Operatoren und Ausdruecke",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen",
