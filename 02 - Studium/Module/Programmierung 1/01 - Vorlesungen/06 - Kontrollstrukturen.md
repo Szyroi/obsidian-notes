@@ -11,6 +11,6 @@
 - [[Do-While]]
 - [[Break_Continue]]
 
-## Wichtige Punkte
-- Kurze Zusammenfassung
-- Typische Klausurfragen
+## Hinweis
+- Alle Konzepte in Konzept-Ordner erklärt
+- Übungsaufgaben: [[u04.pdf]]
