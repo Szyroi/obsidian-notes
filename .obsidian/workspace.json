@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
+                "file": "02 - Studium/Module/Programmierung 1/02 - Übungen/Übung 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modulbeschreibung"
+              "title": "Übung 5"
             }
           }
         ]
@@ -169,8 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161cd84f2948ae29",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/02 - Übungen/Übung 2.md",
+    "02 - Studium/Module/Programmierung 1/02 - Übungen/Übung 5.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 6.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 7.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 8.md",
+    "02 - Studium/Module/Programmierung 1/02 - Übungen/Übung 1.md",
+    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "00 - Index/Placeholder.md",
     "01 - Daily/Palceholder.md",
     "00 - Index/Untitled",
@@ -179,13 +186,9 @@
     "05 - Archive/Placeholder.md",
     "07 - Attachments/placeholder.md",
     "README.md",
-    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "Programmierung_MOC.md",
     "06 - Templates/Vorlesung.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 8.md",
-    "02 - Studium/Module/Programmierung 1/03 - Zusammenfassungen",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 2.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 1.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte",
     "02 - Studium/Module/Programmierung 1/02 - Übungen",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Tests/t04.pdf",
@@ -203,9 +206,6 @@
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Relationen.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
-    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
-    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Aussagenlogik.md",
-    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Beweisprinzipien.md",
-    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Abbildungen.md"
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md"
   ]
 }
