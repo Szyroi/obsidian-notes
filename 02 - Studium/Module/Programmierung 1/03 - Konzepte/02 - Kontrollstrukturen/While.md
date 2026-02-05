@@ -8,6 +8,8 @@ tags:
   - java
   - kontrollstrukturen
 ---
-# **While Schleifen**
+# While Schleifen
 
-## Erkl
+## Erklärung
+- [[06_Kontrollstrukturen.pdf]]
+- `while()` 
