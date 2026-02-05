@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Untitled.md",
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,14 @@
   },
   "active": "161cd84f2948ae29",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Polymorphie.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Untitled.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Interfaces.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Abstrakte Klassen.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/super.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Vererbung.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Call by value.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Methodenueberladung.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Untitled.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Rueckgabewerte.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Parameteruebergabe.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Methodensignatur.md",
@@ -191,12 +197,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Mehrdimensionale Arrays.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Arrays.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Zugriffsmodifikatoren.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/this.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Konstruktoren.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Attribute.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung/Assertions.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/08 - Fehlerbehandlung/Throws.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/11 - Grammtiken",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/10 - Operatoren und Ausdruecke",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen",
