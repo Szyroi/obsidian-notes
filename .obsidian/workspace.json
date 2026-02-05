@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Systemnahe Programmierung/Darstellung von Zahlen.md",
+                "file": "1 - Studium/Systemnahe Programmierung/C/Structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darstellung von Zahlen"
+              "title": "Structs"
             }
           }
         ],
@@ -186,12 +186,18 @@
   },
   "active": "9e2e130b29fbfdde",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
+    "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf",
+    "99 - Indexes/Transitivität.md",
+    "99 - Indexes/Symmetrie.md",
+    "99 - Indexes/Reflexivität.md",
+    "99 - Indexes/Irreflexivität.md",
+    "99 - Indexes/Asymmetrie.md",
+    "99 - Indexes/Antisymmetrie.md",
     "1 - Studium/Systemnahe Programmierung/Darstellung von Zahlen.md",
+    "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Float.md",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Integer.md",
-    "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf",
     "1 - Studium/Systemnahe Programmierung/C/Pointer Arithmetik.md",
     "1 - Studium/Systemnahe Programmierung/C/Daten Typen.md",
     "1 - Studium/Systemnahe Programmierung/C/Pointer.md",
@@ -209,17 +215,11 @@
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 06.md",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 05.md",
     "1 - Studium/Datenbanken/Datenbanken Vorlesung 04.md",
-    "1 - Studium/Datenbanken/Datenbanken Vorlesung 03.md",
-    "1 - Studium/Datenbanken/Datenbanken Vorlesung 02.md",
     "1 - Studium/Systemnahe Programmierung/C",
-    "1 - Studium/Datenbanken/Datenbanken Vorlesung 01.md",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 13.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 04 Zusammenfassung Begriffe.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken LE2 MiniBeispiel.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12 Extra.pdf",
-    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12.pdf",
-    "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
-    "1 - Studium/Programmierung 1/OOP/Static.md",
-    "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md"
+    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12.pdf"
   ]
 }
