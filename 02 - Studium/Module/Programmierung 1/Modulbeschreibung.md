@@ -1,33 +1,34 @@
 ---
 type: moc
 modul: Programmierung 1
-tags: [prog1, moc]
+tags: [prog1, bi, moc]
 ---
 
-# Programmierung 1 – MOC
+# MOC – Programmierung 1 (B.Sc. Informatik)
 
-## 📘 Vorlesungen
-> Chronologisch, mit Fokus auf Inhalte der Woche  
-#vorlesung #prog1
+## 🧩 Kontext im Curriculum
+- Studiengang: Bachelor Informatik (BI) – H-BRS  
+- Modulgruppe: Programmierung und Softwareentwicklung (Curriculum 2024) :contentReference[oaicite:4]{index=4}
+
+## 🧠 Vorlesungsübersicht  
+#vorlesung #prog1 #bi
 
 - [[VL_01_Einführung]]
 - [[VL_02_Variablen_und_Datentypen]]
 - [[VL_03_Kontrollstrukturen]]
 - [[VL_04_Funktionen]]
 - [[VL_05_Arrays]]
-- [[VL_06_Klassen_und_Objekte]]
+- [[VL_06_Objekte_und_Klassen]]
 
 ---
 
-## 🧠 Zentrale Konzepte
-> Klausurrelevant, zeitlos, wiederverwendbar  
-#konzept #prog1
+## 📚 Zentrale Konzepte  
+#konzept #prog1 #bi
 
 - [[Variablen]]
 - [[Datentypen]]
 - [[Operatoren]]
-- [[If-Else]]
-- [[Schleifen]]
+- [[Kontrollstrukturen]]
 - [[Funktionen]]
 - [[Arrays]]
 - [[Klassen]]
@@ -35,9 +36,8 @@ tags: [prog1, moc]
 
 ---
 
-## 📝 Übungen
-> Aufgaben, Lösungen, eigene Notizen  
-#uebung #prog1
+## 📝 Übungen & Aufgaben  
+#uebung #prog1 #bi
 
 - [[UE_01]]
 - [[UE_02]]
@@ -45,37 +45,31 @@ tags: [prog1, moc]
 
 ---
 
-## 💻 Code & Beispiele
-> Snippets, Musterlösungen, Merkhilfen  
-#code #prog1
+## 💻 Code & Snippets  
+#code #prog1 #bi
 
 - [[Code_Beispiele]]
-- [[Typische_Algorithmen]]
 - [[Häufige_Fehler]]
+- [[Typische_Algorithmen]]
 
 ---
 
-## 🎯 Klausurvorbereitung
-> Alles, was Punkte bringt  
-#klausur #prog1
+## 🎯 Klausurvorbereitung  
+#klausur #prog1 #bi
 
 - [[Klausur_Zusammenfassung]]
 - [[Typische_Klausuraufgaben]]
 - [[Fehler_die_Punkte_kosten]]
-- [[Begriffe_auswendig_lernen]]
 
 ---
 
-## 🔍 Tag-Navigation (Quick Access)
-
-- Alle Konzepte: `#konzept`
-- Klausurrelevant: `#klausur`
-- Übungen: `#uebung`
-- Code: `#code`
-- Alles zu Prog 1: `#prog1`
+## 📌 Verknüpfte Module im Curriculum  
+- Nachfolger: [[Programmierung_2]] (steht im Curriculum direkt nach Prog 1) :contentReference[oaicite:5]{index=5}
+- Verwandt: [[Software_Engineering_1]], [[Datenbanken]] (spätere Module) :contentReference[oaicite:6]{index=6}
 
 ---
 
-## 🔗 Verbindungen
-- Weiterführend: [[Programmierung 2]]
-- Sprache: Java / C / Python
+## 🔎 Nützliche Tags für BI
+- `#bi` → alle Informatikmodule des Curriculums
+- `#prog1` → speziell dieses Modul
+- `#vorlesung`, `#konzept`, `#uebung`, `#code`, `#klausur`
