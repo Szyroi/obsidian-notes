@@ -25,12 +25,14 @@
             "id": "9e2e130b29fbfdde",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf"
+                "file": "1 - Studium/Systemnahe Programmierung/Darstellung von Ganzen Zahlen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Einführung in C"
+              "icon": "lucide-file",
+              "title": "Darstellung von Ganzen Zahlen"
             }
           }
         ],
@@ -182,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "9e2e130b29fbfdde",
   "lastOpenFiles": [
-    "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
+    "1 - Studium/Systemnahe Programmierung/Darstellung von Ganzen Zahlen.md",
+    "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Float.md",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Integer.md",
     "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf",
@@ -215,10 +218,8 @@
     "1 - Studium/Datenbanken/Folien alt/Datenbanken LE2 MiniBeispiel.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12 Extra.pdf",
     "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 12.pdf",
-    "1 - Studium/Datenbanken/Folien alt/Datenbanken Vorlesung 11.pdf",
     "1 - Studium/Programmierung 1/Rerenztypen/Array.md",
     "1 - Studium/Programmierung 1/OOP/Static.md",
-    "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md",
-    "1 - Studium/Programmierung 1/Java/Literale.md"
+    "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md"
   ]
 }
