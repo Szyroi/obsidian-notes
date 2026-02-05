@@ -12,8 +12,9 @@ tags:
 
 ## Erklärung
 - {{Kurze Definition / Erklärung}}
-- Vorlesung: [[{{VL-Nummer}}_{{Vorlesungsthema}}]]
+- Vorlesung: [[{{Vorlesungsthema}}]]
 
 ## Syntax / Struktur
 ```java
 // Beispielcode hier einfügen
+```
