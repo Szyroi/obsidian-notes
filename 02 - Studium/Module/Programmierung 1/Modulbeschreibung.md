@@ -6,16 +6,12 @@ tags:
   - moc
 ---
 
-# MOC – Programmierung 1 (B.Sc. Informatik)
-
-## 🧩 Kontext im Curriculum
-- Studiengang: Bachelor Informatik (BI) – H-BRS  
-- Modulgruppe: Programmierung und Softwareentwicklung (Curriculum 2024) :contentReference[oaicite:4]{index=4}
+# MOC – Programmierung 1
 
 ## 🧠 Vorlesungsübersicht  
 #vorlesung #prog1 
 
-- [[VL_01_Einführung]]
+- [[01 - Orga]]
 - [[VL_02_Variablen_und_Datentypen]]
 - [[VL_03_Kontrollstrukturen]]
 - [[VL_04_Funktionen]]
