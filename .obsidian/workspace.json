@@ -32,9 +32,21 @@
               "icon": "lucide-file-text",
               "title": "Einführung in C"
             }
+          },
+          {
+            "id": "9d201700b6b6fab8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "04_ausfuehren_von_programmen"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e2e130b29fbfdde",
+  "active": "9d201700b6b6fab8",
   "lastOpenFiles": [
-    "1 - Studium/Systemnahe Programmierung/C/Pointer Arithmetik.md",
+    "1 - Studium/Programmierung 1/Primitive Datentypen/Float.md",
+    "1 - Studium/Programmierung 1/Primitive Datentypen/Integer.md",
     "1 - Studium/Systemnahe Programmierung/Einführung in C.pdf",
+    "1 - Studium/Systemnahe Programmierung/C/Pointer Arithmetik.md",
     "1 - Studium/Systemnahe Programmierung/C/Daten Typen.md",
     "1 - Studium/Systemnahe Programmierung/C/Pointer.md",
     "1 - Studium/Systemnahe Programmierung/C/Strings.md",
@@ -217,7 +231,6 @@
     "1 - Studium/Programmierung 1/OOP/Static.md",
     "1 - Studium/Programmierung 1/OOP/Statische und Dynamische Bindung in Java.md",
     "1 - Studium/Programmierung 1/Java/Literale.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
-    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md"
+    "1 - Studium/Netze/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md"
   ]
 }
