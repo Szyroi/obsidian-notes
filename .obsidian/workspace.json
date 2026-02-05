@@ -49,10 +49,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "02 - Studium/Semester/WS25-26/Netze/Folien/Vorlesung-01.pdf"
+                "file": "02 - Studium/Semester/WS25-26/Technische Informatik/Folien/00-Einfuehrung.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-01"
+              "title": "00-Einfuehrung"
             }
           }
         ],
@@ -206,6 +206,9 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Semester/WS25-26/Netze/Folien/Vorlesung-01.pdf",
+    "02 - Studium/Semester/WS25-26/Technische Informatik/Folien",
+    "02 - Studium/Semester/WS25-26/MAGLA/Folien",
     "02 - Studium/Semester/WS25-26/Netze/Folien/Vorlesung-02.pdf",
     "02 - Studium/Semester/WS25-26/Programmierung 1/Folien/Einfuehrung in die Programmierung.pdf",
     "02 - Studium/Semester/WS25-26/Netze/Folien",
@@ -214,11 +217,8 @@
     "02 - Studium/Semester/WS25-26/Programmierung 1/Folien",
     "02 - Studium/Resourcen/Textbooks/Übungsbuch Automaten und formale Sprachen.pdf",
     "02 - Studium/Resourcen/Textbooks/Grundlagen der Theoretischen Informatik.pdf",
-    "02 - Studium/Resourcen/Textbooks/Grundkurs JAVA.pdf",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
     "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
-    "95 - Bibliothek/Bibliothek.base",
-    "02 - Studium/Resourcen/Textbooks/978-3-662-70146-1.pdf",
     "02 - Studium/University MOC.md",
     "02 - Studium/Semester/WS25-26/MAGLA/Relationen.md",
     "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
