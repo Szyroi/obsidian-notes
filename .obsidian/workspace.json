@@ -11,10 +11,14 @@
             "id": "a6baf4fe35e6ac82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Semester/WS25-26/Technische Informatik/Übungen/Übung 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Übung 2"
             }
           }
         ]
@@ -165,8 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "a6baf4fe35e6ac82",
   "lastOpenFiles": [
+    "02 - Studium/Semester/WS25-26/Technische Informatik/Übungen/Übung 1.md",
+    "08 - Meta/Dashboard.md",
+    "02 - Studium/Semester/WS25-26/Technische Informatik/Folien/00-Einfuehrung.pdf",
     "02 - Studium/Semester/WS25-26/Netze/Folien/Vorlesung-01.pdf",
     "02 - Studium/Semester/WS25-26/Technische Informatik/Folien",
     "02 - Studium/Semester/WS25-26/MAGLA/Folien",
@@ -176,8 +183,6 @@
     "02 - Studium/Semester/WS25-26/Programmierung 1/Folien/15_Programmierparadigmen_Typkonzepte.pdf",
     "02 - Studium/Resourcen/Textbooks/Theoretische Informatik.pdf",
     "02 - Studium/Semester/WS25-26/Programmierung 1/Folien",
-    "02 - Studium/Resourcen/Textbooks/Übungsbuch Automaten und formale Sprachen.pdf",
-    "02 - Studium/Resourcen/Textbooks/Grundlagen der Theoretischen Informatik.pdf",
     "95 - Bibliothek/Bücher/Automaten und Sprachen Theoretische Informatik für die Praxis - Andreas Müller.md",
     "95 - Bibliothek/Bücher/Computernetze kompakt - Christian Baun.md",
     "02 - Studium/University MOC.md",
@@ -201,7 +206,6 @@
     "03 - Knowledge/Mathematik/Lineare Algebra.md",
     "02 - Studium/Semester/SS26/Systemnahe Programmierung/C/Structs.md",
     "07-Meta/Transitivität.md",
-    "07-Meta/Symmetrie.md",
-    "07-Meta/Reflexivität.md"
+    "07-Meta/Symmetrie.md"
   ]
 }
