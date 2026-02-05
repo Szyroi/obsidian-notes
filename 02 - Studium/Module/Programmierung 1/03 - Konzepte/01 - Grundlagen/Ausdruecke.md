@@ -13,7 +13,7 @@ tags:
 
 ## Erklärung
 - {{Kurze Definition / Erklärung}}
-- Vorlesung: [[{{Vorlesungsthema}}]]
+- Vorlesung: [[08_Typanpassung_Operatoren_Methoden.pdf]]
 
 ## Syntax / Struktur
 

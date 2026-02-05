@@ -35,8 +35,7 @@
               "title": "Ausdruecke"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "493e28f847454f85",
@@ -202,12 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b286e355b11a8451",
+  "active": "da63d5761ee0cecd",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/08_Typanpassung_Operatoren_Methoden.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "06 - Templates/Programmierung 1/Grundlagen.md",
     "06 - Templates/Programmierung 1/Kontrollstrukturen.md",
     "06 - Templates/Programmierung 1",
@@ -235,7 +234,6 @@
     "03 - Knowledge/Japanisch　にひんご/Grammatik/Erste Grammatik.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u05.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u06.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Funktional.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Objektorientiert.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Imperativ.md",
