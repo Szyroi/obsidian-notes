@@ -33,3 +33,11 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
+## Beispiel 2 – Array-Iteration
+
+```Java
+int[] zahlen = {1, 2, 3, 4};
+for (int i = 0; i < zahlen.length; i++) {
+    System.out.println(zahlen[i]);
+}
+```
