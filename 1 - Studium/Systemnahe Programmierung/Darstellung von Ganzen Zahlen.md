@@ -12,6 +12,6 @@ Bsp:
 
 Bereich: $-(2^{n-1} - 1)$ bis $+(2^{n-1}-1)$
 
-Problem: 
+Problem: Es gibt dadurch aber Doppelte Nullen  
 
 ## **Zweierkomplement**
