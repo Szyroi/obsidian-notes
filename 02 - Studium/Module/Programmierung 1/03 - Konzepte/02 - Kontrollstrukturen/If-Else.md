@@ -25,3 +25,8 @@ if (bedingung) {
     // Codeblock
 }
 ```
+
+---
+- **Backlinks**: Du kannst `If-Else` aus Vorlesungsnotizen verlinken:
+```md
+- [[06_Kontrollstrukturen]] → [[If-Else]]
