@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Studium/Systemnahe Programmierung/Darstellung von Ganzen Zahlen.md",
+                "file": "1 - Studium/Systemnahe Programmierung/Darstellung von Zahlen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darstellung von Ganzen Zahlen"
+              "title": "Darstellung von Zahlen"
             }
           }
         ],
@@ -187,7 +187,7 @@
   "active": "9e2e130b29fbfdde",
   "lastOpenFiles": [
     "96 - Dateien/Folien/Prog 1 Folien/04_ausfuehren_von_programmen.pdf",
-    "1 - Studium/Systemnahe Programmierung/Darstellung von Ganzen Zahlen.md",
+    "1 - Studium/Systemnahe Programmierung/Darstellung von Zahlen.md",
     "96 - Dateien/Folien/Prog 1 Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Float.md",
     "1 - Studium/Programmierung 1/Primitive Datentypen/Integer.md",

@@ -69,5 +69,8 @@ Der erste bit von Rechts hingegen nennt man den **Least Significant Bit (LSB)**
 
 ## **Festkommadarstellung**
 
+
+
+
 ## **Gleitkommadarstellung**
 IEEE 754
