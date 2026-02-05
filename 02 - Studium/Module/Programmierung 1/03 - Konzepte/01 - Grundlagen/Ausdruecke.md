@@ -6,9 +6,10 @@ tags:
   - prog1
   - konzept
   - java
+  - grundlagen
 ---
 
-# Ausdruecke
+# Grundlagen
 
 ## Erklärung
 - {{Kurze Definition / Erklärung}}
