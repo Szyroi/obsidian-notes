@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Untitled.md",
+                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Ausdruecke"
             }
           }
         ]
@@ -169,10 +169,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161cd84f2948ae29",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Array als Parameter.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Array Initialisierung.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Mehrdimensionale Arrays.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Arrays.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/04 - Arrays/Untitled.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Zugriffsmodifikatoren.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/this.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Konstruktoren.md",
@@ -202,10 +206,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Operatoren.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Variablen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/11 - Grammtiken/Grammatik.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Programmiersprachen/Formale Sprachen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Programmiersprachen/Abstrakte Datentypen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/Structs.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/Rerenztypen/String.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/11 - Grammtiken/Grammatik.md"
   ]
 }
