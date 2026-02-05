@@ -171,6 +171,8 @@
   },
   "active": "da63d5761ee0cecd",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "06 - Templates/Konzept.md",
     "06 - Templates/Vorlesung.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
@@ -204,8 +206,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Statisch vs Dynamische Typen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Referenz vs Werttypen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Abstrakte Datetypen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Polymorphie.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Interfaces.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Abstrakte Klassen.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Polymorphie.md"
   ]
 }
