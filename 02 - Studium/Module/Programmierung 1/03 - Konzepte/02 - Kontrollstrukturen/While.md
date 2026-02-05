@@ -12,4 +12,13 @@ tags:
 
 ## Erklärung
 - [[06_Kontrollstrukturen.pdf]]
-- `while()` der Block wird solange ausgeführt wenn 
+- `while()` Wiederholt Code, solange Bedingung true ist
+-  Bedingung wird **vor** jedem Durchlauf geprüft
+
+## Syntax
+
+```Java
+while (bedingung) {
+    // Codeblock
+}
+```
