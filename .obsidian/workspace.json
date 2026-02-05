@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Knowledge/Mathematik/Lineare Algebra.md",
+                "file": "2 - Linux/Rust/Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lineare Algebra"
+              "title": "Syntax"
             }
           }
         ],
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "9e2e130b29fbfdde",
   "lastOpenFiles": [
-    "07-Meta/Irreflexivität.md",
     "07-Meta/Asymmetrie.md",
+    "07-Meta/Irreflexivität.md",
     "07-Meta/Antisymmetrie.md",
     "01-Knowledge/Mathematik/Lineare Algebra.md",
     "1 - Studium/Systemnahe Programmierung/C/Structs.md",
