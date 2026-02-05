@@ -6,6 +6,7 @@
       {
         "id": "d8a555c9deb41065",
         "type": "tabs",
+        "dimension": 52.752293577981646,
         "children": [
           {
             "id": "161cd84f2948ae29",
@@ -19,6 +20,23 @@
               },
               "icon": "lucide-file",
               "title": "Modulbeschreibung"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d0a9b7a81ae4b3e",
+        "type": "tabs",
+        "dimension": 47.24770642201835,
+        "children": [
+          {
+            "id": "b9d9eaa1f35395e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161cd84f2948ae29",
+  "active": "b9d9eaa1f35395e1",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u01.pdf",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/OOP/Klassen.md",
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u01.pdf",
     "02 - Studium/Module/Programmierung 1/02 - Übungen/Übung 5.md",
     "02 - Studium/Module/Programmierung 1/02 - Übungen/Übung 2.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Übung 6.md",
@@ -197,7 +216,6 @@
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Tests/t02_loesung.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Tests",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Probeklausuren/probeklausur_ws25.pdf",
     "02 - Studium/Module/Netze/03 - Zusammenfassungen/Zusammenfassung.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Praktikum/Teil 1.md",
     "02 - Studium/Semester/WS2025-2026/Technische Informatik/Übungen/Übung 2.md",
