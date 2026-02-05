@@ -17,6 +17,7 @@ tags:
 - `else if` erlaubt die Überprüfung weiterer Bedingungen in der Reihenfolge.
 
 ## Syntax:
+
 ```Java
 if (bedingung) {
     // Codeblock
@@ -29,12 +30,20 @@ if (bedingung) {
 
 
 ## Beispiel
+
 ```Java
+int note = 2;
 
-
+if (note == 1) {
+    System.out.println("Sehr gut");
+} else if (note == 2) {
+    System.out.println("Gut");
+} else {
+    System.out.println("Verbesserungsbedarf");
+}
 ```
 
 
 
 
----
+
