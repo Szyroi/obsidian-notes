@@ -1,7 +1,9 @@
 ---
 type: moc
 modul: Programmierung 1
-tags: [prog1, bi, moc]
+tags:
+  - prog1
+  - moc
 ---
 
 # MOC – Programmierung 1 (B.Sc. Informatik)
@@ -11,7 +13,7 @@ tags: [prog1, bi, moc]
 - Modulgruppe: Programmierung und Softwareentwicklung (Curriculum 2024) :contentReference[oaicite:4]{index=4}
 
 ## 🧠 Vorlesungsübersicht  
-#vorlesung #prog1 #bi
+#vorlesung #prog1 
 
 - [[VL_01_Einführung]]
 - [[VL_02_Variablen_und_Datentypen]]
@@ -23,7 +25,7 @@ tags: [prog1, bi, moc]
 ---
 
 ## 📚 Zentrale Konzepte  
-#konzept #prog1 #bi
+#konzept #prog1 
 
 - [[Variablen]]
 - [[Datentypen]]
@@ -37,7 +39,7 @@ tags: [prog1, bi, moc]
 ---
 
 ## 📝 Übungen & Aufgaben  
-#uebung #prog1 #bi
+#uebung #prog1 
 
 - [[UE_01]]
 - [[UE_02]]
@@ -46,7 +48,7 @@ tags: [prog1, bi, moc]
 ---
 
 ## 💻 Code & Snippets  
-#code #prog1 #bi
+#code #prog1 
 
 - [[Code_Beispiele]]
 - [[Häufige_Fehler]]
@@ -55,7 +57,7 @@ tags: [prog1, bi, moc]
 ---
 
 ## 🎯 Klausurvorbereitung  
-#klausur #prog1 #bi
+#klausur #prog1 
 
 - [[Klausur_Zusammenfassung]]
 - [[Typische_Klausuraufgaben]]
@@ -63,13 +65,9 @@ tags: [prog1, bi, moc]
 
 ---
 
-## 📌 Verknüpfte Module im Curriculum  
-- Nachfolger: [[Programmierung_2]] (steht im Curriculum direkt nach Prog 1) :contentReference[oaicite:5]{index=5}
-- Verwandt: [[Software_Engineering_1]], [[Datenbanken]] (spätere Module) :contentReference[oaicite:6]{index=6}
+## Verknüpfte Module im Curriculum  
+- Nachfolger: [[Programmierung_2]] 
+- Verwandt: [[Software_Engineering_1]], [[Datenbanken]]
 
 ---
 
-## 🔎 Nützliche Tags für BI
-- `#bi` → alle Informatikmodule des Curriculums
-- `#prog1` → speziell dieses Modul
-- `#vorlesung`, `#konzept`, `#uebung`, `#code`, `#klausur`
