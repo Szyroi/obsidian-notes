@@ -20,4 +20,14 @@ tags:
 // Beispielcode hier einfügen
 ```
 
+## Beispiel
 
+```java
+// Praktisches Beispiel
+```
+
+## Typische Fehler
+
+- {{Fehler 1}}
+- {{Fehler 2}}
+- {{Fehler 3}}
