@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Untitled.md",
+                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "06 - Kontrollstrukturen"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1baeb7140501d698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffeadf4de9c775e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Bitoperation_Fließkommazahlen_Zeichenketten"
             }
           }
         ]
@@ -206,15 +226,15 @@
       }
     ]
   },
-  "active": "3a9b0bd9a490bc60",
+  "active": "ffeadf4de9c775e9",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 -.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/Untitled.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 - Ausfuehren von Programmen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/04_ausfuehren_von_programmen.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/03_Programmiersprachen.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/02_Algorithmen.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
@@ -242,7 +262,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Interfaces.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Abstrakte Klassen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/super.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Vererbung.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/03 - Methoden/Call by value.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/06 - Vererbung und Abstraktion/Vererbung.md"
   ]
 }
