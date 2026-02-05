@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7368627e93e1ab0c",
+        "id": "b3752936ca1b7f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "60d632fe10a0292a",
+            "id": "73d11b489acd867b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Relationen"
+              "title": "New tab"
             }
           }
         ]
@@ -171,6 +167,9 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Semester/WS25-26/Untitled",
+    "02 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
+    "02 - Studium/University MOC.md",
     "02 - Studium/Semester/SS26",
     "02 - Studium/Semester/WS25-26",
     "02 - Studium/Semester",
@@ -181,7 +180,6 @@
     "06 - Templates",
     "00 - Index",
     "1 - Studium/Mathe/Diskrete Mathematik/Algebraische Strukturen.md",
-    "02 - Studium/Mathe/Diskrete Mathematik/Relationen.md",
     "02 - Studium/Mathe/Grundlagen/Mengenlehre.md",
     "02 - Studium/Mathe/Grundlagen/Aussagenlogik.md",
     "02 - Studium/Mathe/Grundlagen/Beweisprinzipien.md",
@@ -200,12 +198,10 @@
     "03 - Knowledge/Mathematik/Lineare Algebra.md",
     "02 - Studium/Semester/SS26/Systemnahe Programmierung/C/Structs.md",
     "03 - Knowledge/Mathematik",
-    "03 - Knowledge",
     "07-Meta/Transitivität.md",
     "07-Meta/Symmetrie.md",
     "07-Meta/Reflexivität.md",
     "02 - Studium/Semester/SS26/Systemnahe Programmierung/Darstellung von Zahlen.md",
-    "02 - Studium/Semester/WS25-26/Programmierung 1/Primitive Datentypen/Float.md",
-    "02 - Studium/Semester/WS25-26/Programmierung 1/Primitive Datentypen/Integer.md"
+    "02 - Studium/Semester/WS25-26/Programmierung 1/Primitive Datentypen/Float.md"
   ]
 }
