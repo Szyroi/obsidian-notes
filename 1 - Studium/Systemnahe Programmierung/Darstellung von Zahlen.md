@@ -169,12 +169,12 @@ int main() {
 
 ### a) 32-Bit Float
 
-| Bit   | 31             | 30 … 23      | 22 … 0       |     |
-| ----- | -------------- | ------------ | ------------ | --- |
-| Name  | Vorzeichen (S) | Exponent (E) | Mantisse (M) |     |
-| Größe | 1 Bit          | 8 Bit        | 23 Bit       |     |
+| Bit   | 31             | 30 … 23      | 22 … 0       |
+| ----- | -------------- | ------------ | ------------ |
+| Name  | Vorzeichen (S) | Exponent (E) | Mantisse (M) |
+| Größe | 1 Bit          | 8 Bit        | 23 Bit       |
 
-- Wert = $$(-1)^S \times 1.M \times 2^{E-127}  $$
+- Wert = $(-1)^S \times 1.M \times 2^{E-127}$
   - S = 0 → positiv, S = 1 → negativ  
   - E = Exponent + Bias (127 für 32-Bit)  
   - M = Mantisse (normalisiert, implizite führende 1)  
@@ -188,7 +188,7 @@ int main() {
 | Name | Vorzeichen | Exponent      | Mantisse      |
 | Größe | 1 Bit    | 11 Bit        | 52 Bit        |
 - Bias = 1023
-- Wert = \((-1)^S \times 1.M \times 2^{E-1023}\)
+- Wert = $(-1)^S \times 1.M \times 2^{E-1023}$
 
 ---
 
