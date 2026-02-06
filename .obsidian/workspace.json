@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Untitled.md",
+                "file": "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Darstellung von Zahlen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Darstellung von Zahlen"
             }
           }
         ]
@@ -169,8 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "bcd5e41a9997ffd4",
   "lastOpenFiles": [
+    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Structs.md",
+    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Untitled.md",
+    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen",
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/WS20_21-Klausur-Loesung.pdf",
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/PiC-WS20_21-Klausur (1).pdf",
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/SS21-Klausur-Loesung.pdf",
@@ -179,7 +182,6 @@
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/PiC-SS14-Probeklausur (1).pdf",
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren",
     "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
-    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Untitled.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/02 - Betriebssystem",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/03 - Python",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen/Stack.md",
@@ -194,8 +196,6 @@
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Strategy Pattern.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Iterator Pattern.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/01 - Generics/Generics.md",
-    "02 - Studium/Module/Programmierung 1/04 - Code",
-    "02 - Studium/Module/Systemnahe Programmierung/04 - Code",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/ADG/Modulbeschreibung.md",
     "05 - Archive/Datenbanken/Datenbanken Vorlesung 13.md",
