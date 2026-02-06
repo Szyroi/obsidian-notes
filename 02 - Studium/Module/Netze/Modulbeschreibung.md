@@ -49,7 +49,6 @@ tags:
 [[3.4 - SLAAC]]
 [[3.5 - Router]]
 
-
 [[4.0 - Transport Layer]]
 [[4.1 - TCP]]
 [[4.2 - UDP]]
@@ -64,7 +63,10 @@ tags:
 [[5.6 - TLS]]
 
 [[1.0 - Routing]]
-[[1.2]]
+[[1.1 - Link State Routing]]
+[[1.2 - Distance Vector Routing]]
+[[1.3 - Dijkstra Algorithmus]]
+[[1.4 - Bellamn Ford Algorithmus]]
 
 [[1.0 - VPN]]
 
