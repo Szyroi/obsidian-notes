@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3040634f5104f6b0",
+        "id": "762898998f3aec54",
         "type": "tabs",
         "children": [
           {
-            "id": "a961d4c1dfcb5b0d",
+            "id": "5db9594df828760e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/ADG/Modulbeschreibung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulbeschreibung"
-            }
-          },
-          {
-            "id": "e5c5c2a54a6ec790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Studium/Module/Netze/Modulbeschreibung.md",
+                "file": "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "Modulbeschreibung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +171,16 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/Untitled",
+    "02 - Studium/Module/Programmierung 1/04 - Code",
+    "02 - Studium/Module/Systemnahe Programmierung/04 - Code",
+    "02 - Studium/Module/Programmierung 2/04 - Code",
+    "02 - Studium/Module/Netze/Modulbeschreibung.md",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/06 - Refkletion",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/05 - UnitTesting",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/04 - Functional Programming",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Lists Sets und Maps",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/01 - Generics",
-    "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/ADG/Modulbeschreibung.md",
     "05 - Archive/Datenbanken/Datenbanken Vorlesung 13.md",
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.1 - Baum.md",
@@ -202,9 +190,6 @@
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.5 - Stern.md",
     "05 - Archive/Datenbanken",
     "02 - Studium/Module/Datenbanken/03 - Konzepte",
-    "02 - Studium/Module/Datenbanken/02 - Übungen",
-    "02 - Studium/Module/Datenbanken/01 - Vorlesungen",
-    "02 - Studium/Module/Datenbanken/00 - Materialien",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Netze/03 - Konzepte/04 - VPN/1.0 - VPN.md",
