@@ -3,29 +3,30 @@ type: moc
 modul: Netze
 tags:
   - moc
+  - netze
 ---
 
-# MOC - {{modul}}
+# MOC - Netze
 
 ## Vorlesungsübersicht
-#vorlesung 
+#vorlesung #netze
 
 
 
 ---
 ## Zentrale Konzepte
-#konzept 
+#konzept #netze
 
 
 
 ---
 ## Übungen & Aufgaben  
-#uebung 
+#uebung #netze
 
 
 ---
 ## Klausurvorbereitung  
-#klausur 
+#klausur #netze
 
 
 ---
