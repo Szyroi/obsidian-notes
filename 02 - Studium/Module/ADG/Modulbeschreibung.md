@@ -11,7 +11,7 @@
 - [[Liste]]
 - [[Stack]]
 - [[Queue]]
-- [[Baum]]
+- [[1.1 - Baum]]
 - [[Heap]]
 - [[Graph_Repräsentation]]
 
