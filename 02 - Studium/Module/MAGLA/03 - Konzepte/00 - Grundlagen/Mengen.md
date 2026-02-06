@@ -67,7 +67,7 @@ $B$ ist eine **Teilmenge** von $A (B ⊆ A)$, wenn $∀x ∈ B ⇒ x ∈ A$.
 
 ## 0.5 Mengengleichheit
 **Definition:**  
-$A = B ⇔ A ⊆ B **und** B ⊆ A$  
+$A = B ⇔ A ⊆ B \text{ und } B ⊆ A$  
 
 **Intuition:**  
 Zwei Mengen sind gleich, wenn sie **die gleichen Elemente enthalten**.
