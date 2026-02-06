@@ -1,12 +1,12 @@
 ---
 type: moc
-modul:
+modul: Systemnahe Programmierung
 tags:
   - moc
   - systemnahe-programmierung
 ---
 
-# MOC - {{Modul}}
+# MOC - Systemnahe Programmierung
 
 ## Vorlesungsübersicht
 #vorlesung 
