@@ -40,7 +40,11 @@ tags:
 
 ---
 ## Praktika
-[[P]]
+[[Netzwerkbefehle-Praktikum-Netze 1.pdf]]
+[[P1]]
+[[P2.pdf]]
+[[P3.pdf]]
+[[P4.pdf]]
 
 ---
 ## Klausurvorbereitung  
