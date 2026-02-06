@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/01 - Vorlesungen/06 -.md",
+                "file": "06 - Templates/Vorlesung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 -"
+              "title": "Vorlesung"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "0d931b289eba311d",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/01 - Vorlesungen/06 - Netzwerksegmentierung.md",
+    "06 - Templates/Vorlesung.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/06 -.md",
     "02 - Studium/Module/Netze/01 - Vorlesungen/05 - IPv6 und Autokonfiguration.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-05.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-04.pdf",
@@ -243,7 +244,6 @@
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-09.pdf",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-10.pdf",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
-    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf"
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.0 - Transport Layer.md"
   ]
 }
