@@ -44,7 +44,7 @@ Die **Kardinalität** $|A|$ einer Menge $A$ ist die **Anzahl ihrer Elemente**.
 
 **Satz 0.1:**  
 Falls $B ⊆ A ⇒ |B| ≤ |A|$  
-Falls $B ⊆ A und A ⊆ C ⇒ B ⊆ C$
+Falls $B ⊆ A \text{ und } A ⊆ C ⇒ B ⊆ C$
 
 **Beispiel:**  
 $A = {1,2,3,4}, B = {2,3} ⇒ |A|=4, |B|=2$
