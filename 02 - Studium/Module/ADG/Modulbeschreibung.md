@@ -1,6 +1,9 @@
 ---
 type: moc
-modul:
+modul: ADG
+tags:
+  - adg
+  - moc
 ---
 # MOC – Algorithmen, Datenstrukturen & Graphentheorie
 #algorithmik
