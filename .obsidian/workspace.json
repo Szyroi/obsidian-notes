@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Relationen und Funktionen.md",
+                "file": "02 - Studium/Module/MAGLA/Lernplan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relationen und Funktionen"
+              "title": "Lernplan"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "99b5ee33ba7d1ad3",
   "lastOpenFiles": [
+    "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Relationen und Funktionen.md",
+    "02 - Studium/Module/MAGLA/Lernplan.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Ordnungen und Aequivalenzrelationen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
@@ -186,7 +188,6 @@
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Beweisprinzipien.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Relationen.md",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Relationen und Funktionen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Restklassen und GGT.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/06 - Euklidische Raueme",
     "02 - Studium/Module/MAGLA/03 - Konzepte/05 - Eigenwerte und Eigenvektoren",
