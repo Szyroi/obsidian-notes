@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Topologien.md",
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.0 - Topologien.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topologien"
+              "title": "1.0 - Topologien"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "0d931b289eba311d",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.0 - Topologien.md",
     "02 - Studium/Module/Netze/01 - Vorlesungen/01 - Einführung und OSI-Modell.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Topologien.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
