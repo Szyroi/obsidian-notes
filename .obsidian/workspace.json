@@ -171,8 +171,13 @@
   },
   "active": "5db9594df828760e",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/01 - Generics/Generics.md",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/04 - Functional Programming/Higher Order Functions.md",
     "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/04 - Functional Programming/Lambda.md",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Adapter Pattern.md",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Strategy Pattern.md",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Iterator Pattern.md",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/01 - Generics/Generics.md",
     "02 - Studium/Module/Programmierung 1/04 - Code",
     "02 - Studium/Module/Systemnahe Programmierung/04 - Code",
     "02 - Studium/Module/Programmierung 2/04 - Code",
@@ -201,11 +206,6 @@
     "02 - Studium/Module/Netze/03 - Konzepte/03 - Routing/1.0 - Routing.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.6 - TLS.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.5 - XMPP.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.4 - DHCP.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.3 - HTTPS.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.2 - HTTP.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.1 - DNS.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.0 - Application Layer.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.3 - QUIC.md"
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.4 - DHCP.md"
   ]
 }
