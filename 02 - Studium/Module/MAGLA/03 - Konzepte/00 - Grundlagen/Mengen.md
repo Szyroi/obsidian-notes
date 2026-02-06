@@ -11,7 +11,9 @@ klausur: true
 
 ## 0.1 Menge 
 **Definition:**
-Eine Menge ist eine Sammlung verschiedener Objekte, auch Elemente genannt, di
+Eine Menge ist eine Sammlung verschiedener Objekte, auch Elemente genannt, die aus einem Universum z.B. den Ganzen Zahlne Stammen.
+
+
 
 
 ## 0.2 Leere Menge
