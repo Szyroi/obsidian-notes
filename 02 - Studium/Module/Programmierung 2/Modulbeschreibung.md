@@ -1,11 +1,12 @@
 ---
 type: moc
-modul:
+modul: Programmierung 2
 tags:
   - moc
+  - prog2
 ---
 
-# MOC - Progra
+# MOC - Programmierung 2
 
 ## Vorlesungsübersicht
 #vorlesung 
