@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.5 - Switch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 - Ethernet"
+              "title": "2.5 - Switch"
             }
           }
         ]
@@ -189,6 +189,9 @@
   },
   "active": "ca1a20ef4c9e6566",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.1 - Frames.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
@@ -220,10 +223,7 @@
     "02 - Studium/Module/Netze/01 - Vorlesungen/08 - Transportschicht und UDP.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-07.pdf",
-    "06 - Templates/Vorlesung.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
-    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-05.pdf",
-    "02 - Studium/Module/Netze/04 - Zusammenfassung/Zusammenfassung.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Stern.md"
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-05.pdf"
   ]
 }
