@@ -8,7 +8,8 @@ tags:
 # MOC - University
 
 ## Module
-[[Mod]]
+[[Programmierung 1]]
+[[Programmierung 2]]
 
 
 
