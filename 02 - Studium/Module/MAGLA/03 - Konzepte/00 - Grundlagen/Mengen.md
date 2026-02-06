@@ -28,14 +28,14 @@ Die **leere Menge** ∅ := {} := {x | x ≠ x} enthält **keine Elemente**.
 
 ## 0.2 Kardinalität
 **Definition:**  
-Die **Kardinalität** |A| einer Menge A ist die **Anzahl ihrer Elemente**.
+Die **Kardinalität** $|A|$ einer Menge $A$ ist die **Anzahl ihrer Elemente**.
 
 **Satz 0.1:**  
-Falls B ⊆ A ⇒ |B| ≤ |A|  
-Falls B ⊆ A und A ⊆ C ⇒ B ⊆ C
+Falls $B ⊆ A ⇒ |B| ≤ |A|$  
+Falls $B ⊆ A und A ⊆ C ⇒ B ⊆ C$
 
 **Beispiel:**  
-A = {1,2,3,4}, B = {2,3} ⇒ |A|=4, |B|=2
+$A = {1,2,3,4}, B = {2,3} ⇒ |A|=4, |B|=2$
 
 **Klausurhinweis:**  
 - Kardinalität von Teilmengen bestimmen  
@@ -45,7 +45,7 @@ A = {1,2,3,4}, B = {2,3} ⇒ |A|=4, |B|=2
 
 ## 0.3 Teilmenge
 **Definition:**  
-B ist eine **Teilmenge** von A (B ⊆ A), wenn ∀x ∈ B ⇒ x ∈ A.
+$B$ ist eine **Teilmenge** von $A (B ⊆ A)$, wenn $∀x ∈ B ⇒ x ∈ A$.
 
 **Klausurhinweis:**  
 - Teilmengenbeziehung prüfen  
@@ -55,7 +55,7 @@ B ist eine **Teilmenge** von A (B ⊆ A), wenn ∀x ∈ B ⇒ x ∈ A.
 
 ## 0.4 Mengengleichheit
 **Definition:**  
-A = B ⇔ A ⊆ B **und** B ⊆ A  
+$A = B ⇔ A ⊆ B **und** B ⊆ A$  
 
 **Intuition:**  
 Zwei Mengen sind gleich, wenn sie **die gleichen Elemente enthalten**.
@@ -67,7 +67,7 @@ Zwei Mengen sind gleich, wenn sie **die gleichen Elemente enthalten**.
 
 ## 0.5 Vereinigungsmenge
 **Definition:**  
-A ∪ B := {x ∈ U | x ∈ A oder x ∈ B}  
+$A ∪ B := {x ∈ U | x ∈ A oder x ∈ B}$  
 Für Familie $(Ai)ᵢ: ⋃_{i=1}^{n} Ai = A₁ ∪ A₂ ∪ ... ∪ Aₙ$
 
 **Beispiel:**  
@@ -112,6 +112,3 @@ $A × B = {(1,x),(1,y),(2,x),(2,y)}$
 - Reihenfolge beachten
 
 ---
-
-## Bezug zur Vorlesung
-- [[VL_00_Grundlagen_Mengen]]
