@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
+                "file": "06 - Templates/Modulbeschreibung.md",
                 "mode": "source",
                 "source": false
               },
@@ -37,6 +37,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "32918a0f9b6141f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a1ed3711f9709c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulbeschreibung"
+            }
+          }
+        ]
       },
       {
         "id": "493e28f847454f85",
@@ -202,13 +222,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "b286e355b11a8451",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
+    "06 - Templates/Modulbeschreibung.md",
+    "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
+    "02 - Studium/Module/Programmierung 2/Untitled",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte",
     "02 - Studium/Module/Programmierung 2/02 - Übungen",
     "02 - Studium/Module/Programmierung 2/01 - Vorlesungen",
-    "02 - Studium/Module/Programmierung 2/Untitled.md",
-    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 2/00 - Materialien",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
@@ -228,10 +250,8 @@
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u02.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u04.pdf",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u03.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/05_Bitoperationen_Fliesskommazahlen_Zeichenketten.pdf",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 - Ausfuehren von Programmen.md",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/04_ausfuehren_von_programmen.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md",
