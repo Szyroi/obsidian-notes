@@ -202,10 +202,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b286e355b11a8451",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte",
+    "02 - Studium/Module/Programmierung 2/02 - Übungen",
+    "02 - Studium/Module/Programmierung 2/01 - Vorlesungen",
+    "02 - Studium/Module/Programmierung 2/Untitled.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
+    "02 - Studium/Module/Programmierung 2/00 - Materialien",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/08_Typanpassung_Operatoren_Methoden.pdf",
@@ -227,18 +232,13 @@
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 - Ausfuehren von Programmen.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/04_ausfuehren_von_programmen.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/03_Programmiersprachen.pdf",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/02_Algorithmen.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do-While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
     "03 - Knowledge/Japanisch　にひんご/Grammatik/Erste Grammatik.md",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u05.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Funktional.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Objektorientiert.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Imperativ.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/07 - Typkonzepte und ADT/Typkonzepte.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Objektorientiert.md"
   ]
 }
