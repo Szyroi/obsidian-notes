@@ -23,7 +23,7 @@ Beschreibende Darstellung:
 
 ## 0.2 Leere Menge
 **Definition:**  
-Die **leere Menge** $∅ := {} := {x | x ≠ x}$ enthält **keine Elemente**.  
+Die **leere Menge** $\emptyset = \{\} : {x \mid x ≠ x}$ enthält **keine Elemente**.  
 ∀x ∈ Universum U: x ∉ ∅
 
 **Intuition:**  
