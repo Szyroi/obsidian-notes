@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Technische Informatik/Modulbeschreibung.md",
+                "file": "02 - Studium/Module/Netze/Modulbeschreibung.md",
                 "mode": "source",
                 "source": false
               },
@@ -189,8 +189,9 @@
   },
   "active": "67a1ed3711f9709c",
   "lastOpenFiles": [
-    "02 - Studium/Module/Systemnahe Programmierung/Modulbeschreibung.md",
     "02 - Studium/Module/Technische Informatik/Modulbeschreibung.md",
+    "02 - Studium/Module/Netze/Modulbeschreibung.md",
+    "02 - Studium/Module/Systemnahe Programmierung/Modulbeschreibung.md",
     "06 - Templates/Modulbeschreibung.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C/Structs.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C",
@@ -223,7 +224,6 @@
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 - Ausfuehren von Programmen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do-While.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md"
   ]
 }

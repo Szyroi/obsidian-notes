@@ -3,29 +3,30 @@ type: moc
 modul: Technische Informatik
 tags:
   - moc
+  - technische-informatik
 ---
 
-# MOC - {{modul}}
+# MOC - Technische Informatik
 
 ## Vorlesungsübersicht
-#vorlesung 
+#vorlesung #technische-informatik 
 
 
 
 ---
 ## Zentrale Konzepte
-#konzept 
+#konzept #technische-informatik 
 
 
 
 ---
 ## Übungen & Aufgaben  
-#uebung 
+#uebung #technische-informatik  
 
 
 ---
 ## Klausurvorbereitung  
-#klausur 
+#klausur #technische-informatik  
 
 
 ---
