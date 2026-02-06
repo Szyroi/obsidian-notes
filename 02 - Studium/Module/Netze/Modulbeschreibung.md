@@ -27,6 +27,7 @@ tags:
 ---
 ## Zentrale Konzepte
 #konzept #netze
+[[1.0 - Physical Layer]]
 
 
 
@@ -37,7 +38,7 @@ tags:
 [[Uebungsblatt-2_Netze_2026.pdf]]
 [[Uebungsblatt-3_Netze_2026.pdf]]
 [[Wiederholung.pdf]]
-[[S]]
+[[S2.pdf]]
 
 ---
 ## Praktika
