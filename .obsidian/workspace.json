@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "971326e82a7b85ba",
+        "id": "2b37486fcd874d02",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd5e41a9997ffd4",
+            "id": "5916278ad332d44b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Folien_zur_Vorlesung"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -167,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcd5e41a9997ffd4",
+  "active": "5916278ad332d44b",
   "lastOpenFiles": [
+    "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/Datenbanken/Datenbanken.md",
     "02 - Studium/Module/MAGLA/MAGLA.md",
@@ -203,7 +202,6 @@
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Iterator Pattern.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/01 - Generics/Generics.md",
     "02 - Studium/Module/Netze/Netze.md",
-    "02 - Studium/Module/ADG/ADG.md",
-    "05 - Archive/Datenbanken/Datenbanken Vorlesung 13.md"
+    "02 - Studium/Module/ADG/ADG.md"
   ]
 }
