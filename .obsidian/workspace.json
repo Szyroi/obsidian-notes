@@ -171,8 +171,12 @@
   },
   "active": "0d931b289eba311d",
   "lastOpenFiles": [
-    "02 - Studium/Module/Netze/00 - Materialien/Praktika/P2.pdf",
+    "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
+    "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
+    "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
+    "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Praktika/P2.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/08_Typanpassung_Operatoren_Methoden.pdf",
@@ -192,7 +196,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 2/Untitled",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
@@ -203,9 +206,6 @@
     "06 - Templates/Vorlesung.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 - Ausfuehren von Programmen.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md"
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md"
   ]
 }
