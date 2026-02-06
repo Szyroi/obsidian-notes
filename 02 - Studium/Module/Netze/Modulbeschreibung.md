@@ -37,14 +37,18 @@ tags:
 [[Uebungsblatt-2_Netze_2026.pdf]]
 [[Uebungsblatt-3_Netze_2026.pdf]]
 [[Wiederholung.pdf]]
+[[S]]
 
 ---
 ## Praktika
 [[Netzwerkbefehle-Praktikum-Netze 1.pdf]]
-[[P1]]
+[[P1.pdf]]
 [[P2.pdf]]
 [[P3.pdf]]
 [[P4.pdf]]
+[[P5.pdf]]
+[[P6.pdf]]
+[[P7.pdf]]
 
 ---
 ## Klausurvorbereitung  
