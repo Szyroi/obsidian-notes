@@ -98,7 +98,7 @@ $A \ B := {x ∈ A | x ∉ B}$ („A ohne B“)
 
 ## 0.8 Kartesisches Produkt
 **Definition:**  
-Für Mengen A₁,...,Aₙ:  
+Für Mengen $A₁,...,Aₙ$:  
 $$
 \bigotimes_{i=1}^{n} A_i = A_1 × ... × A_n = \{(a_1,...,a_n) | a_i ∈ A_i\}
 $$
