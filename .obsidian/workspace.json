@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e5227d25d9fff41",
+            "id": "0d931b289eba311d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/08_Typanpassung_Operatoren_Methoden.pdf"
+                "file": "02 - Studium/Module/Netze/Modulbeschreibung.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "08_Typanpassung_Operatoren_Methoden"
+              "icon": "lucide-file",
+              "title": "Modulbeschreibung"
             }
           }
         ]
@@ -167,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e5227d25d9fff41",
+  "active": "0d931b289eba311d",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/08_Typanpassung_Operatoren_Methoden.pdf",
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/Technische Informatik/Modulbeschreibung.md",
@@ -203,7 +206,6 @@
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 - Ausfuehren von Programmen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Switch.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md"
   ]
 }

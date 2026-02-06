@@ -10,7 +10,12 @@ tags:
 
 ## Vorlesungsübersicht
 #vorlesung #netze
-
+[[Vorlesung-01.pdf]]
+[[Vorlesung-02.pdf]]
+[[Vorlesung-03.pdf]]
+[[Vorlesung-04.pdf]]
+[[Vorlesung-05.pdf]]
+[[Vorle]]
 
 
 ---
