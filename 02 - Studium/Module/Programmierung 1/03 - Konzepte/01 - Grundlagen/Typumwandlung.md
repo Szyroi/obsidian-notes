@@ -52,3 +52,9 @@ System.out.println(j); // Ausgabe: 7
 - Verlust von Nachkommastellen bei explizitem Cast nicht berücksichtigt
 - Ungültiger Cast, z.B. `String s = (String) 5;` → Compilerfehler
 - Missverständnis zwischen impliziter und expliziter Typumwandlung
+
+## Klausurhinweise
+
+- Unterschied zwischen **implizit und explizit** kennen
+- Häufig: „Was ist das Ergebnis nach der Umwandlung?“
+- Typumwandlungen bei Berechnungen prüfen (z.B. `int / double`)
