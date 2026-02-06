@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.5 - Switch.md",
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.6 - SPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 - Switch"
+              "title": "2.6 - SPT"
             }
           }
         ]
@@ -187,8 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca1a20ef4c9e6566",
+  "active": "a961d4c1dfcb5b0d",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.6 - SPT.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.5 - Switch.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.4 - MAC-Adressen.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.3 - WLAN.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/2-Data Link Layer/2.2 - Ethernet.md",
@@ -219,8 +221,6 @@
     "02 - Studium/Module/Netze/01 - Vorlesungen/03 - Ethernet und WLAN.md",
     "02 - Studium/Module/Netze/01 - Vorlesungen/04 - Pv4, Subnetze, ARP, ICMP.md",
     "02 - Studium/Module/Netze/01 - Vorlesungen/05 - IPv6 und Autokonfiguration.md",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/06 - Netzwerksegmentierung.md",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/08 - Transportschicht und UDP.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-07.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
