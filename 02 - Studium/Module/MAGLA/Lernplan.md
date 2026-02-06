@@ -4,7 +4,6 @@
 - Mengenoperationen, Kartesisches Produkt, Teilmengen
 - Aussagenlogik, Wahrheitstafeln, Junktoren
 - Beweistechniken: direkter Beweis, Kontraposition, Widerspruch, vollständige Induktion
-    
 
 ### **Passende Altklausur-Aufgaben:**
 
@@ -13,7 +12,6 @@
 3. **KlausurS24: Aufgabe 1** (vollständige Induktion mit rekursiver Definition)
 4. **KlausurWS22_23: Aufgabe 1a,b,c** (Mengendarstellung, logische Ausdrücke, Beweis A×C ⊆ B×C)
 5. **KlausurWS23: Aufgabe 1c** (Beweis mit Kontraposition, modulo-Rechnung)
-    
 
 ### **Übungsfokus:**
 - Mengengleichungen beweisen
@@ -36,7 +34,6 @@
 3. **KlausurWS22_23: Aufgabe 2a,b,c** (Injektivität, Surjektivität, Beweis mit Komposition)
 4. **KlausurWS22_23: Aufgabe 3** (Relationeneigenschaften, R² reflexiv, Induktion über Rⁿ)
 5. **KlausurWS23: Aufgabe 2a,b,c** (Definitionen, Beispiele, Äquivalenzrelation)
-    
 
 ### **Übungsfokus:**
 
