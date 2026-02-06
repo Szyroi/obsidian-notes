@@ -68,31 +68,31 @@ Zwei Mengen sind gleich, wenn sie **die gleichen Elemente enthalten**.
 ## 0.5 Vereinigungsmenge
 **Definition:**  
 A ∪ B := {x ∈ U | x ∈ A oder x ∈ B}  
-Für Familie (Ai)ᵢ: ⋃_{i=1}^{n} Ai = A₁ ∪ A₂ ∪ ... ∪ Aₙ
+Für Familie $(Ai)ᵢ: ⋃_{i=1}^{n} Ai = A₁ ∪ A₂ ∪ ... ∪ Aₙ$
 
 **Beispiel:**  
-A = {1,2}, B = {2,3} ⇒ A ∪ B = {1,2,3}
+$A = {1,2}, B = {2,3} ⇒ A ∪ B = {1,2,3}$
 
 ---
 
 ## 0.6 Schnittmenge
 **Definition:**  
-A ∩ B := {x ∈ U | x ∈ A und x ∈ B}  
-Für Familie (Ai)ᵢ: ⋂_{i=1}^{n} Ai = A₁ ∩ ... ∩ Aₙ
+$A ∩ B := {x ∈ U | x ∈ A und x ∈ B}$
+Für Familie $(Ai)ᵢ: ⋂_{i=1}^{n} Ai = A₁ ∩ ... ∩ Aₙ$
 
 **Beispiel:**  
-A = {1,2}, B = {2,3} ⇒ A ∩ B = {2}
+$A = {1,2}, B = {2,3} ⇒ A ∩ B = {2}$
 
 ---
 
 ## 0.7 Komplement
 **Definition:**  
-¬A := {x ∈ U | x ∉ A} (Komplement)  
-A \ B := {x ∈ A | x ∉ B} („A ohne B“)
+$¬A := {x ∈ U | x ∉ A}$ (Komplement)  
+$A \ B := {x ∈ A | x ∉ B}$ („A ohne B“)
 
 **Sätze:**  
-- A ∩ B = ¬A ∪ ¬B  
-- A ⊆ B ⇒ ¬B ⊆ ¬A (Antitonie)
+- $A ∩ B = ¬A ∪ ¬B$  
+- $A ⊆ B ⇒ ¬B ⊆ ¬A$ (Antitonie)
 
 ---
 
@@ -104,8 +104,8 @@ $$
 $$
 
 **Beispiel:**  
-A = {1,2}, B = {x,y}  
-A × B = {(1,x),(1,y),(2,x),(2,y)}
+$A = {1,2}, B = {x,y}$
+$A × B = {(1,x),(1,y),(2,x),(2,y)}$
 
 **Klausurhinweis:**  
 - Tupel korrekt angeben  
