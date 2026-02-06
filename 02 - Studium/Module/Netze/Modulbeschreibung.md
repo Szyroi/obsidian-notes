@@ -28,13 +28,20 @@ tags:
 ## Zentrale Konzepte
 #konzept #netze
 [[1.0 - Physical Layer]]
+[[1.1 - Kanalkapazität]]
+[[1.2 - Link Kapazitäten]]
+[[1.3 - Repeater]]
+[[1.4 - Kabel]]
+
 [[2.0 - Data Link Layer]]
+[[2.1 - Frames]]
+[[]]
+
 [[3.0 Network Layer]]
 [[4.0 - Transport Layer]]
 [[5.0 - Application Layer]]
 [[1.0 - Routing]]
 [[1.0 - VPN]]
-[[]]
 
 ---
 ## Übungen & Aufgaben  
