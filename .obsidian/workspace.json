@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
+                "file": "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Relationen und Funktionen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beweistechniken"
+              "title": "Relationen und Funktionen"
             }
           }
         ]
@@ -171,11 +171,12 @@
   },
   "active": "99b5ee33ba7d1ad3",
   "lastOpenFiles": [
-    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Aussagenlogik.md",
-    "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Ordnungen und Aequivalenzrelationen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Abbildungen und Funktionen.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Aussagenlogik.md",
+    "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Algebraische Strukturen/Ringe und Körper.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Algebraische Strukturen/Gruppen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Algebraische Strukturen/Halbgruppen und Monoide.md",
@@ -186,7 +187,6 @@
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Relationen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Relationen und Funktionen.md",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Ordnungen und Aequivalenzrelationen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Restklassen und GGT.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/06 - Euklidische Raueme",
     "02 - Studium/Module/MAGLA/03 - Konzepte/05 - Eigenwerte und Eigenvektoren",
