@@ -25,7 +25,7 @@ Eine **Funktion** f: A → B ist eine Relation, bei der jedem a ∈ A genau ein 
 
 ## Beispiele
 - Relation: „x ist größer als y“ auf ℤ: R = {(x,y) | x > y}  
-- Funktion: $f(x) = x² auf ℝ$  
+- Funktion: f(x) = x² auf ℝ  
 
 ## Eigenschaften von Funktionen
 - injektiv (jedes Bild höchstens einmal)  
@@ -40,5 +40,3 @@ Eine **Funktion** f: A → B ist eine Relation, bei der jedem a ∈ A genau ein 
 - Beispiele als Mengen schreiben  
 - Injektivität, Surjektivität prüfen
 
-## Bezug zur Vorlesung
-- 1
