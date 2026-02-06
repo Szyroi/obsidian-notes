@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/University MOC.md",
+                "file": "02 - Studium/Module/MAGLA/MAGLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "University MOC"
+              "title": "MAGLA"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "bcd5e41a9997ffd4",
   "lastOpenFiles": [
+    "02 - Studium/University MOC.md",
+    "02 - Studium/Module/MAGLA/MAGLA.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Structs.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Strings.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Pointer Arithmetik.md",
@@ -204,8 +206,6 @@
     "02 - Studium/Module/Netze/Netze.md",
     "02 - Studium/Module/ADG/Modulbeschreibung.md",
     "05 - Archive/Datenbanken/Datenbanken Vorlesung 13.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.1 - Baum.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.2 - Bus.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.3 - Mesh.md"
+    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.1 - Baum.md"
   ]
 }

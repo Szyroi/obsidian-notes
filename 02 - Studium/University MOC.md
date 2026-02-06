@@ -8,11 +8,11 @@ tags:
 # MOC - University
 
 ## Module
-### WS
-
+### WS 25/26
+[[Technische Informatik]]
 [[Programmierung 1]]
 [[Netze]]
-
+[[MAGLA]]
 
 ### SoSe 26
 [[Programmierung 2]]
