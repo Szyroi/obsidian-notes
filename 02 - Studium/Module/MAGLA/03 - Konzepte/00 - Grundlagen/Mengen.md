@@ -9,7 +9,8 @@ klausur: true
 
 # Mengen
 
-## 0.1 
+## 0.1 Menge 
+**Definition**
 
 
 ## 0.2 Leere Menge
