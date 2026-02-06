@@ -10,7 +10,8 @@ klausur: true
 # Mengen
 
 ## 0.1 Menge 
-**Definition**
+**Definition:**
+Eine Menge ist eine Sammlung verschiedener Objekte, auch Elemente genannt, di
 
 
 ## 0.2 Leere Menge
