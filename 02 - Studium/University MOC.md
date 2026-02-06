@@ -1,6 +1,5 @@
 ---
 type: moc
-modul:
 tags:
   - moc
 ---
