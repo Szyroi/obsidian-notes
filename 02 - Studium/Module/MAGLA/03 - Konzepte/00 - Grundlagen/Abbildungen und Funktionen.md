@@ -44,5 +44,3 @@ Eine **Funktion** f: A → B ordnet jedem a ∈ A genau ein b ∈ B zu.
 
 ---
 
-## Bezug zur Vorlesung
-- [[VL_07_Abbildungen_und_Funktionen]]
