@@ -1,0 +1,3 @@
+
+# Ethernet und WLAN
+#netze 
