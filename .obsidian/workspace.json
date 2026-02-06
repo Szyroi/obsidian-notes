@@ -24,6 +24,24 @@
         ]
       },
       {
+        "id": "d132ec6028e999eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68747cec930967fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-08"
+            }
+          }
+        ]
+      },
+      {
         "id": "3040634f5104f6b0",
         "type": "tabs",
         "children": [
@@ -189,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d931b289eba311d",
+  "active": "68747cec930967fd",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
     "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-04.pdf",
     "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
@@ -204,9 +224,7 @@
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Gedächtnisprotokoll_Netze_15_07_2024.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_SS_2025.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Multiple Choice Aufgaben.pdf",
-    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P2.pdf",
-    "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.md",
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/Technische Informatik/Modulbeschreibung.md",
