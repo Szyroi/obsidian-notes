@@ -34,7 +34,13 @@ tags:
 ## Übungen & Aufgaben  
 #uebung #netze
 [[Uebungsblatt-1_Netze_2026.pdf]]
-[[]]
+[[Uebungsblatt-2_Netze_2026.pdf]]
+[[Uebungsblatt-3_Netze_2026.pdf]]
+[[Wiederholung.pdf]]
+
+---
+## Praktika
+[[P]]
 
 ---
 ## Klausurvorbereitung  
