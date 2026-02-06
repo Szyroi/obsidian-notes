@@ -11,32 +11,10 @@
             "id": "0d931b289eba311d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Studium/Module/Netze/03 - Konzepte/Routing/1.0 - Routing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.0 - Routing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4bb6bc90b4336458",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44d48a0386cfdf7e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-07.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-07"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -207,9 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44d48a0386cfdf7e",
+  "active": "0d931b289eba311d",
   "lastOpenFiles": [
     "02 - Studium/Module/Netze/03 - Konzepte/Routing/1.0 - Routing.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-07.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-09.pdf",
     "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-10.pdf",
@@ -226,7 +205,6 @@
     "02 - Studium/Module/Netze/04 - Zusammenfassung",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_25_26_Gedächtnisklausur.pdf",
-    "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Gedächtnisprotokoll_Netze_15_07_2024.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.md",
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/Technische Informatik/Modulbeschreibung.md",
