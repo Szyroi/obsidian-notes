@@ -27,26 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
+                "file": "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ausdruecke"
-            }
-          },
-          {
-            "id": "cc1872e63a04a657",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Modulbeschreibung"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "493e28f847454f85",
@@ -212,10 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc1872e63a04a657",
+  "active": "b286e355b11a8451",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
+    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/08_Typanpassung_Operatoren_Methoden.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
     "06 - Templates/Programmierung 1/Grundlagen.md",
@@ -243,7 +235,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do-While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
     "03 - Knowledge/Japanisch　にひんご/Grammatik/Erste Grammatik.md",
-    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Übungsblätter/u05.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Funktional.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Objektorientiert.md",

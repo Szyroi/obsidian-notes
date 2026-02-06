@@ -78,8 +78,8 @@ tags:
 ---
 
 ## Verknüpfte Module im Curriculum  
-- Nachfolger: [[Programmierung_2]] 
-- Verwandt: [[Software_Engineering_1]], [[Datenbanken]]
+- Nachfolger: [[Programmierung 2]] 
+- Verwandt: [[Software_Engineering 1]], [[Datenbanken]]
 
 ---
 
