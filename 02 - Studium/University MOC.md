@@ -7,7 +7,7 @@ tags:
 
 # MOC - University
 
-## Module
+## **Module**
 ### WS 25/26
 [[Technische Informatik]]
 [[Programmierung 1]]
@@ -19,7 +19,7 @@ tags:
 [[Systemnahe Programmierung]]
 [[Datenbanken]]
 [[ADG]]
-
+[[Analysis]]
 
 
 
