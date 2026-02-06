@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b37486fcd874d02",
+        "id": "f8fb4ad277267d83",
         "type": "tabs",
         "children": [
           {
-            "id": "5916278ad332d44b",
+            "id": "99b5ee33ba7d1ad3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mengenlehre"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5916278ad332d44b",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Abbildungen.md",
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Aussagenlogik.md",
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Beweisprinzipien.md",
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Relationen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/Relationen/Relationen und Funktionen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/Relationen/Ordnungen und Aequivalenzrelationen.md",
@@ -202,10 +202,6 @@
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/06 - Refkletion/Reflection in Java.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/05 - UnitTesting/Test Driven Development.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/05 - UnitTesting/JUnit Basics.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/04 - Functional Programming/Higher Order Functions.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/04 - Functional Programming/Lambda.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Adapter Pattern.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Strategy Pattern.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Iterator Pattern.md"
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/04 - Functional Programming/Higher Order Functions.md"
   ]
 }
