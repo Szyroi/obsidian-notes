@@ -13,9 +13,10 @@ klausur: true
 **Definition:**
 Eine Menge ist eine Sammlung verschiedener Objekte, auch Elemente genannt, die aus einem Universum z.B. den Ganzen Zahlne Stammen.
 
+Aufzählenden Darstellung:
 
-
-
+Beschreibende Darstellung:
+- $A = $
 ## 0.2 Leere Menge
 **Definition:**  
 Die **leere Menge** ∅ := {} := {x | x ≠ x} enthält **keine Elemente**.  
