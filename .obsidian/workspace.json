@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
                 "mode": "source",
                 "source": false
               },
@@ -189,17 +189,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a961d4c1dfcb5b0d",
+  "active": "0d931b289eba311d",
   "lastOpenFiles": [
-    "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
+    "02 - Studium/Module/Netze/04 - Zusammenfassung",
+    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_25_26_Gedächtnisklausur.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Gedächtnisprotokoll_Netze_15_07_2024.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_SS_2025.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Multiple Choice Aufgaben.pdf",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P2.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.md",
@@ -212,12 +214,10 @@
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C/Darstellung von Zahlen.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte",
-    "02 - Studium/Resourcen/Textbooks/Automaten und Sprachen.pdf",
     "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
     "06 - Templates/Programmierung 1/Grundlagen.md",
     "06 - Templates/Programmierung 1/Kontrollstrukturen.md",
