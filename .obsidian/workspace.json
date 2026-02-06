@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "16392b40702d0ec1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
             "id": "e5c5c2a54a6ec790",
             "type": "leaf",
             "state": {
@@ -196,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16392b40702d0ec1",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns",
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/01 - Generics",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/ADG/Modulbeschreibung.md",
     "05 - Archive/Datenbanken/Datenbanken Vorlesung 13.md",
@@ -231,8 +221,6 @@
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.1 - DNS.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.3 - QUIC.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.2 - UDP.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.1 - TCP.md",
-    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-14.pdf"
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.2 - UDP.md"
   ]
 }
