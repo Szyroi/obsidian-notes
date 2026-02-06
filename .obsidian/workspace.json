@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/Structs.md",
+                "file": "02 - Studium/Module/Systemnahe Programmierung/Modulbeschreibung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structs"
+              "title": "Modulbeschreibung"
             }
           }
         ]
@@ -207,13 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "da63d5761ee0cecd",
   "lastOpenFiles": [
-    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/Darstellung von Zahlen.md",
+    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C/Structs.md",
+    "02 - Studium/Module/Systemnahe Programmierung/Modulbeschreibung.md",
+    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C",
+    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C/Darstellung von Zahlen.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte",
     "02 - Studium/Resourcen/Textbooks/Automaten und Sprachen.pdf",
     "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
-    "02 - Studium/Module/Systemnahe Programmierung/Untitled.md",
     "02 - Studium/Module/Systemnahe Programmierung/02 - Übungen",
     "02 - Studium/Module/Systemnahe Programmierung/01 - Vorlesungen",
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien",
@@ -224,7 +226,6 @@
     "02 - Studium/Module/Programmierung 2/03 - Konzepte",
     "02 - Studium/Module/Programmierung 2/02 - Übungen",
     "02 - Studium/Module/Programmierung 2/01 - Vorlesungen",
-    "02 - Studium/Module/Programmierung 2/00 - Materialien",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
@@ -243,7 +244,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do-While.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
-    "03 - Knowledge/Japanisch　にひんご/Grammatik/Erste Grammatik.md"
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md"
   ]
 }
