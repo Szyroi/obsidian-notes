@@ -17,6 +17,8 @@ tags:
 ### SoSe 26
 [[Programmierung 2]]
 [[Systemnahe Programmierung]]
+[[Datenbanken]]
+[[ADG]]
 
 
 

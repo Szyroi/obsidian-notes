@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/MAGLA/MAGLA.md",
+                "file": "02 - Studium/University MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAGLA"
+              "title": "University MOC"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "bcd5e41a9997ffd4",
   "lastOpenFiles": [
+    "02 - Studium/Module/Datenbanken/Datenbanken.md",
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/MAGLA/MAGLA.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Structs.md",
@@ -204,8 +205,7 @@
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns/Iterator Pattern.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/01 - Generics/Generics.md",
     "02 - Studium/Module/Netze/Netze.md",
-    "02 - Studium/Module/ADG/Modulbeschreibung.md",
-    "05 - Archive/Datenbanken/Datenbanken Vorlesung 13.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.1 - Baum.md"
+    "02 - Studium/Module/ADG/ADG.md",
+    "05 - Archive/Datenbanken/Datenbanken Vorlesung 13.md"
   ]
 }

@@ -5,7 +5,7 @@ tags:
   - moc
 ---
 
-# MOC - MAGLA
+# MOC - {{modul}}
 
 ## Vorlesungsübersicht
 #vorlesung 
