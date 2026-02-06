@@ -9,24 +9,24 @@ tags:
 # MOC - Systemnahe Programmierung
 
 ## Vorlesungsübersicht
-#vorlesung 
+#vorlesung #systemnahe-programmierung 
 
 
 
 ---
 ## Zentrale Konzepte
-#konzept 
+#konzept #systemnahe-programmierung 
 
 
 
 ---
 ## Übungen & Aufgaben  
-#uebung 
+#uebung #systemnahe-programmierung 
 
 
 ---
 ## Klausurvorbereitung  
-#klausur 
+#klausur #systemnahe-programmierung  
 
 
 ---
