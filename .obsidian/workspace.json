@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
+                "file": "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/Structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typumwandlung"
-            }
-          },
-          {
-            "id": "b286e355b11a8451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulbeschreibung"
+              "title": "Structs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "32918a0f9b6141f5",
@@ -222,10 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b286e355b11a8451",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "02 - Studium/Module/Systemnahe Programmierung/Untitled.md",
+    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/Darstellung von Zahlen.md",
+    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte",
+    "02 - Studium/Resourcen/Textbooks/Automaten und Sprachen.pdf",
     "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
+    "02 - Studium/Module/Systemnahe Programmierung/Untitled.md",
     "02 - Studium/Module/Systemnahe Programmierung/02 - Übungen",
     "02 - Studium/Module/Systemnahe Programmierung/01 - Vorlesungen",
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien",
@@ -239,11 +227,9 @@
     "02 - Studium/Module/Programmierung 2/00 - Materialien",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
-    "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/08_Typanpassung_Operatoren_Methoden.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
     "06 - Templates/Programmierung 1/Grundlagen.md",
     "06 - Templates/Programmierung 1/Kontrollstrukturen.md",
-    "06 - Templates/Programmierung 1",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Initialisierung.md",
     "06 - Templates/Vorlesung.md",
@@ -258,7 +244,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/For.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Do-While.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/Break_Continue.md",
-    "03 - Knowledge/Japanisch　にひんご/Grammatik/Erste Grammatik.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/09 - Programmierparadigmen/Funktional.md"
+    "03 - Knowledge/Japanisch　にひんご/Grammatik/Erste Grammatik.md"
   ]
 }
