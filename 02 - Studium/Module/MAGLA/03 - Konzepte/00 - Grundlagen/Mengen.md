@@ -9,7 +9,10 @@ klausur: true
 
 # Mengen
 
-## 0.1 Leere Menge
+## 0.1 
+
+
+## 0.2 Leere Menge
 **Definition:**  
 Die **leere Menge** ∅ := {} := {x | x ≠ x} enthält **keine Elemente**.  
 ∀x ∈ Universum U: x ∉ ∅
@@ -26,7 +29,7 @@ Die **leere Menge** ∅ := {} := {x | x ≠ x} enthält **keine Elemente**.
 
 ---
 
-## 0.2 Kardinalität
+## 0.3 Kardinalität
 **Definition:**  
 Die **Kardinalität** $|A|$ einer Menge $A$ ist die **Anzahl ihrer Elemente**.
 
@@ -43,7 +46,7 @@ $A = {1,2,3,4}, B = {2,3} ⇒ |A|=4, |B|=2$
 
 ---
 
-## 0.3 Teilmenge
+## 0.4 Teilmenge
 **Definition:**  
 $B$ ist eine **Teilmenge** von $A (B ⊆ A)$, wenn $∀x ∈ B ⇒ x ∈ A$.
 
@@ -53,7 +56,7 @@ $B$ ist eine **Teilmenge** von $A (B ⊆ A)$, wenn $∀x ∈ B ⇒ x ∈ A$.
 
 ---
 
-## 0.4 Mengengleichheit
+## 0.5 Mengengleichheit
 **Definition:**  
 $A = B ⇔ A ⊆ B **und** B ⊆ A$  
 
@@ -65,7 +68,7 @@ Zwei Mengen sind gleich, wenn sie **die gleichen Elemente enthalten**.
 
 ---
 
-## 0.5 Vereinigungsmenge
+## 0.6 Vereinigungsmenge
 **Definition:**  
 $A ∪ B := {x ∈ U | x ∈ A oder x ∈ B}$  
 Für Familie $(Ai)ᵢ: ⋃_{i=1}^{n} Ai = A₁ ∪ A₂ ∪ ... ∪ Aₙ$
@@ -75,7 +78,7 @@ $A = {1,2}, B = {2,3} ⇒ A ∪ B = {1,2,3}$
 
 ---
 
-## 0.6 Schnittmenge
+## 0.7 Schnittmenge
 **Definition:**  
 $A ∩ B := {x ∈ U | x ∈ A und x ∈ B}$
 Für Familie $(Ai)ᵢ: ⋂_{i=1}^{n} Ai = A₁ ∩ ... ∩ Aₙ$
@@ -85,7 +88,7 @@ $A = {1,2}, B = {2,3} ⇒ A ∩ B = {2}$
 
 ---
 
-## 0.7 Komplement
+## 0.8 Komplement
 **Definition:**  
 $¬A := {x ∈ U | x ∉ A}$ (Komplement)  
 $A \ B := {x ∈ A | x ∉ B}$ („A ohne B“)
@@ -96,7 +99,7 @@ $A \ B := {x ∈ A | x ∉ B}$ („A ohne B“)
 
 ---
 
-## 0.8 Kartesisches Produkt
+## 0.9 Kartesisches Produkt
 **Definition:**  
 Für Mengen $A₁,...,Aₙ$:  
 $$
