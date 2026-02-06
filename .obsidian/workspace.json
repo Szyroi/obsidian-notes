@@ -18,6 +18,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "4e884d68f22e26e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1a20ef4c9e6566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/1-Physical Layer/1.2 - Link Kapazitäten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 - Link Kapazitäten"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,8 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "ca1a20ef4c9e6566",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/1-Physical Layer/1.1 - Kanalkapazität.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "02 - Studium/Module/Netze/01 - Vorlesungen/07 - Routing.md",
     "02 - Studium/Module/Netze/03 - Konzepte/03 - Routing/1.0 - Routing.md",
     "02 - Studium/Module/Netze/01 - Vorlesungen/14 - Moderne Netzstrukturen.md",
@@ -200,8 +222,6 @@
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Mesh.md",
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Bus.md",
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Baum.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.0 - Topologien.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md"
+    "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.0 - Topologien.md"
   ]
 }
