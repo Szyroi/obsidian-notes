@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Ausdruecke"
             }
+          },
+          {
+            "id": "cc1872e63a04a657",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "493e28f847454f85",
@@ -201,11 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da63d5761ee0cecd",
+  "active": "cc1872e63a04a657",
   "lastOpenFiles": [
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Programmierung 1/00 - Materialien/Folien/08_Typanpassung_Operatoren_Methoden.pdf",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Datentypen.md",
     "06 - Templates/Programmierung 1/Grundlagen.md",
     "06 - Templates/Programmierung 1/Kontrollstrukturen.md",
