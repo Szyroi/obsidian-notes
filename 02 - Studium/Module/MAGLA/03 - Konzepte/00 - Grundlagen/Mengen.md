@@ -47,7 +47,7 @@ Falls $B ⊆ A ⇒ |B| ≤ |A|$
 Falls $B ⊆ A \text{ und } A ⊆ C ⇒ B ⊆ C$
 
 **Beispiel:**  
-$A = {1,2,3,4}\ \text{ } B = {2,3} ⇒ |A|=4, |B|=2$
+$A = \{1,2,3,4\} \text{ } B = \{2,3\} ⇒ |A|= 4, |B| = 2$
 
 **Klausurhinweis:**  
 - Kardinalität von Teilmengen bestimmen  
