@@ -4,11 +4,15 @@ modul:
 tags:
   - moc
 ---
+
+# MOC - {{Modul}}
+
 ## Vorlesungsübersicht
 #vorlesung 
 
 
 
+---
 ## Zentrale Konzepte
 #konzept 
 
@@ -25,3 +29,5 @@ tags:
 
 
 ---
+
+
