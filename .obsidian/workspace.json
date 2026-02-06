@@ -11,10 +11,14 @@
             "id": "bcd5e41a9997ffd4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -167,10 +171,16 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/SS21-Klausur-Loesung.pdf",
+    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/PiC-SS21-Klausur (1).pdf",
+    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/SS14-Probeklausur-Loesung.pdf",
+    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/PiC-SS14-Probeklausur (1).pdf",
+    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren",
+    "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
+    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Untitled.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/02 - Betriebssystem",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/03 - Python",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen/Stack.md",
-    "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen/Queue.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen/List vs Set vs Map.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/06 - Refkletion/Reflection in Java.md",
@@ -187,11 +197,6 @@
     "02 - Studium/Module/Programmierung 2/04 - Code",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/06 - Refkletion",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/05 - UnitTesting",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/04 - Functional Programming",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/02 - Design Patterns",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/01 - Generics",
     "02 - Studium/Module/ADG/Modulbeschreibung.md",
     "05 - Archive/Datenbanken/Datenbanken Vorlesung 13.md",
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.1 - Baum.md",
@@ -201,7 +206,6 @@
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.5 - Stern.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/04 - VPN/1.0 - VPN.md",
-    "02 - Studium/Module/Netze/03 - Konzepte/03 - Routing/1.4 - Bellamn Ford Algorithmus.md"
+    "02 - Studium/Module/Netze/03 - Konzepte/04 - VPN/1.0 - VPN.md"
   ]
 }
