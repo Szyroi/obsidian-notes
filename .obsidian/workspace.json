@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/MAGLA/Lernplan.md",
+                "file": "02 - Studium/Module/MAGLA/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lernplan"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "99b5ee33ba7d1ad3",
   "lastOpenFiles": [
-    "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Relationen und Funktionen.md",
     "02 - Studium/Module/MAGLA/Lernplan.md",
+    "02 - Studium/Module/MAGLA/Untitled.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Relationen und Funktionen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Ordnungen und Aequivalenzrelationen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
@@ -204,7 +205,6 @@
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Pointer.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Daten Typen.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen/Darstellung von Zahlen.md",
-    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Untitled.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen",
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/WS20_21-Klausur-Loesung.pdf"
   ]
