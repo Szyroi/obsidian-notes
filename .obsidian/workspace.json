@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
                 "mode": "source",
                 "source": false
               },
@@ -189,16 +189,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d931b289eba311d",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
-    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-10.pdf",
+    "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-09.pdf",
+    "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
-    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-04.pdf",
-    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-03.pdf",
-    "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-02.pdf",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Netze/04 - Zusammenfassung",
@@ -206,7 +209,6 @@
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_25_26_Gedächtnisklausur.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Gedächtnisprotokoll_Netze_15_07_2024.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_SS_2025.pdf",
-    "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Multiple Choice Aufgaben.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.md",
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/Technische Informatik/Modulbeschreibung.md",
@@ -224,7 +226,6 @@
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Initialisierung.md",
     "06 - Templates/Vorlesung.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md"
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md"
   ]
 }
