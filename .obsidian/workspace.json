@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Algebraische Strukturen/Untitled.md",
+                "file": "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Beweistechniken"
             }
           }
         ]
@@ -171,8 +171,14 @@
   },
   "active": "99b5ee33ba7d1ad3",
   "lastOpenFiles": [
+    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Abbildungen und Funktionen.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Aussagenlogik.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Algebraische Strukturen/Ringe und Körper.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Algebraische Strukturen/Gruppen.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Algebraische Strukturen/Halbgruppen und Monoide.md",
     "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Algebraische Strukturen/Untitled.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Abbildungen.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Aussagenlogik.md",
@@ -200,11 +206,6 @@
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Untitled.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/01 - C/Grundlagen",
     "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien/Altklausuren/WS20_21-Klausur-Loesung.pdf",
-    "02 - Studium/Module/Programmierung 2/Programmierung 2.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen/Stack.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen/Queue.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen/List vs Set vs Map.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/06 - Refkletion/Reflection in Java.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/05 - UnitTesting/Test Driven Development.md"
+    "02 - Studium/Module/Programmierung 2/Programmierung 2.md"
   ]
 }
