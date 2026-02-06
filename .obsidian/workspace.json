@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/2-Data Link Layer/2.0 - Data Link Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 - Physical Layer"
+              "title": "2.0 - Data Link Layer"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "0d931b289eba311d",
   "lastOpenFiles": [
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/1-Physical Layer/1.0 - Physical Layer.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-02.pdf",
+    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Ausdruecke.md",
     "02 - Studium/Module/Netze/04 - Zusammenfassung",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_25_26_Gedächtnisklausur.pdf",
@@ -213,7 +214,6 @@
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C/Structs.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C/Darstellung von Zahlen.md",
-    "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte",
     "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
