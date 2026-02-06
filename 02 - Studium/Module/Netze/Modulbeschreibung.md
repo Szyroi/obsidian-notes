@@ -45,10 +45,16 @@ tags:
 [[3.0 Network Layer]]
 [[3.1 - Internet Protocol (IP)]]
 [[3.2 - IPv4]]
-[[3.]]
+[[3.3 - IPv6]]
+[[3.4 - SLAAC]]
+[[3.5 - Router]]
 
 
 [[4.0 - Transport Layer]]
+[[4.1 - TCP]]
+[[4.2 - UDP]]
+[[4.3 - QUIC]]
+
 [[5.0 - Application Layer]]
 [[1.0 - Routing]]
 [[1.0 - VPN]]
