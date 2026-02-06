@@ -11,7 +11,7 @@ klausur: true
 
 ## 0.1 Menge 
 **Definition:**
-Eine Menge ist eine Sammlung verschiedener Objekte, auch Elemente genannt, die aus einem Universum z.B. den Ganzen Zahlne Stammen Man schreibt $a \in $.
+Eine Menge ist eine Sammlung verschiedener Objekte, auch Elemente genannt, die aus einem Universum z.B. den Ganzen Zahlne Stammen Man schreibt $a \in A$, wenn $a$ ein Element der Menge $A$ ist, anderfalls $a \notin A$.
 
 Aufzählenden Darstellung:
 - $A = \{ a,b,c,d \}$
@@ -23,7 +23,7 @@ Beschreibende Darstellung:
 
 ## 0.2 Leere Menge
 **Definition:**  
-Die **leere Menge** ∅ := {} := {x | x ≠ x} enthält **keine Elemente**.  
+Die **leere Menge** $∅ := {} := {x | x ≠ x}$ enthält **keine Elemente**.  
 ∀x ∈ Universum U: x ∉ ∅
 
 **Intuition:**  
