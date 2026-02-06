@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/01 - Vorlesungen/12 - TLS und VPN.md",
+                "file": "02 - Studium/Module/Netze/01 - Vorlesungen/14 - Moderne Netzstrukturen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - TLS und VPN"
+              "title": "14 - Moderne Netzstrukturen"
             }
           }
         ]
@@ -33,10 +33,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-13.pdf"
+                "file": "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-14.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vorlesung-13"
+              "title": "Vorlesung-14"
             }
           }
         ]
@@ -207,12 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd8623d849b5b6b4",
+  "active": "0d931b289eba311d",
   "lastOpenFiles": [
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-14.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-13.pdf",
-    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-12.pdf",
+    "02 - Studium/Module/Netze/01 - Vorlesungen/14 - Moderne Netzstrukturen.md",
+    "02 - Studium/Module/Netze/01 - Vorlesungen/13 - Messaging.md",
     "02 - Studium/Module/Netze/01 - Vorlesungen/12 - TLS und VPN.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-12.pdf",
     "02 - Studium/Module/Netze/01 - Vorlesungen/11 - HTTP2 und QUIC.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-11.pdf",
     "02 - Studium/Module/Netze/01 - Vorlesungen/10 - DNS und HTTP 1.md",
@@ -233,7 +235,6 @@
     "06 - Templates/Vorlesung.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-05.pdf",
-    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-04.pdf",
     "02 - Studium/Module/Netze/04 - Zusammenfassung/Zusammenfassung.md",
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Stern.md",
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Ring.md",
@@ -242,8 +243,6 @@
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/Baum.md",
     "02 - Studium/Module/Netze/03 - Konzepte/01 - Topologien/1.0 - Topologien.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 - Ausfuehren von Programmen.md"
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md"
   ]
 }
