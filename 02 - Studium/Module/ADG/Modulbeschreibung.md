@@ -1,3 +1,7 @@
+---
+type: moc
+modul:
+---
 # MOC – Algorithmen, Datenstrukturen & Graphentheorie
 #algorithmik
 
@@ -11,7 +15,7 @@
 - [[Liste]]
 - [[Stack]]
 - [[Queue]]
-- [[1.1 - Baum]]
+- [[Baum]]
 - [[Heap]]
 - [[Graph_Repräsentation]]
 
@@ -27,4 +31,4 @@
 - [[Laufzeitanalyse]]
 
 ## Klausur
-- [[Typische_Aufgaben_Modul_604]]
+
