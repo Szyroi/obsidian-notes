@@ -1,7 +1,10 @@
 ---
 type: konzept
 modul: Mathematische Grundlagen und Lineare Algebra
-tags: [relationen, funktionen, grundlagen, klausur]
+tags:
+  - relationen
+  - funktionen
+  - grundlagen
 klausur: true
 ---
 
@@ -22,7 +25,7 @@ Eine **Funktion** f: A → B ist eine Relation, bei der jedem a ∈ A genau ein 
 
 ## Beispiele
 - Relation: „x ist größer als y“ auf ℤ: R = {(x,y) | x > y}  
-- Funktion: f(x) = x² auf ℝ  
+- Funktion: $f(x) = x² auf ℝ$  
 
 ## Eigenschaften von Funktionen
 - injektiv (jedes Bild höchstens einmal)  
@@ -38,4 +41,4 @@ Eine **Funktion** f: A → B ist eine Relation, bei der jedem a ∈ A genau ein 
 - Injektivität, Surjektivität prüfen
 
 ## Bezug zur Vorlesung
-- [[VL_01_Relationen_und_Funktionen]]
+- 1
