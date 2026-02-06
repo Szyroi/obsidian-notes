@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
+                "file": "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Algorithmen"
+              "title": "06 - Kontrollstrukturen"
             }
           }
         ]
@@ -227,10 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfbb922745dfac13",
+  "active": "0d931b289eba311d",
   "lastOpenFiles": [
-    "02 - Studium/Module/Netze/01 - Vorlesungen/01 - Einführung und OSI-Modell.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/06 - Kontrollstrukturen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/05 - Bitoperation_Fließkommazahlen_Zeichenketten.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md",
+    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/04 - Ausfuehren von Programmen.md",
     "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
+    "02 - Studium/Module/Netze/01 - Vorlesungen/01 - Einführung und OSI-Modell.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-01.pdf",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/Netze/03 - Konzepte/Untitled",
@@ -260,9 +264,6 @@
     "06 - Templates/Modulbeschreibung.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C/Structs.md",
     "02 - Studium/Module/Systemnahe Programmierung/03 - Konzepte/C/Darstellung von Zahlen.md",
-    "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
-    "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
-    "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md"
+    "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md"
   ]
 }
