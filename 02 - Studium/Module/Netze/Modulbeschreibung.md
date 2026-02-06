@@ -15,8 +15,14 @@ tags:
 [[Vorlesung-03.pdf]]
 [[Vorlesung-04.pdf]]
 [[Vorlesung-05.pdf]]
-[[Vorle]]
-
+[[Vorlesung-06.pdf]]
+[[Vorlesung-07.pdf]]
+[[Vorlesung-08.pdf]]
+[[Vorlesung-09.pdf]]
+[[Vorlesung-10.pdf]]
+[[Vorlesung-11.pdf]]
+[[Vorlesung-12.pdf]]
+[[Vorlesung-13.pdf]]
 
 ---
 ## Zentrale Konzepte
@@ -27,7 +33,8 @@ tags:
 ---
 ## Übungen & Aufgaben  
 #uebung #netze
-
+[[Uebungsblatt-1_Netze_2026.pdf]]
+[[]]
 
 ---
 ## Klausurvorbereitung  
