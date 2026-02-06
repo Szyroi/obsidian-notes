@@ -17,6 +17,7 @@ Aufzählenden Darstellung:
 
 Beschreibende Darstellung:
 - $A = {x \in U \mid x \text{ hat bestimmet Eigenschaft p}}$
+- $A = \{ x \in U \mid x  \}$
 ## 0.2 Leere Menge
 **Definition:**  
 Die **leere Menge** ∅ := {} := {x | x ≠ x} enthält **keine Elemente**.  
