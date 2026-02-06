@@ -79,7 +79,7 @@ Zwei Mengen sind gleich, wenn sie **die gleichen Elemente enthalten**.
 
 ## 0.6 Vereinigungsmenge
 **Definition:**  
-$A ∪ B := {x ∈ U | x ∈ A oder x ∈ B}$  
+$A ∪ B := {x ∈ U \mid x ∈ A \text{ oder } x ∈ B}$  
 Für Familie $(Ai)ᵢ: ⋃_{i=1}^{n} Ai = A₁ ∪ A₂ ∪ ... ∪ Aₙ$
 
 **Beispiel:**  
