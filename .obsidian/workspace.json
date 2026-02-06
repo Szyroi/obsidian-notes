@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "16392b40702d0ec1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "e5c5c2a54a6ec790",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Modulbeschreibung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a961d4c1dfcb5b0d",
+  "active": "16392b40702d0ec1",
   "lastOpenFiles": [
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
     "02 - Studium/Module/ADG/Modulbeschreibung.md",
