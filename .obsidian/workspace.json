@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.0 - Transport Layer"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d132ec6028e999eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "68747cec930967fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vorlesung-08"
+              "title": "5.0 - Application Layer"
             }
           }
         ]
@@ -207,9 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68747cec930967fd",
+  "active": "0d931b289eba311d",
   "lastOpenFiles": [
     "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
     "02 - Studium/Module/Netze/03 - Konzepte/Inhalte/OSI Modell/3-Network Layer/3.0 Network Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-04.pdf",
@@ -224,7 +207,6 @@
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Gedächtnisprotokoll_Netze_15_07_2024.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_SS_2025.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Multiple Choice Aufgaben.pdf",
-    "02 - Studium/Module/Netze/00 - Materialien/Praktika/P2.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Praktika/P1.md",
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/Technische Informatik/Modulbeschreibung.md",
