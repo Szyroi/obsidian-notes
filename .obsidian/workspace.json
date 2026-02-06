@@ -24,6 +24,24 @@
         ]
       },
       {
+        "id": "4bb6bc90b4336458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44d48a0386cfdf7e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-07.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Vorlesung-07"
+            }
+          }
+        ]
+      },
+      {
         "id": "3040634f5104f6b0",
         "type": "tabs",
         "children": [
@@ -189,11 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d931b289eba311d",
+  "active": "44d48a0386cfdf7e",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/03 - Konzepte/Routing/1.0 - Routing.md",
+    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-09.pdf",
     "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/5- Application Layer/5.0 - Application Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-10.pdf",
-    "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-09.pdf",
     "02 - Studium/Module/Netze/03 - Konzepte/OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
@@ -224,7 +243,6 @@
     "06 - Templates/Programmierung 1/Kontrollstrukturen.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/02 - Kontrollstrukturen/If-Else.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Initialisierung.md",
-    "06 - Templates/Vorlesung.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/03 - Programmiersprachen.md"
+    "06 - Templates/Vorlesung.md"
   ]
 }
