@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Aussagenlogik.md",
+                "file": "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aussagenlogik"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f95a82940268d281",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ebf42ce121f5a043",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Folien_zur_Vorlesung"
+              "title": "Beweistechniken"
             }
           }
         ]
@@ -189,8 +171,8 @@
   },
   "active": "99b5ee33ba7d1ad3",
   "lastOpenFiles": [
-    "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Aussagenlogik.md",
+    "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Abbildungen und Funktionen.md",

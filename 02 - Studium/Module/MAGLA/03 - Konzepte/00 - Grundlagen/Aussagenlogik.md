@@ -1,8 +1,11 @@
 ---
 type: konzept
 modul: Mathematische Grundlagen und Lineare Algebra
-tags: [aussagenlogik, formeln, grundlagen, klausur]
-klausur: true
+tags:
+  - aussagenlogik
+  - formeln
+  - grundlagen
+klausur: false
 ---
 
 # Aussagenlogische Formeln
