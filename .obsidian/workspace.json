@@ -22,6 +22,39 @@
             }
           }
         ]
+      },
+      {
+        "id": "3968ef327a857218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25cde982fbaee686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mengenlehre"
+            }
+          },
+          {
+            "id": "859b1add3c36026d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Folien_zur_Vorlesung"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,12 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99b5ee33ba7d1ad3",
+  "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Abbildungen und Funktionen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Aussagenlogik.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/Lernplan.md",
     "02 - Studium/Module/MAGLA/02 - Übungen/Untitled.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Relationen und Funktionen.md",
@@ -187,7 +221,6 @@
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Abbildungen.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Aussagenlogik.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Beweisprinzipien.md",
-    "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Relationen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Relationen/Restklassen und GGT.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/06 - Euklidische Raueme",
