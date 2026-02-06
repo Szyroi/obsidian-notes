@@ -35,9 +35,19 @@ tags:
 
 [[2.0 - Data Link Layer]]
 [[2.1 - Frames]]
-[[]]
+[[2.2 - Ethernet]]
+[[2.3 - WLAN]]
+[[2.4 - MAC-Adressen]]
+[[2.5 - Switch]]
+[[2.6 - SPT]]
+[[2.7 - VLAN]]
 
 [[3.0 Network Layer]]
+[[3.1 - Internet Protocol (IP)]]
+[[3.2 - IPv4]]
+[[3.]]
+
+
 [[4.0 - Transport Layer]]
 [[5.0 - Application Layer]]
 [[1.0 - Routing]]
