@@ -167,20 +167,21 @@
   },
   "active": "fa1f7f3fc75674ac",
   "lastOpenFiles": [
+    "02 - Studium/Module/MAGLA/03 - Konzepte/01 - Grundlagen",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Abbildungen.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Aussagenlogik.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Beweisprinzipien.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Relationen.md",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/Relationen/Relationen und Funktionen.md",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/Relationen/Ordnungen und Aequivalenzrelationen.md",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/Relationen/Restklassen und GGT.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Relationen/Relationen und Funktionen.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Relationen/Ordnungen und Aequivalenzrelationen.md",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Relationen/Restklassen und GGT.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/Euklidische Raueme",
     "02 - Studium/Module/MAGLA/03 - Konzepte/Eigenwerte und Eigenvektoren",
     "02 - Studium/Module/MAGLA/03 - Konzepte/Matrizen und LGS",
     "02 - Studium/Module/MAGLA/03 - Konzepte/Vektoren",
     "02 - Studium/Module/MAGLA/03 - Konzepte/Algebraische Strukturen",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/Relationen",
+    "02 - Studium/Module/MAGLA/03 - Konzepte/02 - Relationen",
     "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/University MOC.md",
     "02 - Studium/Module/Datenbanken/Datenbanken.md",
@@ -201,7 +202,6 @@
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/03 - Abstrakte Datentypen/List vs Set vs Map.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/06 - Refkletion/Reflection in Java.md",
     "02 - Studium/Module/Programmierung 2/03 - Konzepte/05 - UnitTesting/Test Driven Development.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/05 - UnitTesting/JUnit Basics.md",
-    "02 - Studium/Module/Programmierung 2/03 - Konzepte/04 - Functional Programming/Higher Order Functions.md"
+    "02 - Studium/Module/Programmierung 2/03 - Konzepte/05 - UnitTesting/JUnit Basics.md"
   ]
 }
