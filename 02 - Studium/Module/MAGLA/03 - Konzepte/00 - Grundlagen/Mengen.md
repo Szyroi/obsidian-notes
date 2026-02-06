@@ -16,7 +16,7 @@ Eine Menge ist eine Sammlung verschiedener Objekte, auch Elemente genannt, die a
 Aufzählenden Darstellung:
 
 Beschreibende Darstellung:
-- $A = $
+- $A = {x \in U | x \hat{ }}$
 ## 0.2 Leere Menge
 **Definition:**  
 Die **leere Menge** ∅ := {} := {x | x ≠ x} enthält **keine Elemente**.  
