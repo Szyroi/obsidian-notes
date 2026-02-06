@@ -58,7 +58,9 @@ tags:
 ## Klausurvorbereitung  
 #klausur #netze
 [[Gedächtnisprotokoll_Netze_15_07_2024.pdf]]
-[[]]
+[[Multiple Choice Aufgaben.pdf]]
+[[Netze_SS_2025.pdf]]
+[[Netze_25_26_Gedächtnisklausur.pdf]]
 
 ---
 
