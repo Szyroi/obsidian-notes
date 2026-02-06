@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/3-Network Layer/3.4 - SLAAC.md",
+                "file": "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.1 - TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4 - SLAAC"
+              "title": "4.1 - TCP"
             }
           }
         ]
@@ -189,6 +189,11 @@
   },
   "active": "ca1a20ef4c9e6566",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/4-Transport Layer/4.0 - Transport Layer.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.1 - DNS.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/5- Application Layer/5.0 - Application Layer.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/3-Network Layer/3.5 - Router.md",
+    "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/3-Network Layer/3.4 - SLAAC.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/3-Network Layer/3.2 - IPv4.md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/3-Network Layer/3.1 - Internet Protocol (IP).md",
     "02 - Studium/Module/Netze/03 - Konzepte/02 - OSI Modell/3-Network Layer/3.0 Network Layer.md",
@@ -213,14 +218,9 @@
     "02 - Studium/Module/Netze/01 - Vorlesungen/13 - Messaging.md",
     "02 - Studium/Module/Netze/01 - Vorlesungen/12 - TLS und VPN.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-12.pdf",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/11 - HTTP2 und QUIC.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-11.pdf",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/10 - DNS und HTTP 1.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-10.pdf",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/09 - TCP.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-09.pdf",
-    "02 - Studium/Module/Netze/01 - Vorlesungen/01 - Einführung und OSI-Modell.md",
-    "02 - Studium/Module/Programmierung 1/01 - Vorlesungen/02 - Algorithmen.md",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-08.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-07.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Folien/Vorlesung-06.pdf",
