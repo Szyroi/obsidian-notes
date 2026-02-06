@@ -56,7 +56,16 @@ tags:
 [[4.3 - QUIC]]
 
 [[5.0 - Application Layer]]
+[[5.1 - DNS]]
+[[5.2 - HTTP]]
+[[5.3 - HTTPS]]
+[[5.4 - DHCP]]
+[[5.5 - XMPP]]
+[[5.6 - TLS]]
+
 [[1.0 - Routing]]
+[[1.2]]
+
 [[1.0 - VPN]]
 
 ---
