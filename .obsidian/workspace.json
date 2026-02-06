@@ -11,10 +11,14 @@
             "id": "0d931b289eba311d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02 - Studium/Module/Netze/Modulbeschreibung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulbeschreibung"
             }
           }
         ]
@@ -165,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1f7f3fc75674ac",
+  "active": "0d931b289eba311d",
   "lastOpenFiles": [
+    "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_25_26_Gedächtnisklausur.pdf",
+    "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Gedächtnisprotokoll_Netze_15_07_2024.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Netze_SS_2025.pdf",
     "02 - Studium/Module/Netze/00 - Materialien/Altklausuren/Multiple Choice Aufgaben.pdf",
     "02 - Studium/Module/Netze/Modulbeschreibung.md",
@@ -189,8 +195,6 @@
     "02 - Studium/Resourcen/Textbooks/Automaten und Sprachen.pdf",
     "02 - Studium/Module/Programmierung 2/Modulbeschreibung.md",
     "02 - Studium/Module/Systemnahe Programmierung/02 - Übungen",
-    "02 - Studium/Module/Systemnahe Programmierung/01 - Vorlesungen",
-    "02 - Studium/Module/Systemnahe Programmierung/00 - Materialien",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/01 - Grundlagen/Typumwandlung.md",
     "02 - Studium/Module/Programmierung 1/Modulbeschreibung.md",
     "02 - Studium/Module/Programmierung 1/03 - Konzepte/05 - OOP Grundlagen/Objekte.md",

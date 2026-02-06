@@ -57,7 +57,8 @@ tags:
 ---
 ## Klausurvorbereitung  
 #klausur #netze
-
+[[Gedächtnisprotokoll_Netze_15_07_2024.pdf]]
+[[]]
 
 ---
 
