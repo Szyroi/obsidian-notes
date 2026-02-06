@@ -1,6 +1,6 @@
 
 # 06 - Netzwerksegmentierung
-#vorlesung 
+#vorlesung #netze 
 
 Folie: [[Vorlesung-06.pdf]]
 ## Behandelte Konzepte
