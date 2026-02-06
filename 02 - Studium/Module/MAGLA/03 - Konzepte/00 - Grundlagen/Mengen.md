@@ -24,7 +24,7 @@ Beschreibende Darstellung:
 ## 0.2 Leere Menge
 **Definition:**  
 Die **leere Menge** $\emptyset = \{\} := {x \mid x \neq x}$ enthält **keine Elemente**.  
-$∀x ∈ Universum U: x ∉ ∅
+$\forall x \in Universum \text{ } U: x \notin \emptyset$
 
 **Intuition:**  
 ∅ ist die Menge ohne Elemente – das „Nichts“.
