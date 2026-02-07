@@ -52,9 +52,21 @@
               "icon": "lucide-file-text",
               "title": "Folien_zur_Vorlesung"
             }
+          },
+          {
+            "id": "94e14f15943757be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 - Studium/Resourcen/Textbooks/dmbook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "dmbook"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,11 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99b5ee33ba7d1ad3",
+  "active": "94e14f15943757be",
   "lastOpenFiles": [
+    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
-    "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Abbildungen und Funktionen.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Aussagenlogik.md",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Beweistechniken.md",
