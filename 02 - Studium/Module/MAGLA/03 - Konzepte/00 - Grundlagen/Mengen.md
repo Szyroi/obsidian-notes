@@ -80,7 +80,7 @@ Zwei Mengen sind gleich, wenn sie **die gleichen Elemente enthalten**.
 ## 0.6 Vereinigungsmenge
 **Definition:**  
 $A ∪ B := {x ∈ U \mid x ∈ A \text{ oder } x ∈ B}$  
-Für Familie $A_{i}: \bigcup_{i = 1} ⋃_{i=1}^{n} A_{i} = A₁ ∪ A₂ ∪ ... ∪ Aₙ$
+Für Familie $A_{i}: \bigcup_{i = 1}^{n}{}A_{i} = A₁ ∪ A₂ ∪ ... ∪ Aₙ$
 
 **Beispiel:**  
 $A = {1,2}, B = {2,3} ⇒ A ∪ B = {1,2,3}$
