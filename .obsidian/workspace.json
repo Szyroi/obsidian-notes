@@ -59,10 +59,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "02 - Studium/Resourcen/Textbooks/dmbook.pdf"
+                "file": "02 - Studium/Resourcen/Textbooks/mcs.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "dmbook"
+              "title": "mcs"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "94e14f15943757be",
   "lastOpenFiles": [
+    "02 - Studium/Resourcen/Textbooks/dmbook.pdf",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
