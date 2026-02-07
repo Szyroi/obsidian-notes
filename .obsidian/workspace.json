@@ -52,21 +52,9 @@
               "icon": "lucide-file-text",
               "title": "Folien_zur_Vorlesung"
             }
-          },
-          {
-            "id": "94e14f15943757be",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 - Studium/Resourcen/Textbooks/mcs.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "mcs"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94e14f15943757be",
+  "active": "859b1add3c36026d",
   "lastOpenFiles": [
-    "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/Resourcen/Textbooks/mcs.pdf",
+    "02 - Studium/Module/MAGLA/00 - Materialien/Folien/Folien_zur_Vorlesung.pdf",
     "02 - Studium/Resourcen/Textbooks/dmbook.pdf",
     "02 - Studium/Module/MAGLA/03 - Konzepte/00 - Grundlagen/Mengen.md",
     "02 - Studium/Module/MAGLA/01 - Vorlesungen/Mathe/Grundlagen/Mengenlehre.md",
